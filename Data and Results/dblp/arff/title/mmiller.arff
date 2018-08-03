@@ -1,0 +1,416 @@
+@relation 'Dataset dblp title mmiller'
+@attribute Text string
+@attribute class-att {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12}
+@data
+'bring electron mail mass phase eudora',10
+'world wide web develop notr dame s easier ask forgiv permiss',10
+'manag mac made painless leverag right tool job',10
+'terascal visual approach pitfal issu panel',11
+'multiresolut adapt render techniqu structur curvilinear data',11
+'educ metadata us',12
+'cool link ride wave',12
+'integr sum number cocktail parti graph symmetr complet bipartit graph',1
+'survei certain valuat graph',1
+'monoton minimum diamet respect order maximum degre',1
+'complet characteris almost moor digraph degre three',1
+'antimag valuat gener petersen graph',1
+'usabl compromis free statist databas',1
+'digraph degre close moor bound',1
+'two conjectur concern d antimag label antipr',1
+'usabl k commpromis free statist databas',1
+'result almost moor digraph',1
+'open problem graph theori label extrem graph plenari address combinator prosid komperensi nasion matematika',1
+'spectrum prematur partial latin squar',1
+'sum number wheel',1
+'open problem exclus sum graph label',1
+'utilis secret share access medic databas',1
+'open problem mod sum graph',1
+'applic symmetr chain optim problem secur statist databas',1
+'toward practic audit method prevent statist databas compromis',1
+'us graph label store linkag relat databas',1
+'comparison industri site project univers site project final year student',1
+'edg magic total label',1
+'comparison industri site project univers site project final year student',1
+'usabl compromis free statist databas',1
+'characteris strongli chordal graph',1
+'vertex magic total label graph',1
+'komplexitat von eisenbahnrangierproblemen',1
+'vertex magic total label wheel relat graph',1
+'algorithm combinatori problem relat train marshal',1
+'note larg graph diamet two given maximum degre',1
+'nan',1
+'construct techniqu diregular non diregular larg direct network',1
+'digraph degre two miss moor bound two',1
+'distanc magic label graph',1
+'label wheel minimum sum number',1
+'almost moor digraph diregular',1
+'model statist databas compromis incorpor supplementari knowledg databas s',1
+'gener cliqu cover circular arc graph',1
+'larg digraph small diamet voltag assign approach',1
+'ramsei number tree versu wheel five six vertic',1
+'problem magic total label',1
+'construct network minimum diamet',1
+'prevent rel compromis us audit expert',1
+'structur digraph order close moor bound',1
+'secur consider present futur medic databas',1
+'note almost moor digraph degre three',1
+'secur consider present futur medic databas',1
+'open problem construct digraph minim diamet',1
+'secur issu medic databas',1
+'procedur construct minimum diamet digraph',1
+'open problem optim digraph',1
+'maximum h color subgraph problem balanc graph',1
+'regular digraph diamet maximum order',1
+'sum number disjoint union graph',1
+'parallel algorithm generalis cliqu transvers problem',1
+'extend graph model softwar visual',1
+'sum number cocktail parti graph',1
+'train marshal problem',1
+'iter eccentr digraph',1
+'transvers partit balanc hypergraph',1
+'australian healthcar smart card clever countri',1
+'transvers partit balanc hypergraph',1
+'mod sum number wheel',1
+'domin draw bipartit graph',1
+'two domin set minimum intersect chordal graph',1
+'data integr relat databas',1
+'null valu relat dbm databas s b srinivasan j zeleznikow ed',1
+'algorithm draw compound graph',1
+'eccentr digraph digraph',1
+'eccentr digraph',1
+'bound number isol sum graph label',1
+'data infer medic databas',1
+'domin draw bipartit graph',1
+'secur measur medic databas',1
+'prematur partial latin squar',1
+'australian healthcar smart card clever countri',1
+'rel compromis statist databas',1
+'combinatori problem databas secur',1
+'largest planar digraph diamet two',1
+'confidenti patient record data infer problem',1
+'survei d antimag graph label prosid komperensi nasion matematika itb bandung juli',1
+'null relat dbm',1
+'flatten antichain respect',1
+'two new d antimag label',1
+'multivalu approach relat dbm',1
+'graph matric usabl statist databas',1
+'toward practic audit method prevent statist databas compromis',1
+'enhanc domain integr relat databas',1
+'edg antimag graph',1
+'edg magic total label wheel fan friendship graph',1
+'intellig databas model',1
+'d antimag label plane graph',1
+'diregular digraph close moor bound prosid komperensi nasion matematika',1
+'propos toward data integr subsystem relat databas',1
+'valuat certain class convex polytop',1
+'algorithm draw compound graph',1
+'valuat plane quartic graph',1
+'minimum diamet diregular digraph degre',1
+'vertex magic total label gener petersen graph',1
+'combinatori problem data secur',1
+'vertex antimag total label graph',1
+'nan',1
+'everi gener petersen graph vertex magic total label',1
+'d magic label type prism',1
+'multivalu approach handl null rdb',1
+'d antimag label honeycomb',1
+'larg graph small diamet voltag assign approach',1
+'newcash anonym payment receipt',1
+'applic combinator secur statist databas',1
+'diregular digraph degre three order two less moor bound',1
+'optim problem statist databas',1
+'monoton minimum diamet respect order maximum degre',1
+'optimis problem statist databas secur',1
+'two conjectur concern vertex magic total label gener petersen graph',1
+'rang queri usabl statist databas',1
+'open problem sum integr sum graph label',1
+'note construct larg caylei graph given degre diamet voltag assign',1
+'sum graph label relat problem',1
+'introduct statist databas secur special issu',1
+'d edg antimag total label',1
+'direct graph closur properti languag',1
+'open problem secur statist databas',1
+'open problem secret share',1
+'gener domin chordal graph',1
+'prematur partial latin squar',1
+'connect graph mod sum graph',1
+'disjoint unfold domin graph',1
+'mod sum graph label hmn kn',1
+'gener domin chordal graph',1
+'mod sum number wheel',1
+'sum graph label upper bound relat problem',1
+'edg connect cage',1
+'generalis direct moor graph',1
+'vertex magic total label complet graph',1
+'magic antimag label wheel',1
+'d antimag label prism',1
+'d antimag label prism antipr',1
+'new construct magic antimag graph label',1
+'irregular total label',1
+'maximum order digraph diamet degre pullman graph matric',1
+'antimag face label convex polytop base biprism',1
+'distanc magic graph',1
+'antimag label generalis petersen graph plane',1
+'expert system secur statist databas',1
+'antimag label hexagon plane map',1
+'global shape model anatom structur',2
+'volumetr transform brain anatomi',2
+'individu neuroanatom atlas us massiv parallel comput',2
+'individu neuroanatom atlas us massiv parallel comput',2
+'method apparatu imag registr',2
+'individu anatom atlas head',2
+'mathemat signal model phase frequenc encod magnet reson imag data',2
+'automat analysi medic imag us deform textbook',2
+'mathemat textbook deform neuroanatomi',2
+'topolog properti smooth anatom map',2
+'evalu us siev produc estim radioact distribut algorithm positron emiss tomographi',2
+'accommod geometr thermodynam variabl forward look infrar sensor',2
+'altern maxim entropi likelihood function imag reconstruct spectrum estim',2
+'quadrat analysi inform measur object recognit',2
+'algorithm direct arriv estim narrowband signal nois',2
+'inform gain object recognit via sensor fusion',2
+'new method analysi electron microscop autoradiograph',2
+'new stochast model auditori nerv discharg',2
+'metric euler lagrang equat comput anatomi',2
+'applic likelihood entropi toeplitz constrain covari estim',2
+'inform measur object recognit',2
+'inform measur object recognit accommod signatur variabl',2
+'repres variat thermodynam state via princip compon analysi',2
+'hippocamp shape variat predict cognit declin nondement elder subject',2
+'represent voic pitch discharg pattern auditori nerv fiber',2
+'abnorm thalam shape schizophrenia',2
+'represent stop conson discharg pattern auditori nerv fiber',2
+'comparison hippocampu schizophrenia control subject us autom method neuromorphometri',2
+'strategi represent broadband stimuli discharg pattern auditori nerv fiber',2
+'comparison hippocampu schizophrenia control subject us autom method neuromorphometri',2
+'strategi represent tone background nois tempor aspect discharg pattern auditori nerv fiber',2
+'computer brain map method detail analys neuroanatom shape volum',2
+'larg deviat code markov chain gibb random field',2
+'statist method comput anatomi',2
+'hippocamp deform detect schizophrenia alzheim s diseas high dimension brain map',2
+'larg deviat asymptot ziv lempel code d gibb field',2
+'statist studi cochlear nerv discharg pattern respons complex speech stimuli',2
+'hippocamp deform schizophrenia character high dimension brain map',2
+'curv match brain surfac us frenet distanc',2
+'inform theori sensor fusion',2
+'landmark match brain surfac via larg deform diffeomorph sphere',2
+'applic maximum entropi maximum likelihood spectral estim',2
+'landmark match sphere via larg deform diffeomorph',2
+'role likelihood entropi incomplet data problem applic estim point process intens toeplitz constrain covari',2
+'accommod anatom variabl function imag via deform templat',2
+'automat target recognit organ via jump diffus algorithm',2
+'gaussian random field sub manifold character brain surfac',2
+'statist test label cortic depth map identifi dementia progress',2
+'gaussian convolut massiv parallel processor',2
+'hippocamp shape predict cognit declin elderli',2
+'hippocamp shape predict cognit declin elderli',2
+'hippocamp morphometri dementia alzheim type comput algorithm',2
+'hippocamp morphometri schizophrenia high dimension brain map',2
+'iter maximum likelihood estim toeplitz constrain covari',2
+'earli dat distinguish ag high dimension map hippocampu',2
+'detect bound automat target recognit compress domain',2
+'earli dat distinguish ag high dimension map hippocampu',2
+'likelihood base approach joint target track identif',2
+'variat problem flow diffeomorph imag match',2
+'sar atr perform us condition gaussian model',2
+'map visual cortex monkei human us surfac base atlas',2
+'high dimension map hippocampu depress',2
+'detect multipl airborn target multi sensor data',2
+'regular linear method reconstruct d microscop object optic section',2
+'exist posit definit maximum likelihood estim structur covari matric',2
+'segment magnet reson imag via hierarch mixtur modell',2
+'map hyperelast deform templat',2
+'comput anatomi brain',2
+'dynam program gener boundari local coordinat submanifold neocortex applic planum temporal',2
+'singular maximum likelihood estim structur covari matric',2
+'landmark match via larg deform diffeomorph sphere',2
+'comput anatomi emerg disciplin',2
+'comput anatomi emerg disciplin',2
+'valid cortic surfac analysi medial prefront cortex',2
+'deform anatom data base us global shape model posit paper electron imag human bodi',2
+'combin stochast syntact process analog comput method',2
+'hilbert schmidt lower bound estim matrix lie group atr',2
+'grammar bay prior hierarchi imag process massiv parallel processor',2
+'represent knowledg complex system discuss section',2
+'parallel algorithm maximum posterori estim spin densiti spin spin decai magnet reson imag',2
+'asymptot perform analysi bayesian object recognit',2
+'stochast model fast slow compon synapt recoveri post synapt action potenti gener',2
+'comparison autom manual segment hippocampu mr imag',2
+'stochast intens hodgkin huxlei base spike gener model',2
+'stochast intens neural spike discharg base activ channel dynam',2
+'function structur map human cerebr cortex solut surfac',2
+'stochast threshold character intens activ channel dynam action potenti gener',2
+'rate distort theoret codebook design automat object recognit',2
+'bayesian infer regular grammar markov sourc model',2
+'high dimension transform pet mri atla space',2
+'hippocamp mr imag morphometri mean gener pattern match',2
+'mri segment us high dimension transform digit atla',2
+'mr imag deform base segment hippocampu patient mesial tempor sclerosi tempor lobe epilepsi',2
+'constrain probabl densiti estim noisi data',2
+'mesial tempor sclerosi tempor lobe epilepsi mr imag deform base segment hippocampu five patient',2
+'case studi statist imag process positron emiss tomographi',2
+'automat target recognit us sequenc high resolut radar rang profil',2
+'nois edg artifact maximum likelihood reconstruct emiss tomographi',2
+'inform theoret bound target recognit perform base degrad imag data',2
+'random point process time space',2
+'inform theoret bound target recognit perform base degrad imag data',2
+'estim quantum limit condit',2
+'us grenand s siev quantum limit imag',2
+'perform bound atr base compress data',2
+'us maximum likelihood estim form imag diffus radar target delai doppler data',2
+'function structur map human cerebr cortex solut surfac',2
+'us siev stabil imag produc algorithm emiss tomographi',2
+'bayesian autom target recognit',2
+'hilbert schmidt lower bound estim matrix lie group atr',2
+'hierarch brain map via gener dirichlet solut map brain manifold',2
+'landmark match via larg deform diffeomorph',2
+'maximum posteriori estim good s rough optic section microsopi',2
+'differenti geometri cortic surfac',2
+'jump diffus markov process orthogon group object recognit',2
+'geometri shape brain sub manifold',2
+'jump diffus process matrix lie group bayesian infer',2
+'new method estim stimulu refractori relat function auditori nerv discharg',2
+'lie group parameter dynam base prior atr',2
+'dynam program gener curv brain surfac',2
+'multipl target direct arriv track',2
+'multi sensor fusion perform analysi atr',2
+'dynam program gener geodes sulci brain surfac',2
+'mont carlo techniqu autom target recognit',2
+'multispectr activ passiv sensor fusion ground base target orient estim',2
+'ergod algorithm special euclidean group atr',2
+'multispectr sensor fusion ground base target orient estim flir ladar hrr',2
+'ergod algorithm special euclidean group atr',2
+'maximum likelihood estim complex sinusoid toeplitz covari',2
+'simul result maximum likehood estim toeplitz constrain covari',2
+'comput geodes distanc anatomi',2
+'comput metric via geodes flow diffeomorph',2
+'comput anatomi comput metric anatom shape',2
+'metric comput anatomi imag analysi',2
+'enhanc tool manipul anatom imag step toward defer neurosci imag databas',2
+'automat target recognit via simul infrar scene',2
+'robust adapt transform coder kb s speech transmiss',2
+'estim pose locat ground target atr',2
+'clutter metric atr',2
+'bayesian model select minimum descript d length estim auditori nerv discharg rate',2
+'fisher inform transport gener clutter model',2
+'constrain stochast languag model',2
+'empir gener metric space atr clutter',2
+'paramet estim constrain context free languag model',2
+'patient specif deform brain atla account structur variabl individu patient',2
+'bayesian construct geometr base cortic thick metric',2
+'condit mean estim via jump diffus process multipl target track recognit',2
+'d maximum posteriori estim spect massiv parallel comput',2
+'group action homeomorph match gener framework',2
+'label cortic mantl distnac map quantifi differ dementia alzheim type healthi ag',2
+'bayesian segment via asymptot partit function',2
+'effici estim thermodynam state incorpor bayesian model order select',2
+'gener metropoli hast jump diffus automat target recognit infrar scene',2
+'jump diffus process autom understand flir scene',2
+'model data structur registr brain atla multidiment imag',2
+'kullback liebler distanc quantifi clutter model',2
+'chang hippocamp shape across time distingui dementia alzheim type healthi ag',2
+'implement jump diffus algorithm understand flir scene',2
+'construct statist templat cross modal map',2
+'valid high dimension transform hippocampu',2
+'extens good s rough maximum penal likelihood estim emiss tomographi',2
+'larg deform imag match via imageri',2
+'represent shape structur infer infrar scene',2
+'progress hippocamp atrophi distinguish dat healthi ag',2
+'represent thermodynam variabl autom understand flir scene',2
+'stochast model synapt transmiss auditori nerv discharg part',2
+'unif detect track recognit millimet wave infrar sensor',2
+'stochast model synapt transmiss auditori nerv discharg part',2
+'statist analysi hippocamp asymmetri schizophrenia',2
+'statist analysi hippocamp asymmetri schizophrenia',2
+'determin ideal pallidotomi target incorpor intraop physiolog record deform patient specif brain atla',2
+'maximum posteriori estim spect us regular techniqu massiv parallel comput',2
+'massiv parallel comput d singl photon emiss comput tomographi',2
+'asymptot perform atr infrar imag',2
+'parallel algorithm maximum likelihood nuclear magnet reson spectroscopi',2
+'algorithm remov recoveri relat distort auditori nerv discharg pattern',2
+'d brain map us deform neuroanatomi',2
+'larg deform fluid diffeomorph landmark imag match',2
+'d deform magnet reson textbook base elast',2
+'membran mitochondria amoeba dimension shape model',2
+'deform neuroanatomi textbook base viscou fluid mechan',2
+'maximum likelihood method toeplitz covari estim radar imag',2
+'deform anatom templat brachytherapi treatment plan radiotherapi cervic cancer',2
+'maximum likelihood narrow band direct find algorithm',2
+'deform templat us larg deform kinemat',2
+'maximum likelihood reconstruct singl photon emiss comput tomographi',2
+'maximum likelihood estim direct arriv multipl narrowband signal nois',2
+'maximum likelihood estim nuclear magnet reson spectroscopi',2
+'maximum likelihood estim algorithm d nmr spectroscopi',2
+'maximum likelihood estim appli electron microscop autoradiographi',2
+'heart failur knowledgebas combin experiment data tool integr biolog model',2
+'group action homeomorph match gener framework',2
+'clutter occlus perform analysi target detect',2
+'clutter model perform analysi automat target recognit',2
+'bet briberi bankruptci simul economi learn predict',3
+'object concurr logic program languag',3
+'vulcan logic concurr object',3
+'languag design open system',3
+'compar ecolog comput perspect',3
+'capabl base financi instrument',3
+'capabl myth demolish',3
+'logic secret',3
+'learn curv',3
+'market comput agor open system',3
+'channel gener stream',3
+'object concurr logic program languag',3
+'definit group make sourc first class object',3
+'vulcan logic concurr object',3
+'logic secret',3
+'incent engin comput resourc manag',3
+'definit group make sourc first class object',3
+'capabl base financi instrument',3
+'interm unifi keyword posit notat',3
+'introduct agor comput',3
+'autom auction atm network bandwidth',3
+'paradigm regain abstract mechan access control',3
+'architectur issu agor open system',3
+'real time video deliveri market base resourc alloc',3
+'digit path smart contract third world',3
+'channel gener stream',3
+'joul distribut applic foundat',3
+'open societi media',3
+'institut abstract boundari negoti categori self reorgan market order',3
+'auditor extens dynam code verif mechan',3
+'knowledg base approach design intellig team train system',4
+'train team collabor agent',4
+'formal semant commun strategi proactiv inform deliveri among team base agent',4
+'tactic event resolut us softwar agent crisp rule genet algorithm',4
+'train teamwork',4
+'train team collabor agent',4
+'collabor agent c teamwork simul',4
+'cast collabor agent simul teamwork',4
+'human agent teamwork distribut team train',4
+'cast collabor agent simul teamwork',4
+'knowledg base approach design intellig team train system',4
+'inform embed exploit imag detector inform watermark insert',5
+'inform embed multi bit watermark',5
+'target test pichunt bayesian multimedia retriev system',5
+'optim interact strategi bayesian relev feedback',5
+'comput probabl fals watermark detect',5
+'flog system select quasi flexibl ligand complementari receptor known three dimension structur',6
+'flexibas wai enhanc us molecular dock method',6
+'comparison knowledg base distanc geometri approach gener molecular conform',6
+'method visual recurr topolog substructur set activ molecul',6
+'chemic similar us geometr atom pair descriptor',6
+'user guid netsolv',7
+'applic specif toolkit',7
+'virtual instrument support grid enabl scientif simul',7
+'comput steer scirun integr problem solv environ',7
+'simul steer scirun distribut environ',7
+'simul steer scirun distribut environ',7
+'scirun problem solv environ implement within distribut environ',7
+'grid enabl problem solv environ case studi scirun netsolv',7
+'simul steer scirun distribut environ',7
+'simul steer scirun distribut environ',7
+'integr problem solv environ scirun comput steer system',7
+'us artifici anomali detect unknown known network intrus',8
+'toward cost sensit model intrus detect respons',8
+'multipl model cost sensit approach intrus detect',8
+'context shift clash dialogu activ logic perspect',9
+'autom infer activ logic',9
+'plan meet deadlin now',9

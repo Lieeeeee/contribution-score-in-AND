@@ -1,0 +1,24 @@
+@relation 'Dataset bdbcomp publish-venue rsantos'
+@attribute Text string
+@attribute class-att {174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190}
+@data
+'rede computador',174
+'rede computador',175
+'computacao grafica processamento imagen',176
+'rede computador',177
+'symposium microelectron technolog devic',178
+'symposium microelectron technolog devic',178
+'inteligencia artifici',179
+'bioinformatica',180
+'qualidad softwar',181
+'rede neurai',182
+'banco dado',183
+'journal comput scienc',184
+'biblioteca digitai',185
+'xxxii seminario integrado softwar hardwar',186
+'geoinformatica',187
+'banco dado',188
+'banco dado',188
+'informatica publica',189
+'tempo real',190
+'banco dado',190

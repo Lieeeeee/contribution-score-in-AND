@@ -1,0 +1,38 @@
+@relation 'Dataset bdbcomp co-authors jsouza'
+@attribute Text string
+@attribute class-att {128, 129, 130, 131, 132, 133, 134, 135, 136, 125, 126, 127}
+@data
+'w albano w araujo f cavalcanti r andrade',125
+'j silva m campos p cunha',125
+'a diniz m oliveira j nogueira',125
+'c rocha a braga',125
+'d gomes n agolmine n fonseca',125
+'j monteiro',125
+'a oliveira m stanton',125
+'nan',126
+'s amo f silva m fernandes',127
+'i silva r moura b ribeiro neto',128
+'i silva k santos',128
+'m moreira i silva',128
+'g zimbrao r monteiro l azevedo',129
+'g zimbrao r miranda m estolano f neto',129
+'l azevedo r monteiro g zimbrao',129
+'g zimbrao v almeida',129
+'l azevedo g zimbrao',129
+'g silva v almeida a sulaiman f neto',129
+'g zimbrao r miranda f neto',129
+'m ramirez',129
+'w meyer m ramirez',129
+'w meyer m ramirez',129
+'r rocha l cardoso',129
+'m campos',130
+'m barbosa t ludermir m santos f santos c melo',131
+'g silva',132
+'a reboucas a furtado e argollo e luque d rexachs',133
+'r cuattrin',134
+'e meza m filho m schilling j carvalho',135
+'e battistella n lemke j mombach',136
+'a patel b bhushan',125
+'r correia a lages l pirmez l granville e duarte jr r andrade',125
+'f martins m maia r andrade a santos',125
+'r holanda a santos',125

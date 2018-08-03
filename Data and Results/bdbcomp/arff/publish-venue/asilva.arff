@@ -1,0 +1,68 @@
+@relation 'Dataset bdbcomp publish-venue asilva'
+@attribute Text string
+@attribute class-att {21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58}
+@data
+'rede computador',54
+'rede computador',54
+'journal brazilian comput societi',55
+'inteligencia artifici',56
+'banco dado',57
+'symposium integr circuit system design',58
+'rede computador',21
+'rede computador',21
+'computacao grafica processamento imagen',22
+'computacao grafica processamento imagen',23
+'banco dado',24
+'banco dado',24
+'intern inform integr web',24
+'intern inform integr web',24
+'geoinformatica',24
+'seminario integrado softwar hardwar',24
+'banco dado',24
+'banco dado',24
+'banco dado',24
+'banco dado',24
+'banco dado',24
+'xxxi seminario integrado softwar hardwar',24
+'banco dado',24
+'informatica educacao',25
+'informatica educacao',25
+'informatica educacao',25
+'informatica educacao',25
+'informatica educacao',26
+'computacao grafica processamento imagen',26
+'computacao grafica processamento imagen',26
+'computacao grafica processamento imagen',26
+'rede computador',27
+'informatica educacao',28
+'symposium microelectron technolog devic',29
+'symposium microelectron technolog devic',29
+'computacao grafica processamento imagen',30
+'computacao grafica processamento imagen',31
+'computacao grafica processamento imagen',32
+'geoinformatica',33
+'informatica educacao',34
+'inteligencia artifici',35
+'encontro nacion inteligencia artifici',36
+'engenharia requisito',36
+'xxx seminario integrado softwar hardwar',37
+'desempenho sistema computacionai comunicacao',38
+'rede computador',38
+'rede neurai',39
+'rede neurai',40
+'journal comput scienc',41
+'fator humano sistema computacionai',42
+'fator humano sistema computacionai',43
+'linguagen programacao',44
+'linguagen programacao',44
+'journal comput scienc',45
+'journal brazilian comput societi',46
+'rede computador',46
+'xxxii seminario integrado softwar hardwar',47
+'geoinformatica',48
+'geoinformatica',48
+'rede computador',49
+'informatica publica',50
+'informatica publica',51
+'gerencia operacao rede servico',52
+'journal comput scienc',53

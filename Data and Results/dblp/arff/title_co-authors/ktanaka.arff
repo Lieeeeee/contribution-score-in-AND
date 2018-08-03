@@ -1,0 +1,284 @@
+@relation 'Dataset dblp title_co-authors ktanaka'
+@attribute Text string
+@attribute class-att {212, 213, 214, 215, 216, 217, 218, 219, 220, 221}
+@data
+'ubiquit servic orient network uson approach ubiquit world p p technolog e shinohara h matsumura h sunaga m takemoto',212
+'multimedia commun network architectur model high speed network c hong s honda t yoneda y matsushita',212
+'access control author cg multipl detail level k yoda k tajima',213
+'behavior analysi object orient databas method structur execut tree reachabl extend abstract m yoshikawa r hull',213
+'schema design view incomplet inform object orient databas m yoshikawa k ishihara',213
+'special issu nd web inform engin confer wise h schek m ozsu y zhang',213
+'behavior analysi object orient databas method structur execut tree reachabl extend abstract r hull m yoshikawa',213
+'design problem unnorm relat util semant constraint relat databas japanes y kambayashi k takeda s yajima',213
+'interfer problem between relat queri depend constraint japanes y kambayashi',213
+'problem relat databas design lectur note comput scienc y kambayashi s yajima',213
+'properti embed multivalu depend relat databas y kambayashi s yajima',213
+'represent relat databas output util depend y kambayashi k takeda s yajima',213
+'us abstract characterist relat databas y kambayashi s yajima',213
+'semant aspect depend their applic relat databas design y kambayashi s yajima',213
+'synthesi unnormal relat incorpor more mean y kambayashi k takeda',213
+'infolod landmark spatial present attribut inform comput repres object spatial h kawagishi k koiso t matsumoto t mori',213
+'design implement orient medicin expert japanes s kitamura',213
+'tree structur organ consecut retriev properti base file organ nan',213
+'visibl control orient medicin expert s kitamura s tsuji',213
+'dood deduct object orient databas s ceri d tsur',213
+'obas object databas model toward more flexibl object orient databas s nishio',213
+'continu object model multi media databas japanes e oomoto',213
+'design implement visual queri languag histor databas e oomoto',213
+'historychart visual queri languag histor databas e oomoto',213
+'propag view instanc inherit mechan parial order relationship object orient databas japanes e oomoto',213
+'navig instanc object databas dynam inherit capabl s pradhan t jozen',213
+'abstract inherit hyperlink object orient hypertext databas textlink gem q qiang m tanizaki',213
+'ad method relat databas construct n sanada',213
+'cost model copyright manag d digit content multilevel complex object y sugiyama y kidawara',213
+'tempor link mechan hypermedia broadcast k sumiya r noda',213
+'cut as queri unit www netnew e mail k tajima m kitagawa y mizuuchi',213
+'object orient comput i japanes s nishio k kagakusha',213
+'fundament concept object orient databas japanes nan',213
+'histor databas model tupl sequenc it integr constraint japanes nan',213
+'integr hypermedia object orient databas technolog japanes nan',213
+'store manipul multimedia databas object postscript relat databas nan',213
+'foundat organ s ghosh y kambayashi',213
+'toward integr environ edit view publish multimedia databas object nan',213
+'tutori object orient databas nan',213
+'bibliograph inform process facil relat databas ari s yajima y kambayashi',213
+'advanc applic futur research issu oodb nan',213
+'comput tupl sequenc object histori s ginsburg',213
+'relat languag simplifi binari relat handl capabl s yajima y kambayashi',213
+'schema virtual object orient databas m yoshikawa k ishihara',213
+'toward abstract complex databas object gener reduct unif set type object extend abstract m yoshikawa',213
+'imag retriev web context fill gap between imag keyword usag keyword k zettsu y kidawara',213
+'semant structur video index k zettsu k uehara',213
+'time stamp author graph video databas k zettsu k uehara n kimura',213
+'comput tupl sequenc object histori extend abstract s ginsburg',213
+'interv queri object histori s ginsburg',213
+'interv queri object histori extend abstract s ginsburg',213
+'next gener databas manag technolog panel c harris e saberdoti f bancilhon m kifer m brodie y masunaga',213
+'advanc process environ manag continu semistructur featur multimedia content k harumoto k tajima m tsukamoto m arikawa s shimojo s nishio y ariki',213
+'interact classif web document self organ map search engin k hatano r sano y duan',213
+'som inform organ text video k hatano q qian',213
+'queri multipl perspect video camera metaphor t hirose t hata y nakanishi',213
+'tree structur organ consecut retriev properti nan',213
+'model structur multipl perspect video brows t hirose y nakanishi',213
+'skim multipl perspect video tempo spatial import measur t hirose t hata',213
+'schema virtual object orient databas k ishihara m yoshikawa',213
+'logic integr local independ relat databas distribut databas y kambayashi',213
+'organ quasi consecut retriev file y kambayashi s yajima',213
+'tea time museum croquet as brows search environ digit librari nan',213
+'relat languag simplifi binari relat handl capabl y kambayashi s yajima',213
+'test join depend preserv modifi chase method y kambayashi',213
+'dynam zone retriev landmark comput spatial h kawagishi k koiso',213
+'infolod landmark brows retriev spatial h kawagishi k koiso t matsumoto',213
+'navig depend web view defin control semant unit web page h kiyomitsu',213
+'uncertainti manag object orient databas s kobayashi t sakanoue',213
+'dynam gener virtual space increment queri formul spatial brows k koiso k kawakatsu t mori',213
+'spatial present aggreg georeferenc k koiso t matsumoto',213
+'discoveri semant relationship among web page web topic structur h kondo t matsukura y hirata',213
+'local filter search web page c matsumoto m qiang',213
+'web inform retriev local degre c matsumoto m qiang',213
+'back tv inform visual interfac tv program metaphor a nadamoto h kondo k sumiya m kusahara t hattori',213
+'compar web browser cwb brows compar web page a nadamoto',213
+'mwm retriev automat present manual mobil termin a nadamoto k sumiya m shikata',213
+'webcarrousel restructur web search result passiv view mobil environ a nadamoto h kondo',213
+'webcarousel automat present semant restructur web search result mobil environ a nadamoto h kondo',213
+'associ present metadata digit archiv object virtual space as synchron multimedia content a nadamoto k koiso',213
+'tv program gener digest video scene script markup languag a nadamoto a iizawa k sumiya t hattori t hashimoto y shirota',213
+'queri pair as hypertext link k nanba n nishikawa s hirayama',213
+'queri pair as hypertext link n nishikawa s hirayama k nanba',213
+'historychart visual languag histor databas e ohmoto',213
+'increment organ ancient document databas h oiso j morishita k ohtsuki q qian s ueshima',213
+'altern object object orient databas t chang',213
+'spatial view lod access control vrml object databas h oiso k tajima m kamiura',213
+'ovid design implement video object databas e oomoto',213
+'video databas recent trend research develop activ e oomoto',213
+'two level schemata gener link hypertext databas model q qian',213
+'natur join object orient databas t chang',213
+'webscan discov notifi import chang web site m qiang s miyazaki',213
+'dynam theori incent multi agent y shoham',213
+'context depend web bookmark their usag as queri k sumiya s oyama s nakajima',213
+'hypermedia broadcast tempor link k sumiya r noda',213
+'algebra retriev fragmentarili index video k tajima s pradhan t sogo',213
+'queri model retriev relev interv within video stream k tajima s pradhan',213
+'scoopcast dynam video product deliveri from index live video stream a doi k sumiya k uehara t kawaguchi',213
+'queri model synthes answer interv from index video unit k tajima s pradhan',213
+'new algebra approach retriev meaning video interv from fragmentarili index video shot k tajima s pradhan t sogo',213
+'new techniqu discoveri logic document web k tajima',213
+'util prototyp object powerdomain support public author video databas k tajima s pradhan',213
+'web reconfigur spatio tempor page person rule access a takeuchi h kiyomitsu',213
+'encapsul multimedia content copyright protect mechan distribut object k uehara y kidawara',213
+'file organ suitabl relat databas oper c viet s yajima y kambayashi',213
+'file organ suitabl relat databas oper c viet y kambayashi s yajima',213
+'similar retriev human motion as multi stream time seri t yabe',213
+'queri video spatio tempor relationship move object trace c yajima y nakanishi',213
+'problem relat databas design s yajima y kambayashi',213
+'organ quasi consecut retriev file s yajima y kambayashi',213
+'access control model object orient k izaki m takizawa',214
+'protocol pseudo activ replic wide area network h higaki m takizawa',214
+'checkpoint distribut object h higaki m takizawa',214
+'quorum protocol group commun h higaki m takizawa',214
+'qualiti lock mode multimedia object h higaki m takizawa m katsumoto',214
+'quorum lock protocol replica object m takizawa',214
+'asynchron checkpoint protocol object m takizawa',214
+'group protocol object m takizawa y timura',214
+'pseudo activ replic protocol reliabl replica group h higaki m takizawa n nemoto',214
+'group protocol exchang multimedia object group k shimamura m takizawa',214
+'group commun protocol object m takizawa y timura',214
+'quorum replic object m takizawa',214
+'inform flow control role model distribut object k izaki m takizawa',214
+'checkpoint protocol object m takizawa',214
+'optim nest invoc replica object m takizawa',214
+'distribut checkpoint influenti messag m takizawa',214
+'group protocol quorum replic k arai m takizawa',214
+'qo method compens multimedia object m takizawa m yokoyama',214
+'causal preced relat among messag object m takizawa y timura',214
+'reliabl nest invoc method distribut object m takizawa',214
+'pseudo activ replic distribut object wide area network h higaki m takizawa',214
+'quorum lock protocol replic object h higaki m takizawa',214
+'protocol pseudo activ replic wide area network h higaki m takizawa',214
+'qualiti synchron method multimedia object m takizawa n nemoto',214
+'inform flow control among object role access control model k izaki m takizawa',214
+'object order deliveri messag object h higaki m takizawa',214
+'protocol take object checkpoint m takizawa',214
+'quorum lock protocol nest invoc method m takizawa',214
+'qualiti synchron method multimedia object m takizawa n nemoto',214
+'signific checkpoint distribut h higaki m takizawa',214
+'remot rapid manufactur action media as advanc user interfac m mitsuishi t nagao y yokokohji',214
+'qo method compens multimedia object m takizawa m yokoyama',214
+'author model object orient concept k izaki m takizawa',214
+'replica manag object m takizawa',214
+'group protocol deliv request replica k arai m takizawa',214
+'object causal order group protocol distribut multimedia k shimamura m takizawa',214
+'causal messag object m takizawa y timura',214
+'properti fuzzi set type m mizumoto',215
+'fuzzi set their oper m mizumoto',215
+'relat graph properti them j toyoda t tsuji',215
+'variou kind automata weight j toyoda m mizumoto',215
+'implement fuzzi set theoret structur abstract m mizumoto m umano',215
+'consider fuzzi automata j toyoda m mizumoto',215
+'interact languag j toyoda m mizumoto y ezawa',215
+'weak axiom determinaci subsystem analysi ii sigma game nan',216
+'formal model theoret proof godel s theorem m kikuchi',216
+'diagrammat techniqu two dimension is model iii is model vertex model t morita',216
+'determin paramet imag recoveri statist mechan mean t morita',216
+'gener heisenberg model spin s greater than equival those spin t morita',216
+'gener heisenberg model spin s greater than equival that spin t morita',216
+'gener t j model gener half odd integr spin s t morita',216
+'lattic model flux line t morita',216
+'on dimens binari mixtur hard rod non addit distanc contact t morita k hiroike',216
+'numer studi d annni model cluster variat method y murai t morita',216
+'coher anomali analysi cluster variat method spin pair correl function is model t horiguchi t morita',216
+'coher anomali analysi cluster variat method two dimension is model nearest neighbor next nearest neighbor interact t horiguchi t morita',216
+'color imag compress algorithm self organ featur map interdisciplinari n hoshi t horiguchi',216
+'cluster variat method two dimension hubbard t j model physica c pt h ebisawa t morita',216
+'cluster variat method imag restor problem t morita',216
+'coupl markov random field model phase as line field region field d furusato t horiguchi',216
+'correl random field is model imag restor problem t morita',216
+'correl function on dimension lattic ga nearest neighbor next nearest neighbor interact t morita k hiroike',216
+'self embed theorem wkl non standard method nan',216
+'correl function on dimension lattic ga interact up third nearest neighbor t morita k hiroike',216
+'critic indic two dimension is model nearest neighbor next nearest neighbor interact t horiguchi t morita',216
+'critic indic two dimension is model nearest neighbor next nearest neighbor interact ii strip cluster approxim t horiguchi t morita',216
+'free energi layer free fermion model t morita',216
+'quantum statist mechan iter method imag restor t horiguchi',216
+'loopi belief propag probabilist imag process j inoue d titterington',216
+'imag restor compound gauss markov random field model quantum line field nan',216
+'maximum likelihood hyperparamet estim solvabl markov random field model imag restor j inoue',216
+'maximum margin likelihood estim constrain optim imag restor nan',216
+'maximum posterior margin estim statist method imag restor nan',216
+'critic behavior frustrat spin is model y honda t horiguchi',216
+'applic cluster variat method imag restor problem t morita',216
+'applic cluster variat method three dimension t j model y takane h ebisawa t morita',216
+'applic culster variat method three dimension t j model ii t morita',216
+'approxim optim algorithm markov random field model statist mechan techniqu nan',216
+'probabilist comput method imag restor statist mechan texhniqu nan',216
+'probabilist imag process mean beth approxim q is model j inoue d titterington',216
+'probabilist infer mean cluster variat method linear respons theori nan',216
+'probabilist iter quantum iter comput method grai level imag restrat t horiguchi',216
+'solvabl markov random field model color imag restor t horiguchi',216
+'spin pair correl function is model brickwork lattic second neighbor interact t morita k hiroike',216
+'coher anomali method wave number depend suscept t horiguchi t morita',216
+'staistic mechan iter algorithm mean cluster variat method compound gauss markov random field model nan',216
+'statist mechan algorithm mrf model variat principl m ichioka t morita',216
+'statist mechan studi imag restor markov random field model t morita',216
+'statist mechan iter algorithm imag restor grai level imag t morita',216
+'statist mechan iter method imag restor m ichioka t morita',216
+'asymptot behavior spin pair correl function is model checkerboard lattic t morita',216
+'asymptot behavior spin pair correl function is model gener kagom lattic t morita',216
+'asymptot behavior modifi block toeplitz determin t morita',216
+'asymptot form block toeplitz determin t morita',216
+'three dimension t j model cluster variat method physica b y takane h ebisawa t morita',216
+'low temperatur behavior antiferromagnet is model triangular lattic t horiguchi t morita',216
+'theoret studi hyperparamet estim maxim margin likelihood imag restor mean cluster variat method nan',216
+'automat hyperparamet estim probabilist imag restor algorithm gibb microcanon distribut nan',216
+'non standard construct haar measur weak konig s lemma t yamazaki',216
+'dynam properti imag restor hyper paramet estim neural network signal process xi j inoue',216
+'dynam maximum likelihood hyper paramet estim imag restor gradient descent versu expect maxim algorithm j inoue',216
+'mean field theori em algorithm bayesian grai scale imag restor j inoue',216
+'cluster ztp recoveri imag t morita',216
+'non standard analysi wklo nan',216
+'fix point theori weak second order arithmet n shioji',216
+'conserv result week konig s lemma s simpson t yamazaki',216
+'quantum bit commit small storag quantum on wai permut nan',217
+'complex negat limit boolean network symposium theori comput page montreal quebec canada mai t nishino',217
+'negat limit circuit complex cliqu function t nishino',217
+'relationship between number negat circuit size t nishino',217
+'minim total complet time flow shop idl constraint m okada m vlach',217
+'densiti attack knapsack cryptosystem enum sourc encod k omura',217
+'limit negat bound depth circuit extens markov s theorem s sung',217
+'lower bound negat limit invert s sung',217
+'singl machin schedul posit due releas date m vlach',217
+'minim maximum absolut late rang late gener due date singl machin m vlach',217
+'minim rang late singl machin gener due date m vlach',217
+'improv algorithm singl machin schedul fuzzi due date m vlach',217
+'singl machin schedul fuzzi due date m vlach',217
+'singl machin schedul gener due date m vlach',217
+'singl machin schedul posit due date posit releas time m vlach',217
+'singl machin schedul minim maximum late both specif gener due date m vlach',217
+'singl machin schedul minim maximum late both specif gener due date m vlach',217
+'rsa famili trap door permut common domain it applic r hayashi t tatsuaki',217
+'effici anonym group identif scheme human memoriz secret kei t isshiki',217
+'effici anonym group identif scheme short secret kei t isshiki',217
+'negat limit circuit complex symmetr function t nishino r beals',217
+'complex negat limit boolean network t nishino',217
+'quantum public kei cryptosystem t okamoto s uchiyama',217
+'quantum public kei cryptosystem t okamoto s uchiyama',217
+'exponenti gap remov on negat gate s sung',217
+'more complex negat limit circuit r beals t nishino',217
+'exponenti gap remov on negat gate s sung',217
+'quantum public kei cryptosystem s uchiyama t okamoto',217
+'negat limit circuit complex symmetr function r beals t nishino',217
+'complex negat limit boolean network r beals t nishino',217
+'approxim special case common subtre edit distanc m halldorsson',217
+'approxim special case common subtre edit distanc m halldorsson',217
+'acceler imag halfton techniqu improv genet algorithm e aguirre t sugimura',218
+'video steganographi how secretli emb d signatur pictur e matsui',218
+'hide via steganograph ic imag transform e takano t sugimura',218
+'hide fractal imag gener via fourier filter method e takano t sugimura',218
+'color wat ermark color vision model e tanigaki t sugimura s kondo',218
+'multi level imag halftoni ng techniqu genet algorithm e umemura h aguirre',218
+'imag encrypt scheme truncat b aker transform e yano',218
+'genet algorithm nk landscap effec ts select drift mutat recombin e aguirre',218
+'empir model coopera tive competit genet oper improv ga perform investig multipl knapsack problem e aguirre t sugimura',218
+'perform studi di stribut genet algorithm parallel cooper competit genet oper e aguirre s oshita',218
+'simultan eou halfton imag gener improv multiobject genet algorithm e aguirre t sugimura s oshita',218
+'genet algorithm nk landscap effect select drift mutat recombin h aguirre',218
+'halfton imag gener improv multiobject genet algorithm h aguirre s oshita t sugimura',218
+'parallel vari mutat determinist self adapt ga h aguirre',218
+'web page color modif barrier free color vision genet algorithm k ichikawa k fukami k hiroshima m ichikawa s kondo s tanabe',218
+'improv imag halfton techniqu ga concurr inter block evalu e myodo h aguirre',218
+'halfton imag gener improv multiobject genet algorithm e aguirre t sugimura s oshita',218
+'parallel vari mutat determinist self adapt ga e aguirre',218
+'cooper crossov mutat oper genet algorithm h aguirre t sugimura',218
+'measur fragment mri relic restor virtual realiti technolog a yokota h taki n abe y watanabe y kinoshita',219
+'multipl visual featur identif integr d recoveri rotat object j zheng n abe t ohtsuka',219
+'understand mechan assembl instruct manual integr vision languag process simul h taki n abe',219
+'surfac model gener relic from slice imag approach automat restor a yokota h taki n abe y watanabe y kinoshita',219
+'understand mechan assembl instruct manual virtual space h taki n abe',219
+'conveni notat organ structur basi connect stack h abe m sasaki s sasaki t yamasaki y kudo',220
+'memori learner model it applic game coach k kubota',220
+'advanc fuzzi control trailer type mobil robot stabil analysi model fuzzi control nan',220
+'dual design problem via multipl lyapunov function h wang t hori',220
+'dynam parallel distribut compens takagi sugeno fuzzi lmi approach d niemann h wang j li',220
+'provid visual rich resiz imag user interfac compon s hudson',221
+'link messag from real paper paper pda j heiner s hudson',221
+'inform percol ambient inform displai decor object j heiner s hudson',221

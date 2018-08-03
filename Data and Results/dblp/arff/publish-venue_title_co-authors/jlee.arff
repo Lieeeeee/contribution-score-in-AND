@@ -1,0 +1,1423 @@
+@relation 'Dataset dblp publish-venue_title_co-authors jlee'
+@attribute Text string
+@attribute class-att {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100}
+@data
+'vl visual languag visual translat nativ languag sign languag tosiyasu l kunii',100
+'icchp intern confer comput handicap person notat represent sign languag structur descript hand configur nan',100
+'th annual intern symposium comput architectur isca intern symposium comput architectur memori side correl prefetch us gener purpos core memori yan solihin josep torrellas',10
+'proceed multithread execut architectur compil mteac prefetch intellig memori architectur us helper thread yan solihin josep torrellas',10
+'extend version ieee transact comput special issu advanc high perform memori system automat code map intellig memori architectur yan solihin josep torrellas',10
+'ieee tran parallel distrib syst correl prefetch user level memori thread josep torrellas yan solihin',10
+'intellig memori system adapt map code intellig memori architectur josep torrellas yan solihin',10
+'ieee tran comput automat code map intellig memori architectur josep torrellas yan solihin',10
+'hpca intern symposium high perform comput architectur automat map code intellig memori architectur josep torrellas yan solihin',10
+'ispan pensiev project compil infrastructur memori model chi leung wong david a padua samuel p midkiff xing fang zehra sura',10
+'tapsoft step stanford tempor prover anca browne arjun kapur edward y chang harish devarajan henny sipma luca de alfaro michael col oacute n nikolaj bj oslash rner tom aacute s e uribe zohar manna',10
+'extend version acm transact program languag system basic compil algorithm explicitli parallel program david a padua samuel p midkiff',10
+'proceed th acm sigplan special interest group program languag symposium principl practic parallel program ppopp basic compil algorithm parallel program david a padua samuel p midkiff',10
+'proceed th intern symposium high perform comput architectur hpca intern symposium high perform comput architectur automat map code intellig memori architectur yan solihin josep torrellas',10
+'ph d thesi technic report uiucdc r depart comput scienc univers compil techniqu explicitli parallel program nan',10
+'th compil parallel comput cpc compil multipl memori model samuel p midkiff david a padua',10
+'proceed th intern languag compil parallel comput lcpc languag compil parallel comput lectur note comput scienc springer twin citi concurr static singl assign form constant propag explicitli parallel program samuel p midkiff david a padua',10
+'ppopp principl practic parallel program basic compil algorithm parallel program david a padua samuel p midkiff',10
+'intern journal parallel program constant propag algorithm explicitli parallel program samuel p midkiff david a padua',10
+'lcpc languag compil parallel comput concurr static singl assign form constant propag explicitli parallel program david a padua samuel p midkiff',10
+'extend version ieee transact comput special issu parallel architectur compil techniqu hide relax memori consist compil david a padua',10
+'intern journal parallel program constant propag algorithm explicitli parallel program david a padua samuel p midkiff',10
+'technic report msu cse present oopsla confer object orient program system languag applic revis java thread specif depart comput scienc engin state univers hide java memori model compil nan',10
+'ieee pact parallel comput technolog hide relax memori consist compil david a padua',10
+'proceed hpca intern symposium high perform comput architectur interact compil comput architectur san antonio parallel static singl assign form constant propag explicitli parallel program david a padua',10
+'ieee tran comput hide relax memori consist compil david a padua',10
+'ieee comput parallel program polari david a padua jay hoeflinger john grout lawrence rauchwerger peng tu ramon doallo rudolf eigenmann thomas lawrence william blume william m pottenger yunheung paek',10
+'icpp intern confer parallel process restructur program high speed comput polari david a padua jay hoeflinger john grout keith faigin lawrence rauchwerger paul petersen peng tu rudolf eigenmann stephen weatherford thomas lawrence william blume william m pottenger yunheung paek',10
+'proceed intellig memori system adapt map code intellig memori architectur yan solihin josep torrellas',10
+'prima intern multi agent desiderata agent architectur coordin multi agent system nan',11
+'atal agent theori architectur languag reactiv system approach agent architectur nan',11
+'barr p cohen feigenbaum weslei cooper distribut problem solv edmund h durfee victor r lesser daniel d corkill',11
+'s shapiro ed encyclopedia artifici intellig second edit wilei distribut problem solv edmund h durfee victor r lesser daniel d corkill',11
+'proceed thirteenth intern distribut artifici intellig page distribut problem solv multi agent system comparison exampl edmund h durfee jeffrey s rosenschein',11
+'aaai nation confer artifici intellig overeag reciproc ration mix strategi equilibria edmund h durfee piotr j gmytrasiewicz',11
+'prima intern multi agent hierarchi multi agent organ text databas discoveri suk i yoo yong s choi',11
+'atal agent theori architectur languag explicit plan languag coordin multiag plan execut edmund h durfee',11
+'aaai nation confer artifici intellig structur circuit semant reactiv plan execut system edmund h durfee',11
+'agent taip tactic assist interact plan execut edmund h durfee marcus j huber michael kurnow',11
+'ieee transact knowledg data engin kde trend cooper distribut problem solv edmund h durfee victor r lesser daniel d corkill',11
+'proceed first intern confer multi agent system bliss ignor know just enough coordin well edmund h durfee',11
+'proceed tenth nation confer artifici intellig page comput realli need know learn kindergarten edmund h durfee',11
+'g hare n ed foundat distribut artifici intellig wilei plan distribut artifici intellig edmund h durfee',11
+'ieee transact system man cybernet special issu distribut artifici intellig smc distribut artifici intellig melt pot edmund h durfee',11
+'ecml european confer machin learn handl continu valu attribut decis tree neural network model daeeun kim',11
+'icann int confer artifici neural network instanc base method extract rule neural network daeeun kim',11
+'pakdd pacif asia confer knowledg discoveri data mine rule reduct numer attribut decis tree us multilay perceptron daeeun kim',11
+'flair ai research societi confer confer adapt dialog interfac agent us meta rule nan',11
+'compsac intern comput softwar applic confer hierarch organ neural net agent distribut web inform retriev suk i yoo yong s choi',11
+'ieee tran parallel distrib syst perform analysi pull base parallel video server p c wong',12
+'proc th intern confer inform system icei intern confer inform system anger recurs patch effici techniqu multicast video stream y w wong jack y b lee',12
+'icc intern confer commun redund arrai inexpens server rai demand multimedia servic p c wong',12
+'ieee transact multimedia unifi architectur video demand servic jack y b lee',12
+'ieee transact parallel distribut system perform analysi pull base parallel video server jack y b lee p c wong',12
+'ieee multimedia parallel video server tutori jack y b lee',12
+'ieee transact circuit system video technolog optim channel alloc unifi video demand system jack y b lee',12
+'infocom confer comput commun server arrai approach video demand servic local area network p c wong',12
+'ieee transact circuit system video technolog support server level fault toler concurr push base parallel video server jack y b lee',12
+'evo workshop effect function nois gp effici p c wong',12
+'proc ieee intern confer multimedia expo lausann studi server less architectur video demand applic jack y b lee w t leng',12
+'resourc manag comput system network eighth ieee symposium parallel distribut process new orlean design server arrai system multimedia world wide web servic y b lee p c wong',12
+'ieee transact multimedia stagger push linearli scalabl architectur push base parallel video server jack y b lee',12
+'proc ieee infocom confer comput commun server arrai approach video demand servic local area network y b lee p c wong',12
+'ieee transact parallel distribut system automat recoveri disk failur continu media server jack y b lee john c s lui',12
+'proc ieee isc storag rebuild automat failur recoveri video demand server y b lee p c wong',12
+'icpad intern confer parallel distribut system design analysi fault toler mechan server less video demand system raymond w t leung',12
+'internet collabor comput higher educ peer peer beyond server less architectur build scalabl reliabl cost effect video demand system w t leung jack y b lee',12
+'ieee multimedia parallel video server tutori nan',12
+'proc ieee th intern confer applic specif system architectur processor asap hagu effici disk arrai base server design multicast video stream system p h chan jack y b lee',12
+'euro par transmiss schedul server less video demand system c y chan',12
+'proc high perform larg scale comput hp lsc confer nottingham uk novel redund data updat algorithm fault toler server less video demand system t k ho jack y b lee',12
+'ccgrid row permut data reorgan algorithm grow server less video demand system tsz kin ho',12
+'ieee transact circuit system video technolog monoton decreas rate schedul variabl bit rate video stream h l lai jack y b lee l k chen',12
+'proc intern symposium cluster comput grid row permut data reorgan algorithm server less video demand system t k ho jack y b lee',12
+'proc th intern confer advanc inform network applic aina advanc inform network applic fukuoka transpar rate adapt algorithm stream video internet l s lam jack y b lee s c liew w wang',12
+'peer peer comput transposit redund data updat algorithm grow server less video stream system tsz kin ho',12
+'ieee transact circuit system video technolog buffer manag dimens pull base parallel video server jack y b lee',12
+'icpad intern confer parallel distribut system slice patch algorithm support vbr video stream multicast base video demand system chun wai kong',12
+'ieee transact multimedia channel fold algorithm improv effici multicast video demand system jack y b lee',12
+'proc ieee intern symposium circuit system sydnei vbr video deliveri us monoton decreas rate schedul h l lai l k chen jack y b lee',12
+'proc ieee intern confer multimedia expo icm u s constrain conson broadcast gener period broadcast scheme larg scale video stream w c liu jack y b lee',12
+'ieee transact circuit system video technolog concurr push schedul algorithm push base parallel video server jack y b lee',12
+'ieee tran parallel distrib syst automat recoveri disk failur continu media server john c s lui',12
+'proc intern confer parallel distribut system design analysi fault toler mechan server less video demand system jack y b lee w t leung',12
+'icc intern confer commun redund arrai inexpens server canada june p c wong y b lee',12
+'journal visual commun imag represent design perform evalu multimedia web server jack y b lee p c wong',12
+'ieee journal select area commun multiplex scheme h voic ip applic h p sze s c liew jack y b lee c s yip',12
+'ieee transact circuit system video technolog design perform analysi implement super scalar video demand system jack y b lee c h lee',12
+'ieee commun letter packet loss recoveri scheme continu media stream internet h p sze s c liew jack y b lee',12
+'ieee commun letter uvod unifi architectur video demand servic jack y b lee',12
+'journal inform scienc engin slice patch algorithm support vbr video stream multicast base video demand system kong chun wai jack y b lee',12
+'proc intern confer softwar telecommun comput network softcom crotia improv uvod system effici batch vincent c h lee jack y b lee',12
+'proc intern confer parallel distribut system slice patch algorithm support vbr video stream multicast base video demand system kong chun wai jack y b lee',12
+'ec acm confer electron web winner determin algorithm electron auction framework design ho soo lee jayant kalagnanam martin bichler',13
+'ec acm confer electron web visual page catalog interfac analyt product select ho soo lee priscilla wang',13
+'icei intern confer inform system design implement visual onlin product catalog interfac ho soo lee priscilla wang',13
+'acm confer electron us starfield visual analyz product perform onlin store mark podlaseck',13
+'ec acm confer electron web visual analysi clickstream data onlin store parallel coordin system mark podlaseck',13
+'data mine knowledg discoveri visual analysi clickstream data onlin store understand web merchandis edith schonberg mark podlaseck robert hoch',13
+'webkdd analysi visual metric onlin merchandis edith schonberg mark podlaseck robert hoch stephen gomory',13
+'human societi internet framework winner determin algorithm internet auction sang goo lee suekyung lee',13
+'isad intern symposium autonom decentr system agent base electron commerc opportun challeng jen yao chung',13
+'inf process lett updat timestamp interv dynam adjust serial order optimist concurr control time interv occti protocol prabhudev konana sudha ram',13
+'intern journal imag graphic absolut inform visual system decis support sourc nan',13
+'accv asian confer comput vision video segment index classif interact view base queri dinggang shen ruihua ma wei xiong',14
+'storag retriev imag video databas spie intern societi optic engin experiment video databas manag system base advanc object orient techniqu liu sheng huang qing li wei xiong',14
+'storag retriev imag video databas spie intern societi optic engin net comparison fast effect method classifi imag sequenc man ching ip wei xiong',14
+'storag retriev imag video databas spie intern societi optic engin novel techniqu automat kei frame comput ruihua ma wei xiong',14
+'mach vi appl automat video data structur shot partit kei frame comput rui hua ma wei xiong',14
+'storag retriev imag video databas spie intern societi optic engin automat domin camera motion annot video retriev wei xiong',14
+'multimedia tool applic vim video inform manag system qing li wei xiong',14
+'accv asian confer comput vision motion compens color video classif us markov random field ting chuen pong zoltan kato',14
+'vdb visual databas system dynam object cluster video databas manipul qing li',14
+'caivd automat classif tenni video high level content base retriev anil k jain g sudhir',14
+'pattern recognit letter color imag segment paramet estim markovian framework ting chuen pong zoltan kato',14
+'journal system architectur partit chip virtual cach fast processor dongwook kim seungkyu park',15
+'ieic transact inform system rate regur scheme scheme schedul multimedia system kisok kong manhee kim',15
+'ieic transact inform system appear buddi coher adapt granular handl scheme page base dsm sangbum lee inbum jung',15
+'intern parallel comput aizu design implement multi thread tmn agent system sang kwon lee minhee cho hyeon ju yoon seong bae eun hyunsoo yoon jungwan cho',15
+'rd int l symp parallel architectur algorithm network taipei scalabl cach coher architectur larg scale mesh connect multiprocessor yunseok rhee',15
+'scalabl share memori multiprocessor serial lock directori weak memori recip scalabl share memori multiprocessor umakishore ramachandran',15
+'fifth intern symposium high perform comput architectur scalabl cach coher scheme exploit wormhol rout network yunseok rhee',15
+'th intl conf parallel distribut comput system dijon analysi deadlock detect scheme multidatabas system inseon lee hyogun lee',15
+'intern symposium share memori multiprocessor serial tokyo memori multiprocessor anand siva gautam sha u ramachandran h venkat',15
+'intern journal comput applic integr buffer manag scheme larg file hyogun lee',15
+'eighth scalabl share memori multiprocessor serial high avail softwar dsm vivekanand vellanki nissim harel namgeun jeong umakishore ramachandran',15
+'intern journal comput applic technolog perform comparison deadlock scheme multidatabas system hyogun lee inseon lee',15
+'sac select area cryptographi analysi buffer replac polici www proxi heon young yeom ilhwan kim',15
+'mit press perform evalu three parallel algorithm scalabl multiprocessor j w lee u ramachandran',15
+'icpad intern confer parallel distribut system design system support secur commun web proxi cgi program base pki k yoon',15
+'icmc intern confer multimedia comput system proport share schedul multimedia applic hyogun lee manhee kim',15
+'icpp intern confer parallel process workshop design implement multi thread tmn agent system hyeon ju yoon hyunsoo yoon jung wan cho minhee cho sang kwon lee seong bae eun',15
+'int l symp internet technolog prefetch file system www server jeonghwan choi hyogun lee',15
+'intern journal parallel program two phase barrier synchron primit improv processor util inbum jung jongwoong hyun joongsoo ma',15
+'ieic transact inform system virtual cach architectur retain process work set multiprogram environ d w kim j w lee',15
+'th int l conf high perform comput system applic edmont virtual cach scheme improv cach affin multiprogram share memori multiprocessor dongwook kim eunjin kim',15
+'euro par virtual physic chip cach share memori multiprocessor dongwook kim',15
+'passau virtual physic chip cach share memori multiprocessor dongwook kim',15
+'th int l conf inform network tokyo analysi buffer replac polici www proxi inhwan kim heon y yeom',15
+'int l conf multimedia comput system proport share schedul multimedia applic manhee kim hyogun lee',15
+'th int l symp high perform comput partit chip cach reduc memori access latenc share memori multiprocessor dongwook kim',15
+'acm symposium parallel algorithm architectur serial atlant citi architectur primit scalabl share memori multiprocessor umakishore ramachandran',15
+'share memori multiprocessor recip scalabl share memori multiprocessor j w lee u ramachandran',15
+'annual intern symposium comput architectur serial synchron multiprocessor cach j w lee u ramachandran',15
+'journal research practic inform technolog meta data updat polici flash memori file system j ma s cho',15
+'journal parallel distribut system cach base synchron share memori multiprocessor u ramachandran j w lee',15
+'spaa acm symposium parallel algorithm architectur architectur primit scalabl share memori multiprocessor umakishore ramachandran',15
+'isca intern symposium comput architectur synchron multiprocessor cach umakishore ramachandran',15
+'kluwer academ press lock directori synchron share memori multiprocessor yunseok rhee',15
+'ieee int l conf imag process switzerl rosann prefetch scheme imag comput yoonsuk rhee',15
+'journal system architectur scalabl cach coher architectur larg scale mesh connect multiprocessor yunseok rhee',15
+'proceed intern parallel distribut process symposium ipdp intern parallel distribut process symposium nice improv mpi io output perform activ buffer plu thread x ma m winslett s yu',16
+'ic intern confer supercomput activ buffer plu compress migrat integr solut parallel simul data transport need marianne winslett shengke yu xiaosong ma',16
+'ssdbm statist scientif databas manag declust larg multidimension data set rang queri heterogen disk marianne winslett shengke yu xiaosong ma',16
+'iopad parallel distribut system effici input output scientif simul marianne winslett szu wen kuo ying chen yong cho',16
+'ipdp intern parallel distribut process symposium faster collect output activ buffer marianne winslett shengke yu xiaosong ma',16
+'ipdp intern parallel distribut process symposium improv mpi io output perform activ buffer plu thread marianne winslett shengke yu xiaosong ma',16
+'ipdp intern parallel distribut process symposium enhanc data migrat perform via parallel data compress marianne winslett shengke yu xiaosong ma',16
+'idea intern databas engin applic symposium new gdm base declust method parallel rang queri marianne winslett szu wen kuo yong cho',16
+'intern confer supercomput parallel scientif applic heterogen cluster resourc util approach marianne winslett szu wen kuo ying chen yong e cho',16
+'ishpc high perform comput parallel support hpf comput grid marianne winslett peter brezany',16
+'ic intern confer supercomput tune high perform scientif code us perform model control resourc usag data migrat marianne winslett shengke yu xiaosong ma',16
+'proceed intern confer supercomput ic intern confer supercomput new activ buffer plu compress migrat integr solut parallel simul data transport need m winslett x ma s yu',16
+'proceed intern confer scientif statist databas manag ssdbm statist scientif databas manag declust larg multidimension data set rang queri heterogen disk m winslett x ma s yu',16
+'proceed intern parallel distribut process symposium ipdp intern parallel distribut process symposium fort lauderdal enhanc data migrat perform via parallel data compress m winslett x ma s yu',16
+'proceed intern parallel distribut process symposium ipdp intern parallel distribut process symposium fort lauderdal faster collect output activ buffer x ma m winslett s yu',16
+'isca ieee intern symposium circuit system expand chip dese grai scale morpholog oper jhing fa wang lian ying liu ming hwa sheu',17
+'isca ieee intern symposium circuit system high throughput rate architectur d dct an nan suen jhing fa wang lian ying liu ming hwa sheu',17
+'parallel comput graph theoret character reliabl gener boolean n cube network chu sing yang jhing fa wang tsung chuan huang',17
+'comput aid design enhanc multipl fault detect singl fault test set jhing fa wang tah yuan kuo',17
+'ieee transact pattern analysi machin intellig adapt reduct procedur piecewis linear approxim digit curv chin shyurng fahn jhing fa wang',17
+'ieee tran comput bit parallel systol multipli gf m field defin equal space polynomi chiou ying lee erl huei lu',17
+'dac design autom confer new approach deriv robust set stuck open fault cmo combin logic circuit j f wang t y kuo',17
+'dac design autom confer fault analysi method synchron sequenti circuit j f wang t y kuo',17
+'nan investig represent compet secondari school student t conlon r cox j mckendree k stenning',18
+'nan vicari learn dialogu discours control comparison r cox j mckendree r tobin t mayes',18
+'nan cad line r coyne',18
+'proceed th intern europia confer design net r coyne m ramscar k zreik',18
+'nan theori diagrammat reason distinguish compon problem c gurr k stenning',18
+'nan disambigu visual displai repres domain multimod interfac d he g ritchie',18
+'nan refer displai multimod interfac d he g ritchie',18
+'icmi advanc multimod interfac resolv refer graphic object multimod queri constraint satisfact daqing he graeme ritchie',18
+'nan automat gener diagrammat web site map r inder j kilgour',18
+'sac select area cryptographi automat gener diagrammat web site map jonathan kilgour robert inder',18
+'nan graphic natur languag design instruct nan',18
+'nan graphic natur languag multi modal dialogu nan',18
+'nan vicari learn dialogu multimod j mckendree f dineen r cox',18
+'nan observ dialogu mai benefit learn j mckendree k stenning t mayes r cox',18
+'nan knowledg base graphic dialogu b kemp t manz',18
+'nan vicari learner discuss learn resourc learn task j mckendree f dineen j t mayes',18
+'nan learn vicari distribut environ j mckendree finbar dineen terry mayes',18
+'nan vicari learner help student listen learn j mckendree f dineen j t mayes',18
+'nan modal represent educ technolog j mckendree f dineen r cox t mayes k stenning',18
+'int j hum comput stud introduct interact graphic commun n hari narayanan patrick g t healey yasuhiro katagiri',18
+'nan anaphora multimod discours k stenning',18
+'int j hum comput stud convers graphic implic design natur languag graphic interfac irene neilson',18
+'nan word pictur goodman revisit nan',18
+'nan cognit base approach comput integr design system m ramscar h pain',18
+'nan integr graphic natur languag dialogu h zeevat',18
+'nan know user know matter m ramscar h pain',18
+'nan design inform super highwai roadwork ahead m ramscar',18
+'nan exampl generalis us surfac versu structur recal bias probe conceptu storag m ramscar h pain s darrington',18
+'nan repli gall product model year stalem m ramscar h pain',18
+'nan intellig multimod multimedia interfac research applic nan',18
+'nan intellig interfac uim nan',18
+'nan review mark platt wai mean nd edn nan',18
+'nan role intellig multimedia report immi nan',18
+'nan vicari learn educ dialogu k stenning j mckendree r cox f dineen t mayes',18
+'nan similar depict nan',18
+'multimod human comput commun anaphora multimod discours keith stenning',18
+'nan support student discuss isn t just talk f dineen j mckendree',18
+'nan visual reason formal semant applic d wang',18
+'icalt ieee intern confer advanc learn technolog user centr design amp develop appli web base antony maciocia duncan abela manolis mavrikis',18
+'nan pictori concept concept support graphic system d wang',18
+'intellig tutor system toward affect tutor system manolis mavrikis',18
+'nan reason diagrammat represent d wang h zeevat',18
+'nan multimedia multimod interact structur m t maybury',18
+'interact intern confer human comput interact integr natur languag graphic dialogu henk zeevat',18
+'nan develop tertiari coursewar captur task direct discuss lee t mayes f dineen j smith',18
+'ic ai artifici intellig new collabor filter method us repres attribut neighborhood bayesian estim valu joong kyung ryu kyung yong jung',19
+'australian joint confer artifici intellig predict user prefer recommend system us associ user cluster bayesian estim valu kyung yong jung',19
+'dexa databas expert system applic fdra fashion design recommend agent system us extract repres sensibl two wai combin filter textil kyung yong jung young joo na',19
+'dawak optim associ word knowledg base genet algorithm su jeong ko',19
+'ec acm confer electron web user prefer mine collabor filter content base filter recommend system su jeong ko',19
+'iea industri engin applic aie artifici intellig expert system bayesian web document classif optim associ word jun hyeog choi su jeong ko',19
+'dexa databas expert system applic featur select us associ word mine classif su jeong ko',19
+'seventh ieee intern confer tool artifici intellig ieee comput societi press p d c extend genet non binari csp s j h m lee h f leung h w won',1
+'artif intel lagrangian reconstruct genet kenneth m f choi peter j stuckey',1
+'acm symposium appli comput acm press increment queri concurr clp languag ifd constraint pandora j h m lee h f leung',1
+'cp principl practic constraint program propag redund redund model chiu wo choi peter j stuckey',1
+'asian asian comput scienc confer us stochast method guid search clp preliminari report ho fung leung hon wing won peter j stuckey v w l tam',1
+'sixth ieee intern confer tool artifici intellig ieee comput societi press new orlean wam base abstract machin interv constraint logic program j h m lee t w lee',1
+'fgc fifth gener comput system adapt clp float point arithmet maarten h van emden',1
+'fuzz ieee spectrum compens aggreg oper ho fung leung xudong luo',1
+'depart comput scienc engin chines univers hong kong public comput languag execut scheme interact problem solv concurr constraint logic program languag page j h m lee h f leung',1
+'j log program interv comput deduct chip maarten h van emden',1
+'ecai european confer artifici intellig theori properti selfish protocol multi agent meet schedul us fuzzi constraint ho fung leung xudong luo',1
+'journal logic program north interv comput deduct chip j h m lee m h van emden',1
+'cp principl practic constraint program toward effici stochast constraint solver ho fung leung hon wing won',1
+'th australian joint confer artifici intellig page springer verlag lnai brisban perform comprehens effici constraint librari us local search j h m lee h f leung h w won',1
+'comput lang object logic integr multiparadigm design methodolog program languag p k c pun',1
+'ieee pacif rim confer commun comput signal process ieee comput societi press prune search tree cylindr closur j h m lee m h van emden',1
+'ooi object orient inform system overview oli multiparadigm program languag semant p k c pun',1
+'asian comput scienc confer page springer verlag lnc us stochast method guid search clp preliminari report j h m lee h f leung p j stuckey v w l tam h w won',1
+'intern journal artifici intellig tool world scientif framework integr artifici neural network logic program j h m lee v w l tam',1
+'cp principl practic constraint program box constraint collect adhoc constraint chi kan cheng peter j stuckey',1
+'ictai intern confer tool artifici intellig toward integr artifici neural network constraint logic program v w l tam',1
+'eighth ieee intern confer tool artifici intellig page ieee comput societi press toulous constraint base nurs roster system us redund model approach b m w cheng j h m lee j c k wu',1
+'australian joint confer artifici intellig perform comprehens effici constraint librari base local search h w won ho fung leung',1
+'constraint increas constraint propag redund model experi report b m w cheng j c k wu kenneth m f choi',1
+'softwar qualiti product construct wysiwyg latex typeset system us object orient design c c k wong j c k leung',1
+'ieee transact inform technolog biomedicin nurs roster system us constraint program redund model b m w cheng j c k wu',1
+'second intern confer principl practi ce constraint program page springer verlag lnc speed constraint propag redund model b m w cheng j h m lee j c k wu',1
+'intern confer fifth gener comput system tokyo tabl user interfac logic program m h m cheng m h van emden j h m lee',1
+'second intern confer principl practic constraint program page springer verlag lnc constraint base interact train reschedul tool c k chiu c m chou j h m lee h f leung y w leung',1
+'constraint constraint base interact train reschedul tool c k chiu c m chou ho fung leung y w leung',1
+'depart comput scienc engin chines univers hong kong public constraint constraint base interact train reschedul tool page c k chiu c m chou j h m lee h f leung y w leung',1
+'fgc fifth gener comput system tabl user interfac logic program maarten h van emden mantis h m cheng',1
+'aaai nation confer artifici intellig iaai twelfth innov applic artifici intellig reduc search space local search constraint satisfact hai fang peter j stuckey y kilani',1
+'cp principl practic constraint program solv finit domain constraint hierarchi local consist tree search kin chuen hui philippe codognet stefano bistarelli',1
+'fourth intern confer principl practic constraint program page springer verlag lnc pisa fuzzifi constraint hierarchi framework r w l kam j h m lee',1
+'third intern confer object orient inform system page springer verlag london u k oli multiparadigm program languag semant j h m lee p k c pun',1
+'cp principl practic constraint program algebra properti csp model oper y c law',1
+'second intern confer principl practic constraint program page springer verlag lnc toward effici stochast constraint solver j h m lee h f leung h w won',1
+'aaai nation confer artifici intellig iaai twelfth innov applic artifici intellig model induct new sourc csp model redund y c law',1
+'sixth ieee intern confer tool artifici intellig ieee comput societi press new orlean toward integr artifici neural network constraint logic program j h m lee v w l tam',1
+'comput languag object logic integr multiparadigm design methodolog program languag j h m lee p k c pun',1
+'artif intel fuzzi constraint base model bilater multi issu negoti semi competit environ ho fung leung nicholas r jennings nigel shadbolt xudong luo',1
+'eighteenth intern confer exhibit technolog object orient languag system prentic hall object logic integr scheme multiparadigm design program j h m lee p k c pun',1
+'prima intern multi agent real time agent architectur design implement evalu lei zhao',1
+'sac select area cryptographi iq toward increment queri process non determinist concurr constraint logic program ho fung leung',1
+'first ifip intern feder inform process sqi intern confer softwar qualiti product theori practic educ train chapman hall hong kong construct wysiwyg latex typeset system us object orient design j h m lee j c k leung c c k wong',1
+'sac select area cryptographi increment queri concurr clp languag ifd constraint pandora ho fung leung',1
+'intern confer fifth gener comput system tokyo adapt clp r float point arithmet j h m lee m h van emden',1
+'fuzz ieee weight prioritis compensatori aggreg ho fung leung xudong luo',1
+'comput lang execut scheme interact problem solv concurr constraint logic program languag ho fung leung',1
+'pricai pacif rim intern confer artifici intellig new axiomat framework priorit fuzzi constraint satisfact problem ho fung leung xudong luo',1
+'fuzzi set system prioritis fuzzi constraint satisfact problem axiom instanti valid ho fung leung nicholas r jennings xudong luo',1
+'depart comput scienc engin chines univers hong kong public reliabl comput effici interv linear equal solv constraint logic program page c k chiu j h m lee',1
+'journal experiment theoret artifici intellig page franci ltd extend hclp partial order hierarchi composit constraint c k chiu j h m lee',1
+'twelfth intern confer logic program mit press kanagawa interv linear constraint solv us pre condit interv gauss seidel method c k chiu j h m lee',1
+'slp symposium logic program toward practic interv constraint solv logic program c k chiu',1
+'proceed intern symposium mit press toward practic interv constraint solv logic program logic program c k chiu j h m lee',1
+'th exhibit symposium industri applic prolog inap press kawasaki fault simul prolog softwar re engin experi j h m lee',1
+'th ieee intern confer tool artifici intellig page ieee press taipei roc lagrangian reconstruct class local search method k m f choi j h m lee p j stuckey',1
+'acm symposium appli comput acm press iq toward increment queri process non determinist concurr constraint logic program j h m lee h f leung',1
+'comput anim motion fair sung yong shin',20
+'siggraph special interest group comput graph hierarch approach interact motion edit human like figur sung yong shin',20
+'comput graph forum robust motion watermark base multiresolut analysi sung yong shin tae hoon kim',20
+'acm tran graph plan bipe locomot us motion captur data probabilist roadmap min gyu choi sung yong shin',20
+'acm tran graph comput puppetri import base approach hyun joon shin michael gleicher sung yong shin',20
+'ieee transact visual comput graphic gener construct time domain filter orient data sung yong shin',20
+'acm tran graph interact control avatar anim human motion data jessica k hodgins jinxiang chai nancy s pollard paul s a reitsma',20
+'fskd fuzzi system knowledg discoveri u circuit structur ordinari peri net gi bum lee zandong han',21
+'fuzz ieee function approxim hierarch fuzzi system constraint fuzzi role moon g joo',21
+'fuzz ieee evolutionari comput base identif monoton takagi sugeno kang fuzzi system jin myung won keehong seo seok k hwang',21
+'fuzzi set system univers approxim hierarch fuzzi system constraint fuzzi rule moon g joo',21
+'fuzzi set system paramet condit monoton takagi sugeno kang fuzzi system jin myung won sang y park',21
+'int j intel syst adapt fuzzi learn control class nonlinear dynam system b h park won g seo',21
+'auton robot stochast map build method mobil robot us d laser rang finder young d kwon',21
+'prentic hall electron commerc manageri perspect e turban jae k lee',22
+'pricai pacif rim intern confer artifici intellig artifici intellig applic electron commerc nan',22
+'intern journal man machin studi automat rule gener transform expert s diagram lift hyung rim choi in koo lee sung mahn ahn',22
+'ai artifici intellig magazin case constraint base project plan apart construct hyun woo kim tae hwan kim',22
+'aaai nation confer artifici intellig iaai twelfth innov applic artifici intellig case constraint base apart construct project plan system fastrak apt chang gon kim eui jun hwang hyun jeong park hyun woo kim myoung kyun yoon tae hwan kim',22
+'ai artifici intellig magazin intellig schedul system shipbuild eun young kim ho dong kim hyung rim choi june seok hong ok ryul yang soo yeoul choi wooju kim',22
+'bupyoung korean develop expert system unik jae k lee',22
+'pergamon press oper expert system applic far east jae k lee',22
+'bupyoung korean electron commerc busi revolut jae k lee',22
+'bupyoung korean rd electron commerc jae k lee',22
+'bupyoung korean manag inform system jae k lee',22
+'hicss intern confer system scienc enhanc knowledg manag extens rule markup languag mye m sohn',22
+'dasan publish korean manag inform system user s perspect jae k lee',22
+'commun acm extens rule markup languag mye m sohn',22
+'irwin artifici intellig financ invest r trippi jae k lee',22
+'probu publish state art portfolio select us knowledg base system r trippi jae k lee',22
+'annal oper research boolean quadric pack uncapacit facil locat polytop jill hardin janny leung',23
+'linear algebra applic block matric multispher structur distanc matric t l hayden jim wells p tarazaga',23
+'ibm research report rc min polytop janny leung franois margot m',23
+'c atkinson p hackl w g m ller editor moda advanc model orient design analysi contribut statist springer new upper bound maximum entropi sampl alan hoffman joy williams',23
+'ibm research report rc infor journal boolean quadric forest polytop janny leung',23
+'discret appli mathemat geometr comparison combinatori polytop walter d morris',23
+'discret appli mathemat polyhedr method piecewis linear function lambda method dan wilson',23
+'c atkinson l pronzato h p wynn editor moda advanc model orient data analysi experiment design contribut statist springer comparison spectral hadamard bound d optim chun wa ko kevin wayne',23
+'linear algebra applic spectral method concord polyhedr face yew sing lee',23
+'oper research exact algorithm maximum entropi sampl chun wa ko maurice queyranne',23
+'discret appli mathemat facet fenc linear order acycl subgraph polytop janny leung',23
+'ibm research report rc journal combinatori optim separ type odd cycl inequ binari encod edg color formul janny leung sven de vries',23
+'discret mathemat relax boolean quadric cut polytop chun wa ko einar steingrmsson',23
+'ipco integ program combinatori optim continu relax constrain maximum entropi sampl joy williams kurt m anstreicher marcia fampa',23
+'mathemat oper research character dimens class concord polytop nan',23
+'ibm research report rc implement exact algorithm cut stock problem us compon coin laci ladanyi robin lougee heimer',23
+'discret appli mathemat maximum entropi remot sampl joy williams kurt m anstreicher marcia fampa',23
+'discret appli mathemat canon equat set class concord polytop nan',23
+'discret appli mathemat polyhedr method piecewis linear function lambda method dan wilson',23
+'oper research constrain maximum entropi sampl nan',23
+'journal combinatori optim crop cube nan',23
+'environment ecolog statist discuss state space model approach optim spatial sampl design base entropi nan',23
+'journal combinatori optim differ polytop nan',23
+'integ program combinatori optim lectur note comput scienc page springer continu relax constrain maximum entropi sampl kurt m anstreicher marcia fampa joy williams',23
+'mathemat program seri crash maximum weight complementari basi kurt m anstreicher thomas f rutherford',23
+'discret appli mathemat maximum entropi remot sampl kurt m anstreicher marcia fampa joy williams',23
+'ibm research report rc moda advanc model orient design analysi contribut statist springer mask spectral bound maximum entropi sampl kurt anstreicher',23
+'mathemat program seri us continu nonlinear relax solv constrain maximum entropi sampl problem kurt m anstreicher marcia fampa joy williams',23
+'intern journal game theori classif two person ordin bimatrix game imre barany martin shubik',23
+'acm confer electron evalu multipl attribut item us queri murray campbell vijay s iyengar',23
+'ibm research report rc polyhedron product linear function variabl don coppersmith janny leung',23
+'journal combinatori theori seri b character orient ternari matroid matt scobee',23
+'oper research letter comparison two edg color formul janny leung',23
+'univers press paperback isbn hardback isbn cover first cours combinatori optim first cours combinatori optim nan',23
+'discret appli mathemat geometr comparison combinatori polytop walter d morris',23
+'siam societi industri appli mathemat review hoffman s circl untangl nan',23
+'univers depart mathemat technic report gener maximum entropi sampl joy williams',23
+'journal combinatori optim differ polytop nan',23
+'network local bipartit turan graph graph partit jennifer ryan',23
+'h el shaarawi w w piegorsch editor encyclopedia environmetr wilei maximum entropi sampl nan',23
+'mathemat program seri b linear integ program bound maximum entropi sampl joy williams',23
+'oper research constrain bottleneck extrema nan',23
+'ibm research report rc parsimoni color formul franois margot',23
+'european journal combinator orient matroid represent gf gf nan',23
+'inform formerli orsa journal comput matroid applic algorithm jennifer ryan',23
+'linear algebra applic subspac well scale frame nan',23
+'novel approach hard discret optim commun seri american mathemat societi indivis divis polytop don coppersmith',23
+'h wolkowicz r saigal l vandenbergh editor handbook semidefinit program intern seri oper research manag scienc kluwer semidefinit program experiment design nan',23
+'mathemat program seri spectral approach polyhedr dimens nan',23
+'journal combinatori theori seri b incid structur subspac well scale frame nan',23
+'european journal combinator turan s triangl theorem binari matroid nan',23
+'ibm research report rc parsimoni binari encod integ program don coppersmith',23
+'annal oper research order select singl machin high set cost brenda l dietrich yew sing lee',23
+'rsfdgrc fuzzi artmap higher order statist base blind equal dong kun jee',24
+'journal kip block histogram compress method select estim high dimens seok lyong lee',24
+'journal kiss b collect fusion algorithm distribut multimedia databas pp seok lyong lee',24
+'th intern confer intellig data engin autom learn blind equal us rbf ho seok lyong lee',24
+'journal kaie design analysi web base coursewar word processor seok lyong lee',24
+'inform process letter issu pp distribut similar search algorithm distribut heterogen multimedia databas seok lyong lee',24
+'intern telecommun symposium taipei data collect techniqu central traffic manag system local exchang seok lyong lee',24
+'th intern confer intellig data engin autom learn ideal intellig data engin autom learn hongkong dynam construct categori hierarchi us fuzzi relat product seok lyong lee',24
+'th intern confer larg data base pp dynam updat cube rang sum queri seok lyong lee',24
+'journal kiss effici process method olap rang sum queri ina dynam warehous environ seok lyong lee',24
+'intern confer comput scienc icc effect similar search method larg video data stream seok lyong lee',24
+'th intern confer rough set fuzzi set data mine anf granular comput rsfdgrc fuzzi artmap higher order statist base blind equal seok lyong lee',24
+'journal electr engin inform scienc horizont partit object orient databas effici cluster seok lyong lee',24
+'journal system softwar heterogen imag databas select web seok lyong lee',24
+'journal kiss databas vdcluster video segment cluster algorithm larg video sequenc pp seok lyong lee',24
+'inform process letter issu model k nearest neighbor queri process cost multidimension data space seok lyong lee',24
+'acm sigmod intern confer manag data intern confer manag data pp multi dimension select estim us compress histogram inform seok lyong lee',24
+'th intern confer rough set fuzzi set data mine anf granular comput rsfdgrc approxim aggreg queri guarante error bound seok lyong lee',24
+'th intern confer intellig data engin autom learn ideal hongkong select estim optim similar queri multimedia databas seok lyong lee',24
+'proceed th ieee intern confer data engin pp san diego comput anim present slide similar search multidimension data sequenc seok lyong lee',24
+'journal kiss studi similar measur multidimension data sequenc us semant inform seok lyong lee',24
+'thesi graduat school seoul nation univers studi intellig backtrack horn claus program seok lyong lee',24
+'rsfdgrc approxim aggreg queri guarante error bound seok ju chun seok lyong lee',24
+'inf process lett distribut similar search algorithm distribut heterogen multimedia databas chin wan chung deok hwan kim guang ho cha seok lyong lee',24
+'vldb larg data base dynam updat cube rang sum queri chin wan chung seok ju chun seok lyong lee',24
+'inf process lett model k nearest neighbor queri process cost multidimension data space chin wan chung guang ho cha',24
+'sigmod intern confer manag data confer multi dimension select estim us compress histogram inform chin wan chung deok hwan kim',24
+'icd intern confer data engin similar search multidimension data sequenc chin wan chung deok hwan kim seok ju chun seok lyong lee',24
+'th graduat student confer comput scienc suni page view specif interact virtual realiti applic j p lee',25
+'proceed databas issu data visual wiers g g grinstein ed springer verlag lectur note comput scienc view visual databas j p lee',25
+'proceed ieee visual page architectur retain analyz visual explor databas j p lee g g grinstein',25
+'poster present first intern symposium virtual realiti san jose comput anim case studi virtual realiti environ d a southard j p lee g g grinstein r mitchell',25
+'icat confer virtual realiti environ rapid prototyp d a southard j p lee g g grinstein',25
+'databas issu data visual databas issu data visual support interact databas explorart bhavani m thuraisingham craig m wittenbrink daniel a keim',25
+'databas issu data visual data explor interact exbas system nan',25
+'databas issu data visual view visual databas nan',25
+'ieee comput graphic applic next frontier bio cheminformat visual daniel b carr georges g grinstein jeffrey saffer john kinney',25
+'comput graphic n page exploratori visual research univers massachusett lowel r f erbacher g g grinstein j p lee h levkowitz l masterman r pickett s smith',25
+'comput amp graphic exploratori visual research univers massachusett lowel georges g grinstein haim levkowitz lisa masterman robert f erbacher ron pickett stuart smith',25
+'ieee visual architectur retain analyz visual explor databas georges g grinstein',25
+'databas issu data visual databas issu data visual interact user interfac present daniel a keim eric e sumner john boyle matthias hemmje stephen g eick',25
+'proceed spie intern societi optic engin visual data explor analysi san jose comput anim page describ visual interact databas close loop user data j p lee g g grinstein',25
+'databas issu data visual j p lee g g grinstein ed lectur note comput scienc springer verlag page databas explor interact exbas system j p lee',25
+'icsr intern confer softwar reus concept guidelin featur model product line softwar engin kwanwoo lee kyo chul kang',26
+'splc softwar product line us market product plan kei driver product line asset develop eunman koh kwanwoo lee kyo chul kang patrick donohoe',26
+'apsec featur orient engin pbx softwar kwanwoo lee kyo chul kang sajoong kim',26
+'softw pract exper featur orient engin pbx softwar adapt reuseabl kwanwoo lee kyo chul kang sajoong kim',26
+'ieee softwar featur orient project line engin kyo chul kang patrick donohoe',26
+'annal softwar engin form featur orient reus method domain specif refer architectur euiseob shin kijoo kim kyo chul kang moonhang huh sajoong kim',26
+'cdma code divis multipl access intern confer vertic handoff procedur algorithm ieee wlan cdma cellular network hyo soon park jung shin park mi sun do sung hoon yoon tae hyoun kim',26
+'proceed th intern confer inform network icoin intern confer inform network hsinchu c c analysi statist characterist www traffic ip level d k ahn j s park h y park y c shin j y lee s b lee y i seo y m jin',27
+'vehicular technolog ieee transact issu page s channel assign qo guarante multi class multi code cdma system mi sun do youngjun park',27
+'proceed th intern confer inform network icoin intern confer inform network hsinchu c c captur delai power random spread spectrum cdma slot aloha system mi sun do young jun park',27
+'proceed intern technic confer circuit system comput commun niigata qo guarante code alloc scheme multi code cdma network mi sun do sang bae lee',27
+'public comput commun effect spread gain control cdma slot aloha system mi sun do jung shin park hahnearl jeon',27
+'proceed ifip intern feder inform process tc th intern test commun system iwtc cheju korea method deriv singl efsm commun multi efsm data part test i hwang t kim m jang s lee h oh m kim',27
+'comput commun test select non determinist fsm iksoon hwang taehyong kim sungback hong',27
+'proceed th intern confer inform network icoin intern confer inform network integr automat tool gener test case specif written estel m s jang d s park j y lee s b lee e k cho b m jin',27
+'test commun system chapman hall pp method deriv singl efsm commun multi efsm data part test nan',27
+'icoin intern confer inform network load balanc us modifi cost function constraint base rout mpl network hahnearl jeon hyung taek kim sung dae kim yong joon kim',27
+'icita bathurst enhanc micro mobil scheme myung chul jung jaiyong lee',27
+'icoin intern confer inform network perform analysi qo rout network depend delai cost hahnearl jeon hyung taek kim sung dae kim young joon kim',27
+'ieee tran comput well defin estel specif automat test gener do y lee',27
+'iso jtc wg seoul korea approach automat conform test specif written estel nan',27
+'ieee tran comput automat test gener techniqu specif written estel d y lee',27
+'itc intern test confer cscc tokushima pp network configur manag framework us wbem keum mo lee myung chul jung sang woo kang',27
+'comput network isdn system perform comparison bridg algorithm interconnect local area network do y lee',27
+'comput network ad isdn system north publish perform bride algorithm interconnect local area network d y lee',27
+'icita bathurst optim page cach map effici locat manag myoung chul jung jaiyong lee',27
+'electron letter iee architectur multichannel dqdb network j h lee j y lee s b lee',27
+'hsnmc cheju island korea pp optim handoff manag method consid micro mobil wireless access network myung cheul jung jung shin park dong min kim hyo soon park',27
+'proceed intern technic confer circuit system comput commun itc intern test confer cscc okinawa channel alloc scheme us fuzzi reason method multimedia pc environ t w kang s h ryu j s park k h lee j y lee s b lee',27
+'icoin intern confer inform network cheju island korea c c perform evalu tcp wcdma rlc ji eun kang dong min kim yong chul shin hee yoon park',27
+'icita bathurst effici explicit mobil multicast rout protocol mmp kee taek kim jae hyun kim dong keun kim',27
+'proceed th intern confer inform network icoin intern confer inform network taipei hybrid perform manag scheme oam function atm network y i kim j h chung c s lim j y lee s b lee',27
+'proceed ieee intern confer commun icc intern confer commun montreal hybrid perform manag scheme oam function support qo manag atm network y i kim j h chung c s lim j y lee s b lee',27
+'publish lnc p ff load balanc us modifi cost function constraint base rout mpl network sung dae kim hahnearl jeon yong joon kim hyung taek kim',27
+'ieee commun letter link control scheme us self reflect signal global beam satellit network s c kim j y lee s b lee',27
+'pstv protocol specif test verif test gener specif written estel do y lee',27
+'icoin intern confer inform network perform evalu tcp wcdma rlc dong min kim hee yoon park ji eun kang yong chul shin',27
+'test verif elservi publish north test gener specif written estel protocol specif d y lee',27
+'advanc simul technolog confer san diego comput anim perform evalu telecommun network servic b j kim j y lee y k kim d h kim',27
+'proceed intern technic confer circuit system comput commun itc intern test confer cscc okinawa central approach multi channel access scheme singl hop wdm network y y oh j w son w h cho j y lee s b lee',27
+'proceed th intern confer inform network icoin intern confer inform network tokyo dynam bandwidth manag vbr mpeg traffic us atm oam cell y y oh y i kim b j ha j y lee s b lee',27
+'cic seoul korea pp cdma cellular network hyosoon park sunghoon yoon taehyoun kim jungshin park misun do',27
+'proceed intern confer consum electron icc lo angel comput anim conferenc system real time multiparti multimedia servic j s park s h lee s c kim j y lee s b lee',27
+'proceed intern council comput communicaton iccc seoul korea design implement cfg gener estel specif j h park c h kim j y lee e k cho b m jin',27
+'proceed th intern confer inform network icoin intern confer inform network tokyo flexibl commun architectur support multimedia servic high speed network j s park s c kim j h lee j y lee s b lee',27
+'inform network asia pp flexibl commun architectur support multimedia servic high speed network jaesung park sangheon lee seung cheon kim jai yong lee sang bae lee',27
+'jcn internet traffic measur anaysi high speed network environ workload flow characterist jae sung park sang bae lee',27
+'proceed intern technic confer circuit system comput commun itc intern test confer cscc okinawa real time multimedia synchron mechan base level variat fix length buffer s c kim s h lee j s park j y lee s b lee',27
+'iscit chiang mai pp studi optim timestamp aodv protocol adhoc network hyun chang kim ji eun kang dong min kim jai yong lee',27
+'itc intern test confer cscc tokushima pp tcp enhanc wireless internet dong min kim bum joon kim won seo park jae sung park',27
+'proceed ifip intern feder inform process tc wg joint intern confer formal descript techniqu distribut system commun protocol fort formal techniqu network distribut system protocol specif test verif pstv protocol specif test verif automat test case gener real protocol framework methodolog t h kim i s hwang c m park j y lee s b lee',27
+'comput commun test case gener commun protocol adapt state explor tae hyoung kim ik soon hwang min seok jang',27
+'proceed th intern confer inform network icoin intern confer inform network tokyo test case gener protocol fault coverag analysi t h kim i s hwang m s jang s w kang j y lee s b lee',27
+'inform network asia pp test gener commun protocol efsm model tae hyong kim ik soon hwang min seok jang sang bae lee',27
+'icita bathurst new rout cach scheme demand soon don kwon jung shin park',27
+'proceed ieee intern confer commun icc intern confer commun protocol machin configur highli flexibl transport protocol d s park m s jang s h lee j y lee s b lee',27
+'chapman hall conform testig framework appli test purpos protocol test system jai yong lee',27
+'fort formal techniqu network distribut system automat test case gener real protocol framework methodolog chan min park ik soon hwang sang bae lee tae hyong kim',27
+'proceed ieee intern switch symposium iss toronto crossbar base gigabit packet switch input poll share bu arbitr mechanithm h t lee j w son j y lee s b lee',27
+'iscit chiang mai pp suggest tcp algorithm diffserv us mpl jong bum ryou sung dae kim hanh earl jeon dong min kim jai yong lee',27
+'proceed th intern confer inform network icoin intern confer inform network cheju korea adapt time base locat manag scheme us fuzzi logic s h ryu j s park h e jeon j y lee s b lee',27
+'proceed intern confer consum electron icc lo angel comput anim variabl locat manag scheme adapt mobil characterist s h ryu k h lee y y oh j y lee s b lee',27
+'proceed intern council comput communicaton iccc seoul korea new ring protocol atm man c shim k h park j h lee j y lee s b lee',27
+'proceed ieee globecom ring protocol atm lan man y ring protocol c shim w h cho s h lee i t ryoo j y lee s b lee',27
+'proceed asia pacif confer commun apcc osaka dynam resourc alloc algorithm base multipl traffic structur atm network j w son j h lee j y lee s b lee',27
+'electron letter iee input poll arbitr mechan gigabit packet switch j w son y y oh h t lee s b lee',27
+'electron letter iee perform input queu atm switch even odd switch plane j w son y y oh s b lee',27
+'proceed th intern confer inform network icoin intern confer inform network taipei gener reliabl optim test case data flow test formal approach b m chin t h kim i s hwang m s jang j y lee s b lee',27
+'proceed ieee globecom mcdqdb multi channel dqdb us wdm wavelength divis multiplex w h cho c shim m l song j y lee s b lee',27
+'proceed jonit technic confer circuit system comput commun jtc cscc kumamoto multi channel dqdb architectur man w h cho s h lee j y lee s b lee',27
+'proceed intern council comput communicaton iccc cann hierarch perform manag atm network us oam mib y h choi k h lee j y lee s b lee',27
+'proceed ieee globecom hierarch perform manag us oam mib atm network y h choi k h lee s y chang c park j y lee s b lee',27
+'proceed intern symposium network oper manag isnom oam base atm network manag inform architectur snmp agent y h choi w s song c park h s kang y s shim j y lee s b lee',27
+'ieee journal select area commun oam mib end end perform manag solut atm yong hoon choi kil hung lee sang bae lee',27
+'proceed ieee network oper manag symposium nom new orlean method gather end end manag inform y h choi k h lee j y lee s b lee',27
+'apcc asic pacif confer commun seoul slot alloc analysi qo satellit atm mak protocol seung hoon choi bum joon kim dong min kim',27
+'proceed th intern confer inform network icoin intern confer inform network cheju korea c c cost evalu disjoint protect scheme dynam bandwidth control k h lee y h choi d s park t w kang s h jeon j y lee s b lee',27
+'proceed intern confer telecommunicaton ict intern confer telecommun design implement gigabit packet switch multi path rout capabl h t lee j w son j y lee s b lee',27
+'proceed asia pacif network oper manag symposium apnom seoul korea effici restor scheme vp base atm network k h lee y h choi t w kang m s do j y lee s b lee',27
+'rist technic research report fa lan protocol implement develop integr fa network nan',27
+'iso jtc wg formal model protocol conform test jai yong lee',27
+'proceed ieee network oper manag symposium nom new orlean loop expand fast restor k h lee y h choi j y lee s b lee',27
+'proceed sixth ifip intern feder inform process ieee intern symposium integr network manag qo restor us disjoint path group atm network k h lee y h choi j y lee s b lee',27
+'kti pp multimedia traffic characterist internet nan',27
+'proceed intern technic confer circuit system comput commun itc intern test confer cscc seoul korea perform analysi input poll arbitr method fiber channel base gigabit lan j w son y y oh h t lee j y lee s b lee',27
+'ieee network magazin master slave measur techniqu oper ethernet network jai yong lee',27
+'chiang mai pp build distribut manag applic qo monitor us jmx ietf disman ping mib bong gyu song min soo kim',27
+'iso jtc wg seoul korea method deriv control flow graph specif written estel nan',27
+'itc intern test confer cscc tokushima pp novel mac protocol slot wdm ring network chang woo yang chung ho kim jang woo son',27
+'hicss intern confer system scienc experi collabor applic support distribut model conan c albrecht jay f nunamaker',28
+'hicss intern confer system scienc user experi collabor write us collaboratu internet base collabor work conan c albrecht jay f nunamaker paul benjamin lowry',28
+'interact comput support group creation formal inform graphic busi process model kregg aytes mark pendergast',28
+'proceed th annual hicss intern confer system scienc group tool method support data model develop standard review d dean j nunamaker',28
+'hicss intern confer system scienc model group model tool group support model qualiti valid douglas l dean douglas r vogel richard e orwig',28
+'journal manag inform system winter enabl effect involv multipl user method tool collabor softwar engin d dean m pendergast a hickey j nunamaker',28
+'journal manag inform system winter technolog support group process model d dean r orwig d vogel',28
+'hicss intern confer system scienc cold spa tool collabor process model develop ann m hickey dongsong zhang eric l santanen lina zhou',28
+'forthcom proceed rd annual hicss intern confer system scienc cold spa tool collabor process model develop a hickey d zhang e santanen l zhou',28
+'proceed st annual hicss intern confer system scienc group base approach distribut model construct h sarjoughian f simcox s vahie b zeigler',28
+'acm sig group bulletin special issu model tool method group data model kei enabl enterpris model d dean d vogel',28
+'hicss intern confer system scienc current advanc group support busi process reengin boris nevstrujev douglas l dean mark pendergast nian katic',28
+'proceed th annual hicss intern confer system scienc current advanc group support busi process reengin m pendergast d dean b nevstujev n katic',28
+'interact comput p support group creation formal inform graphic busi process model m pendergast k aytes',28
+'proceed aerosens spie intern societi optic engin public group enabl dev model construct methodolog distribut organ h sarjoughian s vahie',28
+'proceed th annual hicss intern confer system scienc re engin enterpris analyz d vogel d dean r orwig c arthur',28
+'associ inform system america confer inform system collabor design organiz system g vreede d dean d vogel r orwig',28
+'hicss intern confer system scienc group base approach distribut model construct bernard p zeigler f simcox hessam s sarjoughian s vahie',28
+'icml intern confer machin learn stock trade system us reinforc learn cooper agent byoung tak zhang jangmin o',29
+'dexa databas expert system applic multi agent q learn framework optim stock trade system jangmin o',29
+'pricai pacif rim intern confer artifici intellig construct larg scale bayesian network local global search byoung tak zhang kyu baek hwang seung woo chung',29
+'pricai pacif rim intern confer artifici intellig topic extract text document us multipl caus network byoung tak zhang jeong ho chang yuseop kim',29
+'pricai pacif rim intern confer artifici intellig pati approach identifi resolv ambigu sung dong kim',29
+'dexa databas expert system applic two phase stock trade system us distribut differ jin seok chae sung dong kim',29
+'acm principl practic parallel program acm ppopp san diego compil support specul multithread architectur probabilist point analysi peng sheng chen ming yu hung yuan shin hwang roy dz ching ju jenq kuen lee',2
+'journal system softwar elesvi case studi infrastructur c atla environ object orient design xml represent cheng wei chen jenq kuen lee',2
+'parallel comput commun set gener csd calculu express rewrit framework gwan hwan hwang',2
+'lcpc languag compil parallel comput probabilist point analysi peng sheng chen roy dz ching ju yuan shin hwang',2
+'journal parallel distribut comput function composit approach synthes fortran arrai oper gwan hwan hwang jenq kuen lee dz ching ju',2
+'pdpta parallel distribut process techniqu applic runtim composit optim parallel javabean program cluster environ cheng wei chen chung kai chen',2
+'ipp intern parallel process symposium spdp symposium parallel distribut process express rewrit framework gener commun set hpf program block cyclic distribut gwan hwan hwang',2
+'ipdp intern parallel distribut process symposium specif architectur support compon adapt distribut environ chung kai chen cheng wei chen jenq kuen lee',2
+'ipp intern parallel process symposium spdp symposium parallel distribut process express rewrit framework gener commun set hpf program block cyclic distribut gwan hwan hwang jenq kuen lee',2
+'concurr practic experi toward automat support parallel spars comput java continu compil cheng wei chen rong guey chang tyng ruey chuang',2
+'proceed th siam societi industri appli mathemat confer parallel process scientif comput laguag environ support parallel object distribut memori environ jenq kuen lee ing kuen tsaur san yih huang',2
+'acm sigplan special interest group program languag notic acm ppopp issu arrai oper synthesi scheme optim fortran program gwan hwan hwang jenq kuen lee dz ching ju',2
+'siam societi industri appli mathemat confer parallel process scientif comput sampl analyt techniqu data distribut parallel spars comput tyng ruey chuang rong guey chang jenq kuen lee',2
+'parallel comput fluid dynam new trend advanc ecer et editor elsevi scienc model three dimension ga turbin combustor model flow parallel machin distribut memori jenq kuen lee y chen c a lin m lu',2
+'proceed fifth acm sigplan special interest group program languag symposium principl practic parallel program santa barbara comput anim arrai oper synthesi scheme optim fortran program gwan hwan hwang jenq kuen lee dz ching ju',2
+'parallel cfd england toward parallel pressur correct method unstructur grid y c chuang jenq kuen lee k l wu c a lin',2
+'journal parallel distribut comput parallel arrai object support distribut environ jenq kuen lee ing kuen tsaur san yih hwang',2
+'languag compil parallel comput lcpc languag compil parallel comput also lnc integr automat data align arrai oper synthesi optim data parallel program gwan hwan hwang jenq kuen lee dz ching ju',2
+'icpp intern confer parallel process probabilist infer scheme sparsiti structur fortran arrai intrins jia shin li rong guey chang tyng ruey chuang',2
+'lcpc languag compil parallel comput also lnc probabilist point analysi yuan shin hwang peng sheng chen r ju',2
+'proceed scalabl high perform comput confer program astrophys applic object orient parallel languag shelby x yang jenq kuen lee srinivas p narayana dennis gannon',2
+'lcpc languag compil parallel comput also lnc compil optim dsp specif semant descript young jia lin yuan shin hwang jenq kuen lee',2
+'proceed intern confer parallel process ieee comput societi press arrai oper synthesi optim hpf program ieee copyright materi gwan hwan hwang jenq kuen lee dz ching ju',2
+'lcpc languag compil parallel comput also lnc compil analysi support leakag power reduct microprocessor yi ping you ching ren lee jenq kuen lee',2
+'parallel cfd parallel pressur correct method unstructr grid c m lin jenq kuen lee k l wu c a lin',2
+'journal parallel distribut comput academ press arrai oper synthesi optim hpf program distribut memori machin gwan hwan hwang d ju jenq kuen lee',2
+'ieee power manag real time embed system rea time task schedul dynam variabl voltag processor yi ping you ching ren lee wei kuan shih',2
+'icpad intern confer parallel distribut system real time gang schedul workload model parallel comput c d lin w k shih y w chang',2
+'compsac intern comput softwar applic confer xthread librari design implement applic j sang f knop v rego jenq kuen lee c t king',2
+'program environ parallel comput sigma tool kit build parallel compil perform analysi system bruce shei daya atapattu dennis gannon fran ccedil ois bodin neelakantan sundaresan sekhar r sarukkai srinivas narayana',2
+'parallel comput fluid dynam new algorithm applic ecer et editor elsevi scienc comput three dimension evolv jet vortex method parallel machin distribut memori y l shie jenq kuen lee c a lin c h tsai',2
+'supercomput object orient parallel program experi result dennis gannon',2
+'bit object orient parallel pc++ idea experi dennis gannon jenq kuen lee',2
+'joint symposium parallel process kobe object orient parallel pc++ idea experi dennis gannon jenq kuen lee',2
+'conpar confer algorithm hardwar parallel process us object orient parallel program build distribut algebra abstract dennis gannon srinivas narayana',2
+'journal supercomput issu segment align enhanc model align data parallel program hpf gwan hwan hwang cheng wei chen jenq kuen lee dz ching r ju',2
+'proceed intern parallel distribut comput bona program environ parallel comput perform debug parallel algorithm dennis gannon bruce shei daya atapattu jenq kuen lee mannho lee kyle gallivan william jalby harry wijshoff',2
+'ppopp principl practic parallel program arrai oper synthesi scheme optim fortran program dz ching ju gwan hwan hwang',2
+'proceed program environ parallel comput confer edinburgh sigma tool kit build parallel compil perform analysi system dennis gannon jenq kuen lee bruce shei sekhar sarukkai s narayan n sundaresan daya atapatta francois bodin',2
+'lcpc languag compil parallel comput integr automat data align arrai oper synthesi optim data parallel program dz ching ju gwan hwan hwang',2
+'second languag compil parallel comput static analysi runtim support parallel execut c dennis gannon vincent guarna jenq kuen lee',2
+'icpp intern confer parallel process arrai oper synthesi optim hpf program dz ching ju gwan hwan hwang',2
+'proceed third intern confer supercomput ic intern confer supercomput st petersberg sigma system tool parallel program design dennis gannon daya atapattu mann ho lee bruce shei atul saini jenq kuen lee',2
+'proceed parallel cfd load balanc strategi parallel vortex method distribut adapt data structur y l shie jenq kuen lee c a lin c h tsai',2
+'proceed supercomput new object orient parallel program experi result jenq kuen lee dennis gannon',2
+'icpp intern confer parallel process data distribut analysi optim pointer base distribut program dan ho y c chuang',2
+'proceed parallel cfd kyoto parallel vortex method three dimension evolv jet distribut memori machin y l shie jenq kuen lee c a lin c h tsai',2
+'proceed intern confer parallel distribut system compil object orient languag parallel machin shelby yang s srinivas dennis gannon',2
+'ppopp principl practic parallel program compil support specul multithread architectur probabilist point analysi ming yu hung peng sheng chen roy dz ching ju yuan shin hwang',2
+'intern journal numer method fluid implement vortex filament method parallel machin distribut adapt data structur y l shieh jenq kuen lee j h tsai c a lin',2
+'acm tran design autom electr syst compil optim vliw instruct schedul low power chingren lee shi chun tsai tingting hwang',2
+'journal inform scienc engin real time gang schedul workload model parallel comput wei kuan shih chung der lin yar wen chang jenq kuen lee',2
+'intern symposium system synthesi ieee comput societi sponsor madrid compil optim instruct schedul low power ching ren lee jenq kuen lee ting ting hwang shi chun tsai',2
+'icpp intern confer parallel process compil optim parallel spars program arrai intrins fortran rong guey chang tyng ruey chuang',2
+'ppsc siam confer parallel process scientif comput languag environ support parallel arrai object distribut environ ing kuen tsaur san yih hwang',2
+'acm transact design autom electron system compil optim vliw instruct schedul low power ching ren lee ting ting hwang shih chun tsai',2
+'intern confer parallel process compil optim parallel spars program arrai intrins fortran ieee copyright materi rong guey chang tyng ruey chuang jenq kuen lee',2
+'j parallel distrib comput parallel arrai object support distribut environ ing kuen tsaur san yih hwang',2
+'intern confer parallel process ieee comput societi data distribut analysi optim pointer base distribut program ieee copyright materi origin paper award icpp jenq kuen lee dan ho yue chee chuang',2
+'intern confer supercomput effici support parallel spars comput arrai intrins function fortran rong guey chang tyng ruey chuang',2
+'concurr comput practic experi wilei special issu java iscop support optim java rmi bluetooth environ p c wey j s chen c w chen jenq kuen lee',2
+'intern confer parallel process ieee comput societi press probabilist infer scheme sparsiti structur fortran arrai intrins rong guey chang jia shing li tyng ruey chuang jenq kuen lee',2
+'acm java confer support optim java rmi bluetooth environ p c wey j s chen cheng wei chen',2
+'proceed high perform comput sc d c perform parallel spars support fortran pc base network cluster r g chang x y jiang tyng ruey chuang jenq kuen lee',2
+'lcpc languag compil parallel comput bytecod optim engin bytecod perform jian zhi wu',2
+'journal supercomput parallel spars support arrai intrins function fortran rong guey chang tyng ruey chuang',2
+'ppsc siam confer parallel process scientif comput sampl analyt techniqu data distribut parallel spars comput rong guey chang tyng ruey chuang',2
+'languag compil high perform comput lcpc languag compil parallel comput page also lnc bytecod optim engin bytecod perform jian zhi wu jenq kuen lee',2
+'concurr practic experi toward automat support parallel spars comput java continu compil rong guey chang cheng wei chen tyng ruey chuang jenq kuen lee',2
+'ieee span intern symposium parallel architectur algorithm network invit paper build ontolog composit optim parallel javabean program cheng wei chen chung kai chen jenq kuen lee',2
+'ispan build ontolog optim composit parallel javabean program cheng wei chen chung kai chen',2
+'acm sigplan special interest group program languag notic issu compil support specul multithread architectur probabilist point analysi peng sheng chen ming yu hung yuan shin hwang roy dz ching ju jenq kuen lee',2
+'ista easili access gml base geograph inform system multipl data server web hae young bae soon young park',30
+'human societi internet content adapt transmiss strategi spatial inform www mobil applic chung ho lee hae young bae liang chen',30
+'apweb dpr dynam partial replic protocol base group commun web enabl databas cluster chung ho lee hae young bae',30
+'pdpta parallel distribut process techniqu applic improv line scale scheme scalabl highli avail databas chung ho lee hae young bae yong il jang',30
+'intern confer internet comput la vega effici render multi represent spatial featur internet gi chen liang chung ho lee hae young bae',30
+'human societi internet improv disk perform us raw disk web proxi server jong ik shim',30
+'korean inform scienc societi journal optim strategi vector spatial data transmiss internet chen liang chung ho lee hae young bae',30
+'rd intern confer inform integr web base applic servic scale depend transmiss spatial vector data internet chen liang chung ho lee jae hong kim hae young bae',30
+'ieee world scienc engin societi simul spatial linear featur simplif us wavelet chen liang chung ho lee hae young bae',30
+'web inform data manag effici spatial transmiss web base gi dong sun park hae young bae jae hong kim young geol lee young hwan oh zu kuan wei',30
+'iccad intern confer comput aid design signal driven discret relax techniqu architectur level test gener janak h patel',31
+'iccad intern confer comput aid design compar studi design testabl method us high level gate level descript janak h patel vivek chickermane',31
+'dac design autom confer hierarch test gener intens global function constraint janak h patel',31
+'itc intern test confer artest architectur level test gener data path fault control fault janak h patel',31
+'itc intern test confer instruct sequenc assembl methodolog test microprocessor janak h patel',31
+'itc intern test confer design testabl us architectur descript janak h patel vivek chickermane',31
+'intern confer comput commun control technolog ccct high perform nand type flash memori packag smart buffer cach system gi ho park shin dug kim',32
+'acm compil oper system low power colp held conjunct eleventh pact parallel comput technolog low power tlb system dynam search mechan embed processor jin hyuck choi shin dug kim charles weems',32
+'th euromicro parallel distribut process pdp gonoa adapt multi modul cach hardwar prefetch mechan multimedia applic gi ho park shin dug kim',32
+'journal system architectur jsa paper new cach architectur base tempor spatial local jang soo lee shin dug kim',32
+'ap soc confer seoul korea new cach architectur embed processor shin dug kim',32
+'journal system architectur new nand type flash memori packet real time applic gi ho park shin dug kim',32
+'ieee transact comput paper intellig cach system hardwar prefetch high perform seh woong jeong shin dug kim charles weems',32
+'acm transact embed comput system tec embed comput system issu paper applic adapt intellig cach memori system shin dug kim charles weems',32
+'isca intern symposium comput architectur th intern confer comput applic cata applic specif data cach system high perform gi ho park shin dug kim',32
+'proc soc design confer run time adapt cach memori system shin dug kim',32
+'journal korea inform scienc societi special issu low power comput research trend low power chip memori system jin hyuck choi shin dug kim',32
+'condit ieee transact comput toc select block buffer tlb system embed processor gi ho park shin dug kim charles weems',32
+'acm ieee intern symposium low power electron design islp seoul korea select filter bank tlb system gi ho park sung bas park shin dug kim',32
+'ieee intern confer comput design iccd intern confer comput design best paper award select tempor aggress spatial cach system base time interv jang soo lee shin dug kim',32
+'asia pacif confer asic ap asic cheju korea cach memori system calmrisc kil whan lee gi ho park jung hoon lee tack don han shin dug kim',32
+'proc korea inform scienc societi tlb system support multipl page size regardless oper system jung hoon lee shin dug kim',32
+'condit journal system architectur select access dual tlb low power embed system jung hee min shin dug kim',32
+'ieee asia pacif confer asic ap asic taipei select access tlb high perform low power consumpt jung hi min seh woong jeong shin dug kim',32
+'cool chip intern symposium low power high speed chip tokyo cooper cach system low power cach structur embed processor gi ho park kil whan lee jung hoon lee tack don han shin dug kim moon key lee yong chun kim seh woong jung hyung lae roh kwang yup lee',32
+'ieee comput societi technic committe comput archotectur letter tcca latter paper low power tlb structur embed system jin hyuck choi seh woong jeong shin dug kim charles weems',32
+'th symposium comput architectur high perform comput vit ria advanc filter tlb low power consumpt jin hyuck choi gi ho park shin dug kim',32
+'ieee intern confer comput design iccd intern confer comput design bank promot tlb high perform low power jang soo lee seh woong jeong shin dug kim',32
+'journal system architectur jsa issu paper bank promot translat lookasid buffer system seh woong jeong shin dug kim charles weems',32
+'etri journal dual cach architectur low cost high perform gi ho park shin dug kim',32
+'journal korea inform scienc societi dual cach system base local detect mechan jang soo lee shin dug kim',32
+'iee electron letter paper dual tlb structur support two page size jang soo lee gi ho park kil whan lee shin dug kim',32
+'microprocessor microsystem dynam select low power tlb system gi ho park shin dug kim',32
+'asia pacif confer asic ap asic cheju korea dynam tlb manag structur support differ page size jang soo lee shin dug kim',32
+'euro pdp adapt multi modul cach hardwar prefetch mechan multimedia applic gi ho park shin dug kim',32
+'acm symposium appli comput sac select area cryptographi nicosia energi effici cach memori architectur embed system jung wook park cheong ghil kim shin dug kim',32
+'comput applic appliact specif data cach system gi ho park shin dug kim',32
+'ieee tran comput intellig cach system hardwar prefetch high perform charles c weems seh woong jeong shin dug kim',32
+'acm tran embed comput syst applic adapt intellig cach memori system charles c weems shin dug kim',32
+'journal korea inform scienc societi high perform low power bank promot tlb structur shin dug kim',32
+'ipp intern parallel process symposium spdp symposium parallel distribut process high perform extern comput us user control byung eui min sanjay ranka sunghoon ko',33
+'hicss intern confer system scienc bada web integr web oodbm myung joon kim wan seok kim',33
+'icpad intern confer parallel distribut system user control parallel scientif applic youngki song',33
+'icpad intern confer parallel distribut system high perform extern stencil comput us user control myung joon kim',33
+'icpad intern confer parallel distribut system memori effici matrix multipl user control parallel p bruce berra sanjay ranka sung yong park',33
+'tempor databas dagstuhl implement option time seri data ramez elmasri',34
+'er intern confer conceptu model entiti relationship approach eer base conceptu model queri languag time seri data ramez elmasri',34
+'er intern confer conceptu model entiti relationship approach specif calendar time seri tempor databas jongho won ramez elmasri',34
+'data knowl eng integr tempor data model incorpor time seri concept jongho won ramez elmasri',34
+'icd intern confer data engin tempor algebra er base tempor data model ramez elmasri',34
+'ftc symposium fault toler comput adapt vote faulti vff node scheme distribut self diagnosi adit d singh hee yong youn',35
+'icpp intern confer parallel process psim period shift interleav memori system hee yong youn',35
+'ieee tran comput adapt unanim vote uv scheme distribut self diagnosi adit d singh hee yong youn',35
+'ieee tran parallel distrib syst effici dictionari machin us hexagon processor arrai hee yong youn',35
+'iccd intern confer comput design formal verif industri system chip byeong whee yun hoon choi myung kyoon yim yun tae lee',35
+'icsc intern comput scienc confer aspect orient design aod techniqu develop distribut object orient system internet doo hwan bae sang yoon min',36
+'apsec autom refactor approach design pattern base program transform java program doo hwan bae sang uk jeon',36
+'ftdc futur trend distribut comput system develop common oper environ militari applic dong kuk ryu doo hwan bae jungyoon kim sang il lee',36
+'reflect toward cope role bind anomali doo hwan bae ikju han',36
+'softw pract exper enhanc role model allevi role bind anom doo hwan bae',36
+'ieee real time technolog applic symposium form miss piec effect real time system specif simul g kim h kim k kang',37
+'apsec co develop real time system simul environ hye j kim kyo c kang',37
+'oopsla confer object orient program system languag applic real world object model method creat simul environ real time system hye j kim kyo chul kang',37
+'softw pract exper asad sim increment multi level simul analysi tool real time softwar specif gerard jounghyun kim kwan w lee kyo chul kang',37
+'intern journal softwar engin knowledg engin ad form real time system specif simul gerard jounghyun kim hye j kim kyo chul kang',37
+'comput applic bioscienc comparison varianc correl sampl nan',38
+'comput applic bioscienc cumul logit model ordin respons variabl applic biomed research nan',38
+'comput applic bioscienc covari adjust surviv curv base cox s proport hazard regress model c yoshizawa h p lee l wilkens',38
+'comput applic bioscienc basic program assess extent pattern agreement two procedur k p fung',38
+'comput applic bioscienc basic program polynomi regress smooth k p fung',38
+'flair ai research societi confer confer adapt dialog interfac agent us meta rule nan',39
+'flair ai research societi confer confer learn predict user behavior particular resourc us eugene santos robert mccartney',39
+'prima intern multi agent partial plan recognit us predict agent robert mccartney',39
+'prima intern multi agent predict user action us interfac agent individu user model robert mccartney',39
+'aaai nation confer artifici intellig iaai twelfth innov applic artifici intellig predict resourc us case base plan recognit robert mccartney',39
+'int j intel syst task base conceptu graph basi autom softwar develop kuo hsun hsu lein f lai yong yi fanjiang',3
+'inf sci fuzzi decis make trade analysi criteria jong yih kuo',3
+'ieee tran knowl data eng new approach requir trade analysi complex system john yih kuo',3
+'int j intel syst note current approach extend fuzzi logic object orient model jong yih kuo nien lin xue',3
+'intern journal intellig system sci scalabl coher interfac ei note current approach extend fuzzi logic object orient model j y kuo n l xue',3
+'intern journal intellig system nsc sci scalabl coher interfac ei fuzzi logic basi reus task base specif l f lai s j h yang',3
+'acm softwar engin note nsc note state model inherit n l xue t l kuei',3
+'compsac intern comput softwar applic confer task base approach verifi conceptu model lein f lai wei t huang',3
+'intern journal artif intellig tool interweav knowledg data guest editor s introduct nan',3
+'ieee expert task base specif conceptu graph lein f lai wei t huang',3
+'intern journal fuzzi uncertainti knowledg base system applic fuzzi theori complex system guest editor s introduct k hirota l koczy',3
+'encyclopedia comput scienc technolog acquir task base knowledg specif w t huang j yen',3
+'fuzzi set system prefac hsiao fan wang',3
+'fuzzi set system sci scalabl coher interfac ei possibilist logic base approach integr imprecis uncertain inform f r liu w l chiang',3
+'inform scienc nsc sci scalabl coher interfac ei fuzzi decis make trade analysi criteria j y kuo',3
+'ieee softwar analyz user requir us case goal driven approach nien lin xue',3
+'intern journal intellig system nsc sci scalabl coher interfac ei rule base approach produc z specif jackson system develop j i pan',3
+'ieee transact system man cybernet fuzzi petri net base expert system applic damag assess bridg k f r liu w l chiang',3
+'compsac intern comput softwar applic confer fuzzi petri net base mechan fuzzi rule reason stephen j h yang wei t huang william c chu',3
+'r yager l zadeh editor fuzzi set neural network soft comput new van nostrand reinhold page specifi soft requir knowledg base system j yen',3
+'intern journal softwar engin knowledg engin sci scalabl coher interfac ei specifi verifi tempor behavior high asur system us reachabl tree logic s j h yang w chu',3
+'journal inform scienc engin ei nsc oosz integr bailin s object orient analysi formal specif j i pan w t huang',3
+'intern journal softwar engin knowledg engin specifi verifi tempor behavior high assur system us reachabl tree logic stephen j h yang william c chu',3
+'inform softwar technolog sci scalabl coher interfac ei structur requir specif goal n l xue j y kuo',3
+'intern journal artifici intellig tool guest editor s introduct interweav knowledg data nan',3
+'g h schildt j retti editor depend artifici intellig system daisi north page expert system design method support verif j yen d hamilton',3
+'intern journal intellig system tool task base knowledg specif acquisit j yen j passtor',3
+'int j intel syst introduct extend fuzzi theori object orient model nan',3
+'ictai intern confer tool artifici intellig tame integr environ task base knowledg specif acquisit john yen josette pastor',3
+'compsac intern comput softwar applic confer express jsd z cheng kai chang jiann i pan wei t huang',3
+'ieee expert task base methodolog specifi expert system john yen',3
+'ifsa xml base approach process imprecis requir tzung jie chen ying yan lin yong yi fanjiang',3
+'journal comput civil engin asc sci scalabl coher interfac ei bridg damag assess fuzzi petri net base expert system w l chiang f r liu',3
+'editor world scientif publish pte ltd fuzzi logic applic complex system w l chiang',3
+'inf sci model imprecis requir fuzzi object kuo hsun hsu nien lin xue stephen j h yang',3
+'inform amp softwar technolog model softwar architectur goal virtual univers environ kuo hsun hsu',3
+'ictai intern confer tool artifici intellig structur requir specif goal interact kuo hsun hsu nien lin xue yong yi fangjang',3
+'intern journal artifici intellig tool fuzzi petri net model rule base reasonig k f r liu w l chiang',3
+'ieee transact knowldg data engin sci scalabl coher interfac ei high level petri net base approach verifi task structur l f lai',3
+'inform softwar technolog nsc sci scalabl coher interfac ei verifi task base specif conceptu graph l f lai',3
+'inform scienc nsc sci scalabl coher interfac ei model imprecis requir fuzzi object n l xue k h hsu s j h yang',3
+'nan task base conceptu graph basi autom softwar develop l f lai k h hsu y y fanjiang',3
+'intern journal artifici intellig tool nsc model user requir front end analysi j y kuo a liu',3
+'ieee expert task base specif conceptu graph l f lai w t huang',3
+'intern journal softwar engin knowledg engin enhanc softwar life cycl knowledg base system us task base specif methodolog j yen',3
+'intern journal intellig system nsc sci scalabl coher interfac ei task structur basi model knowledg base system nan',3
+'ieee softwar analyz user requir us case goal driven approach n l xue',3
+'hase specifi verifi tempor behavior high assur system us reachabl tree logic sam lin stephen j h yang william c chu',3
+'journal inform scienc engin ei nsc new approach verifi conceptu model l f lai',3
+'intern journal artifici intellig tool fuzzi petri net model rule base reason kevin f r liu weiling chiang',3
+'ieee transact knowledg data engin nsc nsc sci scalabl coher interfac ei new approach requir trade analysi complex system j y kuo',3
+'intern journal artifici intellig tool high level fuzzi petri net basi manag symbol numer inform f r liu w l chiang',3
+'proceed nation scienc council part physic scienc engin ei nsc integr combin jsd formal notat j i pan n l xue w t huang',3
+'intern journal artifici intellig tool high level petri net basi manag symbol numer inform kevin f r liu weiling chiang',3
+'ieee transact system man cybernet part b model uncertainti reason possibilist petri net kevin f r liu weiling chiang',3
+'inform amp softwar technolog verifi scenario time petri net jiann i pan jong yih kuo',3
+'compsac intern comput softwar applic confer toward verif scenario time petri net jiann i pan jong yih kuo stephen j h yang yong yi fanjiang',3
+'ride research issu data engin tqp real time transact process pessimist optimist hybrid approach sang hyuk son savita shamsunder',40
+'ieee real time system symposium us dynam adjust serial order real time databas system sang hyuk son',40
+'dasfaa databas system advanc applic optimist concurr control protocol real time databas system sang hyuk son',40
+'perform concurr control mechan central databas system perform concurr control algorithm real time databas system sang hyuk son',40
+'real time system hybrid protocol us dynam adjust serial order real time concurr control sang hyuk son yi lin',40
+'icra intern confer robot autom visual track us snake object s discret motion won kim',41
+'icra intern confer robot autom balanc select pressur migrat scheme parallel genet algorithm plan multipl path cheol taek kim sang keon oh',41
+'icra intern confer robot autom system gait rehabilit mobil manipul approach chang hyun kim choon young lee kap ho seo sang keon oh',41
+'icra intern confer robot autom fault detect robust fault recoveri control robot manipul actuat failur jin ho shin',41
+'ifsa evolutionari optim fuzzi model asymmetr rbf membership function us simplifi fit farrugia chang hyun kim min soeng kim',41
+'iccad intern confer comput aid design himalaya hierarch compact system minim constraint set donald t tang',42
+'iccad intern confer comput aid design signal bound problem time analysi c k wong daniel l ostapko jeffery soreff',42
+'dac design autom confer algorithm increment time analysi donald t tang',42
+'iccd intern confer comput design layout compact algorithm multipl grid constraint nan',42
+'euromicro select compress memori system line data decompress shin dug kim won kee hong',43
+'iccd intern confer comput design bank promot tlb high perform low power seh woong jeong shin dug kim',43
+'journal system architectur issu esci bank promot translat lookasid buffer system j h lee s w jeong s d kim c weems',43
+'electron letter sci scalabl coher interfac paper dual tlb structur support two page size j h lee j s lee g h park k w lee s d kim',43
+'intern journal comput applic paper adapt method minim decompress overhead compress chip cach w k hong s d kim',43
+'journal system architectur esci model perform analysi dual head disk structur n k lee s b yang t d han s d kim',43
+'journal system architectur esci new cach architectur base tempor spatial local j h lee j s lee s d kim',43
+'journal system architectur esci paper chip cach compress techniqu reduc decompress overhead design complex j s lee w k hong s d kim',43
+'ieee transact comput sci scalabl coher interfac paper intellig cach system hardwar prefetch high perform seh woong jeong shin dug kim charles weems',43
+'acm transact embed comput system paper applic adapt intellig cach memori system shin dug kim charles weems',43
+'microprocessor microsystem esci perform analysi select compress memori system w k hong s d kim',43
+'ieee transcat consunm electron sci scalabl coher interfac real time java virtual machin inform applianc young min lee byung chul tak hye seon maeng shin dug kim',43
+'ieee transact comput select block buffer tlb system embed processor gi ho park shin dug kim charles weems',43
+'iccd intern confer comput design select tempor aggress spatial cach system base time interv shin dug kim',43
+'lectur note comput scienc esci resourc manag method cooper web comput comput grid h s maeng t d han s d kim',43
+'intern journal comput applic appear design implement dynam commun mpi librari grid kyung lang park oh young kwon sung yong park hyoung woo park shin dug kim',43
+'ieic tran inform system esci float point adder subtractor perform ieee rout addit subtract parallel w c park s h lee o y kwon t d han s d kim',43
+'journal system architectur esci float point multipli perform ieee round addit parallel w c park t d han s d kim s b yang',43
+'journal system architectur esci method improv perform instruct prefetch balanc improv two primari perform factor g h park o y kwon t d han s d kim s b yang',43
+'lectur note comput scienc esci effici collect commun method grid scale network kyung lang park yoon joo lee oh young kwon sung yong park hyung woo park shin dug kim',43
+'iee proceed comput digit techniqu paper non referenc prefetch npr cach instruct prefetch g h park o y kwon t d han s d kim',43
+'lectur note comput scienc esci paper configur method multipl cluster comput grid p s shin w k hong h c kim s d kim',43
+'journal parallel distribut comput limit impos mix mode perform optim phax due tempor juxtaposit t b berg s d kim h j siegel',43
+'journal parallel distribut comput paper multipl quadrat form case studi design data parallel algorithm m c wang j b armstrong s d kim w g nation h j siegel',43
+'ieee comput societi technic committe comput architectur low power tlb structur embed system jin hyuck choi se woong jeong shin dug kim c weems',43
+'intern journal parallel distribut system network esci paper design evalu scalabl java internet comput environ chun mok chung pil sup shin sang kyum roh won kee hong maeng hye seon shin dug kim',43
+'parallel process letter juli paper effect configur method java internet comput environ c m chung p s shin s d kim',43
+'journal system architectur esci paper section cach vliw architectur w k hong s d kim',43
+'iccd intern confer comput design design evalu select compress memori system shin dug kim won kee hong',43
+'journal parallel distribut comput model overlap oper control unit process element simd machin s d kim m a nichols h j siegel',43
+'journal system architectur esci paper impact memori interfac structur memori processor integr architectur comput vision y s kim t d han s d kim',43
+'neural network sci scalabl coher interfac map neural network onto memori processor integr architectur y kim m j noh t d han s d kim',43
+'int l journal pattern recognit ai artifici intellig adapt parallel comput vision system j m kim y kim s d kim t d han s b yang',43
+'crypto intern crytolog confer dynam threshold scheme base definit cross product n diment linear space chi sung laih lein harn tzonelih hwang',44
+'infocom confer comput commun new scheme id base cryptosystem signatur chi sung laih chin hsing chen lein harn',44
+'ieee tran softwar eng design singl kei lock mechan base newton s interpol polynomi chi sung laih lein harn',44
+'ijprai intern journal pattern recognit artifici intellig determin locat orient label cylind us point pair estim algorithm chin hsing chen yuan chiuan you',44
+'webnet addi action model matrix tool decis maker distanc educ kelly ann yamashiro',45
+'webnet incorpor web base virtual realiti instruct distanc educ cours us addi model instruct design kelly ann yamashiro xun ge',45
+'webnet fruit addi instruct product web base distanc educ seminar us virtual realiti kelly ann yamashiro xun ge',45
+'educ technolog amp societi pre class plan scaffold student onlin collabor learn activ kelly ann yamashiro xun ge',45
+'ici intern confer inform system valu assess servic provis within organ gurpreet dhillon',46
+'proceed rd intern confer system scienc ieee cognit complex method train enhanc suppress creativ d truex',46
+'proceed intern academi inform manag north carolina cours structur student prefer consum base approach design introductori mi coursework a townsend',46
+'proceed ai america confer inform system examin differ method amethod inform system develop d truex',46
+'unpublish dissert state univers explor cognit structur inform system develop nan',46
+'inform system journal explor impact formal train isd method cognit structur novic inform system develop d truex',46
+'proceed associ comput machineri special interest group comput personnel research acm sigcpr confer su pport team group learn insid outsid inform system function nashvil acm press invest inform technolog human resourc impact perform firm j senn',46
+'proceed th intern confer system scienc ieee impact inform technolog spend staff develop perform firm j senn',46
+'hicss intern confer system scienc impact spend staff develop perform firm james a senn',46
+'proceed th annual intern confer system scienc ieee relationship inform technolog spend corpor revenu j senn',46
+'hicss intern confer system scienc relationship spend corpor revenu james a senn',46
+'hicss intern confer system scienc cognit complex method train enhanc suppress creativ duane p truex',46
+'ieee rsj intern confer intellig robot system adapt guidanc mobil robot intellig infrastructur noriaki ando teruhisa yakushi katsunori nakajima tohru kagoshima hideki hashimoto',47
+'icra intern confer robot autom design data access servic real time vision servic resourc share architectur gwi tae park hyun gu lee',47
+'ieee rsj intern confer intellig robot system design polici local mobil robot gener environ noriaki ando hideki hashimoto',47
+'ieee system man cybernet confer design polici intellig space noriaki ando hideki hashimoto',47
+'section book alexand zelinski editor springer verlag isbn field servic robot guido appenzeller hideki hashimoto',47
+'st ifac confer mechatron system human comprehens intellig space takahiro yamaguchi hideki hashimoto',47
+'ifac robot technolog mobil robot control distribut sensor hideki hashimoto',47
+'jsme journal robot mechatron appear soon mobil robot control intellig space support human kazuyuki morioka hideki hashimoto',47
+'jsme journal robot mechatron mobil robot architectur intellig space noriaki ando hideki hashimoto',47
+'ieee asm intern confer advanc intellig mechatron need mobil robot move intellig space mobil robot noriaki ando hideki hashimoto',47
+'icra intern confer robot autom new architectur mobil robot home network environ us jini gwi tae park hyun gu lee',47
+'ieee intern robot human commun intellig interact human oper mobil robot noriaki ando hideki hashimoto',47
+'ieee rsj intern confer intellig robot system intellig space hideki hashimoto',47
+'korea joint futur commun intellig control intellig space mobil robot guido appenzeller hideki hashimoto fumio harashima',47
+'advanc robot journal intellig space concept content hideki hashimoto',47
+'th annual confer ieee industri electron societi intellig space past futur hideki hashimoto',47
+'ieee confer intellig transport system physic agent intellig space function role mobil robot sensor network think space guido appenzeller hideki hashimoto',47
+'ieee intern confer robot autom physic agent sensor network think space guido appenzeller hideki hashimoto',47
+'journal industri scienc research univers tokyo physic agent intellig space hideki hashimoto',47
+'ieee asm intern confer advanc intellig mechatron appli intellig space warehous first step intellig space project noriaki ando teruhisa yakushi katsunori nakajima tohru kagoshima hideki hashimoto',47
+'ieee intern confer robot autom mobil robot control human follow intellig space kazuyuki morioka hideki hashimoto',47
+'intern confer control autom system mobil robot control human follow intellig space kazuyuki morioka hideki hashimoto',47
+'intern symposium artifici life robot evalu ccd camera arrang posit system intellig space takashi akiyama hideki hashimoto',47
+'intern confer control autom system evalu human local us color model intellig space takashi akiyama hideki hashimoto',47
+'ieee rsj intern confer intellig robot system build topolog map look peopl exampl cooper intellig space robot guido appenzeller hideki hashimoto',47
+'icra intern confer robot autom physic agent sensor network think space guido appenzeller hideki hashimoto',47
+'icra intern confer robot autom human center robot intellig space hideki hashimoto kazuyuki morioka',47
+'korea joint futur commun intellig control intellig space mobil robot hideki hashimoto',47
+'korea joint advanc teleautom intellig mechatron intellig space robot new develop robot hideki hashimoto',47
+'beyond webcam introduct onlin robot section book ken goldberg roland siegwart editor mit press isbn chapter perform mobil robot control web hashimoto hideki noriaki ando',47
+'intern conf field servic robot cooper intellig mobil robot physic agent intellig space extend sensor mobil robot guido appenzeller hideki hashimoto',47
+'korea intern trade associ outsourc strategi process success innov seminar nan',48
+'european journal inform system st review test causal model outsourc success structur equat model approach young gul kim',48
+'korea manag inform system confer korean best paper award test causal model outsourc success structur equat model approach young gul kim',48
+'nan inform system outsourc method forthcom case book ki chan nam',48
+'intern confer inform system brisban review commerc environ asia pacif region shan pan',48
+'commun acm us crm unifi view custom shan l pan',48
+'decis support system st review crm commerc empir studi custom valu kwok ron chi wai pi shih ming',48
+'pacif asia confer inform system hong kong empir studi custom valu electron commerc kwok ron chi wai pi shih ming',48
+'inform resourc manag associ intern confer exporatori studi teach case method onlin huynh minh q kwok ron chi wai pi shih ming',48
+'intern confer inform system brisban review role gss collabor learn studi qualiti feedback kwok ron chi wai huynh minh q pi shih ming',48
+'hicss intern confer system scienc evolut outsourc research next issu minh q huynh ron chi wai kwok shih ming pi',48
+'commun acm outsourc evolut past present futur minh q huynh ron chi wai kwok shih ming pi',48
+'hicss intern confer system scienc explor causal model understand outsourc partnership young gul kim',48
+'electron time korean partnership qualiti outsourc young gul kim',48
+'test causal model outsourc success structur equat model approach nan young gul kim',48
+'mi multimedia inform system quarterli st review current futur direct inform system outsourc huynh minh q kwok ron chi wai pi shih ming',48
+'journal manag inform system effect partnership qualiti outsourc success conceptu framework empir valid young gul kim',48
+'intern journal inform manag forthcom fuzzi gss framework organiz knowledg acquisit kwok ron chi wai',48
+'journal strateg inform system inform system outsourc strategi affili firm korean conglomer group young gul kim',48
+'proceed korean manag scienc review confer korean inform system outsourc strategi affili firm korean conglomer group young gul kim',48
+'korea manag inform system confer korean inform system outsourc strategi ministri construct transport byun nam choi',48
+'computerworld korean inform system outsourc nan',48
+'th intern decis scienc institut confer sydnei best paper award mi multimedia inform system track overal partnership qualiti outsourc empir valid young gul kim',48
+'doctor consortium th intern confer inform system helsinki partnership qualiti outsourc social theori perspect nan',48
+'journal mi multimedia inform system research korean risk analysi inform system integr framework young gul kim jae nam lee',48
+'korea employe feder strateg outsourc process seminar nan',48
+'korean manag review korean outsourc strategi affili firm korean conglomer group young gul kim',48
+'th intern confer system scienc maui best paper award organiz system technolog track evolut outsourc research next issu nan',48
+'inform manag st review impact knowledg share organiz capabl partnership qualiti inform system outsourc success nan',48
+'sisa comput korean import partnership outsourc nan',48
+'intern journal advanc manufactur technolog sci scalabl coher interfac expand solv d geometr constraint assembl model jaesung kim kwangsoo kim keunhwan choi jae yeol lee',49
+'comput aid design sci scalabl coher interfac cellular topolog base approach gener progress solid model featur centric model jae yeol lee',49
+'comput aid design sci scalabl coher interfac d geometr constraint solv us dof base graph reduct jae yeol lee kwangsoo kim',49
+'lectur note artifici intellig autom deduct geometri sci scalabl coher interfac expand xian shan gao dongm wang ed springer verlag d geometr constraint solver parametr design us graph analysi reduct jae yeol lee',49
+'comput aid design sci scalabl coher interfac featur base approach extract machin featur jae yeol lee kwangsoo kim',49
+'comput aid design sci scalabl coher interfac geometr reason knowledg base parametr design us graph reduct jae yeol lee kwangsoo kim',49
+'intern journal advanc manufactur technolog sci scalabl coher interfac expand gener altern interpret machin featur jae yeol lee kwangsoo kim',49
+'nan hybrid approach geometr constraint solv graph analysi reduct advanc engin softwar sci expand kyu yeul lee o hwan kwon jae yeol lee tae wan kim',49
+'proc asm design engin technic conf la vega dfm web enabl featur base model distribut design environ jae yeol lee hyun kim sung bae han',49
+'concurr engin research applic sci scalabl coher interfac web enabl approach featur base model distribut collabor design environ jae yeol lee hyun kim kwangsoo kim',49
+'autom deduct geometri d geometr constraint solver parametr design us graph analysi reduct nan',49
+'proc iiwa web base product data manag part catalog public system collabor product develop nam chul do hyun kim hyung sun kim joo haeng lee',49
+'comput aid design d geometr constraint solver us dof base graph reduct kwangsoo kim',49
+'th isp intern conf concurr engin research applic framework share product inform across enterpris hyun kim hyung sun kim jin mi jung jae yeol lee nam chul do',49
+'comput aid design featur base approach extract machin featur kwangsoo kim',49
+'pacif confer comput graphic applic network centric featur base model hyun kim sang bong park sung bae han',49
+'proc asm design engin technic conf la vega cie process centric distribut collabor design base web hyun kim jae yeol lee sung bae han',49
+'intern journal advanc manufactur technolog sci scalabl coher interfac expand solv d geometr constraint close loop assembl jaesung kim kwangsoo kim jae yeol lee hyung bae jung',49
+'proc th intern conf engin design autom la vega solv d geometr constraint model close loop assembl jaesung kim kwangsoo kim jae yeol lee',49
+'proc cal ec acm confer electron korea intern conf seoul korea network centric cad hyun kim joo haeng lee nam chul do hyung sun kim',49
+'proc pacif graphic seoul korea network centric featur base model jae yeol lee hyun kim sung bae han sang bong park',49
+'korea bi nation conf geometr model comput graphic world wide web seoul korea interoper shape represent network centric virtual prototyp jae yeol lee hyun kim sung bae han',49
+'proc asm intern mechan engin congress exposit dfm interoper shape represent geometr process network enabl virtual prototyp joo haeng lee hyun kim sung bae han',49
+'proc asm design engin technic conf montreal cie progress solid model internet base design collabor jae yeol lee',49
+'intern journal advanc manufactur technolog sci scalabl coher interfac expand shape represent interoper virtual prototyp distribut design environ jae yeol lee',49
+'softw pract exper methodolog construct predic transit net specif xudong he',4
+'commun acm posit altern report acm panel hack gerald segal rosalie steier',4
+'ieee annal histori comput ifip tc tc joint task group histori comput curriculum gordon b davis john impagliazzo martin campbell kelly michael r williams',4
+'ieee annal histori comput howard aiken s third machin harvard mark calcul aiken dahlgren electron calcul nan',4
+'ieee annal histori comput rise sale gener electr comput depart look george e snively',4
+'ieee annal histori comput us bomb ncr joseph desch wave first reunion us naval comput machin laboratori colin burke deborah anderson',4
+'ieee annal histori comput review us bomb full version avail onlin colin burke deborah anderson',4
+'isca intern symposium comput architectur vdl definit system level nan',4
+'comput j formal definit basic languag nan',4
+'data base standard nan',4
+'commun acm consider futur program languag standard activ nan',4
+'commun acm respons feder trade commiss s propos rule standard certif nan',4
+'hcc great myth histori comput nan',4
+'ifip intern feder inform process congress gentlemen escap histori studi histori comput nan',4
+'ieee annal histori comput biographi nan',4
+'ieee annal histori comput biographi nan',4
+'ieee annal histori comput obituari nichola constantin metropoli nan',4
+'ieee annal histori comput biographi nan',4
+'ieee annal histori comput biographi nan',4
+'ieee annal histori comput biographi nan',4
+'formal asp comput integr predic transit net first order tempor logic specif verif concurr system xudong he',4
+'snpd compon contract base process high level design cheol jung yoo ok bae chang',50
+'sigplan special interest group program languag notic analysi object interact enterpris javabean lifecycl us formal specif techniqu cheol jung yoo ok bae chang',50
+'intern journal softwar engin knowledg engin compon contract base interfac specif techniqu us z cheol jung yoo ok bae chang',50
+'icdar intern confer document analysi binari classif tree multi class classif problem il seok oh',51
+'icdar intern confer document analysi class modular charact recognit ching y suen il seok oh',51
+'ieee transact pattern analysi machin intellig analysi class separ combin class depend featur handwrit recognit ching y suen il seok oh',51
+'vldb larg data base region split strategi physic databas design multidimension file organ il yeol song kyu young whang young koo lee',52
+'compsac intern comput softwar applic confer d chi tunabl two dimension class hierarchi index object orient databas il yeol song kyu young whang wan sup cho wook shin han',52
+'inf sci physic databas design method multidimension file organ il yeol song kyu young whang young koo lee',52
+'icra intern confer robot autom estim vehicl pose road curvatur base percept net dong yoon kim dongmok shin kwang s boo kyoung sig roh sukhan lee woong kwon',53
+'icra intern confer robot autom experi decis make strategi lane departur warn system dong yoon kim dongmok shin kyoung sig roh sukhan lee woong kwon',53
+'icra intern confer robot autom new data fusion method applic state estim nonlinear dynam system sukhan lee',53
+'oper system review big brother ballot nan',54
+'oper system review new famili authent protocol bruno crispo charalampos manifavas francesco bergadano roger m needham ross j anderson',54
+'secur protocol jikzi new framework secur publish ross j anderson',54
+'robocup big red cornel small leagu robot soccer team andrew hoffman aris samad yahaja lars b cremean raffaello d andrea thomas karpati',55
+'robocup big red cornel small leagu robot soccer team andrew hoffman aris samad yahaja lars b cremean raffaello d andrea thomas karpati',55
+'ai artifici intellig magazin cornel big red small size leagu winner raffaello d andrea',55
+'vr virtual realiti attent enhanc system us virtual realiti eeg biofeedback b h cho d p jang in young kim j h ku j h lee j s kim sun i kim',56
+'ismda ecg acquisit manag system knowledg discoveri databas data model design implement dongjoo kang hosung kim hyungsik choi in young kim myoung ju jeon sun i kim yongho cho',56
+'iwann intern work confer artifici natur neural network analysi scale expon waken sleep stage eeg dae jin kim in young kim sun i kim',56
+'ieee int conf imag process optim quadtre variabl block size motion estim d c iii - oct',57
+'electron letter optim frequenc domain bit alloc video code nan',57
+'ieee tran imag process optim quadtre karhunen loev transform multispectr imag code nan',57
+'ieee tran circ sy video technolog rate distort optim frame type select mpeg encod b w dickinson',57
+'proc ieee int conf imag process rate distort optim motion smooth mpeg encod nan',57
+'proc ieee icip intern confer imag process rate distort optim parametr quantiz matrix mpeg encod nan',57
+'ieee tran circ sy video technolog subband video code scene adapt hierarch motion estim b w dickinson',57
+'proc ieee int conf acoust speech signal process adelaid subband video code tempor adapt motion interpol b w dickinson',57
+'proc spie intern societi optic engin conf visual commun imag process scene adapt motion interpol structur base tempor mask human visual percept b w dickinson',57
+'proc visual commun imag process t electron imag san jose part studi nois model mpeg encod statist nan',57
+'ieee tran imag process tempor adapt motion interpol exploit tempor mask visual percept b w dickinson',57
+'eletron letter automat prefilt control video encod statist nan',57
+'icip intern confer imag process rate distort optim parametr quantiz matrix mpeg encod nan',57
+'icip intern confer imag process joint optim frame type select bit alloc mpeg video encod bradley w dickinson',57
+'storag retriev imag video databas spie intern societi optic engin multiresolut video index subband code video databas bradley w dickinson',57
+'spie intern societi optic engin conf visual commun imag process adapt frame type select low bit rate video code nan',57
+'proc jwmmc seoul frequenc offset resist channel estim wcdma nan',57
+'real time imag academ press fast frame type select techniqu low bit rate code us mpeg nan',57
+'ieee tran circ sy video technolog hierarch video index retriev subband code video b w dickinson',57
+'ieee tran imag process joint optim block size quantiz quadtre base motion estim nan',57
+'proc first ieee int conf imag process joint optim frame type select bit alloc mpeg video encod b w dickinson',57
+'review public kalman filter base jump detector imag reconstruct project nan',57
+'optic engin quadtre base least squar predict multispectr imag code nan',57
+'proc still imag compress t electron imag san jose quadtre base transform code multispectr imag compress nan',57
+'public ieee signal process letter log likelihood ratio calcul without snr estim forward link ds cdma receiv nan',57
+'proc ieee int conf imag process lausann least squar approach predict code d imag nan',57
+'commun taejon korea aug imag sequenc code us tempor segment motion interpol base tempor mask human visual system nan',57
+'proc conf storag retriev imag video databas electron imag san jose multiresolut video index subband code video databas b w dickinson',57
+'proc conf imag video compress electron imag san jose motion compens subband code scene adapt b w dickinson',57
+'cann franc sep motion interpol us optim space tempor segment base tempor mask human visual system imag multidimension signal process nan',57
+'proc visual commun imag process t electron imag san jose new mpeg rate control algorithm base motion estim statist nan',57
+'proc satellit remot sens new predict code approach multispectr imageri compress nan',57
+'electron letter p radix multipli regular layout structur b i park m c shin i c park c m kyung',58
+'ieee journal solid state circuit singl chip programm platform base multithread processor configur logic cluster young don bae seong il park in cheol park',58
+'ieic transact fundament electron commun comput scienc classic n heurist algorithm microcod bit optim base incomplet relat y d choi i c park c m kyung',58
+'ieee transact comput synthesi applic specif instruct embed dsp softwar h choi j s kim c w yoon i c park c m kyung',58
+'journal circuit system comput p design verif complex microprocessor j s yim c j park i c park c m kyung',58
+'iee proceed comput digit techniqu p datapath layout optim us genet algorithm simul anneal j s yim i c park c m kyung',58
+'ieic transact inform system p sewd cach architectur speed misalign instruct prefetch d j s yim i c park c m kyung',58
+'ieee transat circuit system analog digit signal process fir filter synthesi algorithm minim delai number adder hyeong ju kang in cheol park',58
+'ieee transact comput aid design integr circuit system sat base unbound symbol model check hyeong ju kang in cheol park',58
+'ieee transact consum electron p digit signal processor effici rgb interpol histogram accumul h kim j y kim s h hwang i c park c m kyung',58
+'ieee transact circuit system video technolog novemv high perform low power memori interfac architectur hannsoo kim in cheol park',58
+'dac design autom confer metacor applic specif dsp develop system byoung woon kim chan soo hwang chang ho ryu chong min kyung dae hyun lee hyun dhong yoon in cheol park in hyung kim jae yeol kim jang ho cho jin hyuk yang jong sun kim jun sung kim kun moo lee kwang il park kyu ho park sang jun nam seung ho hwang sung won seo yong hoon lee young su kwon',58
+'electron letter path metric memori manag minimis interconnect viterbi decod s y kim h kim i c park',58
+'electron letter arrai address translat sdram base video process applic h kim i c park',58
+'ieic transact funment electron commun comput scienc new singl clock flip flop half swing clock y s kwon i c park c m kyung',58
+'ieic transact fundament electron commun comput scienc hierarch circuit cluster algorithm stabl perform s j kyung k s seong i c park c m kyung',58
+'dac design autom confer exploit intellectu properti asip design embed dsp softwar chong min kyung hoon choi in cheol park ju hwan yi',58
+'ieee electron letter quadratur direct digit frequenc synthesi us fine grain angl rotat techniqu sung won lee in cheol park',58
+'electron letter low power variabl length decod consid success codeword s w lee i c park',58
+'ieee transact circuit system analog digit signal proces p low power variabl length decod mpeg base success decod short codeword sung won lee in cheol park',58
+'ieic transact fundament p loop address code optim digit signal processor in cheol park',58
+'acm transact design autom electron system p loop address code optim dsp instruct set architectur in cheol park',58
+'ieic perform enhanc embed softwar us regist promot in cheol park',58
+'ieee transact comput aid design integr circuit system p time compil code function simul embed softwar perform analysi soc design in cheol park',58
+'ieic transact fundament electron commun comput scienc improv dictionari base code compress vliw architectur s j nam i c park c m kyung',58
+'ieee transact comput aid design integr circuit system p digit filter synthesi base algorithm gener minim sign digit represent in cheol park hyeong ju kang',58
+'ieee tran circuit system video technolog fast three step half pel motion estim algorithm us enlarg half pel search window seong il park in cheol park',58
+'ieee tran consum electron high perform memori mode control hdtv decod seong il park yongseok yi in cheol park',58
+'microprocessor microsystem path base branch predict us signatur analysi c m kyung',58
+'dac design autom confer time compil code simul embed softwar perform analysi soc design in cheol park',58
+'ieic transact inform system d p fast precis interrupt handl without associ search multipl order issu processor s j nam i c park c m kyung',58
+'ieee commun letter p processor base turbo interleav multipl third gener wireless standar myoung cheol shin in cheol park',58
+'ieee tansact larg scale integr system simd processor base turbo decod support multipl third gener wireless standard myoung cheol shin in cheol park',58
+'ieee transact larg scale integr system metacor applic specif dsp develop system j h yang b w kim s j nam y s kwon d h lee y h lee s h hwang i c park c m kyung',58
+'ieic transact inform system path classifi trace cach improv hit ratio wide issu processor j h yang i c park c m kyung',58
+'ieee transact consum electron fix point mpeg audio processor operationg low frequenc yongseok yi in cheol park',58
+'seal simul evolut learn fuzzi identif unknown system base ga hyung lee kwang',59
+'fuzzi set system comparison fuzzi valu continu domain hyung lee kwang',59
+'ieee transact system man cybernet part c distribut cooper fuzzi control traffic intersect group hyung lee kwang',59
+'proceed ieee supercomput confer lbnl tcp tune daemon t dunigan m mathis b tierney',5
+'proceed th ieee symposium high perform distribut comput hpdc high perform distribut comput symposium edinburgh scotland lbnl dynam monitor high perform distribut applic d gunter b tierney k jackson m stoufer',5
+'th intern grid comput grid lbnl demand grid applic tune debug netlogg activ servic d gunter b tierney c e tull v virmani',5
+'proceed ieee mascot confer mascot lbnl netlogg toolkit distribut system perform analysi d gunter b tierney b crowley m holding',5
+'parallel comput high perform remot access climat simul data challeng problem data grid technolog alex sim ann l chervenak arie shoshani bill allcock bob drach carl kesselman dean williams don middleton ewa deelman ian t foster veronika nefedova',5
+'proceed th ifip intern feder inform process ieee intern symposium integr network manag spring lbnl netlogg toolkit distribut system tune debug d gunter b tierney',5
+'cern school comput cach base data intens distribut comput architectur grid applic b tierney w johnston',5
+'proceed th ieee symposium high perform distribut comput hpdc high perform distribut comput symposium lbnl network character servic nc g jin g yang b crowley d agarwal',5
+'storag retriev imag video databas spie intern societi optic engin distribut larg data object manag architectur brian tierney guojun jin mary r thompson william e johnston',5
+'avail bandwidth achiev throughput proceed intern confer inform technolog new lbnl netest tool measur maximum burst size g jin b tierney',5
+'acm multimedia distribut parallel data storag system scalabl approach high speed imag server brian tierney gary hoo guojun jin hanan herzog ling tony chen william e johnston',5
+'slice proceed internet measur confer beach lbnl system capabl effect algorithm network bandwidth measur g jin b tierney',5
+'invit paper first intern protocol fast long distanc network lbnl us netlogg web tcp analysi b tierney',5
+'hpcn european intern confer high perform comput network europ data intens distribut comput medic applic exampl brian tierney william e johnston',5
+'proceed comput high energi physic confer chep lbnl viewgraph direct issu high data rate wide area network environ w johnston b tierney c tull',5
+'proceed usenix advanc comput system associ symposium high speed network lbl system issu implement high speed distribut parallel storag system b tierney w johnston h herzog g hoo g jin',5
+'futur gener comput system elsevi journal data intens distribut comput architectur grid applic b tierney w johnston m thompson',5
+'present internetwork lbnl distribut environ larg data object broadband network new view high perform larg scale storag base applic w johnston j guojun g hoo c larsen b tierney m thompson',5
+'usenix login journal p lbnl tcp tune guid distribut applic wide area network b tierney',5
+'hpdc high perform distribut comput symposium dynam monitor high perform distribut applic brian tierney dan gunter keith jackson martin stoufer',5
+'passiv activ measur san diego comput anim lbnl infrastructur passiv network monitor applic data stream d agarwal j m gonzlez g jin b tierney',5
+'lbl present magic gigabit network testb symposium imag server system high speed parallel distribut data server b tierney w johnston l t chen h herzog g hoo',5
+'supercomput monitor data archiv grid environ brian tierney dan gunter martin stoufer',5
+'proceed ieee supercomput confer high perform remot access climat simul data challeng problem data grid technolog b allcock i foster v nefedova a chervenak e deelman c kesselman a sim a shoshani b drach d williams',5
+'proceed ieee high perform distribut comput confer hpdc high perform distribut comput symposium lbnl viewgraph netlogg methodolog high perform distribut system perform analysi b tierney w johnston b crowley g hoo c brooks d gunter',5
+'cluster comput journal baltzer scienc public lbnl monitor sensor manag system grid environ b tierney b crowley d gunter m thompson',5
+'technic report univers special issu fgc fifth gener comput system microscop examin tcp flow transatlant link a antony j blom c de laat w sjouw',5
+'proceed ieee supercomput confer lbnl us high speed wan network data cach enabl remot distribut visual w bethel b tierney d gunter s lau',5
+'proceed ieee high perform distribut comput confer hpdc high perform distribut comput symposium lbnl monitor sensor manag system grid environ b tierney b crowley d gunter m holding m thompson',5
+'proceed ieee supercomput confer giggl framework construct scalabl replica locat servic a chervenak e deelman i foster a iamnitchi c kesselman w hoschek p kunszt m ripeanu h stockinger k stockinger b tierney',5
+'hpdc high perform distribut comput symposium monitor sensor manag system grid environ brian crowley brian tierney dan gunter mary thompson mason holding',5
+'cluster comput monitor sensor manag system grid environ brian crowley brian tierney dan gunter mary thompson',5
+'mascot intern symposium model analysi simul comput telecommun system netlogg toolkit distribut system perform analysi brian crowley brian tierney dan gunter mason holding',5
+'hpdc high perform distribut comput symposium network awar distribut storag cach data intens environ brian crowley brian tierney fred l drake jeremy hylton mason holding',5
+'nasa mass storag symposium distribut parallel storag architectur potenti applic within eosdi w johnston b tierney j feuguay t butzer',5
+'proceed ieee supercomput confer lbnl viewgraph high speed distribut data handl line instrument system w e johnston w greiman g hoo b tierney c tull',5
+'intern journal digit librari special issu digit librari medicin lbnl real time gener catalogu larg data object wide distribut environ w johnston g jin c larsen g hoo m thompson b tierney j terdiman',5
+'proceed comput high energi physic chep comparison gsiftp rfio wan r kalmady b tierney',5
+'proceed th ieee symposium high perform distribut comput hpdc high perform distribut comput symposium lbnl enabl network awar applic b tierney d gunter m stoufer',5
+'proceed high perform comput network confer hpcn european intern confer high perform comput network lbnl viewgraph data intens distribut comput medic applic exampl b tierney w johnston',5
+'nasa goddard confer mass storag system technolog lbnl viewgraph end end perform analysi high speed distribut storag system wide area atm network b tierney w johnston g hoo m thompson',5
+'proceed ieee supercomput confer lbnl monitor data archiv grid environ d gunter m stoufer b tierney',5
+'chapter grid blueprint new comput infrastructur edit elsevi instrument monitor b tierney j hollingsworth',5
+'proceed comput high energi physic chep beij lbnl appli techniqu high bandwidth data transfer across wide area network d gunter b tierney w allock j bester j bresnahan s tuecke',5
+'lbnl tech report lbnl netlogg toolkit distribut system perform tune debug b tierney d gunter',5
+'th intern grid comput grid lbnl enabl network measur portabl hierarchi characterist b lowekamp b tierney les cottrell r hughes jones t kielmann m swany',5
+'proceed ieee high perform distribut comput confer hpdc high perform distribut comput symposium lbnl network awar distribut storag cach data intens environ b tierney b crowley m holding j hylton f drake',5
+'lbnl report experi tcp ip atm oc wan r nitzan b tierney',5
+'ieee network lbl viewgraph perform analysi high speed wide area atm network top bottom end end monitor b tierney w johnston g hoo',5
+'supercomput high perform remot access climat simul data challeng problem data grid technolog alex sim ann l chervenak arie shoshani bob drach carl kesselman dean williams ewa deelman ian t foster veronika nefedova william e allcock',5
+'int j digit librari real time digit librari base widlei distribut high perform manag larg data object brian tierney case larsen gary hoo guojun jin joseph terdiman mary r thompson william e johnston',5
+'supercomput us high speed wan network data cach enabl remot distribut visual brian tierney dan gunter stephen lau wes bethel',5
+'supercomput confer lbl us high speed network enabl distribut parallel imag server system b tierney w johnston l t chen h herzog g hoo g jin',5
+'proceed comput high energi physic chep lbnl us netlogg distribut system perform analysi babar data analysi system b tierney d gunter j becla b jacobsen d quarrie',5
+'ftdc futur trend distribut comput system network channel buffer schedul algorithm interact vod server hyungill kim sungyoung lee',60
+'languag compil amp tool real time system schedul hard aperiod task hybrid static dynam prioriti system hyungill kim sungyoung lee',60
+'oper system review schedul soft aperiod task adapt fix prioriti system hyungill kim sungyoung lee',60
+'ieee intern symposium circuit system san diego vlsi architectur imag process address map k kim',61
+'tencon m hop intercept fh lpi signal us autocorrel techniqu k kim',61
+'itc intern test confer cscc seoul pipelin implement cordic rotat processor s kim k kim',61
+'journal vlsi larg scale integr signal process system signal imag video technolog number invit paper float point vector algorithm base fast rotat kees jan van der kolk ed f a deprettere',61
+'sip float point vector algorithm base fast rotat kees jan van der kolk ed f a deprettere',61
+'sip float point vector algorithm base fast rotat kees jan van der kolk ed f a deprettere',61
+'euromicro dsd milan fast low cost float point vector algorithm base cordic kees jan van der kolk ed f a deprettere',61
+'ieic tran analysi erlang capac multimedia ds cdma system i koo j ahn k kim',61
+'electron letter clock multipli us digit cmo standard cell high speed digit commun system y lee s choi s kim k kim',61
+'intern journal electron comput architectur dft base hf band energi detect kiseon kim',61
+'itc intern test confer cscc seoul comput architectur imag address mapper nan',61
+'apcc cordic base fast approxim rotat qr decomposit nan',61
+'applic discret fourier transform iccu cordic base fast approxim rotat slide window nan',61
+'intern simul technolog confer pipelin architectur direct kinemat comput us cordic b ayyar',61
+'intern simul technolog confer fpga solut invers kinemat comput engin g bayramoglu k kim',61
+'euromicro float point vector algorithm base fast rotat ed f deprettere kees jan van der kolk',61
+'int conf iast simul model solenoid detector collabor data acquisit system j dorenbosch',61
+'proceed fourteenth intern symposium multipl valu logic winnipeg observ n valu disjointli separ function g epstein p mandayam',61
+'proc ieee intern confer comput design comparison redund cordic rotat engin j harding t lang',61
+'proc ieee imtc shizuoka comput architectur dft base energi measur k kim',61
+'accv asian confer comput vision second asian confer comput vision comput structur geometr map problem k kim',61
+'ieee transact comput constant factor redund cordic angl calcul rotat tomas lang',61
+'ieee proceed great lake vlsi larg scale integr symposium cordic base discret fourier transform desgin k kim',61
+'proceed nasa vlsi larg scale integr symposium direct kinemat solut architectur industri robot manipul bit serial versu parallel k kim',61
+'ieee intern confer comput commun fulli pipelin vlsi architectur robot kinemat problem k kim',61
+'great lake symposium vlsi larg scale integr notr dame vlsi implement cordic angl unit us lager tool a mubashir',61
+'proceed nasa vlsi larg scale integr symposium vlsi architectur geometr map problem high definit imag processor k kim',61
+'ieic tran fundament low cost float point vector algorithm base cordic kees jan van der kolk ed f a deprettere',61
+'spie intern societi optic engin symposium high speed comput lo angel implement gener singular valu decomposit us line cordic t lang',61
+'proc spie intern societi optic engin adv signal proc sandiego matrix triangular fix point redund cordic constant scale factor t lang',61
+'ieic tran b novel hybrid cdma tdma protocol reserv request slot wireless atm network s lee c oh a ahmad k kim',61
+'proc icsp beij j lee fly convers scheme cordic processor proc ksea seoul novel processor design signal process new redund cordic k kim',61
+'iast numer error constant factor redund cordic base behaviro simul k kim',61
+'th intern symposium comput arithmet grenobl redund cordic constant scale svd t lang',61
+'itc intern test confer cscc seoul simul fly convers sign digit implement cordic rotat processor d oh d lee',61
+'ieic transact commun b multi qo servic atm switch system jisoo park changhwan oh jeehwan ahn kiseon kim',61
+'itc intern test confer cscc intern technic confer circuit system comput commun seoul implement comparison srt divis fpga d rim y ho',61
+'itc intern test confer cscc cordic base fast approxim rotat slide window applic discret transform y ryu',61
+'ieic tran modifi joint cdma prma protocol access channel voic data servic s shin k kim',61
+'ieee tran comput constant factor redund cordic angl calcul rotat tom aacute s lang',61
+'ieee nuclear scienc symposium medic imag confer simul model sdc line process farm c wang y chen j dorenbosch',61
+'pdpta parallel distribut process techniqu applic earli deploy strategi public wireless lan servic us ipv technolog ki shik park myung ki shin yong jin kim yonggeun hong',62
+'intern confer internet comput implement nat pt siit enhanc alg perform analysi hyoung jun kim myung ki shin',62
+'intern confer internet comput talk ipv transit toolbox myung ki shin yonggeun hong yongjin kim',62
+'wise web inform system engin updat risk base approach ttl estim web cach byung suk lee ji woong chang kyu young whang',63
+'compsac intern comput softwar applic confer cost base replac algorithm object buffer chong mok park il yeol song kyu young whang',63
+'inf sci cost base buffer replac algorithm object orient databas system chong mok park il yeol song kyu young whang',63
+'icsc intern comput scienc confer semnet semant network integr databas doo kwon baik',64
+'australian joint confer artifici intellig semant integr databas us linguist knowledg doo kwon baik',64
+'cikm intern confer inform knowledg manag semql semant queri languag multidatabas system doo kwon baik',64
+'journal statist physic comput asynchron updat cellular automata s adachi f peper',65
+'grammar uniqu parsabl unif grammar parser implement prolog hiroki asou katsunobu imai kenichi morita',65
+'nanotechnolog lai circuit asynchron cellular arrai step toward feasibl nanocomput peper ferdinand s adachi s mashiko',65
+'theor comput sci simul dimension cellular automata uniqu parallel parsabl grammar katsunobu imai kenichi morita',65
+'fundamenta informatica embed univers delai insensit circuit asynchron cellular space s adachi f peper k morita',65
+'unconvent model comput lectur note comput scienc springer lnc revers comput asynchron cellular automata p ferdinand s adachi k morita s mashiko',65
+'theoret comput scienc issn simul dimension cellular automata uniqu parallel parsabl grammar k imai k morita',65
+'umc unconvent model comput revers comput asynchron cellular automata ferdinand peper kenichi morita shinro mashiko susumu adachi',65
+'icra intern confer robot autom sensor fusion calibr motion captur us acceleromet insoo ha',66
+'icra intern confer robot autom invers kinemat solut base decompos manipul k t won',66
+'icra intern confer robot autom recurs dimens grow method comput robot manipul polytop tien c hsia young seob hwang',66
+'technic report univers experi mpi rt nan',67
+'journal fuzzi logic intellig system pp motion analysi us competit learn neural network fuzzi reason k oh',67
+'sogang univers master s thesi motion analysi us competet neural network fuzzi reason nan',67
+'ieee transact reliabl reliabl heterogen applic s j chapin s taylor',67
+'journal softwar practic experi replic strategi live check comput resili s j chapin s taylor',67
+'ieee inform assur west point assur consist increas reliabl group commun mechan comput resili n lucena s chapin',67
+'ieee th intern confer distribut comput system icdc intern confer distribut comput system multithread messag pass system high perform distribut comput applic s park s hariri',67
+'ieee ipp intern parallel process symposium spdp symposium parallel distribut process th heterogen comput effici group commun architectur atm network s park s hariri',67
+'ieee inform technolog perform evalu atm gigabit network s park s hariri',67
+'icpp intern confer parallel process workshop resili imag fusion stephen taylor tiranee achalakul',67
+'nation symposium sensor data fusion resili remot sens fuse remot sens inform resili s taylor t achalakul k lhee s robila',67
+'journal parallel algorithm applic resili imag fusion t achalakul s taylor',67
+'ieee icpp intern confer parallel process high perform scientif engin comput applic hpseca resili imag fusion t achalakul s taylor',67
+'icdc intern confer distribut comput system multithread messag pass system high perform distribut comput applic salim hariri sung yong park',67
+'heterogen comput effici group commun architectur atm network salim hariri sung yong park',67
+'journal qualiti reliabl engin intern pp comput resili s j chapin s taylor',67
+'ieee aerospac confer advanc comput resili s taylor',67
+'technic report kosef sogang univers fuzzi expert system autonom vehicl nan',67
+'critic infrastructur inform assur symposium agreement protocol comput resili n lucena s chapin',67
+'technic report univers high perform data mine nan',67
+'cikm intern confer inform knowledg manag precis lock algorithm nest transact system nan',68
+'mfdb mathemat fundament databas system multi granular lock nest transact system alan fekete',68
+'dasfaa databas system advanc applic b tree concurr control algorithm nest transact system nan',68
+'iccad intern confer comput aid design effici pole zero sensit calcul aw ronald a rohrer xiaoli huang',69
+'iccad intern confer comput aid design numer integr algorithm asymptot waveform evalu aw m murat alaybeyi ronald a rohrer',69
+'dac design autom confer awesymbol compil analysi linear iz circuit us asymptot waveform evalu ronald a rohrer',69
+'nlpr natur languag process pacif rim symposium resolv ambigu inter chunk depend pars mi young kim sin jae kang',6
+'inform retriev corpu base learn method compound noun index rule korean byung kwan kwak geunbae lee jee hyub kim seungwoo lee',6
+'cata cancun compar evalu document translat us mt system queri translat base transfer dictionari oh woog kwon insu kang geunbae lee',6
+'comput process orient languag conceptu cross languag text retriev base document translat us japanes korean mt system oh woog kwon insu kang geunbae lee',6
+'nlpr natur languag process pacif rim symposium korean text gener databas homeshop site ji eun roh sin jae kang',6
+'nlpr natur languag process pacif rim symposium phuket cross languag text retriev base document translat us japanes korean mt system oh woog kwon insu kang geunbae lee',6
+'icdc intern confer distribut comput system workshop xexplain tool gener descript text databas ji eun roh sin jae kang',6
+'iccpol tokushima evalu categori featur text structur inform text categor us memori base reason oh woog kwon sung hwa jung geunbae lee',6
+'inf process manag text categor base k nearest neighbor approach web site classif oh woog kwon',6
+'ijprai intern journal pattern recognit artifici intellig cross languag text retriev queri translat us term reweight geunbae lee insu kang oh woog kwon',6
+'cole confer comput linguist acl meet associ comput linguist identifi syntact role anteced korean rel claus us corpu thesauru inform geunbae lee hui feng li',6
+'epia portugues confer artifici intellig depend parser korean base connectionist symbol techniqu geunbae lee',6
+'pattern recognit multi level post process korean charact recognit us morpholog analysi linguist analysi geunbae lee jinhee yoo',6
+'learn natur languag process skope connectionist symbol architectur spoken korean process geunbae lee',6
+'comput linguist syllabl pattern base unknown morphem segment estim hybrid part speech tag korean gary geunbae lee jeongwon cha',6
+'comput process orient languag conceptu graph gener syntact depend structur mt environ hui feng li geunbae lee',6
+'cole confer comput linguist acl meet associ comput linguist montreal identifi syntact role anteced korean rel claus us corpu thesauru inform hui feng li geunbae lee',6
+'comput process orient languag int l j clc olc publish lexic transfer ambigu resolut us automat extract concept co occurr inform hui feng li namwon heo kyonghi moon geunbae lee',6
+'nan us abstract knowledg automat sens tag corpu lexic transfer ambigu resolut hui feng li namwon heo kyonghi moon',6
+'nlpr natur languag process pacif rim symposium word sens disambigu us neural network concept co occurr inform kyoung hi moon sin jae kang you jin chung',6
+'literari linguist comput corpu base modal gener korean predic dong un an gil chang kim',6
+'tran inform process societi written japanes colloc base transfer method japanes korean machin translat chul jae park geunbae lee k kakei',6
+'iccpol hong kong noun phrase index us shallow depend pars korean document dae seon choi hyun a lee oh woog kwon geunbae lee',6
+'commun colip int l j chines orient languag inform process societi multi level linguist approach disambigu japanes connect end namwon heo yujin chung kyonghi moon geunbae lee',6
+'jci joint confer inform scienc build descript text gener system korean databas ji eun roh sin jae kang',6
+'commun colip int l j chines orient languag inform process societi resolv noun sens ambigu korean base concept co occurr inform namwon heo hui feng li kyonghi moon geunbae lee',6
+'int l j pattern recognit artifici intellig publish cross languag text retriev queri translat us term re weight insu kang oh woog kwon geunbae lee',6
+'comput process orient languag two phase automat extract semant knowledg larg corpu sin jae kang geunbae lee',6
+'j natur languag process written japanes gener korean predic base modal featur order lexic tabl japanes korean machin translat jung in kim geunbae lee',6
+'acm tran asian lang inf process morphem base graphem phonem convers us phonet pattern morphophonem connect inform byeongchang kim geunbae lee',6
+'cole confer comput linguist acl meet associ comput linguist unlimit vocabulari graphem phonem convers korean tt byeongchang kim geunbae lee wonil lee',6
+'activ middlewar servic dev model simul new layer middlewar bernard p zeigler hessam s sarjoughian james j nutaro sunwoo park young k cho',70
+'j parallel distrib comput space base commun data manag scalabl distribut simul bernard p zeigler',70
+'j parallel distrib comput quantiz base filter distribut discret event simul bernard p zeigler hessam s sarjoughian hyup j cho jeong geun kim',70
+'nan scalabl multicast base filter trace servic framework defeat distribut attack gustavo de veciana',71
+'comput network ip multicast resourc topolog discoveri us fan decrement mechan gustavo de veciana',71
+'infocom confer comput commun resourc topolog discoveri ip multicast us fan decrement mechan gustavo de veciana',71
+'proceed intern confer wireless network icwn dsr base energi awar rout protocol ad hoc network wei yu',71
+'proceed th usenix advanc comput system associ symposium internet technolog system usit usenix symposium internet technolog system hp laboratori report hpl fastreplica effici larg file distribut within content deliveri network ludmila cherkasova',71
+'usenix advanc comput system associ symposium internet technolog system fastreplica effici larg file distribut within content deliveri network ludmila cherkasova',71
+'transact kiee complet lineariz class nonlinear siso system uncertainti sung j joo nam h jo jin h seo',71
+'proceed asian control confer observ nonlinear system unknown input nam h jo jin h seo',71
+'transact kiee observ nonlinear system unknown input nam h jo jin h seo',71
+'proceed kiee confer control design singl link robot flexibl joint us nonlinear observ jin h seo',71
+'proceed th intern network group commun ngc evalu topolog sensit subgroup commun larg scale multicast applic gustavo de veciana',71
+'comput network ip multicast resourc topolog discoveri us fan decrement mechan gustavo de veciana',71
+'proceed infocom confer comput commun twentieth annual joint confer ieee comput commun societi resourc topolog discoveri ip multicast us fan decrement mechan gustavo de veciana',71
+'infocom confer comput commun perform analysi hybrid prioriti control scheme input output queue atm switch young han kim',72
+'comput network rtmw applic bring multicast audio video web jin ho hahm jung sook bae myung ki shin',72
+'perform eval perform analysi input queue combin push state depend schedul scheme nonblock atm switch chong kwan un kye sang lee',72
+'recomb unr unit residu forc field energi base predict protein structur orgin signific multibodi term adam liwo cezary czaplewski daniel r ripoll harold a scheraga jaroslaw pillardy malgorzata groth rajmund kazmierkiewicz ryszard j wawak stanislaw oldziej sylwia rodziewicz motowidlo',73
+'journal comput chemistri evolut physic base methodolog explor conform energi landscap protein adam liwo cezary czaplewski daniel r ripoll harold a scheraga jaroslaw pillardy william j wedemeyer yelena a arnautova',73
+'journal comput chemistri new optim method conform energi calcul polypeptid conform space anneal harold a scheraga shelly rackovsky',73
+'icra intern confer robot autom local mobil robot us imag move target byung hwa kim dong kyu roh man hyung lee',74
+'icra intern confer robot autom studi featur base visual servo control eight ax dual arm robot util redund featur jae weon choi k son m c lee man hyung lee seung hyun han',74
+'icra intern confer robot autom optim move window real time road imag process sung yug choi',74
+'ieee intern analysi model face gestur nice model base d face captur shape silhouett b moghaddam h pfister r machiraju',75
+'ieee comput graphic applic issu page s transfer function bake h pfister b lorensen c bajaj g kindlmann w schroeder l s avila k m raghu r machiraju',75
+'visual vi ieee symposium inform visual infovi proceed page s salient iso surfac detect model independ statist signatur s tenginakai r machiraju',75
+'ieee comput graphic applic transfer function bake chandrajit l bajaj gordon l kindlmann hanspeter pfister ken martin lisa sobierajski avila raghu machiraju william e lorensen william j schroeder',75
+'proceed th kiss confer design implement content base imag retriev system us interact genet algorithm nan',75
+'proceed th kiss confer design implement dsssl processor style control sgml document nan',75
+'journal kiss virtual environ share techniqu support multius www nan',75
+'graphic interfac halifax silhouett base d face shape recoveri b moghaddam h pfister r machiraju',75
+'m s thesi studi virtual environ share techniqu support multius www nan',75
+'intern confer multimedia databas internet seoul korea style control structur document us dsssl nan',75
+'proceed th kiss confer design implement vrml author tool snapshot nan',75
+'ieee visual salient iso surfac detect model independ statist signatur raghu machiraju shivaraj tenginakai',75
+'icpp intern confer parallel process minim commun recircul biton sort network kenneth e batcher',76
+'ieee tran parallel distrib syst minim commun biton sort kenneth e batcher',76
+'icpad intern confer parallel distribut system minim commun biton sort softwar kyung hee kwon young beom park',76
+'icra intern confer robot autom optim design actuat size redundantli actuat omni direct mobil robot bum jae you byung ju yi sang rok oh tae bum park whee kuk kim',77
+'icra intern confer robot autom singular free algorithm design scheme new dof parallel haptic devic byung ju yi hyung wook kim il hong suh',77
+'icra intern confer robot autom impuls measur base perform analysi saw task dual arm byung ju yi il hong suh sang rok oh',77
+'acisp australasian confer inform secur privaci mobil pki pki base authent framework next gener mobil commun jabeom gu jaehoon nah ohyoung song sehyun park sung won sohn',78
+'human societi internet pki base authent framework next gener mobil internet jabeom gu ohyoung song sehyun park',78
+'human societi internet new adapt trust model ddo back ca mesh pki jabeom gu jooseok song minsoo lee sehyun park seoklae lee',78
+'dac design autom confer vericdf new verif methodolog charg devic failur ki wook kim sung mo kang',79
+'iccd intern confer comput design high perform low power skew static logic deep submicron vdsm technolog chulwoo kim eric martina kwang hyun baek sung mo kang',79
+'iccd intern confer comput design understand address nois induc electrostat discharg multipl power suppli system peter bendix sung mo kang yoonjong huh',79
+'inf process lett tight analysi self approach strategi onlin kernel search problem kyung yong chwa',7
+'korea joint algorithm comput waac tokyo improv gossip short messag dimension mesh jae hoon kim kyung yong chwa',7
+'dagstuhl special issu journal graph algorithm applic carri umbrella onlin reloc game graph chong dae park kyung yong chwa',7
+'proc th intern symposium algorithm comput isaac intern symposium algorithm comput madra lectur note comput scienc page carri umbrella onlin reloc game graph chong dae park kyung yong chwa',7
+'j parallel distrib comput optim embed multipl direct hamiltonian ring d dimension mesh chan su shin kyung yong chwa',7
+'proc th intern symposium algorithm comput isaac intern symposium algorithm comput osaka lectur note comnput scienc direct hamiltonian pack d dimension mesh applic chan su shin kyung yong chwa',7
+'th acm symposium comput geometri socg visibl base pursuit evas polygon room door sung yong shin kyung yong chwa',7
+'proc th intern symposium algorithm comput isaac intern symposium algorithm comput madra lectur note comput scienc page onlin schedul parallel commun individu deadlin kyung yong chwa',7
+'th acm symposium comput geometri socg nice new competit strategi search unknown star shape polygon chan su shin jae hoon kim sung yong shin kyung yong chwa',7
+'technic report kaist cs tr polygon search conjectur sang min park kyung yong chwa',7
+'isaac intern symposium algorithm comput character room searchabl two guard kyung yong chwa sang min park',7
+'icalp automata languag program visibl base pursuit evas polygon region searcher kyung yong chwa sang min park',7
+'proc european symposium algorithm esa european symposium algorithm saarbruecken lectur note comput scienc page approxim curvatur constrain shortest path sequenc point otfried cheong woo cheol kwon sung yong shin kyung yong chwa',7
+'symposium comput geometri visibl base pursuit evas polygon room door kyung yong chwa sung yong shin',7
+'isaac intern symposium algorithm comput onlin schedul parallel commun individu deadlin kyung yong chwa',7
+'esa european symposium algorithm approxim curvatur constrain shortest path sequenc point kyung yong chwa otfried cheong sung yong shin woo cheol kwon',7
+'isaac intern symposium algorithm comput optim algorithm sweep polygon region mobil guard kyung yong chwa sang min park',7
+'inf process lett simpl algorithm search polygon flashlight kyung yong chwa sang min park',7
+'int j comput geometri appl search polygon room door searcher kyung yong chwa sang min park',7
+'int j comput geometri appl search room two guard kyung yong chwa sang min park',7
+'journal parallel distribut comput optim embed multipl direct hamiltonian ring d dimension mesh chan su shin kyung yong chwa',7
+'nan simpl algorithm search polygon flashlight sang min park kyung yong chwa',7
+'intern journal comput geometri applic search polygon room door searcher sang min park kyung yong chwa',7
+'inform process letter tight analysi self approach strategi onlin kernel search problem kyung yong chwa',7
+'proc th intern symposium algorithm comput isaac intern symposium algorithm comput taipei lectur note comput scienc page invit ijcga intern journal comput geometri applic character room searchabl two guard sang min park kyung yong chwa',7
+'technic report kaist cs tr character class polygon searchabl searcher sang min park kyung yong chwa',7
+'isaac intern symposium algorithm comput carri umbrella onlin reloc problem graph chong dae park kyung yong chwa',7
+'technic report kaist cs tr visibl base pursuit evas polygon region searcher sang min park kyung yong chwa',7
+'isaac intern symposium algorithm comput direct hamiltonian pack d dimension mesh applic extend abstract chan su shin kyung yong chwa',7
+'symposium comput geometri new competit strategi search unknown star shape polygon chan su shin jae hoon kim kyung yong chwa sung yong shin',7
+'edci engin deploy cooper inform system index retriev xml encod structur document dynam environ hae chull lim sung wan kim',80
+'icoin intern confer inform network data model algebra document centric xml document hae chull lim pan seop shin sung wan kim youn hee kim',80
+'human societi internet fast updat index scheme structur xml document hae chull lim sung wan kim',80
+'linear algebra appl c characterist polynomi graph semifre action hye kyung kim',81
+'j korean math soc c genu distribut bouquet dipol jin hwan kim',81
+'linear multilinear algebra c characterist polynomi graph bundl jin ho kwak',81
+'graph combin c c count finit fold cover graph jin ho kwak',81
+'kyungpook math j c c genu polynomi dipol jin ho kwak',81
+'j graph theori c c c enumer connect graph cover jin ho kwak',81
+'discret math c c enumer graph embed jin ho kwak',81
+'siam societi industri appli mathemat j discret math c c b k m enumer regular graph cover finit abelian cover transform group jin ho kwak jang ho chun',81
+'kyungpook math j c c m m regular pq fold cover graph jin ho kwak',81
+'ar combin c c isomorph class bipartit cycl permut graph jin ho kwak',81
+'nan enumer graph cover yokohama math j c',81
+'discret math c c bipartit cover graph dan archdeacon jin ho kwak moo young sohn',81
+'bull korean math soc c c line graph cover graph cover graph dan archdeacon moo young sohn',81
+'j korean math soc c characterist polynomi graph bundl younki chae jin ho kwak',81
+'siam societi industri appli mathemat j discret math enumer regular graph cover finit abelian cover transform group jang ho chun jin ho kwak',81
+'siam societi industri appli mathemat j discret math c c m isomorph class concret graph cover rongquan feng jin ho kwak juyoung kim',81
+'bull austral math soc c c c bipartit graph bundl connect fibr sungpyo hong jin ho kwak',81
+'discret math c c regular graph cover whose cover transform group isomorph extens properti sungpyo hong jin ho kwak',81
+'discret appli mathemat note graph larg girth small minu domin number kyung kim hye young sohn moo',81
+'siam societi industri appli mathemat j discret math isomorph class concret graph cover jin ho kwak juyoung kim rongquan feng',81
+'discret math c c c isomorph class cycl permut graph jin ho kwak',81
+'canad j math c c q isomorph class graph bundl jin ho kwak',81
+'graph combin c isoperimetr number graph bundl jin ho kwak moo young sohn',81
+'ar combin c isoperimetr number bisect width doubl cover complet graph jin ho kwak sungpyo hong moo young sohn',81
+'linear multilinear algebra c characterist polynomi complement graph bundl applic moo young sohn',81
+'internat j math math sci c c m characterist polynomi weight graph bundl applic link moo young sohn',81
+'commun korean math soc c c permut graph graph moo young sohn',81
+'discret appl math c note graph larg girth small minu domin number moo young sohn hye kyung kim',81
+'proceed int l real time comput system applic object orient design main memori dbm real time applic s k cha j h park s h song b d park j s lee s y park g b kim',82
+'proceed databas telecommun main memori databas locat manag telecommun sang k cha kihong kim sangho lee jang ho park',82
+'proceed rd int l real time comput system applic extens architectur main memori real time storag system s k cha j h park b d park j s lee',82
+'icd intern confer data engin differenti log commut associ log scheme highli parallel main memori databas kihong kim sang k cha',82
+'databas telecommun databas architectur locat trajectori manag telecommun ki hong kim sang kyun cha',82
+'dexa databas expert system applic high perform spatial storag base main memori databas architectur jang ho park ki hong kim min seok song sang kyun cha sangho lee',82
+'proceed dexa databas expert system applic confer high perform spatial storag system base main memori databas architectur jang ho park kihong kim sang k cha min seok song sangho lee',82
+'proceed th acm int l confer inform knowledg manag page ohp slide present confer xma extens main memori storag system j h park b d park s k cha',82
+'proceed acm sigmod intern confer manag data page xma extens main memori storag system high perform applic j h park s k cha et al',82
+'proceed itc intern test confer cscc extens main memori dbm kernel high perform embed applic j h park s h lee m s song s k cha',82
+'icra intern confer robot autom feedforward modul dynam behaviour anthropomorph robot via forc redund byung ju yi',83
+'icra intern confer robot autom design new dof parallel haptic devic byung ju yi il hong suh kwang sik eom',83
+'icra intern confer robot autom optim design five bar finger redund actuat byung ju yi il hong suh sang rok oh',83
+'secur manag new multi layer copyright protect us digit watermark jong uk choi jong weon kim',84
+'secur manag multi bit imag watermark techniqu geometr attack han ho lee jong weon kim',84
+'secur manag fingerprint algorithm digit imag video han ho lee jong weon kim nam yong lee',84
+'icra intern confer robot autom point stabil mobil robot via state space exact feedback linear hakyoung chung kyu cheol park',85
+'parallel comput parallel algorithm solv tridiagon toeplitz linear system hyoung joong kim',85
+'univers michigan combin nan hyoung j',85
+'icdc intern confer distribut comput system tcp pr tcp persist packet reorderin chansook lim jo atilde o p hespanha katia obraczka stephan bohacek',86
+'hscc hybrid model tcp congest control jo atilde o hespanha katia obraczka stephan bohacek',86
+'sigmetr measur model comput system hybrid system model framework fast accur simul data commun network jo atilde o p hespanha katia obraczka stephan bohacek',86
+'journal chemic inform comput scienc applic standard robot method water analysi john c marshall thomas l isenhour',87
+'journal chemic inform comput scienc blackboard strategi laboratori robot john c marshall thomas l isenhour',87
+'journal chemic inform comput scienc expert system analyt data manag john c marshall thomas l isenhour',87
+'ieee tran knowl data eng data manag issu trade off cscw system atul prakash hyong sop shim',88
+'ieee internet comput softwar architectur uarc web base collaboratori atul prakash farnam jahanian g robert malan hyong sop shim peter knoop sushila subramanian terry e weymouth',88
+'cscw confer comput support cooper work support multi user multi applet workspac cbe atul prakash gwobaw wu trent jaeger',88
+'sigir research develop inform retriev maximum entropi principl inform retriev paul b kantor',89
+'jasi journal american societi inform scienc studi probabilist inform retriev system case inconsist expert judgment paul b kantor',89
+'jasi journal american societi inform scienc test maximum entropi principl inform retriev paul b kantor',89
+'t w malon k crowston b pentland tool invent organ toward handbook organiz process nan',8
+'proc acm confer organiz comput comput anim goal base process analysi nan',8
+'proc acm confer organiz comput comput anim goal base process analysi nan',8
+'report engin research trend studi abroad inform superhighwai korean american scientist engin associ virtual environ nan',8
+'cooc goal base process analysi method systemat process redesign nan',8
+'acm tran inf syst partial share view scheme commun among group us differ type hierarchi thomas w malone',8
+'proc requir engin san diego comput anim import increment rational manag nan',8
+'proc requir engin san diego comput anim import increment rational manag nan',8
+'public manag scienc tool invent organ toward handbook organiz process t w malone k crowston b pentland',8
+'proceed th intern confer softwar engin extend pott brun model record design rational nan',8
+'proceed twenti fourth annual intern confer system scienc kauai us unifi mediat environ distribut heterogen databas l marinos m papazoglou',8
+'proceed aaai nation confer artifici intellig design rational captur us increment approach design rational manag nan',8
+'austrailian j inform technolog reengin softwar review process fpa function base process analysi method c stricker',8
+'commun acm end user perspect file share system nan',8
+'inf syst defin special dataflow diagram george m wyner',8
+'proceed enabl technolog concurr engin concurr engin center univ west rational manag system concurr engin nan',8
+'proc comput support cooper work comput anim sibyl tool manag group decis rational nan',8
+'cscw confer comput support cooper work sibyl tool manag group design rational nan',8
+'concurr engin review concurr engin research center w electron version also publish concurr engin digest issu number summari report aaai design rational nan',8
+'proceed th intern confer softwar engin extend pott brun model record design rational nan',8
+'proceed twenti fourth annual intern confer system scienc kauai us unifi mediat environ distribut heterogen databas l marinos m papazoglou',8
+'human comput interact special issu design rational s design rational k y lai',8
+'proc aaai nation confer artifici intellig symposium comput organ design comput anim us process handbook design organiz process c dellarocas t w malone k crowston b pentland',8
+'proceed aaai nation confer artifici intellig design rational captur us increment approach design rational manag nan',8
+'ai artifici intellig magazin design rational captur us nan',8
+'comput amp secur integr softwar lifecycl process standard secur engin younghwa lee zoonky lee',8
+'t w malon k crowston b pentland tool invent organ toward handbook organiz process nan',8
+'cooc appli special process model george m wyner',8
+'acm transact inform system partial share view scheme commun among group us differ type hierarchi t malone',8
+'knowledg engin review research design rational nan',8
+'public decis support system agent base framework build dss t bui',8
+'hicss intern confer system scienc templat base methodolog disast manag inform system tung x bui',8
+'proceed enabl technolog concurr engin concurr engin center univ west rational manag system concurr engin nan',8
+'winston p s shellard ed artifici intellig mit expand frontier ch mit press sibyl qualit decis manag system nan',8
+'proceed confer comput support cooper work lo angel comput anim sibyl tool manag group decis rational nan',8
+'concurr engin review concurr engin research center w electron version also publish concurr engin digest issu number summari report aaai design rational nan',8
+'proc aaai nation confer artifici intellig symposium comput organ design comput anim us process handbook design organiz process c dellarocas t w malone k crowston b pentland',8
+'commun acm ontolog applic design introduct michael gr uuml ninger',8
+'hicss intern confer system scienc inform technolog fashion lifecycl phase analysi emilio collar',8
+'proceed aaai nation confer artifici intellig symposium argument belief drl task specif argument represent languag nan',8
+'ici intern confer inform system effect self ident social ident technolog accept younghwa lee zoonky lee',8
+'proceed aaai nation confer artifici intellig san jose comput anim design rational captur us nan',8
+'ai artifici intellig magazin articl editori review aaai design rational captur us nan',8
+'ieee expert ieee comput societi design rational system understand issu nan',8
+'proceed aaai nation confer artifici intellig symposium argument belief drl task specif argument represent languag nan',8
+'handbook architectur inform system edit peter bernu kai mertin gunter schmidt springer verlag chapter pif work group process interchang format nan',8
+'knowledg process manag formerli busi chang reengin function base process analysi c stricker',8
+'proceed aaai nation confer artifici intellig san jose comput anim design rational captur us nan',8
+'knowledg engin review univ press pif work group process interchang format framework nan',8
+'ieee expert design rational system understand issu nan',8
+'icip intern confer imag process motion estim incomplet inform us omni direct vision ulrich neumann',90
+'vr virtual realiti augment virtual environ av dynam fusion imageri d model bolan jiang jinhui hu suya you ulrich neumann',90
+'comput amp graphic track unprepar environ augment realiti system bolan jiang jun park ronald azuma suya you ulrich neumann',90
+'foc ieee symposium foundat comput scienc bound geometri fractal low distort embed anupam gupta robert krauthgamer',91
+'stoc acm symposium theori comput intrins dimension graph robert krauthgamer',91
+'approx hard approxim vertex connect network design problem guy kortsarz robert krauthgamer',91
+'icmc intern confer multimedia comput system effici graphic shot verifi incorpor visual rhythm hyeokman kim samuel moon ho song',92
+'multimedia tool applic visual rhythm shot verif hyeokman kim jae heon yang samuel moon ho song sanghoon sull woonkyung michael kim',92
+'inform amp softwar technolog tunabl class hierarchi index object orient databas us multidimension index structur il yeol song kyu young whang wan sup cho wook shin han',93
+'inform amp softwar technolog corrigendum tunabl class hierarchi index object orient databas us multidimension index structur il yeol song kyu young whang wan sup cho wook shin han',93
+'recomb estim restrict site observ optic map us revers jump markov chain mont carlo michael s waterman vlado danc iacute k',94
+'journal comput biologi estim restrict site observ optic map us revers jump markov chain mont carlo michael s waterman vlado danc iacute k',94
+'isca ieee intern symposium circuit system design sharp fir filter prescrib group delai charng kann chen',95
+'isca ieee intern symposium circuit system minimax design two dimension fir digit filter us interior point algorithm charng kann chen',95
+'pic imag process imag qualiti imag captur system confer select multi resolut motion estim us half pixel accuraci characterist motion vector in sung ha kuhn il lee seong geun kwon suk hwan lee',96
+'pic imag process imag qualiti imag captur system confer new bock artifact reduct algorithm us adapt filter base classif block boundari area gun woo lee kuhn il lee seong geun kwon suk hwan lee',96
+'design code cryptographi resist cast like encrypt algorithm linear differenti cryptanalysi howard m heys stafford e tavares',97
+'journal system softwar petri net base model specif analysi cryptograph protocol g lee',97
+'ik innov knowledg econom dynam adopt hierarch categori dimens multidimension inform retriev engin david grossman ratko orlandic',98
+'sigir research develop inform retriev design evalu multi dimension approach inform retriev abdur chowdhury david a grossman m catherine mccabe ophir frieder',98
+'ewcbr us case base reason domain build regul david stuart robertson soon ae yang',99
+'icail intern confer artifici intellig law kic knowledg intens case base reason system statutori build regul case histori david stuart robertson soon ae yang',99
+'acm sigir research develop inform retriev confer research develop inform retriev zurich us n gram korean text retriev joon ho lee jeong soo ahn',9
+'inf process manag n gram base index korean text retriev h r park h y cho',9
+'natur languag process pacif rim symposium phuket statist model korean text segment us syllabl level bigram joong ho shin joon ho lee hyuk ro park sun ho kim',9
+'sigir research develop inform retriev evalu boolean oper extend boolean retriev framework myoung ho kim won yong kin',9
+'inf process manag rank document thesauru base boolean retriev system myoung ho kim',9
+'dexa databas expert system applic studi util ocr technolog build text databas jin hyung kim sun hwa hahn',9
+'intern fuzzi system associ world congress seoul korea effect posit compens retriev effect won yong kim myoung ho kim yoon joon lee',9
+'acm sigir research develop inform retriev confer research develop inform retriev combin multipl evid differ properti weight scheme joon ho lee',9
+'intern symposium databas system advanc applic combin multipl evid differ relev feedback method joon ho lee',9
+'far east futur databas system kyoto knowledg base approach rank document boolean queri myoung ho kim yoon joon lee',9
+'sigir research develop inform retriev combin multipl evid differ properti weight scheme nan',9
+'dasfaa databas system advanc applic combin multipl evid differ relev feedback network nan',9
+'inform retriev orient languag taejon korea effect index method korean text retriev joon ho lee jeong soo ahn joong ho shin',9
+'inf process manag combin evid differ relev feedback method inform retriev nan',9
+'australian document comput symposium n gram base index effect retriev korean text joon ho lee hyuk ro park jeong soo ahn',9
+'sigir research develop inform retriev properti extend boolean model inform retriev nan',9
+'intern symposium databas system advanc applic taejon korea enhanc fuzzi set model posit compensatori oper won yong kim myoung ho kim yoon joon lee',9
+'sigir research develop inform retriev us n gram korean text retriev jeong soo ahn',9
+'acm sigir research develop inform retriev confer research develop inform retriev multikei access method base term descrimin signatur cluster jae woo chang yoon joon lee',9
+'futur databas knowledg base approach rank document boolean queri myoung ho kim',9
+'dasfaa databas system advanc applic enhanc fuzzi set model posit compensatori oper myoung ho kim w y kim',9
+'inf process lett analysi fuzzi oper high qualiti inform retriev myoung ho kim',9
+'acm sigir research develop inform retriev confer research develop inform retriev analys multipl evid combin joon ho lee',9
+'acm sigir research develop inform retriev confer research develop inform retriev evalu boolean oper extend boolean retriev framework won yong kim myoung ho kim yoon joon lee',9
+'acm sigir research develop inform retriev confer research develop inform retriev glasnevin properti extend boolean model inform retriev joon ho lee',9
+'inform retriev asian languag tshkuba shi us multipl relev feedback method high retriev effect kyi ho lee joon ho lee kyu chul lee',9

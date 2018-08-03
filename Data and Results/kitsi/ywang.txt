@@ -1,0 +1,257 @@
+39338;1;ye kui wang;s wenger,m hannuksela;system transport interfac h 264 avc scalabl extens;icip;2006
+39339;1;ye kui wang;;av m standard applic;jcst;2006
+39340;1;ye kui wang;g tu;block truncat code adapt decim interpol;vcip;2000
+39341;1;ye kui wang;m hannuksela,m gabbouj;sub pictur roi code unequ error protect;icip;2002
+39342;1;ye kui wang;m hannuksela,v varsa,a hourunranta,m gabbouj;error conceal featur h 26l test model;icip;2002
+39343;1;ye kui wang;d tian,m hannuksela,m gabbouj;code fade scene transit;icip;2002
+39344;1;ye kui wang;m hannuksela,k caglar,m gabbouj;improv error conceal us scene inform;vlbv;2003
+39345;1;ye kui wang;y guo,h li;error resili mode decis scalabl video code;icip;2006
+39346;1;ye kui wang;c zhu,m hannuksela,h li;error resili video code us redund pictur;icip;2006
+39347;1;ye kui wang;m hannuksela,m gabbouj;error resili video code us unequ protect kei pictur;vlbv;2003
+39348;1;ye kui wang;m hannuksela,m gabbouj;isol region video code;tmm;2004
+39349;2;yingxu wang;f rusu banu;formal descript time manag real time oper system;ccece;2006
+39350;2;yingxu wang;v chiew;design cognit complex measur analysi tool;ccece;2006
+39351;2;ying wang;y wang,s patel,d patel;layer refer model brain;ieeeicci;2003
+39352;2;yingxu wang;d liu,g ruhe;formal descript cognit process decis make;ieeeicci;2004
+39353;2;yingxu wang;;autonom comput cognit process;ieeeicci;2004
+39354;2;yingxu wang;c ngolah,x tan;implement real time process rtpa us real time java;ccece;2006
+39355;2;yingxu wang;v chiew;formal descript cognit process problem solv;ieeeicci;2004
+39356;2;yingxu wang;d gafurov;cognit process comprehens;ieeeicci;2003
+39357;2;yingxu wang;;latest develop cognit informat;ooi;2002
+39358;2;yingxu wang;d liu;inform knowledg represent brain;ieeeicci;2003
+39359;2;yingxu wang;;cognit informat;ieeeicci;2002
+39360;2;yingxu wang;v chiew;softwar engin process benchmark;profe;2002
+39361;2;ying wang;y wang;cognit model brain;ieeeicci;2002
+39362;2;yingxu wang;x tan,c ngolah;design implement automat rtpa code gener;ccece;2006
+39363;2;yingxu wang;;cognit process abstract formal infer;ieeeicci;2005
+39364;2;yingxu wang;;real time process algebra rtpa;ansoft;2002
+39365;2;yingxu wang;j shao;measur cognit function complex softwar;ieeeicci;2003
+39366;2;yingxu wang;;cognit properti human factor engin;ieeeicci;2005
+39367;2;yingxu wang;;mathemat model properti game;ieeeicci;2005
+39368;3;yongmei wang;b peterson,l staib;shape base 3d surfac correspond us geodes local geometri;cvpr;2000
+39369;3;yongmei michelle wang;b peterson,l staib;3d brain surfac match base geodes local geometri;cviu;2003
+39370;3;yongmei wang;l staib;boundari find correspond us statist shape model;cvpr;1998
+39371;3;yongmei michelle wang;h zhang;detect imag orient base low level visual content;cviu;2004
+39372;3;yongmei wang;j zhang,b guo;pyramid search maximum coher direct biomed imag interpol;isbi;2002
+39373;3;yongmei wang;l staib;boundari find prior shape smooth model;pami;2000
+39374;3;yongmei michelle wang;r schultz,r constable,l staib;nonlinear estim model fmri data us spatio tempor support vector regress;ipmi;2003
+39375;4;ying wang;p moulin;error expon channel code side inform;corr;2004
+39376;4;ying wang;p moulin;achiev error expon watermark;sswmc;2005
+39377;4;ying wang;p moulin;steganalysi block structur stegotext;sswmc;2004
+39378;4;ying wang;p moulin;improv qim strategi gaussian watermark;iwdw;2005
+39379;5;yi min wang;c verbowski,d simon;persist state checkpoint comparison troubleshoot configur failur;dsn;2003
+39380;5;yi min wang;l li,j halpern,p bahl,r wattenhofer;cone base distribut topolog control algorithm wireless multi hop network;ton;2005
+39381;5;yi min wang;a arora,r jagannathan;model base fault detect powerlin network;ipp;2002
+39382;5;yi min wang;e li,j halpern,p bahl,r wattenhofer;analysi cone base distribut topolog control algorithm wireless multi hop network;podc;2001
+39383;5;yi min wang;d beck,b vo,r roussev,c verbowski;detect stealth softwar strider ghostbust;dsn;2005
+39384;5;yi min wang;c verbowski,j dunagan,y chen,h wang,c yuan,z zhang;strider black box state base approach chang configur manag support;lisa;2003
+39385;5;yi min wang;p bahl,w russell;simba user alert servic architectur depend alert deliveri;dsn;2001
+39386;5;yi min wang;e elnozahy,l alvisi,d johnson;survei rollback recoveri protocol messag pass system;csur;2002
+39387;5;yi min wang;q sun,d simon,w russell,v padmanabhan,l qiu;statist identif encrypt web brows traffic;sp;2002
+39388;5;yi min wang;w russell,a arora,r jagannathan,j xu;toward depend home network experi report;dsn;2000
+39389;5;yi min wang;w lee;comera extens remot architectur;coot;1998
+39390;5;yi min wang;d beck,x jiang,r roussev,c verbowski,s chen,s king;autom web patrol strider honeymonkei find web site exploit browser vulner;ndss;2006
+39391;5;yi min wang;e li,j halpern,p bahl,r wattenhofer;analysi cone base distribut topolog control algorithm wireless multi hop network;corr;2002
+39392;5;yi min wang;c verbowski,j dunagan,y chen,h wang,c yuan,z zhang;strider black box state base approach chang configur manag support;scp;2004
+39393;5;yi min wang;j tsai,s kuo;theoret analysi commun induc checkpoint protocol rollback depend trackabl;tpd;1998
+39394;6;yusong wang;j verschelde;comput feedback law linear system parallel pieri homotopi;icppw;2004
+39395;7;yi wang;f han,j hu,x yu;fingerprint imag encrypt via multi scroll chaotic attractor;amc;2007
+39396;7;yi wang;j hu,h schroder;gradient base weight averag method estim fingerprint orient field;dicta;2005
+39397;8;yong wang;i witten;model optim probabl predict;icml;2002
+39398;8;yong wang;r mcnab,i witten,c gutwin;predict queri time;sigir;1998
+39399;8;yong wang;e frank,s inglis,g holmes,i witten;us model tree classif;ml;1998
+39400;8;yong wang;;maximum likelihood comput base fisher score gauss newton quadrat approxim;csda;2007
+39401;9;yong wang;j li,g chen,k yu,h shum,j xu,h zhou,k ng,k wang,l wang;portrait video phone;mm;2001
+39402;9;yong wang;j li,k yu,g chen,h zhou,j xu,k ng,k wang,l wang,h shum;portrait video phone;mm;2001
+39403;9;yong wang;s chang,a loui;subject prefer spatio tempor rate video adapt us multi dimension scalabl code;icmc;2004
+39404;10;yalin wang;j hu;machin learn base approach tabl detect web;www;2002
+39405;10;yalin wang;x gu,t chan,p thompson,s yau;brain surfac conform parameter algebra function;miccai;2006
+39406;10;yalin wang;j hu;detect tabl html document;;2002
+39407;10;yalin wang;r haralick,i phillips;statist base approach word segment;icpr;2000
+39408;10;yalin wang;x gu,k hayashi,t chan,p thompson,s yau;brain surfac parameter us riemann surfac structur;miccai;2005
+39409;10;yalin wang;m jin,s yau,x gu;optim global conform surfac parameter;visual;2004
+39410;10;yalin wang;m chiang,p thompson;autom surfac match us mutual inform appli riemann surfac structur;miccai;2005
+39411;10;yalin wang;i phillips,r haralick;tabl detect via probabl optim;;2002
+39412;10;yalin wang;x gu,t chan,p thompson,s yau;volumetr harmon brain map;isbi;2004
+39413;10;yalin wang;x gu,k hayashi,t chan,p thompson,s yau;brain surfac conform parameter;cgim;2005
+39414;10;yalin wang;m chiang,p thompson;3d surfac match mutual inform riemann surfac structur;cgim;2005
+39415;10;yalin wang;i phillips,r haralick;method document zone content classif;icpr;2002
+39416;10;yalin wang;s aksoy,m ye,m schauf,m song,r haralick,j parker,j pivovarov,d royko,c sun,g farneback;algorithm perform contest;icpr;2000
+39417;10;yalin wang;x gu,k hayashi,t chan,p thompson,s yau;surfac parameter us riemann surfac structur;iccv;2005
+39418;11;yongge wang;z liu;secur agent architectur sensor network;icai;2003
+39419;11;yongge wang;y zheng,b chu;effici secur storag system base peer peer system;icai;2003
+39420;11;yongge wang;k ambos spies,e mayordomo,x zheng;resourc bound balanc gener stochast weak random;stac;1996
+39421;11;yongge wang;y desmedt;perfectli secur messag transmiss revisit;eurocrypt;2002
+39422;11;yongge wang;;np hard set superters unless np small;eccc;1996
+39423;11;yongge wang;y desmedt;effici zero knowledg proof practic graph problem;scn;2002
+39424;11;yongge wang;x wu,y zheng;privaci preserv databas applic test;wpe;2003
+39425;11;yongge wang;;us mobil agent result creat hard detect comput virus;sec;2000
+39426;11;yongge wang;;np hard set superters unless np small;ipl;1997
+39427;11;yongge wang;;linear complex versu pseudorandom beth dai s result;asiacrypt;1999
+39428;11;yongge wang;p hertling;invari properti random sequenc;juc;1997
+39429;11;yongge wang;;random stochast approxim;random;1997
+39430;11;yongge wang;;resourc bound random comput complex;tc;2000
+39431;11;yongge wang;y desmedt;approxim hard secur commun broadcast channel;asiacrypt;1999
+39432;11;yongge wang;y desmedt,m burmester;revisit color network privaci preserv censorship;criti;2006
+39433;11;yongge wang;;comparison two approach pseudorandom;tc;2002
+39434;11;yongge wang;x wu;approxim invers frequent itemset mine privaci complex approxim;icdm;2005
+39435;11;yongge wang;z zhao,z dong;secur analysi password base authent protocol propos ieee 1363;tc;2006
+39436;11;yongge wang;y desmedt,m burmester;model depend comput multipl input hard result;fuin;2000
+39437;11;yongge wang;x wu,y wu,y li;privaci awar market basket data set gener feasibl approach invers frequent set mine;sdm;2005
+39438;11;yongge wang;x wu,c sanghvi,y zheng;privaci awar data gener test databas applic;idea;2005
+39439;11;y wang;;random stochast approxim;mst;1999
+39440;11;yongge wang;;robust kei establish sensor network;sigmod;2004
+39441;11;yongge wang;y desmedt;perfectli secur messag transmiss revisit;corr;2002
+39442;11;yongge wang;y desmedt;maximum flow critic vertic graph;cocoon;2002
+39443;11;yongge wang;m burmester,y desmedt;us approxim hard achiev depend comput;random;1998
+39444;11;yongge wang;y desmedt;analyz vulner critic infrastructur us flow critic vertic graph;ijfc;2004
+39445;11;yongge wang;x wu,y zheng;privaci preserv data gener databas applic perform test;trustbu;2004
+39446;11;yongge wang;;law iter logarithm p random sequenc;coco;1996
+39447;11;yongge wang;;separ two random concept;ipl;1999
+39448;12;yida wang;e lim,s hwang;mine group pattern mobil user;dexa;2003
+39449;13;yang wang;m gupta,s 0002,s wang,x gu,d samaras,p huang;high resolut track non rigid 3d motion dens sampl data us harmon map;iccv;2005
+39450;13;yang sheng wang;s wang,w zhang;fingerprint classif direct field;icmi;2002
+39451;13;yang wang;s wang,m jin,x gu,d samaras;conform geometri applic 3d shape match recognit stitch;pami;2007
+39452;13;yang wang;d samaras;estim multipl direct light sourc synthesi augment realiti imag;cvgip;2003
+39453;13;yang wang;d samaras;estim multipl illumin singl imag arbitrari known geometri;eccv;2002
+39454;13;yang wang;d samaras;estim multipl direct light sourc synthesi mix realiti imag;pg;2002
+39455;13;yang wang;x huang,c lee,s 0002,z li,d samaras,d metaxas,a elgammal,p huang;high resolut acquisit learn transfer dynam 3d facial express;cgf;2004
+39456;13;yang wang;s wang,m jin,x gu,d samaras;3d surfac match recognit us conform geometri;cvpr;2006
+39457;13;yang wang;d samaras,l 0002,s wang,m gupta;face model analysi stoni brook univers;cvpr;2005
+39458;14;yuke wang;q tang,x song;diagnosi cluster fault ident degre topolog;tcad;1999
+39459;14;yuke wang;j augustine,w lynch,a al khalili;lossi compress imag us logic minim;vlsid;1999
+39460;14;yuke wang;x song,q tang,d zhou;wire space estim routabl analysi;tcad;2000
+39461;14;yuke wang;c mccrosky;solv boolean equat us rosop form;tc;1998
+39462;15;yusu wang;p agarwal,h edelsbrunner,j harer;extrem elev manifold;dcg;2006
+39463;15;yusu wang;p agarwal,h yu;2d kinet triangul near quadrat topolog chang;compgeom;2004
+39464;15;yusu wang;l guibas;toward unsupervis segment semi rigid low resolut molecular surfac;gmp;2006
+39465;15;yusu wang;p agarwal,h yu;two dimension kinet triangul near quadrat topolog chang;dcg;2006
+39466;15;yusu wang;p agarwal,s har peled,n mustafa;near linear time approxim algorithm curv simplif;esa;2002
+39467;15;yusu wang;v natarajan,p bremer,v pascucci,b hamann;segment molecular surfac;cagd;2006
+39468;15;yusu wang;p agarwal,h edelsbrunner;comput writh number polygon knot;dcg;2004
+39469;15;yusu wang;a sacan,o ozturk,h ferhatosmanoglu;lfm pro tool detect signific local structur site protein;bioinformat;2007
+39470;15;yusu wang;s har peled;shape fit outlier;compgeom;2003
+39471;15;yusu wang;p agarwal,s har peled,m sharir;hausdorff distanc translat point ball;compgeom;2003
+39472;15;yusu wang;p agarwal,h edelsbrunner,j harer;extrem elev manifold;compgeom;2004
+39473;15;yusu wang;p agarwal,s har peled,n mustafa;near linear time approxim algorithm curv simplif;algorithmica;2005
+39474;15;yusu wang;s har peled;shape fit outlier;siamcomp;2004
+39475;15;yusu wang;p agarwal,p brown,h edelsbrunner,j rudolph;coars reliabl geometr align protein dock;psb;2005
+39476;15;yusu wang;p agarwal,h edelsbrunner;comput writh number polygon knot;soda;2002
+39477;16;ye yi wang;a waibel;decod algorithm statist machin translat;acl;1997
+39478;16;ye yi wang;a waibel;model structur statist machin translat;acl;1998
+39479;16;ye yi wang;a acero,m mahajan,j lee;combin statist knowledg base spoken languag understand condit model;acl;2006
+39480;17;yizhou wang;s zhu,c guo,z xu;texton;ijcv;2005
+39481;17;yizhou wang;s zhu,c guo,y wu;texton;eccv;2002
+39482;17;yizhou wang;s zhu;model complex motion track edit hidden markov graph;cvpr;2004
+39483;17;yizhou wang;s bahrami,s zhu;perceptu scale space applic;iccv;2005
+39484;17;yizhou wang;s zhu;gener method textur motion analysi synthesi;eccv;2002
+39485;17;yizhou wang;s zhu;model textur motion particl wave sketch;iccv;2003
+39486;18;yuanyong wang;a hoffmann;bootstrap word sens disambigu us dynam web knowledg;pricai;2006
+39487;18;yuanyong wang;a hoffmann;unsupervis bilingu word sens disambigu us web statist;ausai;2005
+39488;19;yuhang wang;z wang,w zheng,j ford,f makedon,j pearlman;neighbor featur cluster;setn;2006
+39489;19;yuhang wang;m dunham,d quick,m mcgee,j waddle;visual dna rna structur us tempor cgr;bibe;2006
+39490;19;yuhang wang;t steinberg,f makedon,j ford,h wishart,a saykin;quantifi evolv process multimod 3d medic imag;miccai;2003
+39491;19;yuhang wang;t steinberg,f makedon,l shen,a saykin,h wishart;spatio tempor multi modal data manag analysi environ track ms lesion;ssdbm;2003
+39492;19;yuhang wang;f makedon;applic relief f featur filter algorithm select inform gene cancer classif us microarrai data;csb;2004
+39493;19;yuhang wang;f makedon,j ford,j pearlman;hykgen hybrid approach select marker gene phenotyp classif us microarrai gene express data;bioinformat;2005
+39494;19;yuhang wang;f makedon,j ford,l shen,d goldin;gener fuzzi semant metadata describ spatial relat imag us r histogram;jcdl;2004
+39495;19;yuhang wang;z butler,r fitch,d rus;distribut goal recognit algorithm modular robot;icra;2002
+39496;19;yuhang wang;f makedon,a chakrabarti;r histogram effici represent spatial relat object arbitrari topolog;mm;2004
+39497;20;yao wang;j vassileva;trust reput model peer peer network;p2p;2003
+39498;20;yao wang;j vassileva;bayesian network base trust model;webi;2003
+39499;21;ying ming wang;j yang,d xu;prefer aggreg method estim util interv;cor;2005
+39500;21;y m wang;j yang,d xu,k chin;evidenti reason approach mada probabilist fuzzi uncertainti;eor;2006
+39501;21;ying ming wang;j yang,d xu,k chin;evidenti reason approach multipl attribut decis analysi us interv belief degre;eor;2006
+39502;21;ying ming wang;c parkan;preemptiv goal program method aggreg owa oper weight group decis make;isci;2007
+39503;21;ying ming wang;c parkan;multipl attribut decis make base fuzzi prefer inform altern rank weight;fss;2005
+39504;21;ying ming wang;t elhag;normal interv fuzzi weight;fss;2006
+39505;21;ying ming wang;j yang,d xu;environment impact assess us evidenti reason approach;eor;2006
+39506;21;ying ming wang;d xu,j yang;evidenti reason approach multi attribut decis analysi interv uncertainti;eor;2006
+39507;21;ying ming wang;r greatbanks,j yang;interv effici assess us data envelop analysi;fss;2005
+39508;21;ying ming wang;t elhag,z hua;modifi fuzzi logarithm least squar method fuzzi analyt hierarchi process;fss;2006
+39509;21;ying ming wang;;fuzzi multiattribut decis make model method incomplet prefer inform;fss;2005
+39510;21;ying ming wang;t elhag;approach avoid rank revers ahp;dss;2006
+39511;21;ying ming wang;c parkan;gener multipl attribut decis make approach integr subject prefer object inform;fss;2006
+39512;22;yu wang;h wu,f lin,n tzeng;protocol design optim delai fault toler mobil sensor network;icdc;2007
+39513;22;yu wang;f hu,h wu;mobil telemedicin sensor network low energi data queri network lifetim consider;tmc;2006
+39514;22;yu wang;h wu;replic base effici data deliveri scheme red delai fault toler mobil sensor network dft msn;percom;2006
+39515;22;yu wang;h wu;dft msn delai fault toler mobil sensor network pervas inform gather;infocom;2006
+39516;22;yu wang;x liu;agent base dynam recoveri protocol distribut databas;ispdc;2003
+39517;22;yu wang;f lin,h wu;testb implement delai fault toler mobil sensor network dft msn;percom;2006
+39518;23;yiqiao wang;e stroulia;semant structur match assess web servic similar;icsoc;2003
+39519;23;yiqiao wang;y yu,j mylopoulos,s liaskos,a lapouchnian,j leite;revers engin goal model legaci code;re;2005
+39520;23;yiqiao wang;e stroulia;flexibl interfac match web servic discoveri;wise;2003
+39521;23;yiqiao wang;e stroulia;structur semant match assess web servic similar;ijci;2005
+39522;23;yiqiao wang;y yu,j mylopoulos,s liaskos,a lapouchnian,y zou,m littou,j leite;retr revers engin requir;wcre;2005
+39523;24;yajun wang;y han,d wood;infix free regular express languag;ijfc;2006
+39524;24;yajun wang;s cheng,h na,a vigneron;approxim shortest path anisotrop region;soda;2007
+39525;24;yajun wang;m golin,y leung,x yong;count structur grid graph cylind tori us transfer matric survei new result;alenex;2005
+39526;24;yajun wang;s cheng,h na,a vigneron;queri approxim shortest path anisotrop region;compgeom;2007
+39527;24;yajun wang;s cheng,z wu;provabl dimens detect us princip compon analysi;compgeom;2005
+39528;24;yajun wang;y han,d wood;prefix free regular express match;cpm;2005
+39529;25;yonggang wang;z zheng,j yang,m wang;novel method ey featur extract;ci;2004
+39530;25;yonggang wang;y zhou,j yang,q xu;imag analysi system tongu diagnosi tradit chines medicin;ci;2004
+39531;25;yiqin wang;y wang,y zhou,j yang;jseg base color separ tongu imag tradit chines medicin;ciarp;2004
+39532;25;yonggang wang;j yang,y chang;color textur imag segment integr direct oper jseg method;prl;2006
+39533;25;yonggang wang;y chang,y zhou,y hong;color imag segment algorithm us region edg inform;ausai;2005
+39534;26;yong wang;p juang,h oki,m martonosi,l peh,d rubenstein;energi effici comput wildlif track design tradeoff earli experi zebranet;asplo;2002
+39535;26;yong wang;m martonosi,l peh;situat awar cach strategi highli vari mobil network;mascot;2006
+39536;26;yong wang;m martonosi,l peh;new scheme link qualiti predict applic metric base rout;sensi;2005
+39537;26;yong wang;m martonosi,l peh;mario mobil adapt rout us rout lifetim abstract mobil ad hoc network;sigmobil;2004
+39538;27;yang wang;j lynch,k law;wireless sens actuat control applic civil structur;egic;2006
+39539;28;yufeng wang;x gu;evolutionari express profil gene famili crucial central nervou system develop;isci;2002
+39540;29;yanling wang;d grossman,j morrisett,t jim,m hicks,j cheney;region base memori manag cyclon;pldi;2002
+39541;29;yanling wang;t jim,j morrisett,d grossman,m hicks,j cheney;cyclon safe dialect c;usenix;2002
+39542;30;yang wang;q ji;dynam condit random field model object segment imag sequenc;cvpr;2005
+39543;30;yang wang;k loe,t tan,j wu;spatiotempor video segment base graphic model;tip;2005
+39544;31;yu wang;;g network model adversari agent;icann;2006
+39545;32;yanbo j wang;f coenen,p leng,r sanderson;statist identif kei phrase text classif;mldm;2007
+39546;32;yanbo j wang;q xin,f coenen;novel rule order approach classif associ rule mine;mldm;2007
+39547;33;yi min wang;h wang,j platt,y chen,r zhang;peerpressur automat troubleshoot;sigmetr;2004
+39548;33;yi min wang;j meseguer,r sasse,h wang;systemat approach uncov secur flaw gui logic;sp;2007
+39549;33;yi min wang;h wang,j platt,y chen,r zhang;automat misconfigur troubleshoot peerpressur;osdi;2004
+39550;33;yi min wang;s king,p chen,c verbowski,h wang,j lorch;subvirt implement malwar virtual machin;sp;2006
+39551;33;yi min wang;h wang,y hu,c yuan,z zhang;friend troubleshoot network toward privaci preserv automat troubleshoot;iptp;2004
+39552;34;yuke wang;z wang,y tang;low hardwar complex parallel turbo decod architectur;isca;2003
+39553;35;yunhua wang;l debrunner,d zhou,v debrunner;multipli structur base novel real time csd recod;isca;2007
+39554;36;yi chia wang;j wu,t liang,j chang;web base unsupervis learn queri formul question answer;ijcnlp;2005
+39555;37;yuedong wang;g wahba,c gu,r klein,b klein;structur machin learn soft classif smooth spline anova stack tune test evalu;nip;1993
+39556;38;yi wang;s ye,x li;understand current ipv6 perform measur studi;iscc;2005
+39557;38;yi wang;g lu,x li;studi internet packet reorder;icoin;2004
+39558;39;yang wang;n freitas,m mahdaviani,d lang;fast krylov method n bodi learn;nip;2005
+39559;39;yang wang;h jiang,m drew,z li,g mori;unsupervis discoveri action class;cvpr;2006
+39560;40;yu wang;w wang,x li,z sun;design multicast protocol non cooper network;infocom;2005
+39561;41;yan wang;k kim,o muogboh,b nnaji;design formal collabor assembl design;cad;2004
+39562;41;yan wang;b nnaji;geometri base semant id persist interoper refer featur base parametr model;cad;2005
+39563;42;y z wang;c sahay,d zhu;internet base system remot monitor manufactur oper;cata;2001
+39564;43;yong wang;q gu;effici algorithm minimum congest hypergraph embed cycl;tpd;2006
+39565;43;yong wang;q gu;effici algorithm embed hypergraph cycl;hipc;2003
+39566;43;yong wang;q gu;effici algorithm traffic groom sonet wdm network;icpp;2006
+39567;44;yan wang;j qian,a dress;depend polynomi graph;ejc;2007
+39568;44;yan wang;j kwak;frobeniu map;dm;2005
+39569;44;yan wang;b liu;sum number integr sum number complet bipartit graph;dm;2001
+39570;45;yun wang;e anceaume,f brasileiro,f greve,m hurfin;solv group prioriti invers problem time asynchron system;tc;2002
+39571;46;yi wang;k otitoju,t liu,s kim,d bowman;evalu effect real world distract user perform virtual environ;vrst;2006
+39572;47;yuechao wang;y sun,n xi,j tan;interact model identif nonholonom cart push mobil manipul;icra;2002
+39573;47;yuechao wang;j tan,n xi;integr task plan control mobil manipul;ijrr;2003
+39574;47;yuechao wang;r xia,w liu,x wu;fast initi level set method improv chan vese model;ieeecit;2004
+39575;48;yu wang;a harder,l song;toward indoor locat system us rf signal strength ieee 802 network;itcc;2005
+39576;48;yu wang;;approach enhanc mobil applic situat awar capabl;icppw;2004
+39577;48;yu wang;s yau,d huang;middlewar support embed softwar multipl qo properti ubiquit comput environ;word;2003
+39578;48;yu wang;g dozier,h cunningham,w britt,c seals,f zhang;distribut constraint satisfact restrict recombin genet protocol;asc;2007
+39579;49;yang wang;;constraint sensit privaci manag person web base system;;2005
+39580;49;yang wang;a kobsa,a hoek,j white;pla base runtim dynam support privaci enhanc web person;splc;2006
+39581;50;ye wang;l cong,b yang,y chen,g lu,b deng,x li;nts6 ipv6 base network topolog servic system cernet2;mue;2007
+39582;51;yang wang;j lagarias;substitut delon set;dcg;2003
+39583;51;yang wang;;subdivis scheme refin equat nonneg mask;jat;2001
+39584;52;yu wang;h wang,x meng,s wang;estim select xml path express predic histogram;waim;2004
+39585;53;yingwei wang;k hill,s singh;mine invari biolog sequenc;incdm;2006
+39586;54;yuping wang;c sun;synchron distanc educ enhanc speak skill via internet base real time technolog;wise;2000
+39587;55;yingfeng wang;s gao,h wang,w shen,s yeung;web servic agent base famili wealth manag system;eswa;2005
+39588;56;yue wang;j lu,r lee,z gu,r clarke;iter normal cdna microarrai data;titb;2002
+39589;57;yuping wang;y leung;multiobject program us uniform design genet algorithm;tsmc;2000
+39590;58;yuanyuan wang;z luo,w wang;estim coronari arteri lumen area optim base contour detect;tmi;2003
+39591;59;yao wang;k ngan,m strintzis,m tanimoto;guest editori;tcsv;2000
+39592;60;ye diana wang;g forgionne;decis theoret approach evalu inform retriev system;ipm;2006
+39593;61;yongjin wang;l bo,l zhang;first passag time reflect u process two side barrier;questa;2006
+39594;62;yue li wang;f wang,j chang;feedback vertex set star graph;ipl;2004

@@ -1,0 +1,31 @@
+@relation 'Dataset bdbcomp co-authors fsilva'
+@attribute Text string
+@attribute class-att {60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81}
+@data
+'p rodrigues',60
+'a figueira h paulino l lopes',61
+'a gomes',62
+'c fujito e garcia',63
+'s amo m fernandes j souza',64
+'c reis d nunes r reis',65
+'r costa n edelweiss e bergamini',66
+'t braga l ruiz j nogueira',67
+'t braga l ruiz j nogueira',67
+'g lucero',68
+'l velho p cavalcanti j gomes',69
+'l velho j gomes s goldenstein',69
+'l garcia r farias a oliveira',69
+'m castilho l kunzle',70
+'e meneses',71
+'w vasconcelos',71
+'r souza f carvalho',72
+'f carvalho r souza',72
+'r campelo h moura',73
+'j jin s meira',74
+'r mello',75
+'f pedroza f alencar j castro v santander',76
+'nan',77
+'l alves r kulesza p juca g bressan',78
+'r lopes b sousa a viana s sousa',79
+'a andrade f barboza r oliveira',80
+'m oka',81

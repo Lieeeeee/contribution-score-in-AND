@@ -1,0 +1,212 @@
+@relation 'Dataset kitsi publish-venue_co-authors yzhang'
+@attribute Text string
+@attribute class-att {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56}
+@data
+'jgt m ellingham x zha',1
+'pet r cheng e bertino s prabhakar',2
+'ivc y zhang c wen',3
+'flair y zhang c wen',3
+'ijait y zhang c wen y soh',3
+'prl y zhang c wen',3
+'tmi b pham m eckstein',3
+'tmi b pham m eckstein',3
+'icpr y zhang c wen',3
+'paa c wen y zhang',3
+'prl y zhang c wen y soh',3
+'wecwi t yu k lin',4
+'rtcsa k raman m panahi j colmenares r klefstad',4
+'wecwi t yu k raman k lin',4
+'iceb k lin t yu',4
+'wecwi k lin r klefstad',4
+'middlewar k raman m panahi j colmenares r klefstad t harmon',4
+'sigcomm s kang d loguinov',5
+'nossdav d loguinov',5
+'icdc s kang m dai d loguinov',5
+'sigmetr x wang x li d loguinov',5
+'infocom d leonard d loguinov',5
+'ijpp s chandra m parashar j yang s hariri',6
+'icp h chen s hariri b kim m yousif',6
+'cluster s hariri b khargharia h chen j yang m parashar h liu',6
+'ipp j yang s hariri s chandra m parashar',6
+'ausai d zhang',7
+'lpnmr n foo d zhang s chopra q vo',7
+'aaai d zhang',7
+'ics x zhang r gupta',8
+'icml w xu j callan',9
+'icdm p zigoris d eads',9
+'dmkd b dom i eiron a cozzi',9
+'sigir w xu',9
+'trec k collins thompson p ogilvie j callan',9
+'ausai y ding',10
+'ausai v crescini',10
+'tplp nan',10
+'ijprai y bai',10
+'iclp nan',10
+'ijcai n foo',10
+'icdcsw h wang v varadharajan',10
+'corr nan',10
+'prl nan',10
+'ismi c wu',10
+'ke y ding',10
+'ismi nan',10
+'ieaaie y bai',10
+'fuin n foo',10
+'wise w qu a liu',10
+'ifip12 j chen',10
+'aicom c wu y bai',10
+'hicss w qu a liu',10
+'ausai n foo p peppas',10
+'ismi y ding',10
+'slp n foo',10
+'isw c ruan v varadharajan',10
+'ecai n foo',10
+'ismi c ruan v varadharajan',10
+'corr nan',10
+'graphit r ding',10
+'icnc w li y meng h chen t wang',10
+'avbpa j feng',10
+'tplp nan',10
+'hpca d parikh k skadron m barcella m stan',10
+'aaai n foo',10
+'pricai n foo',10
+'ausai nan',10
+'ke s wang',10
+'ismi s lakkaraju',10
+'ausai nan',10
+'ipsn z li w trappe b nath',11
+'spaa a sivasubramaniam',11
+'dsn r sahoo a sivasubramaniam m squillante',11
+'icdc j zhang a sivasubramaniam c liu h franke',11
+'mobihoc w xu w trappe t wood',11
+'icdc p kamat w trappe c ozturk',11
+'jsspp h franke j moreira a sivasubramaniam',11
+'tpd a sivasubramaniam j moreira h franke',11
+'jsspp a yang a sivasubramaniam j moreira',11
+'dsn y liang a sivasubramaniam r sahoo j moreira m gupta',11
+'ipp a sivasubramaniam h franke j moreira',11
+'europar h franke j moreira a sivasubramaniam',11
+'ws w xu t wood w trappe',11
+'jsspp m squillante a sivasubramaniam r sahoo',11
+'hpca j zhang a sivasubramaniam h franke n gautam s nagar',11
+'ic a sivasubramaniam j moreira h franke',11
+'sigmetr m squillante a sivasubramaniam n gautam h franke j moreira',11
+'sasn c ozturk w trappe',11
+'tpd h franke j moreira a sivasubramaniam',11
+'iscc j kang b nath',11
+'iccv q ji',12
+'aaai q ji',12
+'flair s louis',12
+'tsmc q ji',12
+'icra q ji',12
+'tsmc m fadali s louis',12
+'tsmc q ji',12
+'isbi d brooks d boas',13
+'isbi d brooks m franceschini d boas',13
+'isbi d brooks d boas',13
+'isbi a ghodrati d brooks',13
+'sdm x hu x zhang i yoo',14
+'ipl q hu x shen',15
+'cocoon q hu x shen',15
+'asian c sun y yang d chen',16
+'sma c bajaj b sohn',17
+'icc j oden k diller c bajaj j browne j hazle i babuska j bass l demkowicz y feng d fuentes s prudhomme m rylander r stafford',17
+'cagd g xu c bajaj',17
+'hybrid a mackworth',18
+'iser k roufas d duff m yim',18
+'aina q huang j liu',18
+'icdc s gandham q huang',18
+'ppcp a mackworth',18
+'mobihoc y shang w ruml m fromherz',18
+'mobihoc j liu f zhao',18
+'icra c wu w sheng',18
+'tpd y shang w ruml m fromherz',18
+'antsw l kuhn m fromherz',18
+'aina m fromherz',18
+'tc a mackworth',18
+'sensi x liu q huang',18
+'mobihoc g xing c lu q huang r pless',18
+'tosn g xing c lu q huang r pless',18
+'ppcp a mackworth',18
+'arobot m yim k roufas d duff c eldershaw s homans',18
+'arobot m yim j lamping e mao',18
+'hybrid a mackworth',18
+'iccsa j zhang j sun q han z jin',19
+'tmm q zhang w zhu',20
+'isca z ji q zhang w zhu j lu',20
+'infocom k wong s chan w wong q zhang w zhu',20
+'tmm z xiang q zhang w zhu z zhang',20
+'tcsv q zhang z ji w zhu',20
+'isca q zhang w zhu z ji',20
+'icip q zhang w zhu',20
+'pcm f yu q zhang w zhu',20
+'vcip g wang q zhang w zhu',20
+'tcsv f yu q zhang w zhu',20
+'icmc q zhang w zhu',20
+'tmm w yiu k wong s chan w wong q zhang w zhu',20
+'infocom h wu k tan q zhang',20
+'cn q ye l cheng',21
+'isbi j fessler',22
+'wea b dasgupta g enciso e sontag',23
+'dam p berman b dasgupta d mubayi r sloan g turan',23
+'sigir b liu',23
+'nar n maltsev e glass d sulakhe a rodriguez m syed t bompada m d souza',23
+'nar m d souza e glass m syed a rodriguez n maltsev m galperin',23
+'cpm p berman b dasgupta d mubayi r sloan g turan',23
+'ppopp v sreedhar w zhu v sarkar g gao',24
+'ppopp e duesterwald',24
+'pdcn w zhu f chen z hu g gao',24
+'imc b krishnamurthy c wills',25
+'imc m roughan m thorup',25
+'imw b krishnamurthy c wills',25
+'atal nan',26
+'fuin j dix t eiter m fink a polleres',26
+'clima v subrahmanian s kraus',26
+'ki j dix t eiter m fink a polleres',26
+'tdsc w liu w lou y fang',27
+'adhoc y zhou y fang',27
+'infocom k ren w lou',27
+'infocom w liu w lou',27
+'jco w liu y fang k lu',27
+'winet w liu w lou y fang',27
+'jscic h zhao j qian',28
+'mascot p harrison',29
+'tcom k letaief',30
+'icd a fu c cai p heng',31
+'kdd c cheng a fu',31
+'npl m ye',31
+'nar z li d pilch m leibowitz',32
+'isci s bhattacharyya',33
+'sc f abu khzam n baldwin e chesler m langston n samatova',34
+'aspdac j cong a jagannathan y ma g reinman j wei',35
+'tcad j cong j fang m xie',35
+'iccad j cong m xie',35
+'iccad j cong j wei',35
+'aspdac j cong',35
+'infsof x zhang j fong x jia',36
+'appinf y yu j lu j xue w sun',37
+'gecco r kamalian a agogino c sequin',38
+'sigcomm s gorinsky s jain h vin',39
+'icd x lin j xu f korn w wang',40
+'icd x lin y yuan m kitsuregawa x zhou j yu',40
+'icd x lin y yuan q zhang',41
+'ke m zhang w smart',42
+'pcm f xu l zhang w ma',43
+'ictc s fenner',44
+'fct s fenner f green s homer',44
+'csl j goubault larrecq s lasota d nowak',45
+'csl d nowak',45
+'dm x yong m golin',46
+'tpcg t fernando',47
+'presenc t fernando h xiao a travis',47
+'icdar k chu l zhang c tan',48
+'ccgrid a mandal h casanova a chien y kee k kennedy c koelbel',49
+'ccgrid c koelbel k kennedy',49
+'icdm w street s burer',50
+'dm y caro y li c rousseau',51
+'bioinformat a arakaki j skolnick',52
+'comcom j zheng l zhang y chen m ma',53
+'wacv j xiao m shah',54
+'wacv j xiao m shah',54
+'ejc y chen k zhang',55
+'ejc y chen k zhang',55
+'mr j luo y ji t zhong j wang j liu n niu j han x guo g shen',56

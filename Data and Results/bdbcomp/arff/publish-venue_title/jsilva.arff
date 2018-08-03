@@ -1,0 +1,39 @@
+@relation 'Dataset bdbcomp publish-venue_title jsilva'
+@attribute Text string
+@attribute class-att {106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123}
+@data
+'rede computador protocolo comunicacao sistema distribuido baseado barramento paralelo centralizado',106
+'rede computador previsibilidad comportamento canal rede ieee 802',107
+'informatica educacao design develop author environ build maintain societi artifici tutor agent',108
+'informatica educacao agent base architectur cooper learn environ',108
+'informatica educacao maquina estado finito avaliacao desempenho grupo discussao line',109
+'informatica educacao amonmef agent interfac avaliacao aprendizagem ensino distancia',110
+'fator humano sistema computacionai desenvolvimento materi instrucion qualidad ead segundo principio cognitivo',111
+'revista informatica teorica aplicada processo ensino aprendizagem pautado principio cognitivo',111
+'fator humano sistema computacionai integracao ihc es processo planejamento reengenharia softwar guiado avaliacao usabilidad ppr u',111
+'computacao grafica processamento imagen algoritmo geometrico geracao funco discriminant',112
+'computacao grafica processamento imagen multipl correspond stereo vision genet algorithm approach',113
+'inteligencia artifici correspond problem uncertainti reason approach',113
+'inteligencia artifici toward integr hierarch censor product rule hcpr base neural network',113
+'encontro nacion inteligencia artifici dempster shafer theori infer method correspond geometr distort imag',113
+'rede neurai integr hierarch censor product rule hcpr base system neural network',113
+'informatica educacao sistema resolucao distribuida problema apoiar planejamento educacion',113
+'rede neurai imag base autonom navig softcomput decis make techniqu',113
+'rede neurai radial basi function neural network invers temperatur vertic profil satellit radianc data',113
+'engenharia softwar investigacao modelo estimativa esforco gerenciamento projeto softwar',113
+'geoinformatica gmla xml schema integr exchang multidimension geograph data',114
+'banco dado provid multidimension geograph integr base gdw metamodel',114
+'geoinformatica toward web servic geograph multidimension process',114
+'geoinformatica propondo linguagem consulta geografica multidimension',114
+'banco dado queri geograph data warehous geomdql',114
+'banco dado metamodelo especificacao data warehous geografico',114
+'rede computador estudo metodo analis transient modelo markoviano sistema comunicacao',115
+'inteligencia artifici repres belief revis default theori',116
+'inteligencia artifici integr morpholog syntact sement aspect multi agent cooper',117
+'computacao grafica processamento imagen correspond geometr distort imag us uncertainti infer method',118
+'rede computador progcon sistema prognostico congestionamento trafego rede',119
+'rede computador analis estocastica descart pacot rede tcp',119
+'rede computador avaliacao empirica politica invocacao servico web replicado',120
+'inteligencia artifici read pddl write object orient model',121
+'inteligencia artifici us common sens recogn cultur differ',122
+'symposium integr circuit system design issu parallel multigrid base substrat model extract analysi',123

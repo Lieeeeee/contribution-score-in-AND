@@ -1,0 +1,68 @@
+@relation 'Dataset bdbcomp publish-venue_co-authors asilva'
+@attribute Text string
+@attribute class-att {21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58}
+@data
+'rede computador f teixeira h wong j nogueira',54
+'rede computador m martins b rocha a loureiro l ruiz h wong',54
+'journal brazilian comput societi p martins',55
+'inteligencia artifici h caseli m nunes',56
+'banco dado r santos h santos a laender m goncalves',57
+'symposium integr circuit system design nan',58
+'rede computador c westephall',21
+'rede computador l tarouco',21
+'computacao grafica processamento imagen m anguh',22
+'computacao grafica processamento imagen j camapum a freitas h bassani f freitas',23
+'banco dado a laender e silva',24
+'banco dado t coelho a laender k louly',24
+'intern inform integr web i filha a laender',24
+'intern inform integr web a arantes a laender p golgher',24
+'geoinformatica k borges a laender c medeiros c davis jr',24
+'seminario integrado softwar hardwar e veloso e moura p golgher r almeida a laender b ribeiro neto n ziviani',24
+'banco dado a carvalho a bezerra e moura p peres',24
+'banco dado k magalhaes a laender',24
+'banco dado e oliveira e moura j cavalcanti',24
+'banco dado r vieira p calado a laender b ribeiro neto',24
+'banco dado o oliveira',24
+'xxxi seminario integrado softwar hardwar r rodrigues e silveira a vieiralves g souza j valente k merklein',24
+'banco dado r santos f mesquita e vilarinho',24
+'informatica educacao a hernandez dominguez',25
+'informatica educacao s brito e favero a hernandez dominguez o tavares c frances',25
+'informatica educacao m harb s brito e favero o tavares c frances',25
+'informatica educacao a hernandez dominguez b silva',25
+'informatica educacao r lotufo r machado',26
+'computacao grafica processamento imagen f flores r lotufo s isernhagen l isernhagen e rocha',26
+'computacao grafica processamento imagen r lotufo f flores',26
+'computacao grafica processamento imagen r lotufo',26
+'rede computador l moraes',27
+'informatica educacao nan',28
+'symposium microelectron technolog devic l goncalves c alfano n morimoto j santos',29
+'symposium microelectron technolog devic r martinez r furlan i ramos j santiago aviles',29
+'computacao grafica processamento imagen s olabarriaga c dietrich c schmitz',30
+'computacao grafica processamento imagen w rigo t rauber',31
+'computacao grafica processamento imagen d freitas',32
+'geoinformatica j oliveira b hall',33
+'informatica educacao l coradine f albuquerque j madeiro m pereira o tavares',34
+'inteligencia artifici e oliveira',35
+'encontro nacion inteligencia artifici k cunha f zuben l martins',36
+'engenharia requisito l martins',36
+'xxx seminario integrado softwar hardwar m menezes l silva',37
+'desempenho sistema computacionai comunicacao r leao e silva',38
+'rede computador r leao e silva',38
+'rede neurai m mazza',39
+'rede neurai o carpinteiro',40
+'journal comput scienc a fiorese r silva g santos',41
+'fator humano sistema computacionai s junior j silva m ribeiro',42
+'fator humano sistema computacionai a farias a lorenzoni m parizotto m silveira',43
+'linguagen programacao p borba',44
+'linguagen programacao a furtado c nascimento g santos a santos c ferraz',44
+'journal comput scienc e kanazawa k carvalho v kinoshita j uchoa w lacerda b schneider',45
+'journal brazilian comput societi g mateus',46
+'rede computador g mateus',46
+'xxxii seminario integrado softwar hardwar s rossi e moreno e batista a carvalho',47
+'geoinformatica s wu',48
+'geoinformatica s wu',48
+'rede computador f lins j junior n rosa p maciel n quental',49
+'informatica publica nan',50
+'informatica publica w brandao f parreiras',51
+'gerencia operacao rede servico j janeiro s colcher',52
+'journal comput scienc r sampaio g alvarenga',53

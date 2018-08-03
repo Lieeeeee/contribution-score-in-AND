@@ -1,0 +1,25 @@
+@relation 'Dataset bdbcomp title msilva'
+@attribute Text string
+@attribute class-att {160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 157, 158, 159}
+@data
+'especificacao sistema supervisao gerencia equipamento comunicacao dado',157
+'visual geospati data compon plane u matrix',158
+'semi automat geospati data cluster self organ map',158
+'past direct evalu dynam integr constraint tempor databas',159
+'system aid discoveri mechan knowledg gener',160
+'hybrid train morpholog neural network appli function approxim',160
+'optim rank calcul web search engin case studi',161
+'geograph knowledg base text process',161
+'implantacao melhoria processo engenharia requisito empresa formula informatica',162
+'spatial measur residenti segreg',163
+'skdql structur languag specifi knowledg discoveri process queri',163
+'blind hybrid decis feedback equal',164
+'estudo comparativo bag rede mlp treinamento multi objetivo',165
+'par qo estrategia provimento computacao paralela ambient distribuido proposito geral',166
+'rede fio metropolitana baseada padrao 802 estudo caso belem pa',167
+'mecanismo selecao dinamica canal rede ieee 802 infra estruturada',168
+'perform analysi messag orient middlewar us stochast petri net',169
+'monitoramento baseado aspecto contrato eletronico',170
+'nano mechan properti silk low k dielectr materi',171
+'improv focus ion beam micro machin interconnect materi',171
+'radiat toler cmo ap arrai',172

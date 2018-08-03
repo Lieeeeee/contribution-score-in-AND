@@ -1,0 +1,39 @@
+@relation 'Dataset bdbcomp title jsilva'
+@attribute Text string
+@attribute class-att {106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123}
+@data
+'protocolo comunicacao sistema distribuido baseado barramento paralelo centralizado',106
+'previsibilidad comportamento canal rede ieee 802',107
+'design develop author environ build maintain societi artifici tutor agent',108
+'agent base architectur cooper learn environ',108
+'maquina estado finito avaliacao desempenho grupo discussao line',109
+'amonmef agent interfac avaliacao aprendizagem ensino distancia',110
+'desenvolvimento materi instrucion qualidad ead segundo principio cognitivo',111
+'processo ensino aprendizagem pautado principio cognitivo',111
+'integracao ihc es processo planejamento reengenharia softwar guiado avaliacao usabilidad ppr u',111
+'algoritmo geometrico geracao funco discriminant',112
+'multipl correspond stereo vision genet algorithm approach',113
+'correspond problem uncertainti reason approach',113
+'toward integr hierarch censor product rule hcpr base neural network',113
+'dempster shafer theori infer method correspond geometr distort imag',113
+'integr hierarch censor product rule hcpr base system neural network',113
+'sistema resolucao distribuida problema apoiar planejamento educacion',113
+'imag base autonom navig softcomput decis make techniqu',113
+'radial basi function neural network invers temperatur vertic profil satellit radianc data',113
+'investigacao modelo estimativa esforco gerenciamento projeto softwar',113
+'gmla xml schema integr exchang multidimension geograph data',114
+'provid multidimension geograph integr base gdw metamodel',114
+'toward web servic geograph multidimension process',114
+'propondo linguagem consulta geografica multidimension',114
+'queri geograph data warehous geomdql',114
+'metamodelo especificacao data warehous geografico',114
+'estudo metodo analis transient modelo markoviano sistema comunicacao',115
+'repres belief revis default theori',116
+'integr morpholog syntact sement aspect multi agent cooper',117
+'correspond geometr distort imag us uncertainti infer method',118
+'progcon sistema prognostico congestionamento trafego rede',119
+'analis estocastica descart pacot rede tcp',119
+'avaliacao empirica politica invocacao servico web replicado',120
+'read pddl write object orient model',121
+'us common sens recogn cultur differ',122
+'issu parallel multigrid base substrat model extract analysi',123

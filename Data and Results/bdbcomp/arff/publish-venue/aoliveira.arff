@@ -1,0 +1,56 @@
+@relation 'Dataset bdbcomp publish-venue aoliveira'
+@attribute Text string
+@attribute class-att {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19}
+@data
+'linguagen programacao',4
+'computacao grafica processamento imagen',5
+'journal brazilian comput societi',5
+'computacao grafica processamento imagen',5
+'computacao grafica processamento imagen',5
+'computacao grafica processamento imagen',5
+'computacao grafica processamento imagen',5
+'geoinformatica',5
+'computacao grafica processamento imagen',5
+'computacao grafica processamento imagen',5
+'rede computador',0
+'informatica educacao',0
+'informatica educacao',0
+'seminario integrado softwar hardwar',0
+'rede computador',0
+'rede computador',0
+'rede computador',0
+'informatica educacao',1
+'rede computador',2
+'linguagen programacao',3
+'computacao grafica processamento imagen',5
+'computacao grafica processamento imagen',5
+'computacao grafica processamento imagen',5
+'computacao grafica processamento imagen',5
+'computacao grafica processamento imagen',5
+'computacao grafica processamento imagen',5
+'computacao grafica processamento imagen',5
+'computacao grafica processamento imagen',5
+'computacao grafica processamento imagen',5
+'computacao grafica processamento imagen',5
+'inteligencia artifici',6
+'encontro nacion inteligencia artifici',6
+'rede neurai',6
+'inteligencia artifici',6
+'inteligencia artifici',6
+'encontro nacion inteligencia artifici',7
+'engenharia softwar',8
+'informatica publica',8
+'linguagen programacao',9
+'realidad virtual',10
+'rede neurai',11
+'revista informatica teorica aplicada',12
+'test tolerancia falha',13
+'engenharia softwar',14
+'rede computador',15
+'rede computador',15
+'desenvolvimento distribuido softwar',15
+'journal comput scienc',16
+'banco dado',17
+'symposium microelectron technolog devic',18
+'symposium microelectron technolog devic',18
+'symposium integr circuit system design',19

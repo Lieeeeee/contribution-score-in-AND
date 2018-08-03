@@ -1,0 +1,580 @@
+@relation 'Dataset dblp title_co-authors agupta'
+@attribute Text string
+@attribute class-att {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25}
+@data
+'iri h java distanc educ a gonzalez a hamid c overstreet h wahab j wild k maly s ghanem x zhu',0
+'btu host commun benchmark k maly s mynam',0
+'interact distanc learn intranet a youssef c overstreet e shaer e stoica h wahab j wild k maly',0
+'pme privileg mangag enforc secur distribut resourc share b kvande i levinstein k maly m olson r mukkamala r chambers r whitney s nanjangud',0
+'coprocess java environ collabor process manag web c vemuru h syed h wahab k maly m kholief r mukkamala s dittakavi',0
+'privileg manag enforc distribut resourc share b kvande i levinstein k maly m olson r mukkamala r chambers r whitney s nanjangud',0
+'softwar architectur interprocess commun iri internet interact distanc learn a youssef c overstreet e stoica h wahab j wild k mary',0
+'mosaic xtv coreview a prabhu c vemuru h syed h wahab k maly r mukkamala',0
+'perform trade off multimedia distribut applic c overstreet h wahab k maly m kumar r srivastava',0
+'secur architectur tenet scheme m moran r bettati r oppliger',1
+'dynam resourc alloc migrat multiparti real time commun r bettati',1
+'connect establish multi parti real time commun d ferrari m moran q nguyen r yavatkar r bettati w heffner w howe',1
+'distribut advanc reserv real time connect d ferrari g ventre',1
+'resourc share multi parti real time commun m moran q nguyen w howe',1
+'distribut advanc reserv real time connect d ferrari g ventre',1
+'resourc partit real time commun d ferrari',1
+'failur recoveri multi parti real time commun k rothermel',1
+'perform improv contract net instanc learn u deshpande a basu',2
+'task assign collabor imprecis inform u deshpande a basu',2
+'fault contain self stabil span tree algorithm s ghosh s pemmaraju',2
+'fault contain self stabil protocol s ghosh t herman s pemmaraju',2
+'random algorithm graph theori s ghosh s pemmaraju',2
+'self stabil dynam program algorithm tree s ghosh m karaata s pemmaraju',2
+'self stabil algorithm maxim match tree s ghosh m karaata s pemmaraju',2
+'pmm parallel architectur product c mazumdar',2
+'partial share parallel rete network faster execut product c mazumdar',2
+'simul distribut self stabil algorithm n gururaj',2
+'fast parallel algorithm balanc decomposit seri parallel graph m kortright r borie',2
+'design implement linux ipv ipv bridg v madhu p singhal',2
+'combin divers checkpoint recoveri algorithm distribut h paul r badrinath',2
+'hierarch coordin checkpoint algorithm h paul r badrinath',2
+'heterogen checkpoint recoveri protocol h paul r badrinath',2
+'evalu differ class checkpoint recoveri protocol dpsim h paul r badrinath',2
+'perform comparison checkpoint recoveri protocol h paul r badrinath',2
+'simul perform estim checkpoint recoveri protocol h paul r badrinath',2
+'adapt mobil agent model case studi s ranjan a basu a meka a chaturvedi',2
+'onlin transcod new page handheld devic s shekhar s banerjee',2
+'intelleg mobil agent framework resourc discoveri transcod a basu',2
+'balanc decomposit partial k tree r borie',2
+'coordin problem solv through resourc share distribut environ u deshpande a basu',2
+'coordin mechan hospit resourc schedul multi agent framework u deshpande a basu',2
+'distribut hospit resourc schedul multi agent framework u deshpande a basu',2
+'onlin transcod web page mobil devic s banerjee a basu',2
+'fault contain network protocol s ghosh s pemmaraju',2
+'exercis fault contain self stabil leader elect s ghosh',2
+'self stabil algorithm maximum flow problem s ghosh s pemmaraju',2
+'adapt fault toler hospit resourc schedul a basu u deshpande',2
+'self stabil algorithm maximum flow problem s ghosh s pemmaraju',2
+'estim link characterist internet path fpathchar a nandi',2
+'onlin transcod web page mobil devic a basu s banerjee',2
+'heterogen checkpoint recoveri protocol cluster distribut h paul r badrinath',2
+'fault contain network protocol s pemmaraju s ghosh',2
+'fault contain self stabil algorithm s pemmaraju s ghosh t herman',2
+'self stabil algorithm maximum flow problem s pemmaraju s ghosh',2
+'adapt fault toler hospit resourc schedul u deshpande a basu',2
+'cooper framework segment d activ contour d hybrid model as appli branch cylindr structur m jolly t donnell',3
+'optim polylin track arteri motion compens coronari angiographi c liang m jolly',3
+'new model recoveri cylindr structur from medic imag t boult t donnell',3
+'introduct special issu innov applic comput vision b bhanu d michael t boult',3
+'global model parametr offset as appli cardiac motion recoveri t boult t donnell',3
+'us hybrid model recov cardiac wall motion tag mr imag g lea',3
+'multi modal model registr cardiac domain g lea r white s halliburton s aharon t donnell',3
+'fair perform dynam weight atm abr servic j chew',4
+'improv fair long vc activ fair atm abr servic j chew',4
+'control isochron traffic crma atm interwork x wang',4
+'new consolid algorithm point multipoint abr servic atm network b lee m shamsuzzaman',4
+'analysi packet switch input output buffer speed constraint n georganas',4
+'prioriti perform atm packet switch n georganas',4
+'switch modul atm switch their interconnect network l barbosa n georganas',4
+'transient sensit analysi comput simul d morrice',5
+'integr user prefer real time workload electron commerc p konana a whinston',5
+'onlin mercantil process digit product qualiti servic uncertain demand r bapna p goes',5
+'price real time databas applic inform servic framework econom justif p konana d stahl a whinston',5
+'research issu real time dbm context electron commerc p konana d stahl a whinston',5
+'streamlin digit economi how avert tragedi common a whinston b jukic d stahl m parameswaran',5
+'analysi design busi consum onlin auction r bapna p goes',5
+'predict calibr onlin multi unit ascend auction r bapna p goes g aruga',5
+'optim design onlin auction channel analyt empir comput insight r bapna p goes g karuga',5
+'replic onlin yanke auction analyz auction bidder strategi r bapna p goes',5
+'toward comprehens bidder support onlin combinatori auction g adomavicius',5
+'user heterogen it impact electron auction market design empir explor r bapna p goes y jin',5
+'theoret empir investig multi item line auction r bapna p goes',5
+'databas design modern organ identifi robust structur chang queri pattern arriv rate condit a chen p goes j marsden',5
+'trade higher softwar piraci higher profit case phantom piraci r gopal',5
+'benefit cost adopt usag price subnetwork l linden d stahl a whinston',5
+'compar analysi multi item onlin auction evid from laboratori r bapna p goes',5
+'conceptu framework appli parallel comput flexibl manufactur d stahl a whinston',5
+'econom analysi consum purchas intent electron tradit retail channel competit strateg implic b su z walter',5
+'econom issu electron commerc d stahl a whinston',5
+'decentr approach estim activ cost near optim resourc alloc flexibl manufactur d stahl a whinston',5
+'digit signatur us modif achiev success next gener e busi process y tung j marsden',5
+'manag comput resourc intranet electron commerc perspect d stahl a whinston',5
+'extract consum privat inform implement incent compat internet traffic price b jukic d stahl a whinston',5
+'econom approach network comput prioriti class d stahl a whinston',5
+'applic parallel comput resourc price schedul flexibl manufactur d stahl a whinston',5
+'price servic internet d stahl a whinston',5
+'onlin mercantil process closer look at b c onlin auction handbook electron commerc busi societi p b lowri r j watson j o cherrington ed st luci press boca raton fl r bapna',5
+'price virtual privat network econom engin experiment approach b ukic p konana',5
+'prioriti price integr servic network internet econom l w mcknight j p bailei ed mit press cambridg ma d stahl a whinston',5
+'prioriti price approach manag multi servic class network real time d stahl a whinston',5
+'stochast equilibrium model internet price d stahl a whinston',5
+'estim internet user demand characterist b jukic m li d stahl a whinston',5
+'streamlin digit economi how avert tragedi common b jukic m parameswaran d stahl a whinston',5
+'internet futur tragedi common d stahl a whinston',5
+'econom network manag a whinston d stahl',5
+'insight analysi onlin auction r bapna p goes',5
+'simul onlin yanke auction optim seller revenu r bapna p goes',5
+'manag comput resourc activ intranet r chellappa g gupta a a',5
+'insight analys onlin auction p goes r bapna',5
+'simul onlin yanke auction optim seller revenu p goes r bapna',5
+'minitrack introduct r gopal',5
+'econom network manag d stahl a whinston',5
+'dynam detect remov inact claus sat applic imag z yang p ashar',6
+'dynam detect demov inact claus sat applic imag comput p ashar z yang',6
+'sat based imag comput applic reachab analys p ashar z yang',6
+'combin decis diagram sat procedur effici symbol model check a biere e clarke p williams',6
+'sat abstract refin ilp machin learn techniqu e clarke j kukula o shrichman',6
+'slew rate enhanc techniqu oper amplifi tunabl activ gm capacit multipl circuit r suryanarayan t blalock',6
+'combin decis diagram sat procedur effici symbol model check p williams a biere e clarke',6
+'optim d cell layout integr transistor fold j hayes',7
+'clip integ program optim layout synthesi d cmo cell j hayes',7
+'width minim two dimension cmo cell integ program j hayes',7
+'clip optim layout gener two dimension cmo cell j hayes',7
+'xmltk xml toolkit scalabl xml stream process i campillo t green m onizuka d raven d suciu',8
+'view select problem stream process d suciu a halevy',8
+'compress sql workload s chaudhuri v narasayya',8
+'view select stream process a halevy d suciu',8
+'stream process xpath queri predic d suciu',8
+'view select stream process a halevy d suciu',8
+'view select problem xml content rout a halevy d suciu',8
+'stream process xpath queri predic d suciu',8
+'silicon compil fault toler rom k chakraborty p mazumder',9
+'physic design tool built self repair static ram k chakraborty m bhattacharya p mazumder s kulkarni',9
+'suppli chain agent decis aid scada l whitman r agarwal',9
+'splash program s woo m ohara e torrie j singh',10
+'distribut meet r cutler y rui j cadiz i tashev l he a colburn z zhang z liu s silverberg',10
+'static run time characterist op product c forgy',10
+'memori consist event order scalabl sharedmemori multiprocessor retrospect reprint k gharachorloo d lenoski j laudon p gibbons j hennessy',10
+'parallel algorithm architectur rulebas c forgy a newell r wedig',10
+'implement product messag pass comput a acharya m tambe',10
+'auto summar audiovideo present l he e sanocki j grudin',10
+'cool object languag parallel program j hennessy r chandra',10
+'load balanc local adapt hierarch n bodi method barn hut fast multipol rasios c holt j singh j hennessy t totsuka',10
+'dash prototyp logic overhead perform d lenoski d nakahira j laudon j hennessy l stevens t joe',10
+'stanford dash multiprocessor d lenoski j laudon j hennessy k gharachorloo m horowitz m lam w weber',10
+'tune memori perform sequenti parallel program m martonosi t anderson',10
+'parallel op encor multimax a newell c forgy d kalp m tambe',10
+'work set cach size node granular issu larg scale multiprocessor e rothberg j singh',10
+'time compress concern usag benefit e sanocki j grudin l he n omoigui',10
+'empir comparison kendal squar research ksr stanford dash multiprocessor j singh j hennessy t joe',10
+'parallel visual algorithm perform architectur implic j singh m levoy',10
+'scale parallel program multiprocessor methodolog exampl j singh j hennessy',10
+'evalu chandi misra bryant algorithm digit logic simul l soule',10
+'splash program character methodolog consider e torrie j singh m ohara s woo',10
+'stanford dash multiprocessor hardwar softwar approach nan',10
+'notif share annot digit document a brush d bargeron j grudin',10
+'flexibl us memori replic migrat cach coher dsm multiprocessor b verghese j hennessy k gharachorloo m heinrich v soundararajan',10
+'perform isol share isol share memori multiprocessor b verghese m rosenblum',10
+'oper support improv local cc numa comput server b verghese m rosenblum s devine',10
+'schedul page migrat multiprocessor comput server b verghese m rosenblum r chandra s devine',10
+'cach invalid pattern share memori multiprocessor w weber',10
+'explor benefit multipl hardwar context multiprocessor architectur preliminari result w weber',10
+'analysi cach invalid pattern multiprocessor w weber',10
+'reduc memori traffic requir scalabl directori cach coher scheme w weber t mowry',10
+'robust annot posit digit document a brush d bargeron j cadiz',10
+'impact architectur trend oper perform e bugnion e witchel m rosenblum s herrod',10
+'view meet captur omni direct camera j cadiz y rui',10
+'autom camera manag lectur room environ j cadiz q liu y rui',10
+'schedul page migrat multiprocessor comput server r chandra s devine b verghese m rosenblum',10
+'memori perform unix cc numa multiprocessor j chapin m rosenblum s herrod',10
+'vmp multiprocessor initi experi refin perform evlauat d cheriton h goosen p boyle',10
+'distribut meet meet captur broadcast a colburn i tashev j cadiz l he r cutler s silverberg y rui z zhang z liu',10
+'automat extract highlight tv basebal program a acero y rui',10
+'initi assess architectur product c forgy a newell r wedig',10
+'perform evalu hybrid hardwar softwar distribut share memori protocol k gharachorloo r chandra v soundararajan',10
+'perform evalu memori consist model share memori multiprocessor k gharachorloo j hennessy',10
+'design present demand view j grudin l he',10
+'suitabl messag pass comput implement product m tambe',10
+'design analysi cach architectur textur map z hakura',10
+'build intellig camera manag l he q liu y rui',10
+'explor benefit non linear time compress l he',10
+'coher block transfer flash multiprocessor j heinlein k gharachorloo m rosenblum r bosch',10
+'integr messag pass share memori stanford flash multiprocessor j heinlein k gharachorloo s dresser',10
+'character cach synchron perform multiprocessor oper j hennessy j torrellas',10
+'compar evalu latenc reduc toler techniqu j hennessy k gharachorloo t mowry w weber',10
+'local load balanc cool j hennessy r chandra',10
+'hide memori latenc dynam schedul share memori multiprocessor j hennessy k gharachorloo',10
+'quantit analysi perform scalabl distribut share memori j hennessy m heinrich v soundararajan',10
+'memori refer characterist multiprocessor applic mach a agarwal',10
+'perform evalu memori consist model share memori multiprocessor j hennessy k gharachorloo',10
+'program differ memori consist model j hennessy k gharachorloo m hill s adve',10
+'two techniqu enhanc perform memori consist model j hennessy k gharachorloo',10
+'parallel adapt fast multipol method c holt j singh j hennessy',10
+'design deploi inform awar interfac g jancke g venolia j cadiz',10
+'link public space technic social issu g jancke g venolia j grudin j cadiz',10
+'present local remot audienc design us telep g jancke j grudin',10
+'design evalu compil algorithm prefetch m lam t mowry',10
+'interleav multithread techniqu target multiprocessor workstat j laudon m horowitz',10
+'variabl compress jpeg a agrawal n chaddha t meng',10
+'memori consist event order scalabl share memori multiprocessor d lenoski j laudon j hennessy k gharachorloo p gibbons',10
+'directori cach coher protocol dash multiprocessor d lenoski j laudon j hennessy k gharachorloo',10
+'dash prototyp implement perform d lenoski d nakahira j laudon j hennessy l stevens t joe',10
+'effect trace sampl perform debug tool m martonosi t anderson',10
+'memspi analyz memori bottleneck program m martonosi t anderson',10
+'tradeoff messag pass share memori implement standard cell router m martonosi',10
+'reduc memori traffic requir scalabl directori cach coher scheme t mowry w weber',10
+'distanc learn through distribut collabor video view a balachandran e sanocki g jancke j grudin j cadiz',10
+'toler latenc through softwar control prefetch share memori multiprocessor t mowry',10
+'perform impact flexibl stanford flash multiprocessor d nakahira d ofelt j singh j kuskin j baxter j heinlein j hennessy k gharachorloo m heinrich m horowitz m rosenblum r simoni',10
+'stanford flash multiprocessor d nakahira d ofelt j kuskin j baxter j chapin j heinlein j hennessy k gharachorloo m heinrich m horowitz m rosenblum r simoni',10
+'comparison rete treat product matcher soar p nayak p rosenbloom',10
+'high speed implement rule a newell c forgy',10
+'initi assess architectur product a newell c forgy r wedig',10
+'parallel algorithm architectur rule a newell c forgy r wedig',10
+'soar psm e investig match parallel learn product a newell b milnes c forgy d kalp m tambe',10
+'model commun parallel algorithm fruit interact between theori e rothberg j singh',10
+'run time predict product f barachini h mistelberger',10
+'experi implement parallel atm share memori multiprocessor e rothberg',10
+'work set cach size e rothberg j singh',10
+'parallel iccg hierarch memori multiprocessor address triangular solv bottleneck e rothberg',10
+'techniqu improv perform spars matrix factor multiprocessor workstat e rothberg',10
+'effici block orient approach parallel spars choleski factor e rothburg',10
+'build intellig camera manag y rui l he q liu',10
+'automat extract highlight tv basebal program y rui a acero',10
+'brows digit video e sanocki f li l he y rui',10
+'compar present summari slide vs read vs listen e sanocki j grudin l he',10
+'annot stream video web design usag studi d bargeron e sanocki j grudin',10
+'evolv us educ at distanc e sanocki g kimberly h chesley j grudin s white',10
+'auto summar audio video present e sanocki j grudin l he',10
+'implic hierarch n bodi method multiprocessor architectur j singh j hennessy',10
+'what s futur parallel architectur b smith d douglas d maier f darema j ratner o lubeck p messina',10
+'character parallel deadlock distribut digit logic simul l soule',10
+'asynchron collabor around multimedia it applic demand train d bargeron e sanocki f li j grudin',10
+'compar perform evalu cach coher numa coma architectur p stenstrom t joe',10
+'suitabl messag pass comput implement product m tambe',10
+'hive fault contain share memori multiprocessor d teodosiu j chapin m rosenblum s devine t lahiri',10
+'implement effici fault contain multiprocessor confin fault share memori multiprocessor environ d teodosiu j chapin m rosenblum s devine t lahiri',10
+'benefit cach affin schedul share memori multiprocessor summari a tucker j torrellas',10
+'evalu perform cach affin schedul share memori multiprocessor a tucker j torrellas',10
+'exploit variabl grain parallel at runtim a tucker',10
+'process control schedul issu multiprogram share memori multiprocessor a tucker',10
+'impact oper schedul polici synchron method perform parallel applic a tucker s urushibara',10
+'rang address network p p cach architectur rang a kothari d agrawal s suri',11
+'approxim rang select queri peer peer a abbadi d agrawal',11
+'passiv activ assist human perform simul underactu dynam task m malley',11
+'autom multi cycl symbol time verif microprocessor design d siewiorek',12
+'assur autom design depend a brennan d siewiorek p edmond',12
+'micon comput design d siewiorek w birmingham',12
+'xprof profil execut x window program w hwu',13
+'execut profil window orient applic w hwu',13
+'garbag collect distribut object orient w fuchs',13
+'perform analysi time warp homogen processor exponenti task time i akyildiz r fujimoto',14
+'perform analysi time warp multipl homogen processor i akyildiz r fujimoto',14
+'object orient represent product design process a wong g kim r sriram s gorti',15
+'increment load persist ccc languag e m vemulapati r sriram',15
+'specif anomali detect new approach detect network intrus a tiwari h yang j frullo r sekar s zhou t shanbhag',16
+'approach detect self propag email anomali detect r sekar',16
+'toward bring databas manag task realm it non expert m bhide m mohania',17
+'dynam access control framework event m bhide m mohania s pandey',17
+'model shape topolog d imag biolog specimen p alarcon a montano j carazo',18
+'semant mediat approach problem comput molecular biologi m chagoyen m kurul p alarcon s santini b ludascher j carazo',18
+'model shape topolog low resolut densiti map biolog macromolecul p alarcon a montano j carazo',18
+'gener medic imag onlin descript grammar m goldbaum v kouznetsova i zaslavsky d nazafi',18
+'content retriev ophtalmolog imag s moezzi a taylor s chatterjee r jain m goldbaum s burgess',18
+'declar specif gene regulatori network queri evalu pathsi y yang a bagchi a ray',18
+'visual inform retriev virag perspect nan',18
+'framework queri databas structur inform d imag macromolecul web queri content prototyp bioimag macromolecular server p alarcon j carazo',18
+'learn object model visual semant network a bagchi',18
+'event manag architectur activ recognit multistream video databas s bhonsle s santini r jain',18
+'extens inform model share scientif collect c baru',18
+'summar video h hampapur m gorkani r jain',18
+'mani face process interact graph manag perspect b ludascher',18
+'toward featur algebra visual databas case studi histogram algebra s santini',18
+'toward formal diseas specif ontolog neuroinformat b ludascher j grethe m martone',18
+'comput vision visual inform retriev r jain',18
+'virag imag search engin open framework imag manag j bach c fuller a hampapur',18
+'model mediat scientif manag b ludascher m martone',18
+'mediat model inform integr b ludascher m martone',18
+'cell center databas electron tomograph m martone m wong x qian g sosinsky s lamont b ludascher m ellisman',18
+'feder brain through knowledg guid mediat m martone b ludascher i zaslavsky m ellisman',18
+'collect persist digit archiv r moore c baru a rajasekar b ludascher r marciano m wan w schroeder',18
+'queri multipl perspect video s santini r jain',18
+'wavelet model imag databas s santini',18
+'extens featur manag engin imag retriev s santini',18
+'principl schema design multimedia databas s santini',18
+'user interfac emerg semant imag databas proceed th ifip work confer databas semant ds rotorua new zealand januari s santini r jain',18
+'interpol volum model databas t wang s santini',18
+'accuraci mediat spatial wrapper mediat i zaslavsky b ludascher r marciano',18
+'combin queri transform plan spatial mediat i zaslavsky r marciano',18
+'xml spatial mediat infrastructur global interoper i zaslavsky r marciano c baru',18
+'hue preserv enhanc scheme class colour imag b chanda',18
+'toward feder neuroscientif knowledg manag brain atlas g burns k stephan b ludascher',18
+'birn m semant mediat solv real world neurosci problem b ludascher m martone a rajasekar e ross x qian s santini h he i zaslavsky',18
+'visual inform retriev r jain',18
+'extend object orient model larg imag base t weymouth r jain',18
+'search inform visual media s santini r jain',18
+'integr gi imageri through xml inform mediat r marciano i zaslavsky c baru',18
+'ontolog servic curriculum develop nsdl b ludascher r moore',18
+'regist scientif inform sourc semant mediat b ludascher m martone',18
+'semant queri imag databas t weymouth r jain',18
+'model execut environ distribut scientif workflow i altintas s bhagwanani d buttler s chandra m coleman t critchlow w han l liu b ludascher r moore c pu a shoshani m vouk',18
+'semant queri pictur vimsi model t weymouth r jain',18
+'manag altern model model mediat b ludascher m martone x qian j tran i zaslavsky',18
+'virag video engin a hampapur b horowitz c fuller c shu j bach m gorkani r jain',18
+'virag imag search engin open framework imag manag a hampapur b horowitz c fuller c shu j bach r jain r humphrey',18
+'visual inform retriev r jain',18
+'emerg semant through interact imag databas r jain s santini',18
+'extend object orient model larg imag base r jain t weymouth',18
+'search inform visual media r jain s santini',18
+'semant queri imag databas r jain t weymouth',18
+'semant queri pictur vimsi model r jain t weymouth',18
+'semiord databas complex activ recognit multi sensori environ r jain s bhonsle s santini',18
+'user interfac emerg sement imag databas r jain s santini',18
+'interact video www beyond vcr like interfac a katkere j schlenzig r jain',18
+'visual comput meet model defin object multicamera video databas p kelly r jain',18
+'birn m semant mediat solv real world neurosci problem b ludascher m martone',18
+'compil abstract scientif workflow web servic workflow b ludascher i altintas',18
+'xml inform mediat digit librari c baru b ludascher r marciano y papakonstantinou p velikhov v chu',18
+'knowledg integr neurosci sourc b ludascher m martone',18
+'queri evalu present plan within spatial mediat extend xml mediat heterogen sourc gi imageri invit address b ludascher i zaslavsky s tambawala',18
+'model mediat domain map b ludascher m martone',18
+'model inform integr neurosci mediat b ludascher m martone',18
+'model interact web sourc inform mediat b ludascher',18
+'xml inform mediat digit librari b ludascher c baru p velikhov r marciano v chu y papakonstantinou',18
+'xml inform mediat mix b ludascher c baru p velikhov r marciano v chu y papakonstantinou',18
+'navig virtual inform sourc know me b ludascher m martone x qian',18
+'extens model mediatior domain map b ludascher m martone',18
+'ontolog servic curriculum develop nsdl b ludascher r moore',18
+'xml inform mediat mix c baru b ludascher r marciano y apakonstantinou p velikhov v chu',18
+'regist scientif inform sourc semant mediat b ludascher m martone',18
+'manag altern model model mediat b ludascher e ross i zaslavsky j tran m martone x qian',18
+'time leav tree from syntact conceptu queri xml b ludascher i altintas',18
+'toward feder neuroscientif knowledg manag brain atlas b ludascher g burns k stephan r kotter',18
+'compil abstract scientif workflow web servic workflow b ludascher i altintas',18
+'model mediat domain map b ludascher m martone',18
+'model interact web sourc inform mediat b ludascher',18
+'time leav tree from syntact conceptu queri xml b ludascher i altintas',18
+'integr gi imageri through xml inform mediat c baru i zaslavsky r marciano',18
+'practic approach microscopi imag manag midm neurosci m martone s zhang x qian',18
+'navig virtual inform sourc know me x qian b ludascher m martone',18
+'conceptu integr multipl partial geometr model s santini',18
+'model queri wavelet featur imag databas s santini',18
+'gembas geometr mediat brain analysi surfac ensembl s santini',18
+'emerg semant through interact imag databas s santini r jain',18
+'complex visual activ recognit tempor order databas s bhonsle s santini m worring r jain',18
+'interpol volum model s santini t wang',18
+'toward featur algebra visual databas case histogram algebra s santini',18
+'model execut environ distribut scientif workflow a shoshani b ludascher c pu d buttler i altintas l liu m coleman m vouk r moore s chandra s bhagwanani t critchlow w han z cheng',18
+'content imag retriev at end earli year a smeulders m worring r jain s santini',18
+'databas architectur autonom transport agent scene network incid manag aton m trivedi s bhonsle',18
+'interpol volum model t wang s santini',18
+'semiord databas complex activ recognit multi sensori environ s bhonsle s santini r jain',18
+'complex visual activ recognit tempor order databas m worring r jain s bhonsle s santini',18
+'practic approach microscopi imag manag midm neurosci s zhang x qian m martone',18
+'mainten materi view problem techniqu applic i mumick',19
+'jungle integr all shape size nan',19
+'effici complet test databas integr constraint check j ullman j widom y sagiv',19
+'aggreg queri process wareh environ d quass v harinarayan',19
+'what is wareh problem ar materi view answer i mumick',19
+'comput multidimension aggreg j naughton p deshpande r ramakrishnan r agrawal s agarwal s sarawagi',19
+'valid constraint partial inform research overview j ullman j widom y sagiv',19
+'mainten self mainten outer join view h jagadish i mumick',19
+'count solut view mainten problem d katiyar i mumick',19
+'gener conjunct queri contain view mainten integr constraint verif abstract j ullman',19
+'adapt materi view after redefinit i mumick k ross',19
+'maintain view increment i mumick v subrahmanian',19
+'model multidimension databas r agrawal s sarawagi',19
+'local verif global integr constraint distribut databas j widom',19
+'adapt materi view after redefinit techniqu perform studi i mumick j rao k ross',19
+'partial inform updat materi view j blakeley',19
+'capabl queri rewrit mediat l haas y papakonstantinou',19
+'constraint manag distribut design databas s tiwari',19
+'virtual databas technolog a rajaraman v harinarayan',19
+'distribut constraint manag collabor engin databas s tiwari',19
+'integr self maintain view h jagadish i mumick',19
+'queri translat scheme rapid implement wrapper h molina j ullman y papakonstantinou',19
+'virtual databas technolog a rajaraman v harinarayan',19
+'e commerc web nan',19
+'algorithm handl skew parallel task schedul a swami h young',19
+'optim tupl subsumpt v harinarayan',19
+'capabl queri rewrit mediat l haas y papakonstantinou',19
+'make view self maintain wareh d quass i mumick j widom',19
+'constraint check partial inform j ullman j widom y sagiv',19
+'entrepreneurship inform research abstract invit tutori nan',19
+'magic set transform nonrecurs i mumick',19
+'385 j delgrande',20
+'386 j delgrande',20
+'represent constant time tempor reason j delgrande',20
+'two result negat free logic j delgrande',20
+'acycl direct hypercub mai have exponenti diamet h everett',20
+'approxim algorithm schedul vehicl path releas handl time d gaur r krishnamurti',20
+'comput planar interwin r impagliazzo',20
+'comput planar interwin siam r impagliazzo',20
+'comput planar intertwin r impagliazzo',20
+'comput subtre supertre n nishimura',20
+'construct issu tree minor nan',20
+'qualit tempor reason t allen j delgrande',20
+'find smallest common supertre n nishimura',20
+'fast parallel algorithm recognit parenthesi languag nan',20
+'linear time algorithm partial k tree complement d kaller t shermer',20
+'embed k connect graph pathwidth k n nishimura a proskurowski p ragde',20
+'outlin graph minor project wagner s conjectur n nishimura',20
+'parallel algorithm vehicl rout problem r krishnamurti',20
+'parallel algorithm vehicl rout problem r krishnamurti',20
+'comput model develop neoplast pre invas bronchial epitheli lesion a mendoza',20
+'sequenti parallel algorithm embed problem k connect partial k tree n nishimura',20
+'amplif comput major small major gate s mahajan',20
+'complex subgraph isomorph dualiti result graph bound path tree width n nishimura',20
+'gener match problem partial k tree d kaller s mahajan t shermer',20
+'bound size planar intertwin r impagliazzo',20
+'comput planar intertwin r impagliazzo',20
+'linear time algorithm partial k tree complement d kaller t shermer',20
+'optim parallel algorithm formula evalu s buss s cook v ramachandran',20
+'regular factor k tree d kaller t shermer',20
+'chi lc gif t colour problem d kaller t shermer',20
+'find largest subtre smallest supertre n nishimura',20
+'algorithm structur f dehne j sack r tamassia',20
+'embed k connect graph pathwidth k a proskurowski n nishimura p ragde',20
+'complex negat free logic j delgrande',20
+'complex negat free logic j delgrande',20
+'construct proof that tree ar well quasi order minor nan',20
+'point approach qualit tempor reason j delgrande t allen',20
+'point approach qualit tempor reason j delgrande t allen',20
+'point approach qualit tempor reason j delgrande t allen',20
+'revis timegraph ii j delgrande',20
+'represent effici tempor reason j delgrande',20
+'complex minimum partial truth assign implic negat free formula j delgrande',20
+'finit automata as character minor close tree famili extend abstract nan',20
+'character complex subgraph isomorph graph bound path width n nishimura',20
+'construct proof that tree ar well quasi order minor nan',20
+'find largest common embedd subtre n nishimura',20
+'vertex partit problem partial k tree d kaller s mahajan t shermer',20
+'complement partial k tree d kaller t shermer',20
+'sequenti parallel algorithm embed problem class partial k tree n nishimura',20
+'parallel complex tree embed problem n nishimura',20
+'vertex partit problem partial k tree d kaller s mahajan t shermer',20
+'complement partial k tree d kaller t shermer',20
+'regular factor complement partial k tree d kaller t shermer',20
+'chi t color problem d kaller t shermer',20
+'amplif comput major small major gate s mahajan',20
+'character complex subgraph isomorph graph bound path width n nishimura',20
+'find largest common embedd subtre n nishimura',20
+'find smallest supertre n nishimura',20
+'sequenti parallel algorithm embed problem class partial k tree n nishimura',20
+'complex subgraph isomorph class partial k tree n nishimura',20
+'parallel complex tree embed problem n nishimura',20
+'parallel complex tree embed problem extend abstract n nishimura',20
+'comparison point approach qualit tempor reason j delgrande t allen',20
+'design implement evalu band linear solver distribut memori parallel comput f gustavson m joshi s toledo',21
+'design implement evalu symmetr band linear solver distribut memori parallel comput f gustavson m joshi s toledo',21
+'highli scalabl parallel algorithm spars matrix factor g karypis v kumar',21
+'highli scalabl parallel algorithm spars matrix factor g karypis v kumar',21
+'scalabl fft parallel comput v kumar',21
+'perform scalabl precondit conjug gradient method parallel comput a sameh v kumar',21
+'perform scalabl precondit conjug gradient method cm a sameh v kumar',21
+'improv symbol numer factor algorithm unsymmetr spars matric nan',21
+'wsmp high perform serial parallel spars linear solver m joshi v kumar',21
+'recent advanc direct method solv unsymmetr spars linear equat nan',21
+'recent progress gener spars direct solver nan',21
+'wssmp high perform serial parallel symmetr spars linear solver m joshi v kumar',21
+'experi recurs perturb algorithm symmetr indefinit linear a karaivanov f gustavson j wasniewski p yalamov',21
+'highli parallel interior point algorithm g karypis v kumar',21
+'parallel formul interior point algorithm g karypis v kumar',21
+'analysi scalabl parallel algorithm architectur survei v kumar',21
+'perform properti larg scale parallel v kumar',21
+'parallel algorithm forward back substitut direct solut spars linear v kumar',21
+'optim scalabl parallel spars choleski factor v kumar',21
+'scalabl parallel algorithm spars choleski factor v kumar',21
+'scalabl parallel algorithm matrix multipl v kumar',21
+'parallel analysi ic power distribut network d moran g ditlow r williams r moore t wilkins',21
+'experiment comparison direct spars solver packag y muliadi',21
+'fast practic algorithm boolean product wit matrix problem p rohatgi r agarwal',21
+'design implement scalabl parallel direct solver spars symmetr posit definit preliminari result f gustavson g karypis m joshi v kumar',21
+'fast graph partit it applic spars matrix order f gustavson',21
+'new parallel algorithm tridiagon symmetr posit definit equat f gustavson',21
+'pspase effici scalabl parallel spars direct solver f gustavson g karypis m joshi v kumar',21
+'bound geometri fractal low distort embed r krauthgamer j lee',22
+'constant factor approxim algorithm multicommod rent bui problem a kumar t roughgarden',22
+'constant factor approxim algorithm class classif problem a tardos',22
+'count invers stream f zane',22
+'cut tree l embed i newman y rabinovich a sinclair',22
+'design edg failur resili network c chekuri a kumar j naor d raz',22
+'embed k outerplanar graph l c chekuri i newman y rabinovich a sinclair',22
+'embed finit metric nan',22
+'embed tree low dimension euclidean space nan',22
+'elementari proof johnson lindenstrauss lemma nan',22
+'cover steiner problem a srinivasan',22
+'approxim averag distort embed line k dhamdhere r ravi',22
+'provis virtual privat network network design problem multicommod flow j kleinberg a kumar r rastogi b yener',22
+'steiner node tree don t realli help nan',22
+'bound geometri fractal low distort embed j lee r krauthgamer',22
+'cut tree l embed graph a sinclair i newman y rabinovich',22
+'embed k outerplanar graph l a sinclair c chekuri i newman y rabinovich',22
+'constant factor approxim algorithm class classif problem e tardos',22
+'lower bound embed edit distanc norm space a andoni m deza p indyk s raskhodnikova',22
+'embed tree metric low dimension euclidean space nan',22
+'explor trade off between label size stack depth mpl rout a kumar r rastogi',22
+'improv bandwidth approxim tree chordal graph nan',22
+'improv result direct multicut nan',22
+'approxim via cost share simpl approxim algorithm multicommod rent bui problem a kumar m pal t roughgarden',22
+'approxim algorithm unsplitt flow problem a chakrabarti c chekuri a kumar',22
+'simpler better approxim algorithm network design a kumar t roughgarden',22
+'improv bandwidth approxim tree nan',22
+'tree mpl rout a kumar m thorup',22
+'travel pez dispens rout issu mpl a kumar r rastogi',22
+'build edg failur resili network a kumar c chekuri d raz j naor',22
+'constant factor approxim algorithm multicommod a kumar t roughgarden',22
+'explor trade off between label size stack depth mpl rout a kumar r rastogi',22
+'approxim via cost share simpl approxim algorithm multicommod rent bui problem a kumar m pal t roughgarden',22
+'provis virtual privat network network design problem multicommod flow a kumar b yener j kleinberg r rastogi',22
+'simpler better approxim algorithm network design a kumar t roughgarden',22
+'improv bandwidth approxim tree chordal graph nan',22
+'tree mpl rout a kumar m thorup',22
+'travel pez dispens rout issu mpl a kumar r rastogi',22
+'count invers list f zane',22
+'improv result direct multicut nan',22
+'steiner point tree metric don t realli help nan',22
+'lower bound embed edit distanc norm space a andoni m deza p indyk s raskhodnikova',22
+'approxim algorithm unsplitt flow problem a chakrabarti a kumar c chekuri',22
+'sort select structur cost a kumar',22
+'sort select structur cost a kumar',22
+'develop parallel distribut integr packag part e doncker k rathbun p ealy',23
+'two method load balanc distribut adapt integr e doncker p ealy',23
+'multivari integr hypercub mesh network e doncker',23
+'parint softwar packag parallel integr a genz e doncker j ball p ealy',23
+'mutual exclus hypercub s bruell s ghosh',23
+'schedul task multiprocessor evolutionari strategi g greenwood k mcsweeney',23
+'gener compress tree machin h wang',23
+'effici design boltzmann machin w maass',23
+'load balanc prioriti queue distribut memori machin a photiou',23
+'compact hypercub properti recognit a boals j hashmi n sherwani',23
+'effici approxim algorithm hypercub schedul a boals j hashmi n sherwani',23
+'optim embed incomplet hypercub a boals n sherwani',23
+'latin cube parallel arrai access c fan j liu',23
+'embed ternari tree boolean hypercub h wang',23
+'load balanc tree embed s hambrusch',23
+'embed complet binari tree butterfli network s hambrusch',23
+'optim three dimension layout complet binari tree s hambrusch',23
+'effici embed ternari tree hypercub d nelson h wang',23
+'multipl network embed hypercub s hambrusch',23
+'parallel organ perform inform d motzkin',23
+'coars grain precondit conjug gradient solver larg spars e doncker',23
+'represent symbol manipul linearli induct boolean function a fisher',24
+'complet distinguish fsm equival check p ashar s malik',24
+'complet distinguish fsm equival check p ashar s malik',24
+'formal hardwar verif method survei nan',24
+'parametr circuit represent induct boolean function a fisher',24
+'sat imag comput applic reachabl analysi p ashar z yang',24
+'tradeoff canon sequenti function represent a fisher',24
+'formal hardwar verif method survei nan',24
+'properti specif wit graph gener guid simul a mukaiyama a casavant k wakabayashi p ashar s liu',24
+'properti specif testbench gener guid simul a mukaiyama a casavant k wakabayashi p ashar x liu',24
+'verif schedul presenc loop uninterpret symbol simul a raghunathan p ashar s bhattacharya',24
+'abstract bdd complement sat bmc diver c wang m ganai p ashar z yang',24
+'learn from bdd sat bound model check c wang m ganai p ashar z yang',24
+'exploit retim guid simul valid methodolog p ashar s malik',24
+'combin strength circuit cnf algorithm high perform sat solver l zhang m ganai p ashar s malik',24
+'partit decis heurist imag comput sat bdd l zhang p ashar s malik z yang',24
+'toward formal valid methodolog simul coverag p ashar s malik',24
+'flexibl parallel polygon render a fisher',24
+'parametr circuit represent induct boolean function a fisher',24
+'tradeoff canon sequenti function represent a fisher',24
+'dynam detect remov inact claus sat applic imag comput p ashar z yang',24
+'brief applic descript neural network forecast techniqu inventori control applic k bansal s vadhavkar',25
+'self configur self administ name dynam address assign m butler m feng p huck',25
+'integr architectur recognit total unconstrain handwritten numer a liu m nagendraprasad p wang s ayyadurai',25
+'adapt modular neural network applic unconstrain charact recognit a agarwal l mui p wang',25
+'integr framework support distribut cad internet f mora j yeung s vadhavkar',25
+'toward activ schema integr architectur heterogen databas m reddy m siegel',25
+'formul global integr constraint dure deriv global schema b prasad m reddy',25
+'methodolog integr heterogen databas b prasad m reddy p reddy',25
+'taxonomi classifi commerci approach inform integr heterogen environ s madnick',25
+'direct web e commerc applic secur b thuraisingham c clifton e ferrari e bertino',25
+'mine techniqu optim inventori electron commerc a dhond s vadhavkar',25
+'why inform explos can be bad mine how fusion provid wai out j kok p putten',25
+'detect courtesi amount block bank check a agarwal k hussein l granowetter p wang',25

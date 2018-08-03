@@ -1,0 +1,252 @@
+12392;1;jie chen;s shan,s yan,x chen,w gao;modif adaboost base detector partial occlud face;icpr;2006
+12393;1;jie chen;h yao,w gao,s liu;robust watermark method base wavelet zernik transform;isca;2004
+12394;1;jie chen;r wang,s yan,w gao;face detect base manifold;avbpa;2005
+12395;1;jie chen;r wang,s yan,s shan,x chen,w gao;train classifi base huge face databas;amfg;2005
+12396;1;jie chen;r wang,s shan,x chen,w gao;isomap base imag euclidean distanc;icpr;2006
+12397;1;jie chen;y li,l qing,b yin,w gao;face sampl re light detect base harmon imag;pcm;2004
+12398;1;jie chen;x chen,w gao;resampl face detect self adapt genet algorithm;icpr;2004
+12399;1;jie chen;r wang,s shan,w gao;enhanc train set face detect;icpr;2006
+12400;2;jian chen;z xu;interact method fuzzi multipl attribut group decis make;isci;2007
+12401;3;jianer chen;x huang,i kanj,g xia;polynomi time approxim scheme parameter complex;mfc;2004
+12402;3;jianer chen;i kanj;constrain minimum vertex cover bipartit graph improv algorithm;wg;2001
+12403;3;jianer chen;j gross;limit point averag genu connect connect simplici graph;jct;1992
+12404;3;jianer chen;e akleman;guarante manifold properti mesh;smi;1999
+12405;3;jianer chen;i kanj;approxim minimum vertex cover graph perfect match;isaac;2000
+12406;3;jianer chen;i kanj,g xia;label search tree amort analysi improv upper bound np hard problem;algorithmica;2005
+12407;3;jianer chen;v srinivasan,e akleman;interact construct multi segment curv handl;pg;2002
+12408;3;jianer chen;;differ tape two tape respect revers complex;tc;1990
+12409;3;jianer chen;e oh;strong menger connect star graph;dam;2003
+12410;3;jianer chen;h deng,q li,r li,q gao;construct reliabl network;dam;2004
+12411;3;jianer chen;i kanj,w jia;vertex cover observ improv;jal;2001
+12412;3;jianer chen;e akleman;gener distanc function;smi;1999
+12413;3;jianer chen;i kanj;approxim minimum vertex cover graph perfect match;tc;2005
+12414;3;jianer chen;w gao,j wang,s chen;pfed predict base fair activ queue manag algorithm;icpp;2005
+12415;3;jianer chen;c chan,e akleman;two method creat chines paint;pg;2002
+12416;3;jianer chen;i kanj,g xia;label search tree amort analysi improv upper bound np hard problem;isaac;2003
+12417;3;jianer chen;d friesen,w jia,i kanj;us nondetermin design effici determinist algorithm;algorithmica;2004
+12418;3;jianer chen;e oh;strong fault toler parallel rout network fault;icc;2001
+12419;3;jianer chen;i kanj,g wang;hypercub network fault toler probabilist approach;icpp;2002
+12420;3;jianer chen;c chen;optim parallel rout star network;tc;1997
+12421;3;jianer chen;x huang,i kanj,g xia;linear fpt reduct comput lower bound;stoc;2004
+12422;3;jianer chen;i kanj,g wang;hypercub network fault toler probabilist approach;join;2005
+12423;3;jianer chen;w jia,c zhang;effici parameter algorithm m set pack;jal;2004
+12424;3;jianer chen;h sui,j wang,s chen;cost becom anonym particip payload crowd;ipl;2004
+12425;3;jianer chen;a miranda,l torres;approxim multiprocessor task schedul problem;isaac;2002
+12426;3;jianer chen;e akleman,v srinivasan;minim complet set oper develop robust manifold mesh model;cvgip;2003
+12427;3;jianer chen;g wang,t li;probabilist approach fault toler rout algorithm mesh network;icpad;2004
+12428;3;jianer chen;j gross;limit point averag genu connect non simplici graph;jct;1992
+12429;3;jianer chen;i kanj,g xia;improv parameter upper bound vertex cover;mfc;2006
+12430;3;jianer chen;s kanchi;graph ear decomposit graph embed;siamdm;1999
+12431;3;jianer chen;c chen;nearli optim mani parallel rout star network;tpd;1997
+12432;3;jianer chen;c yap;revers complex;siamcomp;1991
+12433;3;jianer chen;n malpani;note practic construct maximum bandwidth path;ipl;2002
+12434;3;jianer chen;e akleman;regular mesh;sma;2005
+12435;3;jianer chen;l cai;amount nondetermin power verifi;siamcomp;1997
+12436;3;jianer chen;g wang,g wang;probabilist analysi connect mesh network;itcc;2003
+12437;3;jianer chen;d friesen,h zheng;tight bound johnson s algorithm maximum satisfi;jcss;1999
+12438;3;jianer chen;l liu,w jia;improv vertex cover low degre graph;network;2000
+12439;3;jianer chen;a jiang,i kanj,g xia,f zhang;separ topolog control quasi unit disk graph;infocom;2007
+12440;3;jianer chen;e oh;strong menger connect star graph;wg;2001
+12441;3;jianer chen;j gross;algebra specif interconnect network relationship permut voltag graph map;mst;1996
+12442;3;jianer chen;;linear time algorithm isomorph graph bound averag genu;siamdm;1994
+12443;3;jianer chen;i kanj;constrain minimum vertex cover bipartit graph complex parameter algorithm;jcss;2003
+12444;3;jianer chen;g wang,c lin,t wang,g wang;probabilist analysi mesh network fault toler;jpdc;2007
+12445;3;jianer chen;x xiao,g wang;fault toler rout algorithm hypercub network load balanc support;ispa;2004
+12446;3;jianer chen;i kanj,w jia;vertex cover observ improv;wg;1999
+12447;3;jianer chen;e akleman,v srinivasan;prototyp system robust interact user friendli model orient manifold mesh;smi;2002
+12448;3;jianer chen;e akleman,b meric;web base intuit effect design symmetr tile;mm;2000
+12449;3;jianer chen;c chen;optim parallel rout star graph;wg;1996
+12450;3;jianer chen;c chen;nearli optim mani parallel rout star network;ipp;1997
+12451;3;jianer chen;l cai;input read mode altern ture machin;tc;1995
+12452;3;jianer chen;j gross,r rieper;overlap matric total imbed distribut;dm;1994
+12453;3;jianer chen;j huang,s chen,j wang;simpl linear time approxim algorithm multi processor job schedul four processor;jco;2007
+12454;3;jianer chen;j huang;semi normal schedul improv goeman algorithm;isaac;2001
+12455;3;jianer chen;n 0004,w zhao;cardin base infer control olap system inform theoret approach;dolap;2004
+12456;3;jianer chen;s kanchi,a kanevsky;note approxim graph genu;ipl;1997
+12457;3;jianer chen;s sze,s lu;integr sampl driven pattern driven approach motif find;wabi;2004
+12458;3;jianer chen;s kanchi,j gross;tight lower bound maximum genu simplici graph;dm;1996
+12459;3;jianer chen;g wang;new fault toler multicast commun multicomput;pdpta;2003
+12460;3;jianer chen;j huang,s chen;simpl linear time approxim algorithm multi processor job schedul four processor;isaac;2000
+12461;3;jianer chen;d archdeacon,j gross;maximum genu connect;dm;1996
+12462;3;jianer chen;l cai,r downey,m fellows;advic class parameter tractabl;apal;1997
+12463;3;jianer chen;c chen;maximum partit match problem applic;siamcomp;1999
+12464;3;jianer chen;e akleman,f eryoldas,v srinivasan;handl hole improv us new corner cut subdivis scheme tension;smi;2001
+12465;3;jianer chen;j cox,b mishra;nl hierarchi;ipl;1991
+12466;3;jianer chen;b chor,m fellows,x huang,d juedes,i kanj,g xia;tight lower bound certain parameter np hard problem;coco;2004
+12467;3;jianer chen;i kanj,j meng,g xia,f zhang;effect enumer np problem;iwpec;2006
+12468;3;jianer chen;;algorithm graph embed;tc;1997
+12469;3;jianer chen;e akleman;regular mesh construct algorithm us regular handl;smi;2006
+12470;3;jianer chen;e oh;parallel rout hypercub network faulti node;icpad;2001
+12471;3;jianer chen;x huang,i kanj,g xia;strong comput lower bound via parameter complex;jcss;2006
+12472;3;jianer chen;g wang,s chen;rout hypercub network constant fraction faulti node;join;2001
+12473;3;jianer chen;n 0004,w zhao;perform measur privaci preserv data mine;pakdd;2005
+12474;3;jianer chen;t wang;probabilist analysi mesh network fault toler;pdc;2002
+12475;3;jianer chen;g wang,g wang,s chen;probabl model fault larg scale multicomput system;at;2003
+12476;3;jianer chen;l cai,j hastad;circuit bottom fan comput power;siamcomp;1998
+12477;3;jianer chen;;linear time algorithm isomorph graph bound averag genu;wg;1992
+12478;3;jianer chen;f zhang;product cover tier suppli chain model natur complet problem w w;tc;2006
+12479;3;jian er chen;g wang,g wang;fault toler dimension mesh network;jcst;2004
+12480;3;jianer chen;l liu,s chen,w jia;intuit effect new represent interconnect network structur;isaac;2000
+12481;3;jianer chen;l cai;fix paramet tractabl approxim np hard optim problem;istc;1993
+12482;3;jianer chen;e akleman,v srinivasan;new paradigm chang topolog subdivis model;pg;2000
+12483;3;jianer chen;x huang,i kanj,g xia;comput hard base linear fpt reduct;jco;2006
+12484;3;jianer chen;h xu,x fu,y zhu,r bettati,w zhao;sa scalar anonym commun system;iccnmc;2005
+12485;3;jianer chen;f zhang,h li,a jiang,p luo;face trace base geograph rout nonplanar wireless network;infocom;2007
+12486;3;jianer chen;y 0002,s lu,s sze;greedi local color code improv match pack algorithm;iwpec;2006
+12487;3;jianer chen;;character parallel hierarchi reduc;ipl;1991
+12488;3;jianer chen;l cai,r downey,m fellows;structur parameter problem np;iandc;1995
+12489;3;jianer chen;g wang,s chen;local subcub connect hypercub network theoret analysi experiment result;tc;2002
+12490;3;jianer chen;s lu,s sze,f zhang;improv algorithm path match pack problem;soda;2007
+12491;3;jianer chen;a miranda;polynomi time approxim scheme gener multiprocessor job schedul;siamcomp;2001
+12492;3;jianer chen;l cai,j hastad;circuit bottom fan comput power;coco;1997
+12493;3;jianer chen;h fernau,i kanj,g xia;parametr dualiti kernel lower bound upper bound kernel size;stac;2005
+12494;3;jianer chen;x huang,i kanj,g xia;polynomi time approxim scheme parameter complex;dam;2007
+12495;3;jianer chen;e akleman,v srinivasan;interact rind model;smi;2003
+12496;3;jianer chen;i kanj;improv exact algorithm max sat;latin;2002
+12497;3;jianer chen;d xuan,c li,r bettati,w zhao;util base admiss control real time applic;icpp;2000
+12498;3;jianer chen;g wang,g wang;fault toler dimension mesh network;ispan;2004
+12499;3;jianer chen;h sui,s chen,j wang;payload analysi anonym commun system host base rerout mechan;iscc;2003
+12500;3;jianer chen;e oh;strong fault toler parallel rout star network fault;join;2003
+12501;3;jianer chen;b chor,m fellows,x huang,d juedes,i kanj,g xia;tight lower bound certain parameter np hard problem;iandc;2005
+12502;4;jeng chun chen;c kuo,m chen;adapt transmiss scheme audio video synchron base real time transport protocol;icmc;2001
+12503;4;jeng chun chen;g ma,m chen;error resili real time video commun ip base lan;icmc;2001
+12504;4;janet j c chen;w liao,m chen;adapt recoveri techniqu real time audio stream;infocom;2001
+12505;4;jeng chun chen;m chen,p yu;gener result broadcast;tpd;1996
+12506;4;janet j c chen;g hou,m chen;multimedia ip thin client build collabor resourc share prototyp;icmc;2001
+12507;4;jeng chun chen;c kuo,p ting,m chen;design implement network applic architectur thin client;compsac;2002
+12508;5;jianwei chen;j zhang,h wu;discret approach nonparametr model long term hiv dynam model;iccsa;2005
+12509;5;jianwei chen;s choy,k li;optim bayesian sampl accept plan random censor;eor;2004
+12510;6;jonathan h chen;s swamidass,y dou,j bruand,p baldi;chemdb public databas small molecul relat chemoinformat resourc;bioinformat;2005
+12511;6;jonathan h chen;s danziger,s swamidass,j zeng,l dearth,q lu,j cheng,v hoang,h saigo,r luo,p baldi,r brachmann,r lathrop;function censu mutat sequenc space exampl p53 cancer rescu mutant;tcbb;2006
+12512;6;jonathan h chen;s swamidass,j bruand,p phung,l ralaivola,p baldi;kernel small molecul predict mutagen toxic anti cancer activ;ismb;2005
+12513;7;jidong chen;c lai,l wang,x meng,k zeitouni;effect densiti queri move object road network;waim;2007
+12514;7;jidong chen;x meng,y guo,s grumbach,h sun;model predict futur trajectori move object constrain network;mdm;2006
+12515;7;jidong chen;x meng,b li,c lai;track network constrain move object group updat;waim;2006
+12516;8;jason r chen;;make subsequ time seri cluster meaning;icdm;2005
+12517;8;jason chen;a zelinsky;program demonstr remov suboptim action partial known configur space;icra;2001
+12518;8;jason r chen;;construct task level assembl strategi robot program demonstr;ijrr;2005
+12519;8;jason chen;a zelinsky;gener configur space represent assembl task demonstr;icra;2001
+12520;8;jason chen;b mccarragher;program demonstr construct task level plan hybrid dynam framework;icra;2000
+12521;9;james chen;s wolfe,s wragg;distribut multi agent system collabor inform manag share;cikm;2000
+12522;9;james r chen;s wolfe,s wragg;manag person group collect inform;dl;1999
+12523;9;james r chen;n mathe,s wolfe;collabor inform agent world wide web;dl;1998
+12524;9;james r chen;n mathe;learn subject relev facilit inform access;cikm;1995
+12525;9;james r chen;r keller,s wolfe,j rabinowitz,n mathe;bookmark servic organ share url;cn;1997
+12526;9;james r chen;n mathe;user center index adapt inform access;umuai;1996
+12527;9;james chen;c kaplan,j fenwick;adapt hypertext navig base user goal context;umuai;1993
+12528;10;jian jia chen;t kuo;alloc cost minim period hard real time task energi constrain dv system;iccad;2006
+12529;10;jian jia chen;h hsu,t kuo;leakag awar energi effici schedul real time task multiprocessor system;rta;2006
+12530;10;jian jia chen;t kuo;procrastin leakag awar rate monoton schedul dynam voltag scale processor;lctrt;2006
+12531;10;jian jia chen;j wu,c shih,t kuo;approxim algorithm schedul multipl feasibl interv job;rtcsa;2005
+12532;10;jian jia chen;j wu,c shih;approxim algorithm schedul real time job multipl feasibl interv;rt;2006
+12533;11;james j chen;r delongchamp,c tsai,h hsueh,f sistare,k thompson,v desai,j fuscoe;analysi varianc compon gene express data;bioinformat;2004
+12534;12;james j chen;c tsai,s wang,d chen;sampl size gene express microarrai experi;bioinformat;2005
+12535;13;jun chen;h jiang,y deng,h chen,l tao,q sha,c tsai,s zhang;joint analysi two microarrai gene express data set select lung adenocarcinoma marker gene;bmcbi;2004
+12536;14;jong jang chen;s chen,s chen,c tsai;even wire approach ball grid arrai packag rout;iccd;1999
+12537;15;jianhua chen;g ding,r lax,p chen;effici learn pseudo boolean function limit train data;ismi;2005
+12538;15;jianhua chen;s kundu;strong semant logic program;ismi;1991
+12539;15;jianhua chen;s kundu;new method circumscrib belief proposit case;fuin;1997
+12540;15;jianhua chen;r brooks,s iyengar;automat correl calibr noisi sensor read us elit genet algorithm;ai;1996
+12541;15;jianhua chen;d kraft,m martin bautista,d sanchez;rule fuzzi rule text concept extract usag;ijar;2003
+12542;15;jianhua chen;;logic know unifi framework non monoton reason;fuin;1994
+12543;15;jianhua chen;s kundu;sound complet fuzzi logic system us zadeh s implic oper;ismi;1996
+12544;15;jianhua chen;w wang;learn discov problem solv heurist experi;tkde;1991
+12545;15;jianhua chen;;embed priorit circumscript logic program;ismi;1997
+12546;15;jianhua chen;;sound complet proof theori gener logic know;jetai;1998
+12547;15;jianhua chen;s kundu;fuzzi logic lukasiewicz logic clarif;ismi;1994
+12548;15;jianhua chen;;logic know unifi framework non monoton reason;ismi;1993
+12549;15;jianahua chen;k kundu;strong semant logic program;jii;1995
+12550;15;jianhua chen;;class stratifi program autoepistem logic knowledg belief;ismi;1999
+12551;16;jessica chen;s subramaniam;specif base test gui base applic;sqj;2002
+12552;17;jian hung chen;s ho,d goldberg;qualiti time analysi multi object evolutionari algorithm;gecco;2005
+12553;17;jian hung chen;h chen,s ho;design nearest neighbor classifi us intellig multi object evolutionari algorithm;pricai;2004
+12554;17;jian hung chen;s ho,l shu;intellig evolutionari algorithm larg paramet optim problem;tec;2004
+12555;17;jian hung chen;b liu,h chen,s hwang,s ho;meswarm memet particl swarm optim;gecco;2005
+12556;17;jian hung chen;d goldberg,s ho,k sastry;fit inherit multi object optim;gecco;2002
+12557;18;jian chen;p pyla,d bowman;testb evalu navig text displai techniqu inform rich virtual environ;vr;2004
+12558;18;jian chen;c lin,d chen,r loftin,e leiss;interact visibl human data us immersadesk;vr;2002
+12559;18;jian chen;t ni,d bowman;increas displai size resolut improv task perform inform rich virtual environ;graphicsinterfac;2006
+12560;18;jian chen;d bowman,c wingrave,j lucas,a ray,n polys,q li,y haciahmetoglu,j kim,s kim,r boehringer,t ni;new direct 3d user interfac;ijvr;2006
+12561;19;jianjun chen;d dewitt,f tian,y wang;niagaracq scalabl continu queri system internet databas;sigmod;2000
+12562;19;jianjun chen;d dewitt,j naughton;design evalu altern select placement strategi optim continu queri;icd;2002
+12563;20;jake yue chen;j carlis;genom data model;;2003
+12564;20;jake yue chen;j carlis;similar join extend dbm bio specif oper;sac;2003
+12565;21;john chen;s bangalore,o rambow,m walker;toward automat gener natur languag gener system;cole;2002
+12566;21;john chen;s bangalore,k vijay shanker;new model improv supertag disambigu;eacl;1999
+12567;22;jinghu chen;a dholakia,e eleftheriou,m fossorier,x hu;reduc complex decod ldpc code;tcom;2005
+12568;22;jinghu chen;j liu,a host madsen,m fossorier;correl mimo rayleigh fade system transmit channel state inform;vtc;2004
+12569;23;jing chen;z cao;model check real time valu pass system;jcst;2004
+12570;23;jing chen;h lin;make time automata commun;unu;2002
+12571;24;jason jen yen chen;c tu;ada like softwar process languag;jss;1994
+12572;24;jason jen yen chen;y chen;new object orient method integr jackson structur program method;jss;1994
+12573;24;jason jen yen chen;y hung;integr object orient analysi design method emphas entiti class relationship oper find;jss;1994
+12574;24;jason jen yen chen;s chou,c chung;execut specif languag specif understand object orient specif reus;infsof;1996
+12575;24;j y chen;l stanfel;counter exampl cluster heurist;;1981
+12576;24;jason jen yen chen;s chou;enact object orient method process environ;infsof;1998
+12577;24;jason jen yen chen;s chou,c chung;behavior base classif retriev techniqu object orient specif reus;spe;1996
+12578;25;juan chen;y chen,y pan,w liu,l chen;partit optim algorithm multipl sequenc align;aina;2006
+12579;26;junqing chen;t pappas,a mojsilovic,b rogowitz;adapt perceptu color textur imag segment;tip;2005
+12580;26;junqing chen;t pappas,a mojsilovic,b rogowitz;imag segment spatial adapt color textur featur;icip;2003
+12581;26;junqing chen;t pappas,a mojsilovic,b rogowitz;perceptu tune multiscal color textur segment;icip;2004
+12582;26;junqing chen;t pappas,a mojsilovic,b rogowitz;adapt imag segment base color textur;icip;2002
+12583;27;jiming chen;z wang,y song,y sun;extend dbp m k firm base qo;npc;2004
+12584;27;jiming chen;y sun;experi studi dynam prioriti schedul wireless sensor network;msn;2005
+12585;28;juan chen;;type intermedi languag compil multipl inherit;popl;2007
+12586;28;juan chen;d tarditi;simpl type intermedi languag object orient languag;popl;2005
+12587;28;juan chen;;decid subclass bound quantif;tldi;2005
+12588;28;juan chen;c hawblitzel,h huang,l wittie;garbag collect type assembl languag;tldi;2007
+12589;29;jun chen;s macdonald,d novillo;choos among altern futur;hvc;2005
+12590;30;jinjun chen;y yang,t chen;dynam verif tempor constraint fly workflow system;apsec;2004
+12591;30;jinjun chen;y yang;kei research issu grid workflow verif valid;acsw;2006
+12592;30;jinjun chen;y yang;flexibl tempor consist fix time constraint verif grid workflow system;gcc;2005
+12593;31;jian chen;d silver,l jiang;featur tree visual featur track distribut amr dataset;pvg;2003
+12594;32;jsao jie chen;j fu;hardwar softwar coverif distribut embed system;pdpta;1999
+12595;33;jin chen;g soundararajan,k manassiev,a goel,c amza;feedback base schedul back end databas share dynam content server cluster;icac;2005
+12596;33;jin chen;b wu,m delap,b knutsson,h lu,c amza;local awar dynam load manag massiv multiplay game;ppopp;2005
+12597;33;jin chen;z xiang,s song,h wang,j huang,x gao;wireless lan base indoor posit technolog;ibmrd;2004
+12598;34;ju bing chen;k chen;aspect base instrument locat memori leak java program;compsac;2007
+12599;35;jindong chen;m bern,h wong;avoid local optima singl particl reconstruct;recomb;2005
+12600;36;jie chen;j thorp,r thomas,t mount;locat price schedul integr energi reserv market;hicss;2003
+12601;36;jie chen;t mount,j thorp,r thomas;locat base schedul price energi reserv respons reserv market propos;dss;2005
+12602;37;jay chen;m vrable,j ma,d moore,e vandekieft,a snoeren,g voelker,s savage;scalabl fidel contain potemkin virtual honeyfarm;sosp;2005
+12603;37;jay chen;d gupta,k vishwanath,a snoeren,a vahdat;rout internet scale network emul;mascot;2004
+12604;38;jingsen chen;s carlsson,c mattsson;heap bit;tc;1996
+12605;38;jingsen chen;f bengtsson;comput maximum score segment almost linear time;cocoon;2006
+12606;38;jingsen chen;s carlsson,c mattsson;heap bit;isaac;1994
+12607;39;jin chen;w hsu,m lee,s ng;discov reliabl protein interact high throughput experiment data us network topolog;artm;2005
+12608;40;jiali chen;n cruz,s bromberg,d pasko,m shimoyama,s twigger,c chen,c fan,c foote,g gopinath,g harris,a hughes,y ji,w jin,d li,j mathis,n nenasheva,j nie,r nigam,v petri,d reilly,w wang,w wu,a zuniga meyer,l zhao,a kwitek,p tonellato,h jacob;rat genom databas rgd develop toward phenom databas;nar;2005
+12609;41;jiang chen;a young,z ma,a krishnamurthy,l peterson,r wang;overlai mesh construct us interleav span tree;infocom;2004
+12610;41;jiang chen;d angluin,j aspnes,y wu,y yin;fast construct overlai network;spaa;2005
+12611;41;jiang chen;d angluin;learn hidden hypergraph;jmlr;2006
+12612;41;jiang chen;d angluin;learn hidden hypergraph;colt;2005
+12613;41;jiang chen;d angluin;learn hidden graph us log n queri edg;colt;2004
+12614;41;jiang chen;d angluin,j aspnes,l reyzin;learn larg alphabet analog circuit valu inject queri;colt;2007
+12615;41;jiang chen;s zhong,y yang;sprite simpl cheat proof credit base system mobil ad hoc network;infocom;2003
+12616;41;jiang chen;j yao,y cai,s li;architectur tsinghuaeolu;robocup;2001
+12617;41;jiang chen;d angluin,j aspnes,y wu;learn circuit inject valu;stoc;2006
+12618;42;jiwei chen;m gerla,l chen,y lee,b zhou,g yang,s das;deal node mobil ad hoc wireless network;sfm;2005
+12619;42;jiwei chen;f paganini,m sanadidi,r wang,m gerla;fluid flow analysi tcp westwood red;cn;2006
+12620;43;jin chen;x dai,d guo,a maceachren,b zhou,j macgill;web base collabor tool geospati data explor;dgo;2004
+12621;44;jyh cheng chen;p agrawal,c sreenan;challeng mobil voic ip;network;2000
+12622;44;jyh cheng chen;c sreenan,p agrawal,b narendran;delai reduct techniqu playout buffer;tmm;2000
+12623;45;jiaqin chen;m freytag,v shapiro;shape sensit construct represent;sma;2007
+12624;46;jian chen;j staples;defin soft sorted abstract interpret;mfc;1993
+12625;46;jian chen;j staples;soft sort logic program;alpuk;1992
+12626;47;jiun ming chen;b yang,c cheng,b chen;implement minim multivari pkc low resourc embed system;spc;2006
+12627;47;jiun ming chen;b yang;theoret analysi xl small field;acisp;2004
+12628;47;jiun ming chen;b yang;secur efficaci tt signatur scheme;icisc;2003
+12629;48;jeremy k p chen;t hsu,c liau,d wang;quantifi privaci leakag answer databas queri;isw;2002
+12630;48;jeremy k p chen;d wang,c liau,t hsu;damag compens privaci leakag;dbsec;2004
+12631;49;jian chen;y guan,u pooch;custom geograph rout protocol wireless sensor network;itcc;2005
+12632;50;jeremy j w chen;c liu,w chen,p chang;topolog base classif us artifici gene network;ieeeicci;2005
+12633;51;josette chen;g hamarneh,b neiman,j henderson,m henkelman;segment registr deform analysi 3d mr imag mice;miccai;2003
+12634;52;jin chen;s jardin,h strauss;solv anisotrop transport equat misalign grid;icc;2005
+12635;53;jer jeong chen;j yan,g chang;quasi threshold graph;dam;1996
+12636;54;jing chen;g yang,d wong,x deng,d wang;natur wai construct ident base identif scheme;acn;2007
+12637;55;jyh cheng chen;k sivalingam,p agrawal,m srivastava;design analysi low power access protocol wireless mobil atm network;winet;2000
+12638;56;jason chou hong chen;p chong,y chen;induct food servic industri;imd;2001
+12639;57;jein shan chen;x chen,p tseng;analysi nonsmooth vector valu function associ second order cone;mp;2004
+12640;58;jianping chen;c ko,b chen,s hu,v ramakrishnan,c cheng,y zhuang;web base virtual laboratori frequenc modul experi;tsmc;2001
+12641;59;jianqing chen;d liu;design onlin auction past perform inform;dss;2006
+12642;60;jiunn tsair chen;c wen,c papadias;asymptot analysi mimo wireless system spatial correl receiv;tcom;2005
+12643;61;jiyang chen;l sun,o zaiane,r goebel;visual discov web navig pattern;webdb;2004

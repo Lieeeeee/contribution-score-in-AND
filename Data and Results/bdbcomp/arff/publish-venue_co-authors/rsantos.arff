@@ -1,0 +1,24 @@
+@relation 'Dataset bdbcomp publish-venue_co-authors rsantos'
+@attribute Text string
+@attribute class-att {174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190}
+@data
+'rede computador j junior m camargo s gregorio m ribeiro f arruba jr o fernandes w ishibashi',174
+'rede computador j leite c klemtz m mandel a mantovani s cintra',175
+'computacao grafica processamento imagen t ohashi t yoshida t ejima',176
+'rede computador a calsavara',177
+'symposium microelectron technolog devic i doi j diniz j swart s santos',178
+'symposium microelectron technolog devic i doi r teixeira j diniz j swart s santos',178
+'inteligencia artifici f artola s fontoura m vellasco',179
+'bioinformatica j tambor l paulino a bazzan',180
+'qualidad softwar a calazans k oliveira',181
+'rede neurai p adeodato a arnaud r cunha g vasconcelos d monteiro',182
+'banco dado f mesquita a silva e vilarinho',183
+'journal comput scienc w caminhas l errico',184
+'biblioteca digitai nan',185
+'xxxii seminario integrado softwar hardwar r andrade e marcal c vidal r rios',186
+'geoinformatica n medina r lapa m nero a netto',187
+'banco dado p roberto m goncalves a laender',188
+'banco dado a silva h santos a laender m goncalves',188
+'informatica publica a peterle c castro c meffe n bretas',189
+'tempo real j santos j orozco',190
+'banco dado c hara',190

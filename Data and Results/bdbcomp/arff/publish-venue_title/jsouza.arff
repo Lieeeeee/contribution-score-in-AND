@@ -1,0 +1,38 @@
+@relation 'Dataset bdbcomp publish-venue_title jsouza'
+@attribute Text string
+@attribute class-att {128, 129, 130, 131, 132, 133, 134, 135, 136, 125, 126, 127}
+@data
+'rede computador sigma entidad localizacao autenticacao dispositivo movei area micromobilidad',125
+'rede computador analis estocastica descart pacot rede tcp',125
+'rede computador integracao agent atm prototipo destinado estudo interoperabilidad sistema tmn',125
+'rede computador abordagem implantacao programavei rede comunicacao',125
+'rede computador neurocomputacao estimativa parametro hurst',125
+'rede computador rede computador',125
+'rede computador migrando solucao interoperabilidad sistema tmn baseada metodologia aid ambient osimi',125
+'informatica educacao desenvolvendo ambient distribuido auxilio avaliacao conceitu sistema tutor',126
+'banco dado mine tempor constraint databas us genet algorithm',127
+'banco dado informacao link modelo vetori usando estrutura funcion',128
+'banco dado depend among term vector space model',128
+'banco dado multi user kei data exchang protocol manag secur databas',128
+'banco dado raster approxim process polylin join',129
+'banco dado enforc busi rule relat databas us constraint',129
+'geoinformatica approxim spatial queri process us raster signatur',129
+'banco dado processamento eficient junco espacotemporai',129
+'geoinformatica approxim queri process spatial databas us raster signatur',129
+'engenharia softwar athena sistema gerenciador regra negocio',129
+'engenharia softwar falaocl ferramenta parafrasear ocl',129
+'geoinformatica processamento distribuido juncao espaci',129
+'geoinformatica spatial queri broker grid environ',129
+'geoinformatica secondo grid infrastructur studi spatial databas comput grid',129
+'banco dado improv approach data wareh etlm process detect chang sourc data',129
+'computacao grafica processamento imagen dispositivo automatico obtencao forma 3d objeto',130
+'rede neurai pattern recognit gase petroleum base rbf model',131
+'seguranca sistema computacionai analis mecanismo seguranca rede locai fio proposta melhoria',132
+'xxxi seminario integrado softwar hardwar improv perform long distanc geograph distribut dedic cluster',133
+'internacion melhoria processo softwar sqa garantia qualidad fabrica softwar',134
+'rede neurai alocacao otima utr medidor supervisao tempo real sistema distribuicao',135
+'escola region banco dado abordagem viabilizar processo data warehous dado biologico',136
+'rede computador manag heterogen network integrador base approach',125
+'test tolerancia falha estrategia rerroteamento pro ativo rede optica utilizando infra estrutura gerencia p2p',125
+'computacao grid aplicaco desafio provisao integridad processamento grade computacionai',125
+'gerencia operacao rede servico identifi anomal pattern network wide traffic us flow cluster',125

@@ -1,0 +1,272 @@
+@relation 'Dataset kitsi title_co-authors hwang'
+@attribute Text string
+@attribute class-att {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36}
+@data
+'atla nativ extens sql data mine c zaniolo',1
+'catch moment maintain close frequent itemset data stream slide window y chi p yu r muntz',1
+'cluster pattern similar larg data set w wang j yang p yu',1
+'discov frequent close partial order string j pei j liu k wang j wang p yu',1
+'mine associ pattern structur larg relat tabl c perng s ma p yu',1
+'databas system extens decis support axl approach c zaniolo',1
+'locat base spatial queri data share wireless broadcast environ w ku r zimmermann',1
+'pattern base similar search microarrai data j pei p yu',1
+'improv biclust method analyz gene express profil j yang w wang p yu',1
+'nativ extens sql mine data stream c luo h thakkar c zaniolo',1
+'comput compress multidimension skylin cube effici j pei a fu x lin',1
+'loadstar load shed scheme classifi data stream y chi p yu r muntz',1
+'data stream languag system design power extens y bai h thakkar c luo c zaniolo',1
+'index weight sequenc larg databas c perng w fan s park p yu',1
+'sequenc tree structur xml index x meng',1
+'fulli distribut framework cost sensit data mine w fan p yu s stolfo',1
+'fast relev discoveri time seri c perng s ma',1
+'compact reachabl label graph structur data h he j yang p yu',1
+'suppress model overfit mine concept drift data stream j yin j pei p yu j yu',1
+'stai current relev data mine research w wang',1
+'fast comput reachabl label larg graph j cheng j yu x lin p yu',1
+'loci load shed class preserv data acquisit p wang w wang b shi p yu',1
+'mine concept drift data stream us ensembl classifi w fan p yu j han',1
+'find global iceberg distribut data set q zhao m ogihara j xu',1
+'gstring novel approach effici search graph databas h jiang p yu s zhou',1
+'extend sql decis support applic c zaniolo',1
+'landmark new model similar base pattern queri time seri databas c perng s zhang d jr',1
+'xseq index infrastructur tree pattern queri x meng y jiang y chen',1
+'estim select xml path express predic histogram y wang x meng s wang',1
+'blink rank keyword search graph h he j yang p yu',1
+'semant data manag toward queri data mean l lim m wang',1
+'progress model w fan p yu s lo s stolfo',1
+'user defin aggreg object relat system c zaniolo',1
+'fast algorithm subspac cluster pattern similar f chu w fan p yu j pei',1
+'empir comparison variou reinforc learn strategi sequenti target market n abe e pednault b zadrozny w fan c apte',1
+'user defin aggreg datamin c zaniolo',1
+'near neighbor search pattern distanc space c perng p yu',1
+'optim timestamp manag data stream manag system y bai h thakkar c zaniolo',1
+'random method quantifi chang distribut data stream j pei',1
+'vist dynam index method queri xml data tree structur s park w fan p yu',1
+'queri languag data model databas sequenc data stream y law c zaniolo',1
+'activ mine data stream w fan y huang p yu',1
+'loadstar load shed data stream mine y chi p yu',1
+'farm framework explor mine space multipl attribut c perng s ma j hellerstein',1
+'user defin aggreg logic data languag c zaniolo',1
+'adapt load diffus multiwai window stream join x gu p yu',1
+'prune dynam schedul cost sensit ensembl w fan f chu p yu',1
+'mapl fast algorithm maxim pattern base cluster j pei x zhang m cho p yu',1
+'atla small complet sql extens data mine data stream c zaniolo c luo',1
+'demand driven frequent itemset mine us pattern structur c perng s ma p yu',1
+'reduc classifi granular mine concept drift data stream p wang x wu w wang b shi',1
+'user direct explor mine space multipl attribut c perng s ma j hellerstein',1
+'balanc ensembl approach weight classifi text classif g fung j yu d cheung h liu',1
+'moment maintain close frequent itemset stream slide window y chi p yu r muntz',1
+'user defin aggreg databas languag c zaniolo',1
+'logic mani sort theori nan',2
+'new theori element number nan',2
+'axiomat arithmet nan',2
+'word histori ture machin fix input m rabin',2
+'variant ture s theori comput machin nan',2
+'note quin s principl quantif nan',2
+'formal mathemat nan',2
+'undecid sentenc gener semant paradox nan',2
+'set theoret basi real number nan',2
+'altern proof theorem kleen nan',2
+'certain predic defin induct schemata nan',2
+'formal system logic nan',2
+'exist class valu specif variabl nan',2
+'fals peak avoid mean shift method unsupervis peak vallei slide imag segment d suter',3
+'effici visual track probabilist fusion multipl cue d suter',3
+'robust adapt scale parametr model estim comput vision d suter',3
+'robust fit adapt scale residu consensu d suter',3
+'consensu base method track model background scenario foreground appear d suter',3
+'us symmetri robust model fit d suter',3
+'effect appear model similar measur particl filter visual track d suter k schindler',3
+'track segment peopl occlus sampl consensu base method d suter',3
+'color imag segment us global inform local homogen d suter',3
+'smooth foreground background segment video process k schindler',3
+'background subtract base robust consensu method d suter',3
+'mdpe robust estim model fit rang imag segment d suter',3
+'novel robust statist method background initi visual surveil d suter',3
+'gradient adapt imag restor enhanc y chen t fang j tyan n ahuja',4
+'compact represent multidimension data us tensor rank decomposit n ahuja',4
+'seamless video edit r raskar n ahuja',4
+'core tensor approxim multi dimension matric visual data q wu l shi y yu n ahuja',4
+'mutual inform regular bayesian framework multipl imag restor y chen t fang j tyan',4
+'rank r approxim tensor us imag matrix represent n ahuja',4
+'facial express decomposit n ahuja',4
+'strider black box state base approach chang configur manag support y wang c verbowski j dunagan y chen c yuan z zhang',5
+'strider black box state base approach chang configur manag support y wang c verbowski j dunagan y chen c yuan z zhang',5
+'passiv network tomographi us bayesian infer v padmanabhan l qiu',6
+'evalu scalabl applic level multicast built us peer peer overlai m castro m jones a kermarrec a rowstron m theimer a wolman',6
+'resili peer peer stream v padmanabhan p chou',6
+'privaci preserv friend troubleshoot network q huang n borisov',6
+'automat misconfigur troubleshoot peerpressur j platt y chen r zhang y wang',6
+'onlin aggreg j hellerstein p haas',6
+'virtual playground worm behavior investig x jiang d xu e spafford',6
+'signal system us lightweight call session a joseph r katz',6
+'find divers remot code inject exploit j ma j dunagan s savage g voelker',6
+'peerpressur automat troubleshoot j platt y chen r zhang y wang',6
+'shield vulner driven network filter prevent known vulner exploit c guo d simon a zugenmaier',6
+'shieldgen automat data patch gener unknown vulner inform probe w cui m peinado m locasto',6
+'polici enabl handoff across heterogen wireless network r katz j giese',6
+'systemat approach uncov secur flaw gui logic j meseguer r sasse y wang',6
+'support heterogen congest control peer peer multicast stream v padmanabhan p chou',6
+'friend troubleshoot network toward privaci preserv automat troubleshoot y hu c yuan z zhang y wang',6
+'applic secur electron vote autom privaci preserv troubleshoot q huang d jao',6
+'browsershield vulner driven filter dynam html c reis j dunagan o dubrovsky s esmeir',6
+'server base infer internet link lossi v padmanabhan l qiu',6
+'subvirt implement malwar virtual machin s king p chen y wang c verbowski j lorch',6
+'distribut stream media content us cooper network v padmanabhan p chou k sripanidkulchai',6
+'vertex disjoint triangl claw free graph minimum degre least three nan',7
+'partit bipartit graph cycl nan',7
+'extens theorem cycl contain specifi independ edg y ishigami',7
+'k1 k factor complet bipartit graph nan',7
+'direct bipartit graph contain everi possibl pair direct cycl nan',7
+'exist two disjoint long cycl graph y egawa s fujita k kawarabayashi',7
+'independ cycl bipartit graph nan',7
+'maximum number independ cycl bipartit graph nan',7
+'cover vertic graph k disjoint cycl y egawa m hagita k kawarabayashi',7
+'partit direct bipartit graph two direct cycl c little k teo',7
+'p2p factor complet bipartit graph nan',7
+'vertex disjoint hexagon chord bipartit graph nan',7
+'maximum number independ cycl graph nan',7
+'bipartit graph contain everi possibl pair cycl nan',7
+'tree contain larg induc subgraph degre mod k d berman a radcliffe a scott l wargo',7
+'vertex disjoint quadrilater graph nan',7
+'triangl claw free graph nan',7
+'cover bipartit graph cycl nan',7
+'quadrilater cycl cover bipartit graph nan',7
+'quadrilater graph b randerath i schiermeyer',7
+'pack three copi tree complet graph n sauer',7
+'disjoint direct quadrilater direct graph d zhang',7
+'maxim total length k disjoint cycl bipartit graph nan',7
+'debug owl dl ontolog heurist approach m horridge a rector n drummond j seidenberg',8
+'object z web environ project uml j sun j dong j liu',8
+'svg web environ z specif languag j sun s athauda t sheik',8
+'formal semant verif featur model j sun h zhang y li',8
+'formal object approach design zml j sun j dong j liu',8
+'z approach semant web j dong j sun',8
+'check reason semant web alloi j dong j sun',8
+'tcoz approach semant web servic design j dong y li',8
+'tcoz approach owl s process model design j dong j sun y li',8
+'xml xsl approach visual anim tcoz j sun j dong j liu',8
+'semant web extend link formal j dong j sun',8
+'xml base static type check dynam visual tcoz j dong y li j sun j sun',8
+'visual simul semant web servic ontolog j sun y li j sun',8
+'combin approach check web ontolog j dong c lee h lee y li',8
+'valid semistructur data us owl y li j sun g dobbie j sun',8
+'reason support swrl fol us alloi j dong j sun',8
+'reason ora ss data model us semant web y li j sun g dobbie j sun',8
+'spatial data queri support peer peer system r zimmermann w ku',9
+'distribut continu rang queri process move object r zimmermann w ku',9
+'adapt nearest neighbor queri travel time network w ku r zimmermann c wan',9
+'markov random field model rang imag segment x wang',10
+'evolutionari optim markov random field prior x wang',10
+'evolutionari gibb sampler imag segment x wang',10
+'constrain nonlinear model fingerprint orient predict j li w yau',10
+'real time 3d motion track known geometr model z li',10
+'fingerprint index base symmetr measur j li w yau',10
+'effici algorithm obtain algebra invari higher degre implicit polynomi recognit curv object s kaveti e teoh',10
+'correct bia motion estim algorithm w song',10
+'cooper base behavior design h wang c wang w soh',10
+'analysi grai level corner detect z zheng e teoh',10
+'fast rel depth comput activ stereo vision system w yau',10
+'featur extract genet algorithm base nonlinear princip compon analysi face recognit n liu',10
+'corner detect base find edg point local f shen',10
+'corner detect base modifi hough transform f shen',10
+'multi platform soccer robot develop system h wang c wang w soh',10
+'discov gene specif local co regul us progress genet algorithm j zhang q gao',11
+'multi dimension histogram select estim fast approxim queri answer k sevcik',11
+'novel method detect outli subspac high dimension databas us genet algorithm j zhang q gao',11
+'solut properti converg approxim mean valu analysi algorithm k sevcik',11
+'experi improv approxim mean valu analysi algorithm k sevcik',11
+'bisimul analysi sdl express protocol case studi m chechik',11
+'ho miner system detect outli subspac high dimension data j zhang m lou t ling',11
+'util histogram inform k sevcik',11
+'detect outli subspac high dimension data new task algorithm perform j zhang',11
+'conceptu construct incomplet survei data s wang',11
+'grid odf detect outlier effect effici larg multi dimension databas w wang j zhang',11
+'experi improv approxim mean valu analysi algorithm k sevcik',11
+'knowledg discoveri self organ map data visual queri process s wang',11
+'collabor multi agent workflow manag d xu',12
+'explor altern requir analysi j mylopoulos l chung s liao e yu',12
+'agent base evolutionari approach interpret rule base knowledg extract s kwong y jin w wei k man',13
+'multi object hierarch genet algorithm interpret fuzzi rule base knowledg extract s kwong y jin w wei k man',13
+'optim gaussian mixtur model paramet speaker identif q hong s kwong',13
+'effect detect zero dct block h 264 optim s kwong c kok',13
+'effici predict algorithm integ dct coeffici h 264 avc optim s kwong c kok',13
+'anomali intrus detect us multi object genet fuzzi system agent base evolutionari comput framework c tsang s kwong',13
+'model evalu surviv intrus toler databas system p liu',14
+'toward databas firewal k bai p liu',14
+'evalu impact intrus detect defici cost effect attack recoveri p liu l li',14
+'idea storm cube game base system support creativ think c huang t li c chang',15
+'vibrant brainstorm agent comput support creativ problem solv t li c rose c huang c chang',15
+'web base tutor system style match strategi spatial geometr transform t li c chang',15
+'empir explor us wiki english second languag cours c lu j yang h hu g chiou y chiang w hsu',15
+'adapt present effect web base learn 3d content t li c chang',15
+'collabor support tool creativ learn idea storm cube c huang t li c chang',15
+'hybrid ontolog direct feedback select algorithm support creativ problem solv dialogu r kumar c rose t li c chang',15
+'toward space time light field render r yang',16
+'water drop surfac p mucha g turk',16
+'space time light field render m sun r yang',16
+'blind cluster popular music record base singer voic characterist w tsai d rodgers s cheng h yu',17
+'content base languag model spoken document retriev b chen',17
+'queri sing techniqu retriev polyphon object popular music h yu w tsai',17
+'comparison word subword index techniqu mandarin chines spoken document retriev b chen',17
+'mandarin english inform mei investig translingu speech retriev h meng b chen s khudanpur g levow w lo d oard p schone k tang j wang',17
+'mandarin spoken document retriev base syllabl lattic match nan',17
+'prototyp embed genet k mean algorithm s cheng y chao h fu',17
+'content base languag model spoken document retriev b chen',17
+'spoken access approach chines text speech inform retriev l chien b bai s lin',17
+'music retriev system base queri sing karaok jukebox h yu w tsai',17
+'queri exampl techniqu retriev cover version popular song similar melodi w tsai h yu',17
+'automat singer recognit popular music record via estim model solo vocal signal w tsai',17
+'toward automat identif sing languag popular music record w tsai',17
+'syllabl base chines text spoken document retriev us text speech queri b bai b chen',17
+'minimum boundari error framework automat phonet segment j kuo',17
+'extract chines spoken document summar us probabilist rank model y chen s yu b chen',17
+'novel altern hypothesi character us kernel classifi llr base speaker verif y chao r chang',17
+'fluent speech prosodi framework model c tseng s pin y lee y chen',17
+'brows chines web page us mandarin speech y chou b chen',17
+'extract vocal relat inform facilit manag popular music collect w tsai',17
+'workflow manag mechan peer peer comput platform h takizawa h kobayashi',18
+'optim shape encod scheme us skeleton decomposit g schuster a katsaggelos t pappas',19
+'hybrid sourc channel code scheme object base wireless video commun a katsaggelos',19
+'joint sourc channel code wireless object base video commun util data hide s tsaftaris a katsaggelos',19
+'cross layer design multimedia deliveri wireless network d wu s ci',19
+'effici rate distort optim shape code approach util skeleton base decomposit g schuster a katsaggelos t pappas',19
+'object base video compress scheme optim bit alloc among shape motion textur g schuster a katsaggelos',19
+'rate distort optim skeleton base shape code t pappas a katsaggelos',19
+'histogram featur base fisher linear discrimin face detect p li t zhang',20
+'object track particl filter us color inform p li',20
+'probabilist object track base machin learn import sampl p li',20
+'propos novel histogram featur face detect p li t zhang',20
+'novel likelihood estim techniqu base boost detector p li t zhang',20
+'stabl egress rout select interdomain traffic engin model analysi h ii y yang a silberschatz e li y liu',21
+'optim isp subscript internet multihom algorithm design implic analysi h xie l qiu a silberschatz y yang',21
+'interdomain rout social choic r dakdouk s salihoglu h xie y yang',21
+'cope traffic engin dynam network h xie l qiu y yang y zhang a greenberg',21
+'stabil ration heterogen interdomain rout select h ii y yang a silberschatz e li y liu',21
+'web servic enabl market access control model h cheng j zhao',22
+'web servic enabl market access control emac j zhao',22
+'busi object semant commun model distribut environ v karakostas',23
+'label scheme structur join graph structur xml data w wang x lin j li',24
+'practic index xml document twig queri w wang j li x lin r wong',24
+'subgraph join effici process subgraph queri graph structur xml document w wang x lin j li',24
+'design next gener sampl servic larg scale data analysi applic s parthasarathy a ghoting s tatikonda g buehrer t kurc j saltz',25
+'servic orient framework next gener data analysi center a ghoting g buehrer s tatikonda s parthasarathy t kurc j saltz',25
+'broadcast anti jam system y desmedt r safavi naini l batten c charnes j pieprzyk',26
+'constrain textur synthesi scalabl sub patch algorithm j wang h hsu',27
+'multi level logic optim fsm network r brayton',28
+'input don t care sequenc fsm network r brayton',28
+'permiss observ relat fsm network r brayton',28
+'kernel spectral correspond match us label consist constraint e hancock',29
+'probabilist relax us heat equat e hancock',29
+'graph spectral approach consist label e hancock',29
+'web servic agent base decis support system secur except manag m wang d xu k wan d vogel',30
+'dynam suppli chain integr intellig agent m wang j liu',30
+'agent web servic support busi except manag m wang',30
+'design intellig workflow monitor agent technolog m wang d xu',30
+'intellig agent support busi process manag m wang',30
+'novel intrus detect method s jiang q li',31
+'pid control design output pdf stochast system us linear matrix inequ l guo',32
+'data hide techniqu print binari imag nan',33
+'binari tree largest number subtre l szekely',34
+'web servic agent base famili wealth manag system s gao y wang w shen s yeung',35
+'secur multicast protocol copyright protect h chu l qiao k nahrstedt r jain',36

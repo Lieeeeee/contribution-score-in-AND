@@ -1,0 +1,39 @@
+@relation 'Dataset bdbcomp publish-venue_co-authors jsilva'
+@attribute Text string
+@attribute class-att {106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123}
+@data
+'rede computador c kirner',106
+'rede computador j bezerra f maciel r braquehais m fernandez j jr',107
+'informatica educacao e costa e ferneda',108
+'informatica educacao s labidi n costa e costa',108
+'informatica educacao b feijo',109
+'informatica educacao c avila l madeira',110
+'fator humano sistema computacionai r orbolato v almeida',111
+'revista informatica teorica aplicada v almeida r orbolato',111
+'fator humano sistema computacionai s junior a silva m ribeiro',111
+'computacao grafica processamento imagen c tozzi',112
+'computacao grafica processamento imagen p simoni k bharadwaj',113
+'inteligencia artifici p simoni',113
+'inteligencia artifici k bharadwaj',113
+'encontro nacion inteligencia artifici p simoni',113
+'rede neurai k bharadwaj',113
+'informatica educacao f cunha c oliveira',113
+'rede neurai l hoffmann a castro',113
+'rede neurai e shiguemori h velho j carvalho',113
+'engenharia softwar i tronto n santanna',113
+'geoinformatica r fidalgo v times f sousa r barros',114
+'banco dado r fidalgo v times f souza a salgado',114
+'geoinformatica v times r fidalgo r barros',114
+'geoinformatica v times a salgado r fidalgo',114
+'banco dado a vera a oliveira r fidalgo a salgado v times',114
+'banco dado r fonseca r fidalgo v times',114
+'rede computador r leao',115
+'inteligencia artifici s veloso',116
+'inteligencia artifici p abrahao v lima',117
+'computacao grafica processamento imagen p simoni',118
+'rede computador m campos p cunha',119
+'rede computador m campos p cunha j souza',119
+'rede computador n mendonca',120
+'inteligencia artifici f tonidandel t vaquero',121
+'inteligencia artifici h lieberman a carvalho v neris m godoi m tsutsumi j espinosa a neto s zem mascarenhas',122
+'symposium integr circuit system design l silveira',123

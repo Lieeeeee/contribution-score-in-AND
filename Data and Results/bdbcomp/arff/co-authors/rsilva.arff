@@ -1,0 +1,31 @@
+@relation 'Dataset bdbcomp co-authors rsilva'
+@attribute Text string
+@attribute class-att {192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213}
+@data
+'e corseuil a raposo m pinto g wagner m gattass',206
+'r maranhao r barros',207
+'c garrozi',208
+'a rocha a schneider j alves',209
+'h oliveira m souza g alvarenga',210
+'g alvarenga r sampaio',210
+'m souza h oliveira',210
+'nan',211
+'s amo n silva f pereira',212
+'c solana l fernandes e justino m oliveira l oliveira f bortolozzi g crespo',213
+'g wirth j koh r thewes r brederlow',213
+'e moreira',192
+'s wu',193
+'m andrade h andrade j nogueira',194
+'r price',195
+'e freiberger',195
+'c nascimento p barbosa',196
+'j gomes c mota l velho',197
+'s wu',198
+'e strauss w jimenez g giraldi a oliveira',199
+'e silva m abreu',200
+'j leite m fernandez',201
+'r filho m pequeno',202
+'g ramalho',203
+'j mayer',204
+'a silva a fiorese g santos',205
+'t bastos a raposo m gattass',206

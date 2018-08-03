@@ -1,0 +1,56 @@
+@relation 'Dataset bdbcomp co-authors aoliveira'
+@attribute Text string
+@attribute class-att {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19}
+@data
+'m maia',4
+'m kallmann',5
+'m kallmann',5
+'g giraldi',5
+'g giraldi e strauss',5
+'g giraldi e strauss',5
+'e strauss w jimenez g giraldi r silva',5
+'f mello e strauss a gesualdi',5
+'s ribeiro r farias c esperanca g giraldi',5
+'a cuno c esperanca p cavalcanti',5
+'j filho j jr m vieira',0
+'j soares m rodrigues',0
+'j soares a serra g barroso',0
+'j soares a serra g barroso',0
+'j peyrin',0
+'j sousa m penna j junior',0
+'j souza m stanton',0
+'c geyer a rodrigues j emiliano a pereira d ferrari',1
+'j monteiro',2
+'m cortes a garcia s carvalho',3
+'l goncalves',5
+'l goncalves r grupen',5
+'i matias l goncalves',5
+'l goncalves r grupen',5
+'l goncalves',5
+'l oliveira c esperanca',5
+'p coelho c esperanca',5
+'p coelho c esperancca',5
+'y atencio c esperanca p cavalcanti',5
+'f silva l garcia r farias',5
+'l lorena',6
+'l lorena',6
+'l lorena a preto s stephany',6
+'l lorena',6
+'l lorena',6
+'g azevedo a barros a santos',7
+'m villela j braga',8
+'m duarte j braga',8
+'t braga m maia r bigonha',9
+'j freire b schneider',10
+'f neto s meira',11
+'l nunes a santiago r takiguti',12
+'f brasileiro',13
+'c werner m mangan l murta r pinheiro m mattoso r braga m borges',14
+'m ravetti g mateus',15
+'g mateus',15
+'j oliveira t brito s jr g elias',15
+'d garcia',16
+'j silva a vera r fidalgo a salgado v times',17
+'m carreno',18
+'m carreno',18
+'v sklyarov n lau a melo k kondratjuk a ferrari r monteiro i skliarova',19

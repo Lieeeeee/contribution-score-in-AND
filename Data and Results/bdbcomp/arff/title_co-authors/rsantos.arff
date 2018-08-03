@@ -1,0 +1,24 @@
+@relation 'Dataset bdbcomp title_co-authors rsantos'
+@attribute Text string
+@attribute class-att {174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190}
+@data
+'comunicacao pacot experiencia piloto rdsi j junior m camargo s gregorio m ribeiro f arruba jr o fernandes w ishibashi',174
+'comutador pacot sistema compac j leite c klemtz m mandel a mantovani s cintra',175
+'bias cluster method imag classif t ohashi t yoshida t ejima',176
+'algoritmo substituicao objeto cach internet baseado semantica a calsavara',177
+'format character ni pt nisi mo devic applic i doi j diniz j swart s santos',178
+'format stabil ni pt poli layer structur i doi r teixeira j diniz j swart s santos',178
+'litholog recognit neural network ensembl f artola s fontoura m vellasco',179
+'semi automat methodolog local short mitochondri gene long sequenc j tambor l paulino a bazzan',180
+'dimensionando data mart adequacao metrica funcion a calazans k oliveira',181
+'aplicacao mineracao dado manutencao rede telefonia p adeodato a arnaud r cunha g vasconcelos d monteiro',182
+'extracao dado metadado texto semi estruturado usando hmm f mesquita a silva e vilarinho',183
+'deteccao intruso abordagem usando rede neurai w caminhas l errico',184
+'assistent configuracao biblioteca digitai componentizada nan',185
+'museum aplicacao m learn realidad virtual r andrade e marcal c vidal r rios',186
+'desenvolvimento sig reconfiguracao rede energia eletrica interfac integrada n medina r lapa m nero a netto',187
+'rdbm workflow support component digit librari p roberto m goncalves a laender',188
+'compon base digit librari servic find miss document a silva h santos a laender m goncalves',188
+'materializacao conceito softwar publico iniciativa cacic a peterle c castro c meffe n bretas',189
+'energi awar schedul real time heterogen multiprocessor system chip j santos j orozco',190
+'utilizacao chave algoritmo diff xml c hara',190

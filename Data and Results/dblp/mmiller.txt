@@ -1,0 +1,412 @@
+1;10;m miller;lisa h berg;bring electron mail mass phase eudora;sigucc special interest group univers comput servic;0
+2;10;m miller;;world wide web develop notr dame s easier ask forgiv permiss;sigucc special interest group univers comput servic;0
+3;10;m miller;;manag mac made painless leverag right tool job;sigucc special interest group univers comput servic;0
+4;11;m miller;bernd hamann,carol l hunter,charles d hansen,michael cox,roger crawfis;terascal visual approach pitfal issu panel;ieee visual;0
+5;11;m miller;bernd hamann,j fritz barnes,william c wynn;multiresolut adapt render techniqu structur curvilinear data;scientif visual;0
+6;12;m miller;l jay wantz;educ metadata us;comput network;0
+7;12;m miller;l jay wantz;cool link ride wave;comput network;0
+8;1;m miller;j ryan,x slamin;integr sum number cocktail parti graph symmetr complet bipartit graph;bulletin ica;0
+9;1;m miller;m baca,j a macdougall,x slamin,w d wallis;survei certain valuat graph;discussion mathematica graph theori;0
+10;1;m miller;x slamin;monoton minimum diamet respect order maximum degre;proceed cocoon comput combinator sydnei lectur note comput scienc d z du p ead estivil castro lin ed;0
+11;1;m miller;e t baskoro,j siran,m sutton;complet characteris almost moor digraph degre three;journal graph theori;0
+12;1;m miller;m baca;antimag valuat gener petersen graph;australasian journal combinator;0
+13;1;m miller;l brankovic,p horak,g wrightson;usabl compromis free statist databas;proceed ninth intern confer scientif statist databas manag;0
+14;1;m miller;e t baskoro,j plesnik,s znam;digraph degre close moor bound;j graph theori;0
+15;1;m miller;m baca,y lin;two conjectur concern d antimag label antipr;jcmcc;0
+16;1;m miller;l brankovic,j siran;usabl k commpromis free statist databas;proceed awoca hunter vallei;0
+17;1;m miller;e t baskoro,j plesnik;result almost moor digraph;ar combinatoria;0
+18;1;m miller;;open problem graph theori label extrem graph plenari address combinator prosid komperensi nasion matematika;itb bandung jurnal mihmi;0
+19;1;m miller;l brankovic;spectrum prematur partial latin squar;proceed awoca perth;0
+20;1;m miller;m sutton;sum number wheel;discret mathemat;0
+21;1;m miller;j ryan,x slamin,k sugeng,m tuga;open problem exclus sum graph label;proceed fourteenth australasian combinatori algorithm seoul korea;0
+22;1;m miller;l brankovic,j cooper;utilis secret share access medic databas;hic confer adelaid;0
+23;1;m miller;m sutton,j ryan,x slamin;open problem mod sum graph;proceed awoca;0
+24;1;m miller;i roberts,j simpson;applic symmetr chain optim problem secur statist databas;bulletin ica;0
+25;1;m miller;l brankovic,j siran;toward practic audit method prevent statist databas compromis;seventh australasian databas confer proceed australian comput scienc commun;0
+26;1;m miller;m sutton;us graph label store linkag relat databas;proceed awoca hunter vallei;0
+27;1;m miller;e chang,c colman,w ee;comparison industri site project univers site project final year student;intern confer softwar engin research practic serp la vega;0
+28;1;m miller;w d wallis,e t baskoro,x slamin;edg magic total label;australasian journal combinator;0
+29;1;m miller;catherine colman,elizabeth chang,wan ee;comparison industri site project univers site project final year student;softwar engin research practic;0
+30;1;m miller;graham wrightson,ljiljana brankovic,peter norak;usabl compromis free statist databas;ssdbm statist scientif databas manag;0
+31;1;m miller;e dahlhaus,p manuel;characteris strongli chordal graph;discret mathemat;0
+32;1;m miller;j a macdougall,x slamin,w d wallis;vertex magic total label graph;utilita math;0
+33;1;m miller;e dahlhaus,j ryan;komplexitat von eisenbahnrangierproblemen;kolloquium uber kombinatorik braunschweig;0
+34;1;m miller;j a macdougall,w wallis;vertex magic total label wheel relat graph;utilita math;0
+35;1;m miller;e dahlhaus,f manne,j ryan;algorithm combinatori problem relat train marshal;proceed awoca hunter vallei;0
+36;1;m miller;b d mckay,j siran;note larg graph diamet two given maximum degre;j combinatori theori;0
+37;1;m miller;k eds park;;proceed fourteenth australasian combinatori algorithm seoul korea;0
+38;1;m miller;h m nguyen,x slamin;construct techniqu diregular non diregular larg direct network;proceed awoca frazer island;0
+39;1;m miller;j siran;digraph degre two miss moor bound two;discret mathemat;0
+40;1;m miller;c a rodger,r simanjuntak;distanc magic label graph;australasian j combin;0
+41;1;m miller;j ryan,x slamin,w f smyth;label wheel minimum sum number;jcmcc;0
+42;1;m miller;j gimbert,j siran,x slamin;almost moor digraph diregular;discret mathemat;0
+43;1;m miller;;model statist databas compromis incorpor supplementari knowledg databas s;;0
+44;1;m miller;e t baskoro,p manuel,j ryan,m sutton;gener cliqu cover circular arc graph;proceed awoca darwin;0
+45;1;m miller;e t baskoro,l brankovic,j plesnik,j ryan,j siran;larg digraph small diamet voltag assign approach;jcmcc;0
+46;1;m miller;e baskoro,x surahmat,s m nababan;ramsei number tree versu wheel five six vertic;graph combinator;0
+47;1;m miller;j a macdougall,x slamin,w d wallis;problem magic total label;proceed awoca perth;0
+48;1;m miller;e t baskoro;construct network minimum diamet;proceed th australian comput scienc confer;0
+49;1;m miller;i roberts,j simpson;prevent rel compromis us audit expert;bulletin ica;0
+50;1;m miller;e t baskoro,j plesnik;structur digraph order close moor bound;graph combinator;0
+51;1;m miller;j cooper;secur consider present futur medic databas;re print imia yearbook medic informat;0
+52;1;m miller;e t baskoro,j siran;note almost moor digraph degre three;acta mathematica universitati comeniana lxvi;0
+53;1;m miller;j cooper;secur consider present futur medic databas;intern journal bio medic comput;0
+54;1;m miller;e t baskoro;open problem construct digraph minim diamet;proceed th awoca ubud;0
+55;1;m miller;;secur issu medic databas;hiansw third annual confer hunter vallei;0
+56;1;m miller;e t baskoro;procedur construct minimum diamet digraph;bulletin ica;0
+57;1;m miller;;open problem optim digraph;tatra mountain mathemat public;0
+58;1;m miller;e dahlhaus,p manuel;maximum h color subgraph problem balanc graph;inform process letter;0
+59;1;m miller;e t baskoro,j plesnik,s znam;regular digraph diamet maximum order;australasian journal combinator;0
+60;1;m miller;j ryan,w f smyth;sum number disjoint union graph;proceed fourteenth australasian combinatori algorithm seoul korea;0
+61;1;m miller;e dahlhaus,p manuel;parallel algorithm generalis cliqu transvers problem;ar combinatoria;0
+62;1;m miller;f bertault;extend graph model softwar visual;proceed softvi sydnei;0
+63;1;m miller;j ryan,w smyth;sum number cocktail parti graph;bulletin ica;0
+64;1;m miller;elias dahlhaus,joseph f ryan,peter horak;train marshal problem;discret appli mathemat;0
+65;1;m miller;j gimbert,f ruskey,j ryan;iter eccentr digraph;proceed awoca frazer island;0
+66;1;m miller;elias dahlhaus,jan kratochv iacute,l,paul d manuel;transvers partit balanc hypergraph;discret appli mathemat;0
+67;1;m miller;s morris,j cooper,d bomba,l brankovic,f pacecho;australian healthcar smart card clever countri;intern journal bio medic comput;0
+68;1;m miller;e dahlhaus,j kratochvil,p manuel;transvers partit balanc hypergraph;proceed twent graph combinatori optim ensched;0
+69;1;m miller;anna draganova,martin sutton;mod sum number wheel;ar comb;0
+70;1;m miller;p eades,h elgindy,m houles,b lenhart,d rappaport,s whitesides;domin draw bipartit graph;proceed fifth confer comput geometri;0
+71;1;m miller;p eades,m keil,p manuel;two domin set minimum intersect chordal graph;nordic journal comput;0
+72;1;m miller;z feng;data integr relat databas;proceed th new zealand annual comput scienc confer;0
+73;1;m miller;z feng,y jia;null valu relat dbm databas s b srinivasan j zeleznikow ed;world scientif;0
+74;1;m miller;f bertault;algorithm draw compound graph;lectur note comput scienc ed kratochvil;0
+75;1;m miller;j boland;eccentr digraph digraph;proceed awoca bandung indonesia;0
+76;1;m miller;j boland,f buckley;eccentr digraph;discret mathemat;0
+77;1;m miller;h nagamochi,x slamin;bound number isol sum graph label;discret mathemat;0
+78;1;m miller;d bomba,l brankovic,j cooper,s morris,f pacecho;data infer medic databas;inaugur confer asia pacif associ medic informat;0
+79;1;m miller;david rappaport,hossam a elgindy,michael e houle,sue whitesides,william lenhart;domin draw bipartit graph;cccg canadian confer comput geometri;0
+80;1;m miller;d bomba,l brankovic,j cooper,s morris,f pacecho;secur measur medic databas;inaugur confer asia pacif associ medic informat;0
+81;1;m miller;alexander rosa,ljiljana brankovic,peter horak;prematur partial latin squar;ar comb;0
+82;1;m miller;d bomba,l brankovic,j cooper,s morris,f pacecho;australian healthcar smart card clever countri;inaugur confer asia pacif associ medic informat;0
+83;1;m miller;jennifer seberry;rel compromis statist databas;australian comput journal;0
+84;1;m miller;ljiljana brankovic,peter horak;combinatori problem databas secur;discret appli mathemat;0
+85;1;m miller;r simanjuntak;largest planar digraph diamet two;proceed awoca frazer island;0
+86;1;m miller;l brankovic,d bomba,j cooper,s morris,f pacecho;confidenti patient record data infer problem;hic confer adelaid;0
+87;1;m miller;r simanjuntak;survei d antimag graph label prosid komperensi nasion matematika itb bandung juli;jurnal mihmi;0
+88;1;m miller;z feng,y jia;null relat dbm;proceed dbi sydnei;0
+89;1;m miller;l brankovic,p lieby;flatten antichain respect;electron journal combinator r;0
+90;1;m miller;r simanjuntak,f bertault;two new d antimag label;proceed awoca hunter vallei;0
+91;1;m miller;z feng,y jia;multivalu approach relat dbm;proceed far east confer futur databas kyoto;0
+92;1;m miller;l brankovic,j siran;graph matric usabl statist databas;congr numer;0
+93;1;m miller;jozef siran,ljiljana brankovic;toward practic audit method prevent statist databas compromis;australasian databas confer;0
+94;1;m miller;z feng,i fris;enhanc domain integr relat databas;proceed intern confer young comput scientist beij;0
+95;1;m miller;m baca,y lin,m z youssef;edg antimag graph;discret mathemat;0
+96;1;m miller;x slamin,m baca,y lin,r simanjuntak;edg magic total label wheel fan friendship graph;bulletin ica;0
+97;1;m miller;z feng,m zhang;intellig databas model;third intern confer young comput scientist beij;0
+98;1;m miller;m baca;d antimag label plane graph;proceed awoca hunter vallei;0
+99;1;m miller;x slamin;diregular digraph close moor bound prosid komperensi nasion matematika;itb bandung jurnal mihmi;0
+100;1;m miller;z feng,h dai;propos toward data integr subsystem relat databas;proceed baltic intern confer databas method riga;0
+101;1;m miller;m baca;valuat certain class convex polytop;jcmcc;0
+102;1;m miller;fran ccedil,ois bertault;algorithm draw compound graph;graph draw;0
+103;1;m miller;m baca,y lin;valuat plane quartic graph;jcmcc;0
+104;1;m miller;ivan fris;minimum diamet diregular digraph degre;comput j;0
+105;1;m miller;m baca,x slamin;vertex magic total label gener petersen graph;int j comput mathemat issu;0
+106;1;m miller;p horak,l brankovic;combinatori problem data secur;discret appli mathemat;0
+107;1;m miller;m baca,f bertault,j a macdougall,r simanjuntak,x slamin;vertex antimag total label graph;discussion mathematica graph theori;0
+108;1;m miller;c iliopoulos,b eds smyth;;th australasian combinatori algorithm special issu int j comput mathemat issu;0
+109;1;m miller;m baca,x slamin;everi gener petersen graph vertex magic total label;proceed awoca hunter vallei;0
+110;1;m miller;m baca;d magic label type prism;jcmcc;0
+111;1;m miller;yingxian jia,zhuopeng feng;multivalu approach handl null rdb;futur databas;0
+112;1;m miller;m baca,e t baskoro;d antimag label honeycomb;proceed awoca bandung indonesia;0
+113;1;m miller;l brankovic,j plesnik,j ryan,j siran;larg graph small diamet voltag assign approach;australasian journal combinator;0
+114;1;m miller;l brankovic,a furche,g wrightson;newcash anonym payment receipt;proceed sicon;0
+115;1;m miller;l brankovic;applic combinator secur statist databas;th confer austr math societi armidal request public australian mathemat societi gazett;0
+116;1;m miller;x slamin,e t baskoro;diregular digraph degre three order two less moor bound;proceed awoca bandung indonesia;0
+117;1;m miller;ljiljana brankovic,peter horak;optim problem statist databas;siam societi industri appli mathemat j discret math;0
+118;1;m miller;slamin;monoton minimum diamet respect order maximum degre;cocoon comput combinator;0
+119;1;m miller;l brankovic,p horak;optimis problem statist databas secur;siam societi industri appli mathemat journal discret mathemat;0
+120;1;m miller;x slamin;two conjectur concern vertex magic total label gener petersen graph;bulletin ica;0
+121;1;m miller;l brankovic,j siran;rang queri usabl statist databas;int j comput mathemat issu;0
+122;1;m miller;x slamin;open problem sum integr sum graph label;proceed awoca;0
+123;1;m miller;l brankovic,j plesnik,j ryan,j siran;note construct larg caylei graph given degre diamet voltag assign;electron journal combinator r;0
+124;1;m miller;x slamin;sum graph label relat problem;jurnal mihmi;0
+125;1;m miller;l brankovic;introduct statist databas secur special issu;select topic cryptographi inform secur commun ccisa;0
+126;1;m miller;k sugeng,m baca;d edg antimag total label;indonesia confer comput geometri graph theori bandung indonesia;0
+127;1;m miller;a v kelarev,o sokratova;direct graph closur properti languag;proceed awoca bandung indonesia;0
+128;1;m miller;l brankovic;open problem secur statist databas;proceed awoca;0
+129;1;m miller;k a sugeng;open problem secret share;proceed awoca frazer island;0
+130;1;m miller;jan kratochv iacute,l,paul d manuel;gener domin chordal graph;nordic journal comput;0
+131;1;m miller;l brankovic,p horak,a rosa;prematur partial latin squar;ar combinatoria;0
+132;1;m miller;m sutton,j ryan,x slamin;connect graph mod sum graph;discret mathemat;0
+133;1;m miller;j kratochvil,p manuel,a proskurowski;disjoint unfold domin graph;australasian journal combinator;0
+134;1;m miller;m sutton;mod sum graph label hmn kn;australasian journal combinator;0
+135;1;m miller;j kratochvil,p manuel;gener domin chordal graph;nordic journal comput;0
+136;1;m miller;m sutton,a draganova;mod sum number wheel;ar combinatoria;0
+137;1;m miller;j kratochvil,h n nguyen;sum graph label upper bound relat problem;proceed awoca bandung indonesia;0
+138;1;m miller;y lin,c rodger;edg connect cage;proceed awoca bandung indonesia;0
+139;1;m miller;y lin;generalis direct moor graph;proceed awoca frazer island;0
+140;1;m miller;y lin;vertex magic total label complet graph;bulletin ica;0
+141;1;m miller;y lin,r simanjuntak,x slamin;magic antimag label wheel;proceed awoca hunter vallei;0
+142;1;m miller;y lin,x slamin,m baca;d antimag label prism;ar combin;0
+143;1;m miller;m baca,j ryan;d antimag label prism antipr;proceed awoca bandung indonesia;0
+144;1;m miller;m baca,y lin,r simanjuntak;new construct magic antimag graph label;utilita math;0
+145;1;m miller;m baca,s jendrol,j ryan;irregular total label;discret mathemat;0
+146;1;m miller;i fris;maximum order digraph diamet degre pullman graph matric;lectur note pure appli mathemat;0
+147;1;m miller;m baca;antimag face label convex polytop base biprism;journal combinatori mathemat combinatori comput;0
+148;1;m miller;c rodger,r simanjuntak;distanc magic graph;proceed awoca bandung indonesia;0
+149;1;m miller;m baca,s jendrol,j ryan;antimag label generalis petersen graph plane;ar combinatoria;0
+150;1;m miller;b pascoe,i roberts;expert system secur statist databas;ijcai intern joint confer artifici intellig integr artifici intellig databas sydnei;0
+151;1;m miller;m baca,e t baskoro,s jendrol;antimag label hexagon plane map;utilita math;0
+152;2;m miller;gary christensen,m i miller,y amit,u grenander;global shape model anatom structur;poor schwartz editor proceed th confer inform scienc system univers;0
+153;2;m miller;g e christensen,s c joshi,m i miller;volumetr transform brain anatomi;ieee transact medic imag;0
+154;2;m miller;gary christensen,michael i miller,michael w vannier,ulf grenander;individu neuroanatom atlas us massiv parallel comput;ieee comput;0
+155;2;m miller;gary e christensen,michael vannier,ulf grenander;individu neuroanatom atlas us massiv parallel comput;ieee comput;0
+156;2;m miller;michael i miller;method apparatu imag registr;unit state patent us patent offic;0
+157;2;m miller;g e christensen,s c joshi,m i miller;individu anatom atlas head;proc th intl conf visual biomed comput;0
+158;2;m miller;m i miller,t j schaewe,c s bosch,j j h ackerman;mathemat signal model phase frequenc encod magnet reson imag data;j magn reson seri b;0
+159;2;m miller;gary christensen,m i miller,j l marsh,m w vannier;automat analysi medic imag us deform textbook;;0
+160;2;m miller;michael i miller,gary e christensen,yali amit,ulf grenander;mathemat textbook deform neuroanatomi;proceed nation academi scienc;0
+161;2;m miller;gary christensen,rd rabbitt,sc joshi,u grenander,t coogan,d van essen;topolog properti smooth anatom map;y bizai c braillot r di paola editor inform process medic imag th intern confer kluwer academ publish;0
+162;2;m miller;m i miller,d l snyder,s m moore;evalu us siev produc estim radioact distribut algorithm positron emiss tomographi;ieee tran nucl sci;0
+163;2;michael miller;m cooper,ulf grenander,anuj srivastava;accommod geometr thermodynam variabl forward look infrar sensor;proc spie intern societi optic engin algorithm synthet apertur radar zelnio ed;0
+164;2;m miller;m i miller,d l snyder;altern maxim entropi likelihood function imag reconstruct spectrum estim;proc spie intern societi optic engin advanc architectur algorithm;0
+165;2;m miller;m cooper,a srivastava,m i miller;quadrat analysi inform measur object recognit;spie intern societi optic engin;0
+166;2;m miller;m i miller,d r fuhrmann;algorithm direct arriv estim narrowband signal nois;proc spie intern societi optic engin advanc algorithm architectur signal process;0
+167;2;michael miller;matthew cooper;inform gain object recognit via sensor fusion;proc intl conf multisourc multisensor inform fusion;0
+168;2;m miller;m i miller,k b larson,j e saffitz,d l snyder,l j thomas,b roysam;new method analysi electron microscop autoradiograph;biotechniqu;0
+169;2;m miller;m i miller,j wang;new stochast model auditori nerv discharg;j acoust soc;0
+170;2;m miller;m i miller,a trouve,l younes;metric euler lagrang equat comput anatomi;annual review biomed engin;0
+171;2;m miller;m i miller;applic likelihood entropi toeplitz constrain covari estim;maximum entropi bayesian method scienc engin kluwer academ publish;0
+172;2;m miller;m cooper,m i miller;inform measur object recognit;spie intern societi optic engin confer algorithm synthet apertur radar imageri;0
+173;2;m miller;m cooper,m i miller;inform measur object recognit accommod signatur variabl;ieee transact inform theori page;0
+174;2;michael miller;m cooper,aaron lanterman,sarang joshi;repres variat thermodynam state via princip compon analysi;proc third convent weapon atr u s armi missil command;0
+175;2;m miller;john g csernanskuy,lei wang,ph d,jeffrey swank,chin chin ting,j philip miller,michael i miller,john c morris;hippocamp shape variat predict cognit declin nondement elder subject;world congress;0
+176;2;m miller;m i miller,m b sachs;represent voic pitch discharg pattern auditori nerv fiber;hear re;0
+177;2;m miller;john g csernansky,mathew k schindler,n reagan splinter,lei wang,mohktar gado,lynn d selemon,devna rastogi cruz,joel a posener,paul a thompson,michael i miller;abnorm thalam shape schizophrenia;american journal psychiatri;0
+178;2;m miller;m i miller,m b sachs;represent stop conson discharg pattern auditori nerv fiber;j acoust soc;0
+179;2;m miller;john g csernansky,john w haller,ayanashu banerjee,lei wang,sarang c joshi,gary e christensen,mokhtar gado,michael w vannier,michael i miller;comparison hippocampu schizophrenia control subject us autom method neuromorphometri;schizophrenia research;0
+180;2;m miller;m i miller;strategi represent broadband stimuli discharg pattern auditori nerv fiber;proc nato advanc re auditori frequenc select auditori frequenc select;0
+181;2;m miller;john g csernansky,john w haller,ayanashu banerjee,lei wang,sarang c joshi,gary e christensen,mokhtar gado,michael w vannier,michael i miller;comparison hippocampu schizophrenia control subject us autom method neuromorphometri;th annual meet acnp san juan puerto rico;0
+182;2;m miller;m i miller,p e barta,m b sachs;strategi represent tone background nois tempor aspect discharg pattern auditori nerv fiber;j acoust soc;0
+183;2;m miller;john g csernansky,lei wang,sarang c joshi,mokhtar gado,john g morris,michael i miller;computer brain map method detail analys neuroanatom shape volum;intern journal psychopharmacolog suppl s;0
+184;2;m miller;y amit,m i miller;larg deviat code markov chain gibb random field;ieee tran inform theori;0
+185;2;m miller;ayananshu banerjee,gary christensen,sarang joshi,navin khaneja,u grenander,larissa matejic;statist method comput anatomi;statist method medic research;0
+186;2;m miller;john g csernansky,lei wang,sarang c joshi,mokhtar gado,john g morris,michael i miller;hippocamp deform detect schizophrenia alzheim s diseas high dimension brain map;european neuropsychopharmacolog suppl s;0
+187;2;m miller;y amit,m i miller;larg deviat asymptot ziv lempel code d gibb field;ieee tran inform theori;0
+188;2;m miller;m i miller,k e mark;statist studi cochlear nerv discharg pattern respons complex speech stimuli;j acoust soc;0
+189;2;m miller;j g csernansky,l wang,d rastogi cruz,j posener,n brickel,g heydebrand,j philip miller,m i miller;hippocamp deform schizophrenia character high dimension brain map;american journal psychiatri;0
+190;2;m miller;m bakircioglu,u grenander,n khaneja,m i miller;curv match brain surfac us frenet distanc;human brain map;0
+191;2;m miller;michael i miller,matthew cooper,joseph kostakis;inform theori sensor fusion;onr gtri target track sensor fusion;0
+192;2;m miller;muge bakircioglu,sarang joshi,michael i miller;landmark match brain surfac via larg deform diffeomorph sphere;proceed spie intern societi optic engin medic imag;0
+193;2;m miller;m i miller,d l snyder;applic maximum entropi maximum likelihood spectral estim;proc ieee intl inform theori sympo ieee inform theori group p;0
+194;2;m miller;m bakircioglu,s joshi,m i miller;landmark match sphere via larg deform diffeomorph;proceed spie intern societi optic engin medic imag imag process;0
+195;2;m miller;m i miller,d l snyder;role likelihood entropi incomplet data problem applic estim point process intens toeplitz constrain covari;proc ieee;0
+196;2;michael miller;a banerjee,gary christensen,john haller,sarang joshi,marcus raichle;accommod anatom variabl function imag via deform templat;proceed th annual allerton confer commun control comput univers;0
+197;2;m miller;michael i miller,ulf grenander,joseph a sullivan,donald l snyder;automat target recognit organ via jump diffus algorithm;ieee transact imag process;0
+198;2;m miller;ayananshu banerjee,gary e christensen,john g csernansky,john w haller,lei wang,sarang c joshi;gaussian random field sub manifold character brain surfac;ipmi inform process medic imag;0
+199;2;m miller;a r barker,c e priebe,m i miller,m hosakari,j t ratnanather,l wang,m gado,j c morris,j c csernansky;statist test label cortic depth map identifi dementia progress;proceed joint statist meet;0
+200;2;m miller;r c barrett,a w mccarthy,m i miller,r e morley;gaussian convolut massiv parallel processor;proc st annu conf inform sci syst;0
+201;2;m miller;j g csernansky,l wang,j swank,j p miller,m gado,d mckeel,m i miller,j c morris;hippocamp shape predict cognit declin elderli;neuroimag;0
+202;2;m miller;j g csernansky,l wang,j swank,j p miller,m gado,d mckeel,m i miller,j c morris;hippocamp shape predict cognit declin elderli;world alzheim congress stockholm;0
+203;2;m miller;john g csernansky,lei wang,daniel kido,mokhtar gado,john g morris,michael i miller;hippocamp morphometri dementia alzheim type comput algorithm;societi neurosci abstract;0
+204;2;m miller;john c csernansky,sarang joshi,lei wang,mokhtar gado,j philip miller,ulf grenander,michael i miller;hippocamp morphometri schizophrenia high dimension brain map;proceed nation academi scienc;0
+205;2;m miller;m i miller,d l snyder,m j turmon;iter maximum likelihood estim toeplitz constrain covari;proc th annu allerton conf commun contr comput;0
+206;2;m miller;john g csernansky,lei wang,sarang joshi,j philip miller,mokhtar gado,daniel kido,daniel mckeel,john c morris,michael i miller;earli dat distinguish ag high dimension map hippocampu;neurolog;0
+207;2;m miller;pierre moulin,michael i miller;detect bound automat target recognit compress domain;isit;0
+208;2;m miller;john g csernansky,lei wang,sarang joshi,j philip miller,mokhtar gado,daniel kido,daniel mckeel,john c morris,michael i miller;earli dat distinguish ag high dimension map hippocampu;first intern meet alzheim s imag consortium dc;0
+209;2;m miller;j o sullivan,steven p jacobs,michael i miller,donald l snyder;likelihood base approach joint target track identif;confer record twenti seventh asilomar confer signal system comput;0
+210;2;m miller;p dupuis,u grenander,m i miller;variat problem flow diffeomorph imag match;quarterli j appli math ed d mumford w freiberg;0
+211;2;michael miller;joseph o sullivan,michael d devore,vikas kedia;sar atr perform us condition gaussian model;ieee transact aerospac electron system page;0
+212;2;m miller;van essen,d c,lewis,j w,drury,h a,hadjikhani,n,tootell,r b h,bakircioglu,m,miller,m i;map visual cortex monkei human us surfac base atlas;vision research;0
+213;2;m miller;joel a posener,lei wang,joseph l price,mokhtar gado,michael a province,michael i miller,casey m babb,john g csernansky;high dimension map hippocampu depress;american journal psychiatri;0
+214;2;m miller;m foltz,a srivastava,m i miller,u grenander;detect multipl airborn target multi sensor data;spie intern societi optic engin proceed radar ladar signal process applic;0
+215;2;m miller;c preza,m i miller,l j thomas,j g mcnally;regular linear method reconstruct d microscop object optic section;j opt soc;0
+216;2;m miller;d r fuhrmann,m i miller;exist posit definit maximum likelihood estim structur covari matric;ieee tran inform theori;0
+217;2;m miller;c e priebe,m i miller,j t ratnanather;segment magnet reson imag via hierarch mixtur modell;journal american statist associ;0
+218;2;m miller;r rabbitt,j wiess,g e christensen,m i miller;map hyperelast deform templat;proceed spie intern societi optic engin s geometr method appli imag san diego comput anim;0
+219;2;m miller;j t ratnanather,c jing,m i miller;comput anatomi brain;nation partnership advanc comput infrastructur hand meet san diego supercomput center;0
+220;2;m miller;j t ratnanather,p e barta,n a honeycutt,n g lee,h m morris,a c dziorny,m k hurdal,g d pearlson,m i miller;dynam program gener boundari local coordinat submanifold neocortex applic planum temporal;neuroimag;0
+221;2;m miller;d r fuhrmann,m i miller;singular maximum likelihood estim structur covari matric;proc st annu conf inform sci syst;0
+222;2;m miller;joan glauns,marc vaillant,michael i miller;landmark match via larg deform diffeomorph sphere;journal mathemat imag vision special issu mathemat imag analysi;0
+223;2;m miller;ulf grenander,michael i miller;comput anatomi emerg disciplin;quarterli appli mathemat lvi;0
+224;2;m miller;u grenander,m i miller;comput anatomi emerg disciplin;featur articl statist comput graphic newslett;0
+225;2;m miller;j t ratnanather,k n botteron,t nishino,a b massie,r m lal,s g patel,s peddi,r d todd,m i miller;valid cortic surfac analysi medial prefront cortex;neuroimag;0
+226;2;m miller;ulf grenander,m i miller,g e christensen;deform anatom data base us global shape model posit paper electron imag human bodi;proceed cooper work group whole bodi d electron imag human bodi;0
+227;2;m miller;b roysam,m i miller;combin stochast syntact process analog comput method;digit signal process review journal ed j;0
+228;2;m miller;u grenander,m i miller,a srivastava;hilbert schmidt lower bound estim matrix lie group atr;ieee tran pattern analysi machin intellig;0
+229;2;m miller;b roysam,m i miller;grammar bay prior hierarchi imag process massiv parallel processor;proc allerton conf;0
+230;2;m miller;ulf grenander,michael i miller;represent knowledg complex system discuss section;journal royal statit societi;0
+231;2;m miller;t j schaewe,m i miller;parallel algorithm maximum posterori estim spin densiti spin spin decai magnet reson imag;ieee tran med imag;0
+232;2;m miller;ulf grenander,a srivastava;asymptot perform analysi bayesian object recognit;ieee transact inform theori page;0
+233;2;m miller;r m schmich,m i miller;stochast model fast slow compon synapt recoveri post synapt action potenti gener;proc assoc re otolaryngolog th midwint meet p;0
+234;2;m miller;j haller,g e christensen,m i miller,m gado,d w mckeel,j g csernansky,m w vannier;comparison autom manual segment hippocampu mr imag;spie intern societi optic engin proceed confer medic imag san diego;0
+235;2;m miller;r m schmich,m i miller;stochast intens hodgkin huxlei base spike gener model;proc assoc re otolaryngolog th midwint research meet;0
+236;2;m miller;r m schmich,m i miller;stochast intens neural spike discharg base activ channel dynam;comput neurosci academ press;0
+237;2;m miller;j haller,g e christensen,s c joshi,m gado,m i miller,m w vannier;function structur map human cerebr cortex solut surfac;y bizai c braillot r di paola editor inform process medic imag th intern confer kluwer academ publish precis accuraci high dimension transform segment mr imag hippocampu;0
+238;2;m miller;robert m schmich,michael i miller;stochast threshold character intens activ channel dynam action potenti gener;american physiolog societi;0
+239;2;m miller;eli shusterman,michael i miller,bixio rimoldi;rate distort theoret codebook design automat object recognit;ieee transact inform theori page;0
+240;2;m miller;kurt r smith;bayesian infer regular grammar markov sourc model;nip neural inform process system;0
+241;2;m miller;j w haller,a banerjee,g e christensen,a z snyder,m i miller,m e raichle;high dimension transform pet mri atla space;intl conf function map human brain;0
+242;2;m miller;j haller,g e christensen,s c joshi,j w newcomer,m i miller,j g csernansky,m w vannier;hippocamp mr imag morphometri mean gener pattern match;radiolog;0
+243;2;m miller;j haller,g e christensen,s c joshi,m i miller,m gado,j csernansky,m w vannier;mri segment us high dimension transform digit atla;poster american neuropsychopharmacolog confer san juan puerto rico;0
+244;2;m miller;robert e hogan,kevin e mark,lei wang,sarang joshi,michael i miller,richard d bucholz;mr imag deform base segment hippocampu patient mesial tempor sclerosi tempor lobe epilepsi;epilepsia suppl page;0
+245;2;m miller;d l snyder,m i miller,t j schulz;constrain probabl densiti estim noisi data;proc annu conf inform sci syst;0
+246;2;m miller;r e hogan,k e mark,l wang,s joshi,m i miller,r d bucholz;mesial tempor sclerosi tempor lobe epilepsi mr imag deform base segment hippocampu five patient;radiolog;0
+247;2;m miller;donald snyder,d g politte,m i miller;case studi statist imag process positron emiss tomographi;spatial statist imag possolo ed monograph seri institut mathemat statist comput anim;0
+248;2;m miller;s jacobs,joseph a o sullivan,m faisal,a srivastava,d l snyder,m i miller;automat target recognit us sequenc high resolut radar rang profil;essrl monograph number essrl;0
+249;2;m miller;d l snyder,m i miller,l j thomas,d g politte;nois edg artifact maximum likelihood reconstruct emiss tomographi;ieee tran med imag;0
+250;2;m miller;avinash jain,kannan ramchandran,pierre moulin;inform theoret bound target recognit perform base degrad imag data;ieee transact pattern analysi machin intellig;0
+251;2;m miller;d l snyder,m i miller;random point process time space;ed new springer verlag;0
+252;2;m miller;a jain,p moulin,m i miller,k ramchandran;inform theoret bound target recognit perform base degrad imag data;ieee transact pattern analysi machin intellig page;0
+253;2;m miller;d l snyder,m i miller;estim quantum limit condit;topic meet quantum limit imag imag process technic digest opt soc;0
+254;2;m miller;d l snyder,m i miller;us grenand s siev quantum limit imag;proc th annu allerton conf commun contr comput p;0
+255;2;m miller;avinash jain,p moulin,m i miller,k ramchandran;perform bound atr base compress data;proc th armi compress;0
+256;2;m miller;donald snyder,j a o sullivan,m i miller;us maximum likelihood estim form imag diffus radar target delai doppler data;ieee tran inform theori;0
+257;2;m miller;d c van essen h drury s joshi,m i miller;function structur map human cerebr cortex solut surfac;proceed nation academi scienc;0
+258;2;m miller;d l snyder,m i miller;us siev stabil imag produc algorithm emiss tomographi;ieee tran nucl sci;0
+259;2;m miller;a srivastava,m i miller,u grenander;bayesian autom target recognit;handbook video imag process editor alan bovik;0
+260;2;m miller;anuj srivastava,ulf grenander;hilbert schmidt lower bound estim matrix lie group atr;ieee transact pattern analysi machin intellig;0
+261;2;m miller;s joshi,m i miller,g e christensen,a banerjee,t coogan,u grenander;hierarch brain map via gener dirichlet solut map brain manifold;vision geometri proceed spie intern societi optic engin s intern symposium optic scienc engin instrument san diego comput anim;0
+262;2;m miller;s joshi,m i miller;landmark match via larg deform diffeomorph;ieee transact imag process page;0
+263;2;m miller;s joshi,m i miller;maximum posteriori estim good s rough optic section microsopi;optic societi america;0
+264;2;m miller;s joshi,j wang,m i miller,d c van essen,u grenander;differenti geometri cortic surfac;vision geometri proceed spie intern societi optic engin s intern symposium optic scienc engin instrument san diego comput anim;0
+265;2;m miller;a srivastava,u grenander,g r jensen,m i miller;jump diffus markov process orthogon group object recognit;journal statist plan infer issu page;0
+266;2;m miller;s joshi,michael i miller,ulf grenander;geometri shape brain sub manifold;intern journal pattern recognit artifici intellig;0
+267;2;m miller;a srivastava,m i miller,u grenander;jump diffus process matrix lie group bayesian infer;ieee ho;0
+268;2;m miller;n karamanos,m i miller;new method estim stimulu refractori relat function auditori nerv discharg;basic issu hear ed h duifhui et academ press;0
+269;2;m miller;a srivastava,m i miller,u grenander;lie group parameter dynam base prior atr;sixth digit signal process;0
+270;2;m miller;n khaneja,ulf grenander;dynam program gener curv brain surfac;ieee transact pattern analysi machin intellig;0
+271;2;m miller;a srivastava,m i miller,u grenander;multipl target direct arriv track;ieee transact signal process;0
+272;2;m miller;a srivastava,m cooper,u grenander;multi sensor fusion perform analysi atr;proc fusion;0
+273;2;m miller;n khaneja,m i miller,u grenander;dynam program gener geodes sulci brain surfac;ieee tran pattern analysi machin intellig;0
+274;2;m miller;anuj srivastava,aaron d lanterman,ulf grenander,marc loizeaux,michael i miller;mont carlo techniqu autom target recognit;sequenti mont carlo method practic ed arnaud doucet nando freita neil gordon springer verlag;0
+275;2;m miller;j kostakis,matthew cooper,thomas j green,michael i miller,joseph a o sullivan,jeffrey h shapiro,donald l snyder;multispectr activ passiv sensor fusion ground base target orient estim;proc spie intern societi optic engin automat target recognit ed firooz sadjadi;0
+276;2;m miller;a srivastava,m i miller,u grenander;ergod algorithm special euclidean group atr;syst contr st centuri birkha ser;0
+277;2;m miller;joseph kostakis,matthew cooper,thomas j green,michael i miller,joseph a o sullivan,donald l snyder;multispectr sensor fusion ground base target orient estim flir ladar hrr;proc spie intern societi optic engin automat target recognit ed firooz sadjadi;0
+278;2;m miller;a srivastava,m i miller,ulf grenander;ergod algorithm special euclidean group atr;proceed mtn publish birkhaus;0
+279;2;m miller;m j turmon,m i miller;maximum likelihood estim complex sinusoid toeplitz covari;ieee tran signal process;0
+280;2;m miller;m j turmon,m i miller;simul result maximum likehood estim toeplitz constrain covari;proc st annu conf inform sci syst p;0
+281;2;m miller;m f beg,g bhanot,m i miller,j t ratnanather,r walkup,l younes;comput geodes distanc anatomi;npaci hand meet ucsd supercomput center;0
+282;2;m miller;m faisal beg,michael i miller,alain trouve,laurent younes;comput metric via geodes flow diffeomorph;intern journal comput vision;0
+283;2;michael miller;m faisal beg,alain trouve,laurent younes;comput anatomi comput metric anatom shape;ieee symposium biomed imag;0
+284;2;m miller;m faisal beg,dmitry bitouk,michael i miller,laurent younes;metric comput anatomi imag analysi;npaci hand meet san diego supercomput center ucsd;0
+285;2;m miller;m f beg,a majethia,m browne,t h kaiser,m martone,k f wong,a b massie,j homer,j t ratnanather,m i miller;enhanc tool manipul anatom imag step toward defer neurosci imag databas;npaci hand meet san diego supercomput center jolla comput anim;0
+286;2;m miller;a lanterman,m i miller,d l snyder;automat target recognit via simul infrar scene;proc sixth annual ground target model valid confer keweenaw research center tech univ;0
+287;2;m miller;l e bergeron,a j goldberg,s y kwon,m i miller;robust adapt transform coder kb s speech transmiss;proc intl conf acoust speech signal process;0
+288;2;m miller;m loizeaux,a srivastava,m i miller;estim pose locat ground target atr;proceed spie intern societi optic engin intern societi fo roptic engin issu;0
+289;2;m miller;dmitri bitouk,michael i miller,laurent younes;clutter metric atr;ieee transact pattern analysi machin intellig;0
+290;2;m miller;k e mark,m i miller;bayesian model select minimum descript d length estim auditori nerv discharg rate;j acoust soc;0
+291;2;m miller;dmitri bitouk,ulf grenander,michael i miller,paritosh tyagi;fisher inform transport gener clutter model;aerosens automat target recognit spie intern societi optic engin proceed;0
+292;2;m miller;k e mark,m i miller,u grenander;constrain stochast languag model;imag model speech model cousin ed s levinson l shepp new springer verlag;0
+293;2;m miller;dmitri bitouk,michael i miller,laurent younes;empir gener metric space atr clutter;proceed th asilimor confer signal system comput;0
+294;2;m miller;k mark,michael i miller,ulf grenander;paramet estim constrain context free languag model;darpa speech natur languag;0
+295;2;michael miller;levy bucholz,abed marzouk;patient specif deform brain atla account structur variabl individu patient;aan;0
+296;2;m miller;m i miller,a b massie,j t ratnanather,k n botteron,j g csernansky;bayesian construct geometr base cortic thick metric;neuroimag;0
+297;2;m miller;a srivastava,u grenander;condit mean estim via jump diffus process multipl target track recognit;ieee transact signal process;0
+298;2;m miller;m i miller,c s butler;d maximum posteriori estim spect massiv parallel comput;ieee tran med imag;0
+299;2;m miller;m i miller,l younes;group action homeomorph match gener framework;intern journal comput vision page;0
+300;2;m miller;m i miller,m hosakere,a r barker,c e priebe,n lee,j t ratnanather,l wang,m gado,j c morris,j g csernansky;label cortic mantl distnac map quantifi differ dementia alzheim type healthi ag;proceed nation academi scienc pg;0
+301;2;m miller;aaron d lanterman,ulf grenander;bayesian segment via asymptot partit function;ieee transact pattern analysi machin intellig;0
+302;2;m miller;aaron lanterman,matthew l cooper,michael i miller;effici estim thermodynam state incorpor bayesian model order select;automat target recognit spie intern societi optic engin proc;0
+303;2;m miller;a d lanterman,m i miller,d l snyder;gener metropoli hast jump diffus automat target recognit infrar scene;j opt engin;0
+304;2;m miller;a d lanterman,m i miller,d l snyder,w j miceli;jump diffus process autom understand flir scene;automat object recognit proc spie intern societi optic engin ed firooz j sadjadi;0
+305;2;m miller;m w vannier,m i miller,u grenander;model data structur registr brain atla multidiment imag;function neuroimag ed l thatcher et new academ press;0
+306;2;m miller;a d lanterman,j a o sullivan,m i miller;kullback liebler distanc quantifi clutter model;optic engin;0
+307;2;m miller;l wang,j s swank,i e glick,m gado,m i miller,j c morris,j g csernansky;chang hippocamp shape across time distingui dementia alzheim type healthi ag;neuroimag;0
+308;2;m miller;a lanterman,m i miller,d l snyder;implement jump diffus algorithm understand flir scene;automat object recognit proc spie intern societi optic engin ed firooz sadjadi;0
+309;2;m miller;lei wang,michael i miller;construct statist templat cross modal map;proceed first aachen confer neuropsycholog neurosurgeri psychiatri neurolog aachen;0
+310;2;m miller;lei wang,jing cui,michael i miller;valid high dimension transform hippocampu;neuroimag proceed fourth intern confer function map human brain montreal;0
+311;2;m miller;a d lanterman,d l snyder,m i miller;extens good s rough maximum penal likelihood estim emiss tomographi;ieee tran medic imag;0
+312;2;m miller;lei wang,michael i miller;larg deform imag match via imageri;proceed intern symposium optic scienc engin instrument spie intern societi optic engin s rd annual meet san diego;0
+313;2;m miller;a d lanterman,m i miller,d l snyder;represent shape structur infer infrar scene;proc spie intern societi optic engin th annu intl sympo aerosp defens sens simul contr;0
+314;2;m miller;l wang,j s swank,m i miller,j c morris,j g csernansky;progress hippocamp atrophi distinguish dat healthi ag;annual meet societi neurosci;0
+315;2;m miller;a lanterman,m i miller,d l snyder;represent thermodynam variabl autom understand flir scene;automat object recognit proc spie intern societi optic engin ed firooz sadjadi;0
+316;2;m miller;j wang,m i miller,a t ogielski;stochast model synapt transmiss auditori nerv discharg part;comput neuron neural system ed f eckman;0
+317;2;m miller;a lanterman,m i miller,d l snyder;unif detect track recognit millimet wave infrar sensor;radar ladar process proc spie intern societi optic engin ed william j mice;0
+318;2;m miller;j wang,m i miller,a t ogielski;stochast model synapt transmiss auditori nerv discharg part;comput neuron neural system ed f eckman;0
+319;2;m miller;lei wang,sarang c joshi,michael i miller,john g csernansky;statist analysi hippocamp asymmetri schizophrenia;neuroimag;0
+320;2;m miller;lei wang,sarang c joshi,michael i miller,john g csernansky;statist analysi hippocamp asymmetri schizophrenia;annual meet societi neurosci new orlean;0
+321;2;m miller;levy bucholz,schaewe marzouk,kurt smith,m i miller,abed henderson;determin ideal pallidotomi target incorpor intraop physiolog record deform patient specif brain atla;aan;0
+322;2;m miller;c s butler,m i miller;maximum posteriori estim spect us regular techniqu massiv parallel comput;ieee tran med imag;0
+323;2;m miller;c s butler,m i miller,t r miller,j w wallis;massiv parallel comput d singl photon emiss comput tomographi;phy med biol;0
+324;2;m miller;c ceritoglu,d bitouk,m i miller,h a schmitt;asymptot perform atr infrar imag;spie intern societi optic engin;0
+325;2;m miller;s c chen,t j schaewe,r s teichman,m i miller,s n nadel,a s green;parallel algorithm maximum likelihood nuclear magnet reson spectroscopi;j magn reson seri;0
+326;2;m miller;m i miller;algorithm remov recoveri relat distort auditori nerv discharg pattern;j acoust soc;0
+327;2;m miller;gary christensen,rd rabbitt;d brain map us deform neuroanatomi;physic med biol;0
+328;2;m miller;m i miller,s c joshi,g e christensen;larg deform fluid diffeomorph landmark imag match;brain warp academ press san diego comput anim;0
+329;2;m miller;gary christensen,m i miller,m w vannier;d deform magnet reson textbook base elast;proceed american associ artifici intellig symposium applic comput vision medic imag process univers;0
+330;2;m miller;m i miller,s c joshi,d r maffitt,j g mcnally,u grenander;membran mitochondria amoeba dimension shape model;advanc appli statist ed k mardia england carfax;0
+331;2;m miller;g christensen,r d rabbitt,m i miller;deform neuroanatomi textbook base viscou fluid mechan;invit paper princ runolfsson editor proceed confer inform scienc system john univers;0
+332;2;m miller;d r fuhrmann,j a o sullivan,d l snyder;maximum likelihood method toeplitz covari estim radar imag;;0
+333;2;m miller;g e christensen,j f williamson,k s c chao,m i miller,f b so,m w vannier;deform anatom templat brachytherapi treatment plan radiotherapi cervic cancer;vision geometri ed r metter y wu l j latecki spie intern societi optic engin;0
+334;2;m miller;m i miller,d r fuhrmann;maximum likelihood narrow band direct find algorithm;ieee acoust speech signal process;0
+335;2;m miller;g christensen,richard d rabbitt,michael i miller;deform templat us larg deform kinemat;ieee transact imag process;0
+336;2;m miller;m i miller,d l snyder,t r miller;maximum likelihood reconstruct singl photon emiss comput tomographi;ieee tran nucl sci;0
+337;2;m miller;m i miller,d r fuhrmann;maximum likelihood estim direct arriv multipl narrowband signal nois;proc st annu conf inform sci syst;0
+338;2;m miller;m i miller,a s greene;maximum likelihood estim nuclear magnet reson spectroscopi;j magn reson;0
+339;2;m miller;m i miller,s c chen,d a keufler,d a d avignon;maximum likelihood estim algorithm d nmr spectroscopi;j magn reson seri;0
+340;2;m miller;m i miller,k b larson,j r saffitz,d l snyder,l j thomas;maximum likelihood estim appli electron microscop autoradiographi;j electron microscopi techniqu;0
+341;2;m miller;r l winslow,p helm,w baumgartner,j t ratnanather,s peddi,e mcveigh,m i miller;heart failur knowledgebas combin experiment data tool integr biolog model;novarti foundat symposium silico simul biolog process univers london;0
+342;2;m miller;laurent younes;group action homeomorph match gener framework;intern journal comput vision;0
+343;2;m miller;song chun zhu,michael i miller;clutter occlus perform analysi target detect;target detect heavi clutter;0
+344;2;m miller;song chun zhu,aaron lanterman,michael i miller;clutter model perform analysi automat target recognit;detect classif difficult target redston arsen;0
+345;3;mark miller;ted kaehler,hadon nash;bet briberi bankruptci simul economi learn predict;ieee compcon proceed appear ecolog comput north press elsevi;0
+346;3;m miller;kenneth m kahn,eric dean tribble,mark s miller,daniel g bobrow;object concurr logic program languag;oopsla confer object orient program system languag applic;0
+347;3;mark miller;ken kahn,e dean tribble,danny bobrow;vulcan logic concurr object;concurr prolog collect paper;0
+348;3;mark miller;ken kahn;languag design open system;;0
+349;3;mark miller;k eric drexler;compar ecolog comput perspect;;0
+350;3;m miller;mark s miller,chip morningstar,bill frantz;capabl base financi instrument;proceed financi cryptographi springer verlag;0
+351;3;mark miller;ka ping yee,jonathan shapiro;capabl myth demolish;hp tech report hpl john tech report srl;0
+352;3;m miller;mark s miller,daniel g bobrow,eric dean tribble,jacob levy;logic secret;proceed intern confer logic program iclp intern confer logic program concurr prolog collect paper;0
+353;3;m miller;mark s miller;learn curv;book review john s hidden order reason magazin;0
+354;3;mark miller;k eric drexler;market comput agor open system;;0
+355;3;m miller;curtis abbott,daniel g bobrow,ehud y shapiro,eric dean tribble,kenneth m kahn;channel gener stream;iclp intern confer logic program;0
+356;3;m miller;daniel g bobrow,eric dean tribble,kenneth m kahn;object concurr logic program languag;oopsla confer object orient program system languag applic;0
+357;3;m miller;daniel g bobrow,david s fogelsong;definit group make sourc first class object;research direct object orient program;0
+358;3;m miller;daniel g bobrow,eric dean tribble,kenneth m kahn;vulcan logic concurr object;research direct object orient program;0
+359;3;m miller;daniel g bobrow,eric dean tribble,jacob levy;logic secret;iclp intern confer logic program;0
+360;3;mark miller;k eric drexler;incent engin comput resourc manag;;0
+361;3;mark miller;daniel fogelsong,danny bobrow;definit group make sourc first class object;research direct object orient program;0
+362;3;m miller;bill frantz,chip morningstar;capabl base financi instrument;financi cryptographi;0
+363;3;mark miller;susan hirsh,ken kahn;interm unifi keyword posit notat;xerox parc tech report;0
+364;3;m miller;mark s miller,david krieger,e dean tribble;introduct agor comput;agor tech report add p;0
+365;3;m miller;mark s miller,david krieger;autom auction atm network bandwidth;market base control sun lab tech report sml;0
+366;3;m miller;mark s miller,jonathan shapiro;paradigm regain abstract mechan access control;hp tech report hpl john tech report srl proceed asian asian comput scienc confer edit vijai saraswat springer verlag;0
+367;3;m miller;mark s miller,david krieger,e dean tribble,norm hardy;architectur issu agor open system;agor tech report add p;0
+368;3;m miller;mark s miller,david krieger,e dean tribble;real time video deliveri market base resourc alloc;agor tech report;0
+369;3;m miller;mark s miller,marc stiegler;digit path smart contract third world;austrian perspect internet economi routledg;0
+370;3;m miller;eric dean tribble,mark s miller,kenneth m kahn,daniel g bobrow,curtis abbott,ehud y shapiro;channel gener stream;iclp intern confer logic program;0
+371;3;m miller;e dean tribble,mark s miller,norm hardy,david krieger;joul distribut applic foundat;;0
+372;3;mark miller with e dean tribble;ravi pandya,marc stiegler;open societi media;prospect nanotechnolog;0
+373;3;m miller;bill tulloh,mark s miller;institut abstract boundari negoti categori self reorgan market order;econom philosophi inform technolog intellectu contribut don lavoi edit jack high georg univers;0
+374;3;m miller;ka ping yee,mark s miller;auditor extens dynam code verif mechan;hp tech report prepar;0
+375;4;m miller;j yin,m s miller,t r ioerger,j yen,r a volz;knowledg base approach design intellig team train system;proceed fourth intern confer autonom agent barcelona accept rate;0
+376;4;m miller;jianwen yin,john yen,richard a volz,thomas r ioerger;train team collabor agent;intellig tutor system;0
+377;4;m miller;cong chen,john yen,kaivan kamali,richard a volz,rui wang,shuang sun,xiaocong fan;formal semant commun strategi proactiv inform deliveri among team base agent;aama autonom agent multiag system;0
+378;4;m miller;j m d hill,m s miller,j yen,u w pooch;tactic event resolut us softwar agent crisp rule genet algorithm;advanc simul technolog confer astc dc;0
+379;4;m miller;m s miller,r a volz;train teamwork;th world multi confer system cybernet informat;0
+380;4;m miller;m s miller,j yin,t r ioerger,j yen,r a volz;train team collabor agent;proceed fifth intern confer intellig tutor system montreal;0
+381;4;m miller;d xu,m s miller,r a volz,t r ioerger;collabor agent c teamwork simul;proceed intern confer artifici intellig la vega accept rate;0
+382;4;m miller;dianxiang xu,jianwen yin,john yen,richard a volz,thomas r ioerger;cast collabor agent simul teamwork;ijcai intern joint confer artifici intellig;0
+383;4;m miller;dianxiang xu,jesse plymale,richard a volz;human agent teamwork distribut team train;ictai intern confer tool artifici intellig;0
+384;4;m miller;j yen,j yin,t r ioerger,m s miller,d xu,r a volz;cast collabor agent simul teamwork;seventeenth intern joint confer artifici intellig accept rate;0
+385;4;m miller;jianwen yin,john yen,richard a volz,thomas r ioerger;knowledg base approach design intellig team train system;agent;0
+386;5;m miller;ingemar j cox,jeffrey a bloom;inform embed exploit imag detector inform watermark insert;icip intern confer imag process;0
+387;5;m miller;gwena euml,l j do euml,rr,ingemar j cox;inform embed multi bit watermark;iwdw intern digit watermark intern;0
+388;5;m miller;ingemar j cox,peter n yianilos,stephen m omohundro;target test pichunt bayesian multimedia retriev system;adl advanc digit librari;0
+389;5;m miller;ingemar j cox,peter n yianilos,thomas p minka;optim interact strategi bayesian relev feedback;cvpr comput vision pattern recognit;0
+390;5;m miller;jeffrey a bloom;comput probabl fals watermark detect;inform hide;0
+391;6;m miller;dennis j underwood,robert p sheridan,simon k kearsley;flog system select quasi flexibl ligand complementari receptor known three dimension structur;journal comput aid molecular design;0
+392;6;m miller;dennis j underwood,robert p sheridan,simon k kearsley;flexibas wai enhanc us molecular dock method;journal comput aid molecular design;0
+393;6;m miller;bradley p feuston,j christopher culberson,robert b nachbar,simon k kearsley;comparison knowledg base distanc geometri approach gener molecular conform;journal chemic inform comput scienc;0
+394;6;m miller;robert p sheridan;method visual recurr topolog substructur set activ molecul;journal chemic inform comput scienc;0
+395;6;m miller;dennis j underwood,robert p sheridan,simon k kearsley;chemic similar us geometr atom pair descriptor;journal chemic inform comput scienc;0
+396;7;m miller;d arnold,s agrawal,s blackford,j dongarra,s vadhiyar,k sagi,z shi;user guid netsolv;univers comput scienc technic report cs;0
+397;7;m miller;h casanova,j dongarra,c r johnson;applic specif toolkit;grid blueprint new comput infrastructur foster c kesselman ed morgan kaufman publish san francisco;0
+398;7;m miller;h casanova,t bartol,f berman,a birnbaum,j dongarra,m ellisman,m faerman,g obertelli,s pomerantz,t sejnowski,j stiles,r wolski;virtual instrument support grid enabl scientif simul;journal parallel distribut comput;0
+399;7;m miller;charles d hansen,christopher r johnson,steven g parker;comput steer scirun integr problem solv environ;scientif visual;0
+400;7;m miller;charles d hansen,christopher r johnson,steven g parker;simul steer scirun distribut environ;hpdc high perform distribut comput symposium;0
+401;7;m miller;charles d hansen,christopher r johnson;simul steer scirun distribut environ;appli parallel comput;0
+402;7;m miller;charles d hansen,christopher r johnson;scirun problem solv environ implement within distribut environ;ppsc siam confer parallel process scientif comput;0
+403;7;m miller;c moulding,j dongarra,c johnson;grid enabl problem solv environ case studi scirun netsolv;proceed high perform comput symposium hpc advanc simul technolog confer societi model simul intern;0
+404;7;m miller;c hansen,c r johnson;simul steer scirun distribut environ;appli parallel comput th intern appli parallel comput b kagstrom j dongarra elmroth j wasniewski ed springer verlag;0
+405;7;m miller;c d hansen,s g parker,c r johnson;simul steer scirun distribut environ;proceed seventh ieee intern symposium high perform distribut comput ieee press extend abstract poster present;0
+406;7;m miller;s g parker,c d hansen,c r johnson;integr problem solv environ scirun comput steer system;proceed st intern confer system scienc hicss intern confer system scienc ieee press;0
+407;8;m miller;philip k chan,salvatore j stolfo,wei fan,wenke lee;us artifici anomali detect unknown known network intrus;icdm ieee intern confer data mine;0
+408;8;m miller;erez zadok,salvatore j stolfo,wei fan,wenke lee;toward cost sensit model intrus detect respons;journal comput secur;0
+409;8;m miller;salvatore j stolfo,wei fan,wenke lee;multipl model cost sensit approach intrus detect;ecml european confer machin learn;0
+410;9;m miller;;context shift clash dialogu activ logic perspect;fundam inform;0
+411;9;m miller;donald perlis;autom infer activ logic;journal appli non classic logic;0
+412;9;m miller;donald perlis,madhura nirkhe,sarit kraus;plan meet deadlin now;journal logic comput;0

@@ -1,0 +1,416 @@
+@relation 'Dataset dblp publish-venue_title_co-authors mmiller'
+@attribute Text string
+@attribute class-att {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12}
+@data
+'sigucc special interest group univers comput servic bring electron mail mass phase eudora lisa h berg',10
+'sigucc special interest group univers comput servic world wide web develop notr dame s easier ask forgiv permiss nan',10
+'sigucc special interest group univers comput servic manag mac made painless leverag right tool job nan',10
+'ieee visual terascal visual approach pitfal issu panel bernd hamann carol l hunter charles d hansen michael cox roger crawfis',11
+'scientif visual multiresolut adapt render techniqu structur curvilinear data bernd hamann j fritz barnes william c wynn',11
+'comput network educ metadata us l jay wantz',12
+'comput network cool link ride wave l jay wantz',12
+'bulletin ica integr sum number cocktail parti graph symmetr complet bipartit graph j ryan x slamin',1
+'discussion mathematica graph theori survei certain valuat graph m baca j a macdougall x slamin w d wallis',1
+'proceed cocoon comput combinator sydnei lectur note comput scienc d z du p ead estivil castro lin ed monoton minimum diamet respect order maximum degre x slamin',1
+'journal graph theori complet characteris almost moor digraph degre three e t baskoro j siran m sutton',1
+'australasian journal combinator antimag valuat gener petersen graph m baca',1
+'proceed ninth intern confer scientif statist databas manag usabl compromis free statist databas l brankovic p horak g wrightson',1
+'j graph theori digraph degre close moor bound e t baskoro j plesnik s znam',1
+'jcmcc two conjectur concern d antimag label antipr m baca y lin',1
+'proceed awoca hunter vallei usabl k commpromis free statist databas l brankovic j siran',1
+'ar combinatoria result almost moor digraph e t baskoro j plesnik',1
+'itb bandung jurnal mihmi open problem graph theori label extrem graph plenari address combinator prosid komperensi nasion matematika nan',1
+'proceed awoca perth spectrum prematur partial latin squar l brankovic',1
+'discret mathemat sum number wheel m sutton',1
+'proceed fourteenth australasian combinatori algorithm seoul korea open problem exclus sum graph label j ryan x slamin k sugeng m tuga',1
+'hic confer adelaid utilis secret share access medic databas l brankovic j cooper',1
+'proceed awoca open problem mod sum graph m sutton j ryan x slamin',1
+'bulletin ica applic symmetr chain optim problem secur statist databas i roberts j simpson',1
+'seventh australasian databas confer proceed australian comput scienc commun toward practic audit method prevent statist databas compromis l brankovic j siran',1
+'proceed awoca hunter vallei us graph label store linkag relat databas m sutton',1
+'intern confer softwar engin research practic serp la vega comparison industri site project univers site project final year student e chang c colman w ee',1
+'australasian journal combinator edg magic total label w d wallis e t baskoro x slamin',1
+'softwar engin research practic comparison industri site project univers site project final year student catherine colman elizabeth chang wan ee',1
+'ssdbm statist scientif databas manag usabl compromis free statist databas graham wrightson ljiljana brankovic peter norak',1
+'discret mathemat characteris strongli chordal graph e dahlhaus p manuel',1
+'utilita math vertex magic total label graph j a macdougall x slamin w d wallis',1
+'kolloquium uber kombinatorik braunschweig komplexitat von eisenbahnrangierproblemen e dahlhaus j ryan',1
+'utilita math vertex magic total label wheel relat graph j a macdougall w wallis',1
+'proceed awoca hunter vallei algorithm combinatori problem relat train marshal e dahlhaus f manne j ryan',1
+'j combinatori theori note larg graph diamet two given maximum degre b d mckay j siran',1
+'proceed fourteenth australasian combinatori algorithm seoul korea nan k eds park',1
+'proceed awoca frazer island construct techniqu diregular non diregular larg direct network h m nguyen x slamin',1
+'discret mathemat digraph degre two miss moor bound two j siran',1
+'australasian j combin distanc magic label graph c a rodger r simanjuntak',1
+'jcmcc label wheel minimum sum number j ryan x slamin w f smyth',1
+'discret mathemat almost moor digraph diregular j gimbert j siran x slamin',1
+'nan model statist databas compromis incorpor supplementari knowledg databas s nan',1
+'proceed awoca darwin gener cliqu cover circular arc graph e t baskoro p manuel j ryan m sutton',1
+'jcmcc larg digraph small diamet voltag assign approach e t baskoro l brankovic j plesnik j ryan j siran',1
+'graph combinator ramsei number tree versu wheel five six vertic e baskoro x surahmat s m nababan',1
+'proceed awoca perth problem magic total label j a macdougall x slamin w d wallis',1
+'proceed th australian comput scienc confer construct network minimum diamet e t baskoro',1
+'bulletin ica prevent rel compromis us audit expert i roberts j simpson',1
+'graph combinator structur digraph order close moor bound e t baskoro j plesnik',1
+'re print imia yearbook medic informat secur consider present futur medic databas j cooper',1
+'acta mathematica universitati comeniana lxvi note almost moor digraph degre three e t baskoro j siran',1
+'intern journal bio medic comput secur consider present futur medic databas j cooper',1
+'proceed th awoca ubud open problem construct digraph minim diamet e t baskoro',1
+'hiansw third annual confer hunter vallei secur issu medic databas nan',1
+'bulletin ica procedur construct minimum diamet digraph e t baskoro',1
+'tatra mountain mathemat public open problem optim digraph nan',1
+'inform process letter maximum h color subgraph problem balanc graph e dahlhaus p manuel',1
+'australasian journal combinator regular digraph diamet maximum order e t baskoro j plesnik s znam',1
+'proceed fourteenth australasian combinatori algorithm seoul korea sum number disjoint union graph j ryan w f smyth',1
+'ar combinatoria parallel algorithm generalis cliqu transvers problem e dahlhaus p manuel',1
+'proceed softvi sydnei extend graph model softwar visual f bertault',1
+'bulletin ica sum number cocktail parti graph j ryan w smyth',1
+'discret appli mathemat train marshal problem elias dahlhaus joseph f ryan peter horak',1
+'proceed awoca frazer island iter eccentr digraph j gimbert f ruskey j ryan',1
+'discret appli mathemat transvers partit balanc hypergraph elias dahlhaus jan kratochv iacute l paul d manuel',1
+'intern journal bio medic comput australian healthcar smart card clever countri s morris j cooper d bomba l brankovic f pacecho',1
+'proceed twent graph combinatori optim ensched transvers partit balanc hypergraph e dahlhaus j kratochvil p manuel',1
+'ar comb mod sum number wheel anna draganova martin sutton',1
+'proceed fifth confer comput geometri domin draw bipartit graph p eades h elgindy m houles b lenhart d rappaport s whitesides',1
+'nordic journal comput two domin set minimum intersect chordal graph p eades m keil p manuel',1
+'proceed th new zealand annual comput scienc confer data integr relat databas z feng',1
+'world scientif null valu relat dbm databas s b srinivasan j zeleznikow ed z feng y jia',1
+'lectur note comput scienc ed kratochvil algorithm draw compound graph f bertault',1
+'proceed awoca bandung indonesia eccentr digraph digraph j boland',1
+'discret mathemat eccentr digraph j boland f buckley',1
+'discret mathemat bound number isol sum graph label h nagamochi x slamin',1
+'inaugur confer asia pacif associ medic informat data infer medic databas d bomba l brankovic j cooper s morris f pacecho',1
+'cccg canadian confer comput geometri domin draw bipartit graph david rappaport hossam a elgindy michael e houle sue whitesides william lenhart',1
+'inaugur confer asia pacif associ medic informat secur measur medic databas d bomba l brankovic j cooper s morris f pacecho',1
+'ar comb prematur partial latin squar alexander rosa ljiljana brankovic peter horak',1
+'inaugur confer asia pacif associ medic informat australian healthcar smart card clever countri d bomba l brankovic j cooper s morris f pacecho',1
+'australian comput journal rel compromis statist databas jennifer seberry',1
+'discret appli mathemat combinatori problem databas secur ljiljana brankovic peter horak',1
+'proceed awoca frazer island largest planar digraph diamet two r simanjuntak',1
+'hic confer adelaid confidenti patient record data infer problem l brankovic d bomba j cooper s morris f pacecho',1
+'jurnal mihmi survei d antimag graph label prosid komperensi nasion matematika itb bandung juli r simanjuntak',1
+'proceed dbi sydnei null relat dbm z feng y jia',1
+'electron journal combinator r flatten antichain respect l brankovic p lieby',1
+'proceed awoca hunter vallei two new d antimag label r simanjuntak f bertault',1
+'proceed far east confer futur databas kyoto multivalu approach relat dbm z feng y jia',1
+'congr numer graph matric usabl statist databas l brankovic j siran',1
+'australasian databas confer toward practic audit method prevent statist databas compromis jozef siran ljiljana brankovic',1
+'proceed intern confer young comput scientist beij enhanc domain integr relat databas z feng i fris',1
+'discret mathemat edg antimag graph m baca y lin m z youssef',1
+'bulletin ica edg magic total label wheel fan friendship graph x slamin m baca y lin r simanjuntak',1
+'third intern confer young comput scientist beij intellig databas model z feng m zhang',1
+'proceed awoca hunter vallei d antimag label plane graph m baca',1
+'itb bandung jurnal mihmi diregular digraph close moor bound prosid komperensi nasion matematika x slamin',1
+'proceed baltic intern confer databas method riga propos toward data integr subsystem relat databas z feng h dai',1
+'jcmcc valuat certain class convex polytop m baca',1
+'graph draw algorithm draw compound graph fran ccedil ois bertault',1
+'jcmcc valuat plane quartic graph m baca y lin',1
+'comput j minimum diamet diregular digraph degre ivan fris',1
+'int j comput mathemat issu vertex magic total label gener petersen graph m baca x slamin',1
+'discret appli mathemat combinatori problem data secur p horak l brankovic',1
+'discussion mathematica graph theori vertex antimag total label graph m baca f bertault j a macdougall r simanjuntak x slamin',1
+'th australasian combinatori algorithm special issu int j comput mathemat issu nan c iliopoulos b eds smyth',1
+'proceed awoca hunter vallei everi gener petersen graph vertex magic total label m baca x slamin',1
+'jcmcc d magic label type prism m baca',1
+'futur databas multivalu approach handl null rdb yingxian jia zhuopeng feng',1
+'proceed awoca bandung indonesia d antimag label honeycomb m baca e t baskoro',1
+'australasian journal combinator larg graph small diamet voltag assign approach l brankovic j plesnik j ryan j siran',1
+'proceed sicon newcash anonym payment receipt l brankovic a furche g wrightson',1
+'th confer austr math societi armidal request public australian mathemat societi gazett applic combinator secur statist databas l brankovic',1
+'proceed awoca bandung indonesia diregular digraph degre three order two less moor bound x slamin e t baskoro',1
+'siam societi industri appli mathemat j discret math optim problem statist databas ljiljana brankovic peter horak',1
+'cocoon comput combinator monoton minimum diamet respect order maximum degre slamin',1
+'siam societi industri appli mathemat journal discret mathemat optimis problem statist databas secur l brankovic p horak',1
+'bulletin ica two conjectur concern vertex magic total label gener petersen graph x slamin',1
+'int j comput mathemat issu rang queri usabl statist databas l brankovic j siran',1
+'proceed awoca open problem sum integr sum graph label x slamin',1
+'electron journal combinator r note construct larg caylei graph given degre diamet voltag assign l brankovic j plesnik j ryan j siran',1
+'jurnal mihmi sum graph label relat problem x slamin',1
+'select topic cryptographi inform secur commun ccisa introduct statist databas secur special issu l brankovic',1
+'indonesia confer comput geometri graph theori bandung indonesia d edg antimag total label k sugeng m baca',1
+'proceed awoca bandung indonesia direct graph closur properti languag a v kelarev o sokratova',1
+'proceed awoca open problem secur statist databas l brankovic',1
+'proceed awoca frazer island open problem secret share k a sugeng',1
+'nordic journal comput gener domin chordal graph jan kratochv iacute l paul d manuel',1
+'ar combinatoria prematur partial latin squar l brankovic p horak a rosa',1
+'discret mathemat connect graph mod sum graph m sutton j ryan x slamin',1
+'australasian journal combinator disjoint unfold domin graph j kratochvil p manuel a proskurowski',1
+'australasian journal combinator mod sum graph label hmn kn m sutton',1
+'nordic journal comput gener domin chordal graph j kratochvil p manuel',1
+'ar combinatoria mod sum number wheel m sutton a draganova',1
+'proceed awoca bandung indonesia sum graph label upper bound relat problem j kratochvil h n nguyen',1
+'proceed awoca bandung indonesia edg connect cage y lin c rodger',1
+'proceed awoca frazer island generalis direct moor graph y lin',1
+'bulletin ica vertex magic total label complet graph y lin',1
+'proceed awoca hunter vallei magic antimag label wheel y lin r simanjuntak x slamin',1
+'ar combin d antimag label prism y lin x slamin m baca',1
+'proceed awoca bandung indonesia d antimag label prism antipr m baca j ryan',1
+'utilita math new construct magic antimag graph label m baca y lin r simanjuntak',1
+'discret mathemat irregular total label m baca s jendrol j ryan',1
+'lectur note pure appli mathemat maximum order digraph diamet degre pullman graph matric i fris',1
+'journal combinatori mathemat combinatori comput antimag face label convex polytop base biprism m baca',1
+'proceed awoca bandung indonesia distanc magic graph c rodger r simanjuntak',1
+'ar combinatoria antimag label generalis petersen graph plane m baca s jendrol j ryan',1
+'ijcai intern joint confer artifici intellig integr artifici intellig databas sydnei expert system secur statist databas b pascoe i roberts',1
+'utilita math antimag label hexagon plane map m baca e t baskoro s jendrol',1
+'poor schwartz editor proceed th confer inform scienc system univers global shape model anatom structur gary christensen m i miller y amit u grenander',2
+'ieee transact medic imag volumetr transform brain anatomi g e christensen s c joshi m i miller',2
+'ieee comput individu neuroanatom atlas us massiv parallel comput gary christensen michael i miller michael w vannier ulf grenander',2
+'ieee comput individu neuroanatom atlas us massiv parallel comput gary e christensen michael vannier ulf grenander',2
+'unit state patent us patent offic method apparatu imag registr michael i miller',2
+'proc th intl conf visual biomed comput individu anatom atlas head g e christensen s c joshi m i miller',2
+'j magn reson seri b mathemat signal model phase frequenc encod magnet reson imag data m i miller t j schaewe c s bosch j j h ackerman',2
+'nan automat analysi medic imag us deform textbook gary christensen m i miller j l marsh m w vannier',2
+'proceed nation academi scienc mathemat textbook deform neuroanatomi michael i miller gary e christensen yali amit ulf grenander',2
+'y bizai c braillot r di paola editor inform process medic imag th intern confer kluwer academ publish topolog properti smooth anatom map gary christensen rd rabbitt sc joshi u grenander t coogan d van essen',2
+'ieee tran nucl sci evalu us siev produc estim radioact distribut algorithm positron emiss tomographi m i miller d l snyder s m moore',2
+'proc spie intern societi optic engin algorithm synthet apertur radar zelnio ed accommod geometr thermodynam variabl forward look infrar sensor m cooper ulf grenander anuj srivastava',2
+'proc spie intern societi optic engin advanc architectur algorithm altern maxim entropi likelihood function imag reconstruct spectrum estim m i miller d l snyder',2
+'spie intern societi optic engin quadrat analysi inform measur object recognit m cooper a srivastava m i miller',2
+'proc spie intern societi optic engin advanc algorithm architectur signal process algorithm direct arriv estim narrowband signal nois m i miller d r fuhrmann',2
+'proc intl conf multisourc multisensor inform fusion inform gain object recognit via sensor fusion matthew cooper',2
+'biotechniqu new method analysi electron microscop autoradiograph m i miller k b larson j e saffitz d l snyder l j thomas b roysam',2
+'j acoust soc new stochast model auditori nerv discharg m i miller j wang',2
+'annual review biomed engin metric euler lagrang equat comput anatomi m i miller a trouve l younes',2
+'maximum entropi bayesian method scienc engin kluwer academ publish applic likelihood entropi toeplitz constrain covari estim m i miller',2
+'spie intern societi optic engin confer algorithm synthet apertur radar imageri inform measur object recognit m cooper m i miller',2
+'ieee transact inform theori page inform measur object recognit accommod signatur variabl m cooper m i miller',2
+'proc third convent weapon atr u s armi missil command repres variat thermodynam state via princip compon analysi m cooper aaron lanterman sarang joshi',2
+'world congress hippocamp shape variat predict cognit declin nondement elder subject john g csernanskuy lei wang ph d jeffrey swank chin chin ting j philip miller michael i miller john c morris',2
+'hear re represent voic pitch discharg pattern auditori nerv fiber m i miller m b sachs',2
+'american journal psychiatri abnorm thalam shape schizophrenia john g csernansky mathew k schindler n reagan splinter lei wang mohktar gado lynn d selemon devna rastogi cruz joel a posener paul a thompson michael i miller',2
+'j acoust soc represent stop conson discharg pattern auditori nerv fiber m i miller m b sachs',2
+'schizophrenia research comparison hippocampu schizophrenia control subject us autom method neuromorphometri john g csernansky john w haller ayanashu banerjee lei wang sarang c joshi gary e christensen mokhtar gado michael w vannier michael i miller',2
+'proc nato advanc re auditori frequenc select auditori frequenc select strategi represent broadband stimuli discharg pattern auditori nerv fiber m i miller',2
+'th annual meet acnp san juan puerto rico comparison hippocampu schizophrenia control subject us autom method neuromorphometri john g csernansky john w haller ayanashu banerjee lei wang sarang c joshi gary e christensen mokhtar gado michael w vannier michael i miller',2
+'j acoust soc strategi represent tone background nois tempor aspect discharg pattern auditori nerv fiber m i miller p e barta m b sachs',2
+'intern journal psychopharmacolog suppl s computer brain map method detail analys neuroanatom shape volum john g csernansky lei wang sarang c joshi mokhtar gado john g morris michael i miller',2
+'ieee tran inform theori larg deviat code markov chain gibb random field y amit m i miller',2
+'statist method medic research statist method comput anatomi ayananshu banerjee gary christensen sarang joshi navin khaneja u grenander larissa matejic',2
+'european neuropsychopharmacolog suppl s hippocamp deform detect schizophrenia alzheim s diseas high dimension brain map john g csernansky lei wang sarang c joshi mokhtar gado john g morris michael i miller',2
+'ieee tran inform theori larg deviat asymptot ziv lempel code d gibb field y amit m i miller',2
+'j acoust soc statist studi cochlear nerv discharg pattern respons complex speech stimuli m i miller k e mark',2
+'american journal psychiatri hippocamp deform schizophrenia character high dimension brain map j g csernansky l wang d rastogi cruz j posener n brickel g heydebrand j philip miller m i miller',2
+'human brain map curv match brain surfac us frenet distanc m bakircioglu u grenander n khaneja m i miller',2
+'onr gtri target track sensor fusion inform theori sensor fusion michael i miller matthew cooper joseph kostakis',2
+'proceed spie intern societi optic engin medic imag landmark match brain surfac via larg deform diffeomorph sphere muge bakircioglu sarang joshi michael i miller',2
+'proc ieee intl inform theori sympo ieee inform theori group p applic maximum entropi maximum likelihood spectral estim m i miller d l snyder',2
+'proceed spie intern societi optic engin medic imag imag process landmark match sphere via larg deform diffeomorph m bakircioglu s joshi m i miller',2
+'proc ieee role likelihood entropi incomplet data problem applic estim point process intens toeplitz constrain covari m i miller d l snyder',2
+'proceed th annual allerton confer commun control comput univers accommod anatom variabl function imag via deform templat a banerjee gary christensen john haller sarang joshi marcus raichle',2
+'ieee transact imag process automat target recognit organ via jump diffus algorithm michael i miller ulf grenander joseph a sullivan donald l snyder',2
+'ipmi inform process medic imag gaussian random field sub manifold character brain surfac ayananshu banerjee gary e christensen john g csernansky john w haller lei wang sarang c joshi',2
+'proceed joint statist meet statist test label cortic depth map identifi dementia progress a r barker c e priebe m i miller m hosakari j t ratnanather l wang m gado j c morris j c csernansky',2
+'proc st annu conf inform sci syst gaussian convolut massiv parallel processor r c barrett a w mccarthy m i miller r e morley',2
+'neuroimag hippocamp shape predict cognit declin elderli j g csernansky l wang j swank j p miller m gado d mckeel m i miller j c morris',2
+'world alzheim congress stockholm hippocamp shape predict cognit declin elderli j g csernansky l wang j swank j p miller m gado d mckeel m i miller j c morris',2
+'societi neurosci abstract hippocamp morphometri dementia alzheim type comput algorithm john g csernansky lei wang daniel kido mokhtar gado john g morris michael i miller',2
+'proceed nation academi scienc hippocamp morphometri schizophrenia high dimension brain map john c csernansky sarang joshi lei wang mokhtar gado j philip miller ulf grenander michael i miller',2
+'proc th annu allerton conf commun contr comput iter maximum likelihood estim toeplitz constrain covari m i miller d l snyder m j turmon',2
+'neurolog earli dat distinguish ag high dimension map hippocampu john g csernansky lei wang sarang joshi j philip miller mokhtar gado daniel kido daniel mckeel john c morris michael i miller',2
+'isit detect bound automat target recognit compress domain pierre moulin michael i miller',2
+'first intern meet alzheim s imag consortium dc earli dat distinguish ag high dimension map hippocampu john g csernansky lei wang sarang joshi j philip miller mokhtar gado daniel kido daniel mckeel john c morris michael i miller',2
+'confer record twenti seventh asilomar confer signal system comput likelihood base approach joint target track identif j o sullivan steven p jacobs michael i miller donald l snyder',2
+'quarterli j appli math ed d mumford w freiberg variat problem flow diffeomorph imag match p dupuis u grenander m i miller',2
+'ieee transact aerospac electron system page sar atr perform us condition gaussian model joseph o sullivan michael d devore vikas kedia',2
+'vision research map visual cortex monkei human us surfac base atlas van essen d c lewis j w drury h a hadjikhani n tootell r b h bakircioglu m miller m i',2
+'american journal psychiatri high dimension map hippocampu depress joel a posener lei wang joseph l price mokhtar gado michael a province michael i miller casey m babb john g csernansky',2
+'spie intern societi optic engin proceed radar ladar signal process applic detect multipl airborn target multi sensor data m foltz a srivastava m i miller u grenander',2
+'j opt soc regular linear method reconstruct d microscop object optic section c preza m i miller l j thomas j g mcnally',2
+'ieee tran inform theori exist posit definit maximum likelihood estim structur covari matric d r fuhrmann m i miller',2
+'journal american statist associ segment magnet reson imag via hierarch mixtur modell c e priebe m i miller j t ratnanather',2
+'proceed spie intern societi optic engin s geometr method appli imag san diego comput anim map hyperelast deform templat r rabbitt j wiess g e christensen m i miller',2
+'nation partnership advanc comput infrastructur hand meet san diego supercomput center comput anatomi brain j t ratnanather c jing m i miller',2
+'neuroimag dynam program gener boundari local coordinat submanifold neocortex applic planum temporal j t ratnanather p e barta n a honeycutt n g lee h m morris a c dziorny m k hurdal g d pearlson m i miller',2
+'proc st annu conf inform sci syst singular maximum likelihood estim structur covari matric d r fuhrmann m i miller',2
+'journal mathemat imag vision special issu mathemat imag analysi landmark match via larg deform diffeomorph sphere joan glauns marc vaillant michael i miller',2
+'quarterli appli mathemat lvi comput anatomi emerg disciplin ulf grenander michael i miller',2
+'featur articl statist comput graphic newslett comput anatomi emerg disciplin u grenander m i miller',2
+'neuroimag valid cortic surfac analysi medial prefront cortex j t ratnanather k n botteron t nishino a b massie r m lal s g patel s peddi r d todd m i miller',2
+'proceed cooper work group whole bodi d electron imag human bodi deform anatom data base us global shape model posit paper electron imag human bodi ulf grenander m i miller g e christensen',2
+'digit signal process review journal ed j combin stochast syntact process analog comput method b roysam m i miller',2
+'ieee tran pattern analysi machin intellig hilbert schmidt lower bound estim matrix lie group atr u grenander m i miller a srivastava',2
+'proc allerton conf grammar bay prior hierarchi imag process massiv parallel processor b roysam m i miller',2
+'journal royal statit societi represent knowledg complex system discuss section ulf grenander michael i miller',2
+'ieee tran med imag parallel algorithm maximum posterori estim spin densiti spin spin decai magnet reson imag t j schaewe m i miller',2
+'ieee transact inform theori page asymptot perform analysi bayesian object recognit ulf grenander a srivastava',2
+'proc assoc re otolaryngolog th midwint meet p stochast model fast slow compon synapt recoveri post synapt action potenti gener r m schmich m i miller',2
+'spie intern societi optic engin proceed confer medic imag san diego comparison autom manual segment hippocampu mr imag j haller g e christensen m i miller m gado d w mckeel j g csernansky m w vannier',2
+'proc assoc re otolaryngolog th midwint research meet stochast intens hodgkin huxlei base spike gener model r m schmich m i miller',2
+'comput neurosci academ press stochast intens neural spike discharg base activ channel dynam r m schmich m i miller',2
+'y bizai c braillot r di paola editor inform process medic imag th intern confer kluwer academ publish precis accuraci high dimension transform segment mr imag hippocampu function structur map human cerebr cortex solut surfac j haller g e christensen s c joshi m gado m i miller m w vannier',2
+'american physiolog societi stochast threshold character intens activ channel dynam action potenti gener robert m schmich michael i miller',2
+'ieee transact inform theori page rate distort theoret codebook design automat object recognit eli shusterman michael i miller bixio rimoldi',2
+'nip neural inform process system bayesian infer regular grammar markov sourc model kurt r smith',2
+'intl conf function map human brain high dimension transform pet mri atla space j w haller a banerjee g e christensen a z snyder m i miller m e raichle',2
+'radiolog hippocamp mr imag morphometri mean gener pattern match j haller g e christensen s c joshi j w newcomer m i miller j g csernansky m w vannier',2
+'poster american neuropsychopharmacolog confer san juan puerto rico mri segment us high dimension transform digit atla j haller g e christensen s c joshi m i miller m gado j csernansky m w vannier',2
+'epilepsia suppl page mr imag deform base segment hippocampu patient mesial tempor sclerosi tempor lobe epilepsi robert e hogan kevin e mark lei wang sarang joshi michael i miller richard d bucholz',2
+'proc annu conf inform sci syst constrain probabl densiti estim noisi data d l snyder m i miller t j schulz',2
+'radiolog mesial tempor sclerosi tempor lobe epilepsi mr imag deform base segment hippocampu five patient r e hogan k e mark l wang s joshi m i miller r d bucholz',2
+'spatial statist imag possolo ed monograph seri institut mathemat statist comput anim case studi statist imag process positron emiss tomographi donald snyder d g politte m i miller',2
+'essrl monograph number essrl automat target recognit us sequenc high resolut radar rang profil s jacobs joseph a o sullivan m faisal a srivastava d l snyder m i miller',2
+'ieee tran med imag nois edg artifact maximum likelihood reconstruct emiss tomographi d l snyder m i miller l j thomas d g politte',2
+'ieee transact pattern analysi machin intellig inform theoret bound target recognit perform base degrad imag data avinash jain kannan ramchandran pierre moulin',2
+'ed new springer verlag random point process time space d l snyder m i miller',2
+'ieee transact pattern analysi machin intellig page inform theoret bound target recognit perform base degrad imag data a jain p moulin m i miller k ramchandran',2
+'topic meet quantum limit imag imag process technic digest opt soc estim quantum limit condit d l snyder m i miller',2
+'proc th annu allerton conf commun contr comput p us grenand s siev quantum limit imag d l snyder m i miller',2
+'proc th armi compress perform bound atr base compress data avinash jain p moulin m i miller k ramchandran',2
+'ieee tran inform theori us maximum likelihood estim form imag diffus radar target delai doppler data donald snyder j a o sullivan m i miller',2
+'proceed nation academi scienc function structur map human cerebr cortex solut surfac d c van essen h drury s joshi m i miller',2
+'ieee tran nucl sci us siev stabil imag produc algorithm emiss tomographi d l snyder m i miller',2
+'handbook video imag process editor alan bovik bayesian autom target recognit a srivastava m i miller u grenander',2
+'ieee transact pattern analysi machin intellig hilbert schmidt lower bound estim matrix lie group atr anuj srivastava ulf grenander',2
+'vision geometri proceed spie intern societi optic engin s intern symposium optic scienc engin instrument san diego comput anim hierarch brain map via gener dirichlet solut map brain manifold s joshi m i miller g e christensen a banerjee t coogan u grenander',2
+'ieee transact imag process page landmark match via larg deform diffeomorph s joshi m i miller',2
+'optic societi america maximum posteriori estim good s rough optic section microsopi s joshi m i miller',2
+'vision geometri proceed spie intern societi optic engin s intern symposium optic scienc engin instrument san diego comput anim differenti geometri cortic surfac s joshi j wang m i miller d c van essen u grenander',2
+'journal statist plan infer issu page jump diffus markov process orthogon group object recognit a srivastava u grenander g r jensen m i miller',2
+'intern journal pattern recognit artifici intellig geometri shape brain sub manifold s joshi michael i miller ulf grenander',2
+'ieee ho jump diffus process matrix lie group bayesian infer a srivastava m i miller u grenander',2
+'basic issu hear ed h duifhui et academ press new method estim stimulu refractori relat function auditori nerv discharg n karamanos m i miller',2
+'sixth digit signal process lie group parameter dynam base prior atr a srivastava m i miller u grenander',2
+'ieee transact pattern analysi machin intellig dynam program gener curv brain surfac n khaneja ulf grenander',2
+'ieee transact signal process multipl target direct arriv track a srivastava m i miller u grenander',2
+'proc fusion multi sensor fusion perform analysi atr a srivastava m cooper u grenander',2
+'ieee tran pattern analysi machin intellig dynam program gener geodes sulci brain surfac n khaneja m i miller u grenander',2
+'sequenti mont carlo method practic ed arnaud doucet nando freita neil gordon springer verlag mont carlo techniqu autom target recognit anuj srivastava aaron d lanterman ulf grenander marc loizeaux michael i miller',2
+'proc spie intern societi optic engin automat target recognit ed firooz sadjadi multispectr activ passiv sensor fusion ground base target orient estim j kostakis matthew cooper thomas j green michael i miller joseph a o sullivan jeffrey h shapiro donald l snyder',2
+'syst contr st centuri birkha ser ergod algorithm special euclidean group atr a srivastava m i miller u grenander',2
+'proc spie intern societi optic engin automat target recognit ed firooz sadjadi multispectr sensor fusion ground base target orient estim flir ladar hrr joseph kostakis matthew cooper thomas j green michael i miller joseph a o sullivan donald l snyder',2
+'proceed mtn publish birkhaus ergod algorithm special euclidean group atr a srivastava m i miller ulf grenander',2
+'ieee tran signal process maximum likelihood estim complex sinusoid toeplitz covari m j turmon m i miller',2
+'proc st annu conf inform sci syst p simul result maximum likehood estim toeplitz constrain covari m j turmon m i miller',2
+'npaci hand meet ucsd supercomput center comput geodes distanc anatomi m f beg g bhanot m i miller j t ratnanather r walkup l younes',2
+'intern journal comput vision comput metric via geodes flow diffeomorph m faisal beg michael i miller alain trouve laurent younes',2
+'ieee symposium biomed imag comput anatomi comput metric anatom shape m faisal beg alain trouve laurent younes',2
+'npaci hand meet san diego supercomput center ucsd metric comput anatomi imag analysi m faisal beg dmitry bitouk michael i miller laurent younes',2
+'npaci hand meet san diego supercomput center jolla comput anim enhanc tool manipul anatom imag step toward defer neurosci imag databas m f beg a majethia m browne t h kaiser m martone k f wong a b massie j homer j t ratnanather m i miller',2
+'proc sixth annual ground target model valid confer keweenaw research center tech univ automat target recognit via simul infrar scene a lanterman m i miller d l snyder',2
+'proc intl conf acoust speech signal process robust adapt transform coder kb s speech transmiss l e bergeron a j goldberg s y kwon m i miller',2
+'proceed spie intern societi optic engin intern societi fo roptic engin issu estim pose locat ground target atr m loizeaux a srivastava m i miller',2
+'ieee transact pattern analysi machin intellig clutter metric atr dmitri bitouk michael i miller laurent younes',2
+'j acoust soc bayesian model select minimum descript d length estim auditori nerv discharg rate k e mark m i miller',2
+'aerosens automat target recognit spie intern societi optic engin proceed fisher inform transport gener clutter model dmitri bitouk ulf grenander michael i miller paritosh tyagi',2
+'imag model speech model cousin ed s levinson l shepp new springer verlag constrain stochast languag model k e mark m i miller u grenander',2
+'proceed th asilimor confer signal system comput empir gener metric space atr clutter dmitri bitouk michael i miller laurent younes',2
+'darpa speech natur languag paramet estim constrain context free languag model k mark michael i miller ulf grenander',2
+'aan patient specif deform brain atla account structur variabl individu patient levy bucholz abed marzouk',2
+'neuroimag bayesian construct geometr base cortic thick metric m i miller a b massie j t ratnanather k n botteron j g csernansky',2
+'ieee transact signal process condit mean estim via jump diffus process multipl target track recognit a srivastava u grenander',2
+'ieee tran med imag d maximum posteriori estim spect massiv parallel comput m i miller c s butler',2
+'intern journal comput vision page group action homeomorph match gener framework m i miller l younes',2
+'proceed nation academi scienc pg label cortic mantl distnac map quantifi differ dementia alzheim type healthi ag m i miller m hosakere a r barker c e priebe n lee j t ratnanather l wang m gado j c morris j g csernansky',2
+'ieee transact pattern analysi machin intellig bayesian segment via asymptot partit function aaron d lanterman ulf grenander',2
+'automat target recognit spie intern societi optic engin proc effici estim thermodynam state incorpor bayesian model order select aaron lanterman matthew l cooper michael i miller',2
+'j opt engin gener metropoli hast jump diffus automat target recognit infrar scene a d lanterman m i miller d l snyder',2
+'automat object recognit proc spie intern societi optic engin ed firooz j sadjadi jump diffus process autom understand flir scene a d lanterman m i miller d l snyder w j miceli',2
+'function neuroimag ed l thatcher et new academ press model data structur registr brain atla multidiment imag m w vannier m i miller u grenander',2
+'optic engin kullback liebler distanc quantifi clutter model a d lanterman j a o sullivan m i miller',2
+'neuroimag chang hippocamp shape across time distingui dementia alzheim type healthi ag l wang j s swank i e glick m gado m i miller j c morris j g csernansky',2
+'automat object recognit proc spie intern societi optic engin ed firooz sadjadi implement jump diffus algorithm understand flir scene a lanterman m i miller d l snyder',2
+'proceed first aachen confer neuropsycholog neurosurgeri psychiatri neurolog aachen construct statist templat cross modal map lei wang michael i miller',2
+'neuroimag proceed fourth intern confer function map human brain montreal valid high dimension transform hippocampu lei wang jing cui michael i miller',2
+'ieee tran medic imag extens good s rough maximum penal likelihood estim emiss tomographi a d lanterman d l snyder m i miller',2
+'proceed intern symposium optic scienc engin instrument spie intern societi optic engin s rd annual meet san diego larg deform imag match via imageri lei wang michael i miller',2
+'proc spie intern societi optic engin th annu intl sympo aerosp defens sens simul contr represent shape structur infer infrar scene a d lanterman m i miller d l snyder',2
+'annual meet societi neurosci progress hippocamp atrophi distinguish dat healthi ag l wang j s swank m i miller j c morris j g csernansky',2
+'automat object recognit proc spie intern societi optic engin ed firooz sadjadi represent thermodynam variabl autom understand flir scene a lanterman m i miller d l snyder',2
+'comput neuron neural system ed f eckman stochast model synapt transmiss auditori nerv discharg part j wang m i miller a t ogielski',2
+'radar ladar process proc spie intern societi optic engin ed william j mice unif detect track recognit millimet wave infrar sensor a lanterman m i miller d l snyder',2
+'comput neuron neural system ed f eckman stochast model synapt transmiss auditori nerv discharg part j wang m i miller a t ogielski',2
+'neuroimag statist analysi hippocamp asymmetri schizophrenia lei wang sarang c joshi michael i miller john g csernansky',2
+'annual meet societi neurosci new orlean statist analysi hippocamp asymmetri schizophrenia lei wang sarang c joshi michael i miller john g csernansky',2
+'aan determin ideal pallidotomi target incorpor intraop physiolog record deform patient specif brain atla levy bucholz schaewe marzouk kurt smith m i miller abed henderson',2
+'ieee tran med imag maximum posteriori estim spect us regular techniqu massiv parallel comput c s butler m i miller',2
+'phy med biol massiv parallel comput d singl photon emiss comput tomographi c s butler m i miller t r miller j w wallis',2
+'spie intern societi optic engin asymptot perform atr infrar imag c ceritoglu d bitouk m i miller h a schmitt',2
+'j magn reson seri parallel algorithm maximum likelihood nuclear magnet reson spectroscopi s c chen t j schaewe r s teichman m i miller s n nadel a s green',2
+'j acoust soc algorithm remov recoveri relat distort auditori nerv discharg pattern m i miller',2
+'physic med biol d brain map us deform neuroanatomi gary christensen rd rabbitt',2
+'brain warp academ press san diego comput anim larg deform fluid diffeomorph landmark imag match m i miller s c joshi g e christensen',2
+'proceed american associ artifici intellig symposium applic comput vision medic imag process univers d deform magnet reson textbook base elast gary christensen m i miller m w vannier',2
+'advanc appli statist ed k mardia england carfax membran mitochondria amoeba dimension shape model m i miller s c joshi d r maffitt j g mcnally u grenander',2
+'invit paper princ runolfsson editor proceed confer inform scienc system john univers deform neuroanatomi textbook base viscou fluid mechan g christensen r d rabbitt m i miller',2
+'nan maximum likelihood method toeplitz covari estim radar imag d r fuhrmann j a o sullivan d l snyder',2
+'vision geometri ed r metter y wu l j latecki spie intern societi optic engin deform anatom templat brachytherapi treatment plan radiotherapi cervic cancer g e christensen j f williamson k s c chao m i miller f b so m w vannier',2
+'ieee acoust speech signal process maximum likelihood narrow band direct find algorithm m i miller d r fuhrmann',2
+'ieee transact imag process deform templat us larg deform kinemat g christensen richard d rabbitt michael i miller',2
+'ieee tran nucl sci maximum likelihood reconstruct singl photon emiss comput tomographi m i miller d l snyder t r miller',2
+'proc st annu conf inform sci syst maximum likelihood estim direct arriv multipl narrowband signal nois m i miller d r fuhrmann',2
+'j magn reson maximum likelihood estim nuclear magnet reson spectroscopi m i miller a s greene',2
+'j magn reson seri maximum likelihood estim algorithm d nmr spectroscopi m i miller s c chen d a keufler d a d avignon',2
+'j electron microscopi techniqu maximum likelihood estim appli electron microscop autoradiographi m i miller k b larson j r saffitz d l snyder l j thomas',2
+'novarti foundat symposium silico simul biolog process univers london heart failur knowledgebas combin experiment data tool integr biolog model r l winslow p helm w baumgartner j t ratnanather s peddi e mcveigh m i miller',2
+'intern journal comput vision group action homeomorph match gener framework laurent younes',2
+'target detect heavi clutter clutter occlus perform analysi target detect song chun zhu michael i miller',2
+'detect classif difficult target redston arsen clutter model perform analysi automat target recognit song chun zhu aaron lanterman michael i miller',2
+'ieee compcon proceed appear ecolog comput north press elsevi bet briberi bankruptci simul economi learn predict ted kaehler hadon nash',3
+'oopsla confer object orient program system languag applic object concurr logic program languag kenneth m kahn eric dean tribble mark s miller daniel g bobrow',3
+'concurr prolog collect paper vulcan logic concurr object ken kahn e dean tribble danny bobrow',3
+'nan languag design open system ken kahn',3
+'nan compar ecolog comput perspect k eric drexler',3
+'proceed financi cryptographi springer verlag capabl base financi instrument mark s miller chip morningstar bill frantz',3
+'hp tech report hpl john tech report srl capabl myth demolish ka ping yee jonathan shapiro',3
+'proceed intern confer logic program iclp intern confer logic program concurr prolog collect paper logic secret mark s miller daniel g bobrow eric dean tribble jacob levy',3
+'book review john s hidden order reason magazin learn curv mark s miller',3
+'nan market comput agor open system k eric drexler',3
+'iclp intern confer logic program channel gener stream curtis abbott daniel g bobrow ehud y shapiro eric dean tribble kenneth m kahn',3
+'oopsla confer object orient program system languag applic object concurr logic program languag daniel g bobrow eric dean tribble kenneth m kahn',3
+'research direct object orient program definit group make sourc first class object daniel g bobrow david s fogelsong',3
+'research direct object orient program vulcan logic concurr object daniel g bobrow eric dean tribble kenneth m kahn',3
+'iclp intern confer logic program logic secret daniel g bobrow eric dean tribble jacob levy',3
+'nan incent engin comput resourc manag k eric drexler',3
+'research direct object orient program definit group make sourc first class object daniel fogelsong danny bobrow',3
+'financi cryptographi capabl base financi instrument bill frantz chip morningstar',3
+'xerox parc tech report interm unifi keyword posit notat susan hirsh ken kahn',3
+'agor tech report add p introduct agor comput mark s miller david krieger e dean tribble',3
+'market base control sun lab tech report sml autom auction atm network bandwidth mark s miller david krieger',3
+'hp tech report hpl john tech report srl proceed asian asian comput scienc confer edit vijai saraswat springer verlag paradigm regain abstract mechan access control mark s miller jonathan shapiro',3
+'agor tech report add p architectur issu agor open system mark s miller david krieger e dean tribble norm hardy',3
+'agor tech report real time video deliveri market base resourc alloc mark s miller david krieger e dean tribble',3
+'austrian perspect internet economi routledg digit path smart contract third world mark s miller marc stiegler',3
+'iclp intern confer logic program channel gener stream eric dean tribble mark s miller kenneth m kahn daniel g bobrow curtis abbott ehud y shapiro',3
+'nan joul distribut applic foundat e dean tribble mark s miller norm hardy david krieger',3
+'prospect nanotechnolog open societi media ravi pandya marc stiegler',3
+'econom philosophi inform technolog intellectu contribut don lavoi edit jack high georg univers institut abstract boundari negoti categori self reorgan market order bill tulloh mark s miller',3
+'hp tech report prepar auditor extens dynam code verif mechan ka ping yee mark s miller',3
+'proceed fourth intern confer autonom agent barcelona accept rate knowledg base approach design intellig team train system j yin m s miller t r ioerger j yen r a volz',4
+'intellig tutor system train team collabor agent jianwen yin john yen richard a volz thomas r ioerger',4
+'aama autonom agent multiag system formal semant commun strategi proactiv inform deliveri among team base agent cong chen john yen kaivan kamali richard a volz rui wang shuang sun xiaocong fan',4
+'advanc simul technolog confer astc dc tactic event resolut us softwar agent crisp rule genet algorithm j m d hill m s miller j yen u w pooch',4
+'th world multi confer system cybernet informat train teamwork m s miller r a volz',4
+'proceed fifth intern confer intellig tutor system montreal train team collabor agent m s miller j yin t r ioerger j yen r a volz',4
+'proceed intern confer artifici intellig la vega accept rate collabor agent c teamwork simul d xu m s miller r a volz t r ioerger',4
+'ijcai intern joint confer artifici intellig cast collabor agent simul teamwork dianxiang xu jianwen yin john yen richard a volz thomas r ioerger',4
+'ictai intern confer tool artifici intellig human agent teamwork distribut team train dianxiang xu jesse plymale richard a volz',4
+'seventeenth intern joint confer artifici intellig accept rate cast collabor agent simul teamwork j yen j yin t r ioerger m s miller d xu r a volz',4
+'agent knowledg base approach design intellig team train system jianwen yin john yen richard a volz thomas r ioerger',4
+'icip intern confer imag process inform embed exploit imag detector inform watermark insert ingemar j cox jeffrey a bloom',5
+'iwdw intern digit watermark intern inform embed multi bit watermark gwena euml l j do euml rr ingemar j cox',5
+'adl advanc digit librari target test pichunt bayesian multimedia retriev system ingemar j cox peter n yianilos stephen m omohundro',5
+'cvpr comput vision pattern recognit optim interact strategi bayesian relev feedback ingemar j cox peter n yianilos thomas p minka',5
+'inform hide comput probabl fals watermark detect jeffrey a bloom',5
+'journal comput aid molecular design flog system select quasi flexibl ligand complementari receptor known three dimension structur dennis j underwood robert p sheridan simon k kearsley',6
+'journal comput aid molecular design flexibas wai enhanc us molecular dock method dennis j underwood robert p sheridan simon k kearsley',6
+'journal chemic inform comput scienc comparison knowledg base distanc geometri approach gener molecular conform bradley p feuston j christopher culberson robert b nachbar simon k kearsley',6
+'journal chemic inform comput scienc method visual recurr topolog substructur set activ molecul robert p sheridan',6
+'journal chemic inform comput scienc chemic similar us geometr atom pair descriptor dennis j underwood robert p sheridan simon k kearsley',6
+'univers comput scienc technic report cs user guid netsolv d arnold s agrawal s blackford j dongarra s vadhiyar k sagi z shi',7
+'grid blueprint new comput infrastructur foster c kesselman ed morgan kaufman publish san francisco applic specif toolkit h casanova j dongarra c r johnson',7
+'journal parallel distribut comput virtual instrument support grid enabl scientif simul h casanova t bartol f berman a birnbaum j dongarra m ellisman m faerman g obertelli s pomerantz t sejnowski j stiles r wolski',7
+'scientif visual comput steer scirun integr problem solv environ charles d hansen christopher r johnson steven g parker',7
+'hpdc high perform distribut comput symposium simul steer scirun distribut environ charles d hansen christopher r johnson steven g parker',7
+'appli parallel comput simul steer scirun distribut environ charles d hansen christopher r johnson',7
+'ppsc siam confer parallel process scientif comput scirun problem solv environ implement within distribut environ charles d hansen christopher r johnson',7
+'proceed high perform comput symposium hpc advanc simul technolog confer societi model simul intern grid enabl problem solv environ case studi scirun netsolv c moulding j dongarra c johnson',7
+'appli parallel comput th intern appli parallel comput b kagstrom j dongarra elmroth j wasniewski ed springer verlag simul steer scirun distribut environ c hansen c r johnson',7
+'proceed seventh ieee intern symposium high perform distribut comput ieee press extend abstract poster present simul steer scirun distribut environ c d hansen s g parker c r johnson',7
+'proceed st intern confer system scienc hicss intern confer system scienc ieee press integr problem solv environ scirun comput steer system s g parker c d hansen c r johnson',7
+'icdm ieee intern confer data mine us artifici anomali detect unknown known network intrus philip k chan salvatore j stolfo wei fan wenke lee',8
+'journal comput secur toward cost sensit model intrus detect respons erez zadok salvatore j stolfo wei fan wenke lee',8
+'ecml european confer machin learn multipl model cost sensit approach intrus detect salvatore j stolfo wei fan wenke lee',8
+'fundam inform context shift clash dialogu activ logic perspect nan',9
+'journal appli non classic logic autom infer activ logic donald perlis',9
+'journal logic comput plan meet deadlin now donald perlis madhura nirkhe sarit kraus',9

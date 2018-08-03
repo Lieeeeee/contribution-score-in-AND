@@ -1,0 +1,416 @@
+@relation 'Dataset dblp publish-venue_co-authors mmiller'
+@attribute Text string
+@attribute class-att {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12}
+@data
+'sigucc special interest group univers comput servic lisa h berg',10
+'sigucc special interest group univers comput servic nan',10
+'sigucc special interest group univers comput servic nan',10
+'ieee visual bernd hamann carol l hunter charles d hansen michael cox roger crawfis',11
+'scientif visual bernd hamann j fritz barnes william c wynn',11
+'comput network l jay wantz',12
+'comput network l jay wantz',12
+'bulletin ica j ryan x slamin',1
+'discussion mathematica graph theori m baca j a macdougall x slamin w d wallis',1
+'proceed cocoon comput combinator sydnei lectur note comput scienc d z du p ead estivil castro lin ed x slamin',1
+'journal graph theori e t baskoro j siran m sutton',1
+'australasian journal combinator m baca',1
+'proceed ninth intern confer scientif statist databas manag l brankovic p horak g wrightson',1
+'j graph theori e t baskoro j plesnik s znam',1
+'jcmcc m baca y lin',1
+'proceed awoca hunter vallei l brankovic j siran',1
+'ar combinatoria e t baskoro j plesnik',1
+'itb bandung jurnal mihmi nan',1
+'proceed awoca perth l brankovic',1
+'discret mathemat m sutton',1
+'proceed fourteenth australasian combinatori algorithm seoul korea j ryan x slamin k sugeng m tuga',1
+'hic confer adelaid l brankovic j cooper',1
+'proceed awoca m sutton j ryan x slamin',1
+'bulletin ica i roberts j simpson',1
+'seventh australasian databas confer proceed australian comput scienc commun l brankovic j siran',1
+'proceed awoca hunter vallei m sutton',1
+'intern confer softwar engin research practic serp la vega e chang c colman w ee',1
+'australasian journal combinator w d wallis e t baskoro x slamin',1
+'softwar engin research practic catherine colman elizabeth chang wan ee',1
+'ssdbm statist scientif databas manag graham wrightson ljiljana brankovic peter norak',1
+'discret mathemat e dahlhaus p manuel',1
+'utilita math j a macdougall x slamin w d wallis',1
+'kolloquium uber kombinatorik braunschweig e dahlhaus j ryan',1
+'utilita math j a macdougall w wallis',1
+'proceed awoca hunter vallei e dahlhaus f manne j ryan',1
+'j combinatori theori b d mckay j siran',1
+'proceed fourteenth australasian combinatori algorithm seoul korea k eds park',1
+'proceed awoca frazer island h m nguyen x slamin',1
+'discret mathemat j siran',1
+'australasian j combin c a rodger r simanjuntak',1
+'jcmcc j ryan x slamin w f smyth',1
+'discret mathemat j gimbert j siran x slamin',1
+'nan nan',1
+'proceed awoca darwin e t baskoro p manuel j ryan m sutton',1
+'jcmcc e t baskoro l brankovic j plesnik j ryan j siran',1
+'graph combinator e baskoro x surahmat s m nababan',1
+'proceed awoca perth j a macdougall x slamin w d wallis',1
+'proceed th australian comput scienc confer e t baskoro',1
+'bulletin ica i roberts j simpson',1
+'graph combinator e t baskoro j plesnik',1
+'re print imia yearbook medic informat j cooper',1
+'acta mathematica universitati comeniana lxvi e t baskoro j siran',1
+'intern journal bio medic comput j cooper',1
+'proceed th awoca ubud e t baskoro',1
+'hiansw third annual confer hunter vallei nan',1
+'bulletin ica e t baskoro',1
+'tatra mountain mathemat public nan',1
+'inform process letter e dahlhaus p manuel',1
+'australasian journal combinator e t baskoro j plesnik s znam',1
+'proceed fourteenth australasian combinatori algorithm seoul korea j ryan w f smyth',1
+'ar combinatoria e dahlhaus p manuel',1
+'proceed softvi sydnei f bertault',1
+'bulletin ica j ryan w smyth',1
+'discret appli mathemat elias dahlhaus joseph f ryan peter horak',1
+'proceed awoca frazer island j gimbert f ruskey j ryan',1
+'discret appli mathemat elias dahlhaus jan kratochv iacute l paul d manuel',1
+'intern journal bio medic comput s morris j cooper d bomba l brankovic f pacecho',1
+'proceed twent graph combinatori optim ensched e dahlhaus j kratochvil p manuel',1
+'ar comb anna draganova martin sutton',1
+'proceed fifth confer comput geometri p eades h elgindy m houles b lenhart d rappaport s whitesides',1
+'nordic journal comput p eades m keil p manuel',1
+'proceed th new zealand annual comput scienc confer z feng',1
+'world scientif z feng y jia',1
+'lectur note comput scienc ed kratochvil f bertault',1
+'proceed awoca bandung indonesia j boland',1
+'discret mathemat j boland f buckley',1
+'discret mathemat h nagamochi x slamin',1
+'inaugur confer asia pacif associ medic informat d bomba l brankovic j cooper s morris f pacecho',1
+'cccg canadian confer comput geometri david rappaport hossam a elgindy michael e houle sue whitesides william lenhart',1
+'inaugur confer asia pacif associ medic informat d bomba l brankovic j cooper s morris f pacecho',1
+'ar comb alexander rosa ljiljana brankovic peter horak',1
+'inaugur confer asia pacif associ medic informat d bomba l brankovic j cooper s morris f pacecho',1
+'australian comput journal jennifer seberry',1
+'discret appli mathemat ljiljana brankovic peter horak',1
+'proceed awoca frazer island r simanjuntak',1
+'hic confer adelaid l brankovic d bomba j cooper s morris f pacecho',1
+'jurnal mihmi r simanjuntak',1
+'proceed dbi sydnei z feng y jia',1
+'electron journal combinator r l brankovic p lieby',1
+'proceed awoca hunter vallei r simanjuntak f bertault',1
+'proceed far east confer futur databas kyoto z feng y jia',1
+'congr numer l brankovic j siran',1
+'australasian databas confer jozef siran ljiljana brankovic',1
+'proceed intern confer young comput scientist beij z feng i fris',1
+'discret mathemat m baca y lin m z youssef',1
+'bulletin ica x slamin m baca y lin r simanjuntak',1
+'third intern confer young comput scientist beij z feng m zhang',1
+'proceed awoca hunter vallei m baca',1
+'itb bandung jurnal mihmi x slamin',1
+'proceed baltic intern confer databas method riga z feng h dai',1
+'jcmcc m baca',1
+'graph draw fran ccedil ois bertault',1
+'jcmcc m baca y lin',1
+'comput j ivan fris',1
+'int j comput mathemat issu m baca x slamin',1
+'discret appli mathemat p horak l brankovic',1
+'discussion mathematica graph theori m baca f bertault j a macdougall r simanjuntak x slamin',1
+'th australasian combinatori algorithm special issu int j comput mathemat issu c iliopoulos b eds smyth',1
+'proceed awoca hunter vallei m baca x slamin',1
+'jcmcc m baca',1
+'futur databas yingxian jia zhuopeng feng',1
+'proceed awoca bandung indonesia m baca e t baskoro',1
+'australasian journal combinator l brankovic j plesnik j ryan j siran',1
+'proceed sicon l brankovic a furche g wrightson',1
+'th confer austr math societi armidal request public australian mathemat societi gazett l brankovic',1
+'proceed awoca bandung indonesia x slamin e t baskoro',1
+'siam societi industri appli mathemat j discret math ljiljana brankovic peter horak',1
+'cocoon comput combinator slamin',1
+'siam societi industri appli mathemat journal discret mathemat l brankovic p horak',1
+'bulletin ica x slamin',1
+'int j comput mathemat issu l brankovic j siran',1
+'proceed awoca x slamin',1
+'electron journal combinator r l brankovic j plesnik j ryan j siran',1
+'jurnal mihmi x slamin',1
+'select topic cryptographi inform secur commun ccisa l brankovic',1
+'indonesia confer comput geometri graph theori bandung indonesia k sugeng m baca',1
+'proceed awoca bandung indonesia a v kelarev o sokratova',1
+'proceed awoca l brankovic',1
+'proceed awoca frazer island k a sugeng',1
+'nordic journal comput jan kratochv iacute l paul d manuel',1
+'ar combinatoria l brankovic p horak a rosa',1
+'discret mathemat m sutton j ryan x slamin',1
+'australasian journal combinator j kratochvil p manuel a proskurowski',1
+'australasian journal combinator m sutton',1
+'nordic journal comput j kratochvil p manuel',1
+'ar combinatoria m sutton a draganova',1
+'proceed awoca bandung indonesia j kratochvil h n nguyen',1
+'proceed awoca bandung indonesia y lin c rodger',1
+'proceed awoca frazer island y lin',1
+'bulletin ica y lin',1
+'proceed awoca hunter vallei y lin r simanjuntak x slamin',1
+'ar combin y lin x slamin m baca',1
+'proceed awoca bandung indonesia m baca j ryan',1
+'utilita math m baca y lin r simanjuntak',1
+'discret mathemat m baca s jendrol j ryan',1
+'lectur note pure appli mathemat i fris',1
+'journal combinatori mathemat combinatori comput m baca',1
+'proceed awoca bandung indonesia c rodger r simanjuntak',1
+'ar combinatoria m baca s jendrol j ryan',1
+'ijcai intern joint confer artifici intellig integr artifici intellig databas sydnei b pascoe i roberts',1
+'utilita math m baca e t baskoro s jendrol',1
+'poor schwartz editor proceed th confer inform scienc system univers gary christensen m i miller y amit u grenander',2
+'ieee transact medic imag g e christensen s c joshi m i miller',2
+'ieee comput gary christensen michael i miller michael w vannier ulf grenander',2
+'ieee comput gary e christensen michael vannier ulf grenander',2
+'unit state patent us patent offic michael i miller',2
+'proc th intl conf visual biomed comput g e christensen s c joshi m i miller',2
+'j magn reson seri b m i miller t j schaewe c s bosch j j h ackerman',2
+'nan gary christensen m i miller j l marsh m w vannier',2
+'proceed nation academi scienc michael i miller gary e christensen yali amit ulf grenander',2
+'y bizai c braillot r di paola editor inform process medic imag th intern confer kluwer academ publish gary christensen rd rabbitt sc joshi u grenander t coogan d van essen',2
+'ieee tran nucl sci m i miller d l snyder s m moore',2
+'proc spie intern societi optic engin algorithm synthet apertur radar zelnio ed m cooper ulf grenander anuj srivastava',2
+'proc spie intern societi optic engin advanc architectur algorithm m i miller d l snyder',2
+'spie intern societi optic engin m cooper a srivastava m i miller',2
+'proc spie intern societi optic engin advanc algorithm architectur signal process m i miller d r fuhrmann',2
+'proc intl conf multisourc multisensor inform fusion matthew cooper',2
+'biotechniqu m i miller k b larson j e saffitz d l snyder l j thomas b roysam',2
+'j acoust soc m i miller j wang',2
+'annual review biomed engin m i miller a trouve l younes',2
+'maximum entropi bayesian method scienc engin kluwer academ publish m i miller',2
+'spie intern societi optic engin confer algorithm synthet apertur radar imageri m cooper m i miller',2
+'ieee transact inform theori page m cooper m i miller',2
+'proc third convent weapon atr u s armi missil command m cooper aaron lanterman sarang joshi',2
+'world congress john g csernanskuy lei wang ph d jeffrey swank chin chin ting j philip miller michael i miller john c morris',2
+'hear re m i miller m b sachs',2
+'american journal psychiatri john g csernansky mathew k schindler n reagan splinter lei wang mohktar gado lynn d selemon devna rastogi cruz joel a posener paul a thompson michael i miller',2
+'j acoust soc m i miller m b sachs',2
+'schizophrenia research john g csernansky john w haller ayanashu banerjee lei wang sarang c joshi gary e christensen mokhtar gado michael w vannier michael i miller',2
+'proc nato advanc re auditori frequenc select auditori frequenc select m i miller',2
+'th annual meet acnp san juan puerto rico john g csernansky john w haller ayanashu banerjee lei wang sarang c joshi gary e christensen mokhtar gado michael w vannier michael i miller',2
+'j acoust soc m i miller p e barta m b sachs',2
+'intern journal psychopharmacolog suppl s john g csernansky lei wang sarang c joshi mokhtar gado john g morris michael i miller',2
+'ieee tran inform theori y amit m i miller',2
+'statist method medic research ayananshu banerjee gary christensen sarang joshi navin khaneja u grenander larissa matejic',2
+'european neuropsychopharmacolog suppl s john g csernansky lei wang sarang c joshi mokhtar gado john g morris michael i miller',2
+'ieee tran inform theori y amit m i miller',2
+'j acoust soc m i miller k e mark',2
+'american journal psychiatri j g csernansky l wang d rastogi cruz j posener n brickel g heydebrand j philip miller m i miller',2
+'human brain map m bakircioglu u grenander n khaneja m i miller',2
+'onr gtri target track sensor fusion michael i miller matthew cooper joseph kostakis',2
+'proceed spie intern societi optic engin medic imag muge bakircioglu sarang joshi michael i miller',2
+'proc ieee intl inform theori sympo ieee inform theori group p m i miller d l snyder',2
+'proceed spie intern societi optic engin medic imag imag process m bakircioglu s joshi m i miller',2
+'proc ieee m i miller d l snyder',2
+'proceed th annual allerton confer commun control comput univers a banerjee gary christensen john haller sarang joshi marcus raichle',2
+'ieee transact imag process michael i miller ulf grenander joseph a sullivan donald l snyder',2
+'ipmi inform process medic imag ayananshu banerjee gary e christensen john g csernansky john w haller lei wang sarang c joshi',2
+'proceed joint statist meet a r barker c e priebe m i miller m hosakari j t ratnanather l wang m gado j c morris j c csernansky',2
+'proc st annu conf inform sci syst r c barrett a w mccarthy m i miller r e morley',2
+'neuroimag j g csernansky l wang j swank j p miller m gado d mckeel m i miller j c morris',2
+'world alzheim congress stockholm j g csernansky l wang j swank j p miller m gado d mckeel m i miller j c morris',2
+'societi neurosci abstract john g csernansky lei wang daniel kido mokhtar gado john g morris michael i miller',2
+'proceed nation academi scienc john c csernansky sarang joshi lei wang mokhtar gado j philip miller ulf grenander michael i miller',2
+'proc th annu allerton conf commun contr comput m i miller d l snyder m j turmon',2
+'neurolog john g csernansky lei wang sarang joshi j philip miller mokhtar gado daniel kido daniel mckeel john c morris michael i miller',2
+'isit pierre moulin michael i miller',2
+'first intern meet alzheim s imag consortium dc john g csernansky lei wang sarang joshi j philip miller mokhtar gado daniel kido daniel mckeel john c morris michael i miller',2
+'confer record twenti seventh asilomar confer signal system comput j o sullivan steven p jacobs michael i miller donald l snyder',2
+'quarterli j appli math ed d mumford w freiberg p dupuis u grenander m i miller',2
+'ieee transact aerospac electron system page joseph o sullivan michael d devore vikas kedia',2
+'vision research van essen d c lewis j w drury h a hadjikhani n tootell r b h bakircioglu m miller m i',2
+'american journal psychiatri joel a posener lei wang joseph l price mokhtar gado michael a province michael i miller casey m babb john g csernansky',2
+'spie intern societi optic engin proceed radar ladar signal process applic m foltz a srivastava m i miller u grenander',2
+'j opt soc c preza m i miller l j thomas j g mcnally',2
+'ieee tran inform theori d r fuhrmann m i miller',2
+'journal american statist associ c e priebe m i miller j t ratnanather',2
+'proceed spie intern societi optic engin s geometr method appli imag san diego comput anim r rabbitt j wiess g e christensen m i miller',2
+'nation partnership advanc comput infrastructur hand meet san diego supercomput center j t ratnanather c jing m i miller',2
+'neuroimag j t ratnanather p e barta n a honeycutt n g lee h m morris a c dziorny m k hurdal g d pearlson m i miller',2
+'proc st annu conf inform sci syst d r fuhrmann m i miller',2
+'journal mathemat imag vision special issu mathemat imag analysi joan glauns marc vaillant michael i miller',2
+'quarterli appli mathemat lvi ulf grenander michael i miller',2
+'featur articl statist comput graphic newslett u grenander m i miller',2
+'neuroimag j t ratnanather k n botteron t nishino a b massie r m lal s g patel s peddi r d todd m i miller',2
+'proceed cooper work group whole bodi d electron imag human bodi ulf grenander m i miller g e christensen',2
+'digit signal process review journal ed j b roysam m i miller',2
+'ieee tran pattern analysi machin intellig u grenander m i miller a srivastava',2
+'proc allerton conf b roysam m i miller',2
+'journal royal statit societi ulf grenander michael i miller',2
+'ieee tran med imag t j schaewe m i miller',2
+'ieee transact inform theori page ulf grenander a srivastava',2
+'proc assoc re otolaryngolog th midwint meet p r m schmich m i miller',2
+'spie intern societi optic engin proceed confer medic imag san diego j haller g e christensen m i miller m gado d w mckeel j g csernansky m w vannier',2
+'proc assoc re otolaryngolog th midwint research meet r m schmich m i miller',2
+'comput neurosci academ press r m schmich m i miller',2
+'y bizai c braillot r di paola editor inform process medic imag th intern confer kluwer academ publish precis accuraci high dimension transform segment mr imag hippocampu j haller g e christensen s c joshi m gado m i miller m w vannier',2
+'american physiolog societi robert m schmich michael i miller',2
+'ieee transact inform theori page eli shusterman michael i miller bixio rimoldi',2
+'nip neural inform process system kurt r smith',2
+'intl conf function map human brain j w haller a banerjee g e christensen a z snyder m i miller m e raichle',2
+'radiolog j haller g e christensen s c joshi j w newcomer m i miller j g csernansky m w vannier',2
+'poster american neuropsychopharmacolog confer san juan puerto rico j haller g e christensen s c joshi m i miller m gado j csernansky m w vannier',2
+'epilepsia suppl page robert e hogan kevin e mark lei wang sarang joshi michael i miller richard d bucholz',2
+'proc annu conf inform sci syst d l snyder m i miller t j schulz',2
+'radiolog r e hogan k e mark l wang s joshi m i miller r d bucholz',2
+'spatial statist imag possolo ed monograph seri institut mathemat statist comput anim donald snyder d g politte m i miller',2
+'essrl monograph number essrl s jacobs joseph a o sullivan m faisal a srivastava d l snyder m i miller',2
+'ieee tran med imag d l snyder m i miller l j thomas d g politte',2
+'ieee transact pattern analysi machin intellig avinash jain kannan ramchandran pierre moulin',2
+'ed new springer verlag d l snyder m i miller',2
+'ieee transact pattern analysi machin intellig page a jain p moulin m i miller k ramchandran',2
+'topic meet quantum limit imag imag process technic digest opt soc d l snyder m i miller',2
+'proc th annu allerton conf commun contr comput p d l snyder m i miller',2
+'proc th armi compress avinash jain p moulin m i miller k ramchandran',2
+'ieee tran inform theori donald snyder j a o sullivan m i miller',2
+'proceed nation academi scienc d c van essen h drury s joshi m i miller',2
+'ieee tran nucl sci d l snyder m i miller',2
+'handbook video imag process editor alan bovik a srivastava m i miller u grenander',2
+'ieee transact pattern analysi machin intellig anuj srivastava ulf grenander',2
+'vision geometri proceed spie intern societi optic engin s intern symposium optic scienc engin instrument san diego comput anim s joshi m i miller g e christensen a banerjee t coogan u grenander',2
+'ieee transact imag process page s joshi m i miller',2
+'optic societi america s joshi m i miller',2
+'vision geometri proceed spie intern societi optic engin s intern symposium optic scienc engin instrument san diego comput anim s joshi j wang m i miller d c van essen u grenander',2
+'journal statist plan infer issu page a srivastava u grenander g r jensen m i miller',2
+'intern journal pattern recognit artifici intellig s joshi michael i miller ulf grenander',2
+'ieee ho a srivastava m i miller u grenander',2
+'basic issu hear ed h duifhui et academ press n karamanos m i miller',2
+'sixth digit signal process a srivastava m i miller u grenander',2
+'ieee transact pattern analysi machin intellig n khaneja ulf grenander',2
+'ieee transact signal process a srivastava m i miller u grenander',2
+'proc fusion a srivastava m cooper u grenander',2
+'ieee tran pattern analysi machin intellig n khaneja m i miller u grenander',2
+'sequenti mont carlo method practic ed arnaud doucet nando freita neil gordon springer verlag anuj srivastava aaron d lanterman ulf grenander marc loizeaux michael i miller',2
+'proc spie intern societi optic engin automat target recognit ed firooz sadjadi j kostakis matthew cooper thomas j green michael i miller joseph a o sullivan jeffrey h shapiro donald l snyder',2
+'syst contr st centuri birkha ser a srivastava m i miller u grenander',2
+'proc spie intern societi optic engin automat target recognit ed firooz sadjadi joseph kostakis matthew cooper thomas j green michael i miller joseph a o sullivan donald l snyder',2
+'proceed mtn publish birkhaus a srivastava m i miller ulf grenander',2
+'ieee tran signal process m j turmon m i miller',2
+'proc st annu conf inform sci syst p m j turmon m i miller',2
+'npaci hand meet ucsd supercomput center m f beg g bhanot m i miller j t ratnanather r walkup l younes',2
+'intern journal comput vision m faisal beg michael i miller alain trouve laurent younes',2
+'ieee symposium biomed imag m faisal beg alain trouve laurent younes',2
+'npaci hand meet san diego supercomput center ucsd m faisal beg dmitry bitouk michael i miller laurent younes',2
+'npaci hand meet san diego supercomput center jolla comput anim m f beg a majethia m browne t h kaiser m martone k f wong a b massie j homer j t ratnanather m i miller',2
+'proc sixth annual ground target model valid confer keweenaw research center tech univ a lanterman m i miller d l snyder',2
+'proc intl conf acoust speech signal process l e bergeron a j goldberg s y kwon m i miller',2
+'proceed spie intern societi optic engin intern societi fo roptic engin issu m loizeaux a srivastava m i miller',2
+'ieee transact pattern analysi machin intellig dmitri bitouk michael i miller laurent younes',2
+'j acoust soc k e mark m i miller',2
+'aerosens automat target recognit spie intern societi optic engin proceed dmitri bitouk ulf grenander michael i miller paritosh tyagi',2
+'imag model speech model cousin ed s levinson l shepp new springer verlag k e mark m i miller u grenander',2
+'proceed th asilimor confer signal system comput dmitri bitouk michael i miller laurent younes',2
+'darpa speech natur languag k mark michael i miller ulf grenander',2
+'aan levy bucholz abed marzouk',2
+'neuroimag m i miller a b massie j t ratnanather k n botteron j g csernansky',2
+'ieee transact signal process a srivastava u grenander',2
+'ieee tran med imag m i miller c s butler',2
+'intern journal comput vision page m i miller l younes',2
+'proceed nation academi scienc pg m i miller m hosakere a r barker c e priebe n lee j t ratnanather l wang m gado j c morris j g csernansky',2
+'ieee transact pattern analysi machin intellig aaron d lanterman ulf grenander',2
+'automat target recognit spie intern societi optic engin proc aaron lanterman matthew l cooper michael i miller',2
+'j opt engin a d lanterman m i miller d l snyder',2
+'automat object recognit proc spie intern societi optic engin ed firooz j sadjadi a d lanterman m i miller d l snyder w j miceli',2
+'function neuroimag ed l thatcher et new academ press m w vannier m i miller u grenander',2
+'optic engin a d lanterman j a o sullivan m i miller',2
+'neuroimag l wang j s swank i e glick m gado m i miller j c morris j g csernansky',2
+'automat object recognit proc spie intern societi optic engin ed firooz sadjadi a lanterman m i miller d l snyder',2
+'proceed first aachen confer neuropsycholog neurosurgeri psychiatri neurolog aachen lei wang michael i miller',2
+'neuroimag proceed fourth intern confer function map human brain montreal lei wang jing cui michael i miller',2
+'ieee tran medic imag a d lanterman d l snyder m i miller',2
+'proceed intern symposium optic scienc engin instrument spie intern societi optic engin s rd annual meet san diego lei wang michael i miller',2
+'proc spie intern societi optic engin th annu intl sympo aerosp defens sens simul contr a d lanterman m i miller d l snyder',2
+'annual meet societi neurosci l wang j s swank m i miller j c morris j g csernansky',2
+'automat object recognit proc spie intern societi optic engin ed firooz sadjadi a lanterman m i miller d l snyder',2
+'comput neuron neural system ed f eckman j wang m i miller a t ogielski',2
+'radar ladar process proc spie intern societi optic engin ed william j mice a lanterman m i miller d l snyder',2
+'comput neuron neural system ed f eckman j wang m i miller a t ogielski',2
+'neuroimag lei wang sarang c joshi michael i miller john g csernansky',2
+'annual meet societi neurosci new orlean lei wang sarang c joshi michael i miller john g csernansky',2
+'aan levy bucholz schaewe marzouk kurt smith m i miller abed henderson',2
+'ieee tran med imag c s butler m i miller',2
+'phy med biol c s butler m i miller t r miller j w wallis',2
+'spie intern societi optic engin c ceritoglu d bitouk m i miller h a schmitt',2
+'j magn reson seri s c chen t j schaewe r s teichman m i miller s n nadel a s green',2
+'j acoust soc m i miller',2
+'physic med biol gary christensen rd rabbitt',2
+'brain warp academ press san diego comput anim m i miller s c joshi g e christensen',2
+'proceed american associ artifici intellig symposium applic comput vision medic imag process univers gary christensen m i miller m w vannier',2
+'advanc appli statist ed k mardia england carfax m i miller s c joshi d r maffitt j g mcnally u grenander',2
+'invit paper princ runolfsson editor proceed confer inform scienc system john univers g christensen r d rabbitt m i miller',2
+'nan d r fuhrmann j a o sullivan d l snyder',2
+'vision geometri ed r metter y wu l j latecki spie intern societi optic engin g e christensen j f williamson k s c chao m i miller f b so m w vannier',2
+'ieee acoust speech signal process m i miller d r fuhrmann',2
+'ieee transact imag process g christensen richard d rabbitt michael i miller',2
+'ieee tran nucl sci m i miller d l snyder t r miller',2
+'proc st annu conf inform sci syst m i miller d r fuhrmann',2
+'j magn reson m i miller a s greene',2
+'j magn reson seri m i miller s c chen d a keufler d a d avignon',2
+'j electron microscopi techniqu m i miller k b larson j r saffitz d l snyder l j thomas',2
+'novarti foundat symposium silico simul biolog process univers london r l winslow p helm w baumgartner j t ratnanather s peddi e mcveigh m i miller',2
+'intern journal comput vision laurent younes',2
+'target detect heavi clutter song chun zhu michael i miller',2
+'detect classif difficult target redston arsen song chun zhu aaron lanterman michael i miller',2
+'ieee compcon proceed appear ecolog comput north press elsevi ted kaehler hadon nash',3
+'oopsla confer object orient program system languag applic kenneth m kahn eric dean tribble mark s miller daniel g bobrow',3
+'concurr prolog collect paper ken kahn e dean tribble danny bobrow',3
+'nan ken kahn',3
+'nan k eric drexler',3
+'proceed financi cryptographi springer verlag mark s miller chip morningstar bill frantz',3
+'hp tech report hpl john tech report srl ka ping yee jonathan shapiro',3
+'proceed intern confer logic program iclp intern confer logic program concurr prolog collect paper mark s miller daniel g bobrow eric dean tribble jacob levy',3
+'book review john s hidden order reason magazin mark s miller',3
+'nan k eric drexler',3
+'iclp intern confer logic program curtis abbott daniel g bobrow ehud y shapiro eric dean tribble kenneth m kahn',3
+'oopsla confer object orient program system languag applic daniel g bobrow eric dean tribble kenneth m kahn',3
+'research direct object orient program daniel g bobrow david s fogelsong',3
+'research direct object orient program daniel g bobrow eric dean tribble kenneth m kahn',3
+'iclp intern confer logic program daniel g bobrow eric dean tribble jacob levy',3
+'nan k eric drexler',3
+'research direct object orient program daniel fogelsong danny bobrow',3
+'financi cryptographi bill frantz chip morningstar',3
+'xerox parc tech report susan hirsh ken kahn',3
+'agor tech report add p mark s miller david krieger e dean tribble',3
+'market base control sun lab tech report sml mark s miller david krieger',3
+'hp tech report hpl john tech report srl proceed asian asian comput scienc confer edit vijai saraswat springer verlag mark s miller jonathan shapiro',3
+'agor tech report add p mark s miller david krieger e dean tribble norm hardy',3
+'agor tech report mark s miller david krieger e dean tribble',3
+'austrian perspect internet economi routledg mark s miller marc stiegler',3
+'iclp intern confer logic program eric dean tribble mark s miller kenneth m kahn daniel g bobrow curtis abbott ehud y shapiro',3
+'nan e dean tribble mark s miller norm hardy david krieger',3
+'prospect nanotechnolog ravi pandya marc stiegler',3
+'econom philosophi inform technolog intellectu contribut don lavoi edit jack high georg univers bill tulloh mark s miller',3
+'hp tech report prepar ka ping yee mark s miller',3
+'proceed fourth intern confer autonom agent barcelona accept rate j yin m s miller t r ioerger j yen r a volz',4
+'intellig tutor system jianwen yin john yen richard a volz thomas r ioerger',4
+'aama autonom agent multiag system cong chen john yen kaivan kamali richard a volz rui wang shuang sun xiaocong fan',4
+'advanc simul technolog confer astc dc j m d hill m s miller j yen u w pooch',4
+'th world multi confer system cybernet informat m s miller r a volz',4
+'proceed fifth intern confer intellig tutor system montreal m s miller j yin t r ioerger j yen r a volz',4
+'proceed intern confer artifici intellig la vega accept rate d xu m s miller r a volz t r ioerger',4
+'ijcai intern joint confer artifici intellig dianxiang xu jianwen yin john yen richard a volz thomas r ioerger',4
+'ictai intern confer tool artifici intellig dianxiang xu jesse plymale richard a volz',4
+'seventeenth intern joint confer artifici intellig accept rate j yen j yin t r ioerger m s miller d xu r a volz',4
+'agent jianwen yin john yen richard a volz thomas r ioerger',4
+'icip intern confer imag process ingemar j cox jeffrey a bloom',5
+'iwdw intern digit watermark intern gwena euml l j do euml rr ingemar j cox',5
+'adl advanc digit librari ingemar j cox peter n yianilos stephen m omohundro',5
+'cvpr comput vision pattern recognit ingemar j cox peter n yianilos thomas p minka',5
+'inform hide jeffrey a bloom',5
+'journal comput aid molecular design dennis j underwood robert p sheridan simon k kearsley',6
+'journal comput aid molecular design dennis j underwood robert p sheridan simon k kearsley',6
+'journal chemic inform comput scienc bradley p feuston j christopher culberson robert b nachbar simon k kearsley',6
+'journal chemic inform comput scienc robert p sheridan',6
+'journal chemic inform comput scienc dennis j underwood robert p sheridan simon k kearsley',6
+'univers comput scienc technic report cs d arnold s agrawal s blackford j dongarra s vadhiyar k sagi z shi',7
+'grid blueprint new comput infrastructur foster c kesselman ed morgan kaufman publish san francisco h casanova j dongarra c r johnson',7
+'journal parallel distribut comput h casanova t bartol f berman a birnbaum j dongarra m ellisman m faerman g obertelli s pomerantz t sejnowski j stiles r wolski',7
+'scientif visual charles d hansen christopher r johnson steven g parker',7
+'hpdc high perform distribut comput symposium charles d hansen christopher r johnson steven g parker',7
+'appli parallel comput charles d hansen christopher r johnson',7
+'ppsc siam confer parallel process scientif comput charles d hansen christopher r johnson',7
+'proceed high perform comput symposium hpc advanc simul technolog confer societi model simul intern c moulding j dongarra c johnson',7
+'appli parallel comput th intern appli parallel comput b kagstrom j dongarra elmroth j wasniewski ed springer verlag c hansen c r johnson',7
+'proceed seventh ieee intern symposium high perform distribut comput ieee press extend abstract poster present c d hansen s g parker c r johnson',7
+'proceed st intern confer system scienc hicss intern confer system scienc ieee press s g parker c d hansen c r johnson',7
+'icdm ieee intern confer data mine philip k chan salvatore j stolfo wei fan wenke lee',8
+'journal comput secur erez zadok salvatore j stolfo wei fan wenke lee',8
+'ecml european confer machin learn salvatore j stolfo wei fan wenke lee',8
+'fundam inform nan',9
+'journal appli non classic logic donald perlis',9
+'journal logic comput donald perlis madhura nirkhe sarit kraus',9

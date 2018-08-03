@@ -1,0 +1,68 @@
+@relation 'Dataset bdbcomp co-authors asilva'
+@attribute Text string
+@attribute class-att {21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58}
+@data
+'f teixeira h wong j nogueira',54
+'m martins b rocha a loureiro l ruiz h wong',54
+'p martins',55
+'h caseli m nunes',56
+'r santos h santos a laender m goncalves',57
+'nan',58
+'c westephall',21
+'l tarouco',21
+'m anguh',22
+'j camapum a freitas h bassani f freitas',23
+'a laender e silva',24
+'t coelho a laender k louly',24
+'i filha a laender',24
+'a arantes a laender p golgher',24
+'k borges a laender c medeiros c davis jr',24
+'e veloso e moura p golgher r almeida a laender b ribeiro neto n ziviani',24
+'a carvalho a bezerra e moura p peres',24
+'k magalhaes a laender',24
+'e oliveira e moura j cavalcanti',24
+'r vieira p calado a laender b ribeiro neto',24
+'o oliveira',24
+'r rodrigues e silveira a vieiralves g souza j valente k merklein',24
+'r santos f mesquita e vilarinho',24
+'a hernandez dominguez',25
+'s brito e favero a hernandez dominguez o tavares c frances',25
+'m harb s brito e favero o tavares c frances',25
+'a hernandez dominguez b silva',25
+'r lotufo r machado',26
+'f flores r lotufo s isernhagen l isernhagen e rocha',26
+'r lotufo f flores',26
+'r lotufo',26
+'l moraes',27
+'nan',28
+'l goncalves c alfano n morimoto j santos',29
+'r martinez r furlan i ramos j santiago aviles',29
+'s olabarriaga c dietrich c schmitz',30
+'w rigo t rauber',31
+'d freitas',32
+'j oliveira b hall',33
+'l coradine f albuquerque j madeiro m pereira o tavares',34
+'e oliveira',35
+'k cunha f zuben l martins',36
+'l martins',36
+'m menezes l silva',37
+'r leao e silva',38
+'r leao e silva',38
+'m mazza',39
+'o carpinteiro',40
+'a fiorese r silva g santos',41
+'s junior j silva m ribeiro',42
+'a farias a lorenzoni m parizotto m silveira',43
+'p borba',44
+'a furtado c nascimento g santos a santos c ferraz',44
+'e kanazawa k carvalho v kinoshita j uchoa w lacerda b schneider',45
+'g mateus',46
+'g mateus',46
+'s rossi e moreno e batista a carvalho',47
+'s wu',48
+'s wu',48
+'f lins j junior n rosa p maciel n quental',49
+'nan',50
+'w brandao f parreiras',51
+'j janeiro s colcher',52
+'r sampaio g alvarenga',53

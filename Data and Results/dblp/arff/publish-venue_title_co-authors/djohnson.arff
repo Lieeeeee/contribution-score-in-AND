@@ -1,0 +1,372 @@
+@relation 'Dataset dblp publish-venue_title_co-authors djohnson'
+@attribute Text string
+@attribute class-att {197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211}
+@data
+'ibm system journal public kei extens common cryptograph architectur a le j wilkins s matyas',197
+'ibm system journal transact secur extens common cryptograph architectur g dolan',197
+'ibm system journal common cryptograph architectur cryptograph applic program interfac a le g dolan m kelly s matyas',197
+'acm comput commun secur design commerci mask facil privaci algorithm a le j wilkins s matyas',197
+'icpp intern parallel process distribut hardwar mechan process synchron share bu multiprocessor d lilja j riedl',198
+'icpp intern parallel process circul activ barrier synchron mechan d lilja j riedl',198
+'j parallel distrib comput low cost high perform barrier synchron network workstat d lilja j anderson j riedl',198
+'rsa formal secur proof signatur scheme partial messag recoveri d brown',199
+'ae candid ae futur resili more thought question nan',199
+'ieee comput spert ii vector microprocessor b kingsbury j beck j wawrzynek k asanovic n morgan',200
+'nip neural inform process system spert ii vector microprocessor it applic larg problem backpropag train b kingsbury j beck j wawrzynek k asanovic n morgan',200
+'lisp function program trap architectur lisp nan',201
+'asplo architectur support program languag oper system case read barrier nan',201
+'oop messeng object orient project manag panel c berman j coplien j daniels k rubin l hill',202
+'oopsla object orient program system languag applic manag object orient project panel session c berman j coplien j daniels k rubin l hill',202
+'j algorithm commun process nan',203
+'j algorithm graph restrict their effect nan',203
+'siam societi industri appli mathemat journal appli mathemat rectilinear steiner tree problem np complet m garey',203
+'siam societi industri appli mathemat j appl math rectilinear steiner tree problem is np complet m garey',203
+'j complex theorem bin pack m garey',203
+'siam societi industri appli mathemat j comput two processor schedul start time deadlin m garey',203
+'american mathemat societi proceed th th dimac implement challeng m goldwasser c editors',203
+'ieee tran vehicular technolog simul result capac cellular z haas j winters',203
+'j algorithm knapsack linear program gamut problem nan',203
+'http www research att com dsj chtsp index html th dimac implement challeng travel salesman problem m maintainer',203
+'http www research att com dsj nsflist html challeng theoret comput scienc draft june nan',203
+'acm press stoc foc bibliographi nan',203
+'american mathemat societi cliqu color satisfi proceed nd dimac implement challeng m editors',203
+'travel salesman problem e l lawler j k lenstra h g rinnooi kan d b shmoi editor john wilei son ltd comput complex c papadimitriou',203
+'handbook theor comp sci j van leeuwen editor elsevi catalogu complex class nan',203
+'academ press new discret algorithm complex proceed japan us joint seminar june kyoto japan t nishizeki a nozaki h editors',203
+'j graph theori hypergraph planar complex draw venn diagram h pollack',203
+'travel salesman problem it variat g gutin a punnen editor kluwer academ publish dordrecht experiment analysi heurist stsp l mcgeoch',203
+'travel salesman problem it variat g gutin a punnen editor kluwer academ publish dordrecht experiment analysi heurist atsp g gutin l mcgeoch a yeo w zhang a zverovich',203
+'natur page more approach travel salesman guid nan',203
+'math oper research knapsack partit new dynam program techniqu tree k niemi',203
+'academ press collect np complet column np complet ongo guid nan',203
+'j comb theori b properti b r nan',203
+'j algorithm embed problem nan',203
+'monograph prepar near opim solut veri larg travel salesman problem j bentley l mcgeoch e rothberg',203
+'proc th southeastern conf comb graph theori comput worst case behavior graph color algorithm nan',203
+'siam societi industri appli mathemat j comput worst case perform bound simpl on dimension pack algorithm m garey r graham a demers j ullman',203
+'american mathemat societi network flow match proceed st dimac implement challeng c editors',203
+'travel salesman problem e l lawler j k lenstra h g rinnooi kan d b shmoi editor john wilei son ltd perform guarante heurist c papadimitriou',203
+'siam societi industri appli mathemat j comput optim conjunct queri that contain untyp variabl a klug',203
+'oper research optim simul anneal experiment evalu part i graph partit c aragon l mcgeoch c shevon',203
+'new scientist page slow ant nan',203
+'j algorithm uniqu nan',203
+'network complex network design problem j lenstra a kan',203
+'sigact new genealog theoret comput scienc nan',203
+'local search combinatori optim e h l aart j k lenstra editor john wilei son ltd travel salesman problem case studi local optim l mcgeoch',203
+'proceed the th th dimac implement challeng m goldwass d s johnson c c mcgeoch editor american mathemat societi theoretician s guid experiment analysi algorithm nan',203
+'j algorithm announc updat greatest hit nan',203
+'siam societi industri appli mathemat j comput optim conjunct queri that contain untyp variabl a klug',203
+'siam societi industri appli mathemat j comput schedul file transfer a lapaugh e coffman m garey',203
+'proceed infocom confer comput commun scalabl accur identif as level forward path z mao j rexford j wang r katz',203
+'j algorithm network design nan',203
+'j algorithm interact proof fun profit nan',203
+'siam societi industri appli mathemat j comput complex multitermin cut c papadimitriou e dahlhaus m yannakakis p seymour',203
+'siam societi industri appli mathemat j comput schedul unit time task arbitrari releas time deadlin b simons m garey r tarjan',203
+'j algorithm updat updat updat nan',203
+'j algorithm comput math depart part i nan',203
+'j algorithm parallel process nan',203
+'j algorithm partit cover pack problem nan',203
+'j algorithm oracl bin pack order problem nan',203
+'j algorithm random algorithm complex class nan',203
+'j algorithm rout problem nan',203
+'j algorithm solv np hard problem quickli averag nan',203
+'j algorithm mani face polynomi time nan',203
+'j algorithm stori so far nan',203
+'j algorithm comput on hand ti behind your back nan',203
+'j algorithm tale second prover nan',203
+'updat j algorithm twelv open problem from g j nan',203
+'proced the fifth workshop algorithm engin experiment r e ladner editor siam societi industri appli mathemat cut stock approach bin pack theori experi d applegate l buriol b dillard p shor',203
+'oper research optim simul anneal experiment evalu part ii graph color number partit c aragon l mcgeoch c schevon',203
+'proc st ann allerton conf commun control comput experiment studi bin pack j bentley f leighton c mcgeoch',203
+'proc th ann acm symp theori comput unexpect behavior result bin pack j bentley f leighton c mcgeoch l mcgeoch',203
+'j algorithm concurr process nan',203
+'network note bisect minimum span tree w boyce m garey',203
+'math oper research schedul equal length task treelik preced constraint minim maximum late p brucker m garey',203
+'siam societi industri appli mathemat j algebra discret method pack two dimension bin f chung m garey',203
+'ann disc math two result concern multicolor v chvatal m garey',203
+'alenex algorithm engin experi asymmetr travel salesman problem algorithm instanc gener test j cirasella l mcgeoch w zhang',203
+'j complex bin pack divis item size e coffman m garey',203
+'nan bin pack discret item size part iii averag case behavior ffd bfd e coffman l mcgeoch p shor r weber',203
+'siam societi industri appli mathemat j discret math bin pack discret item size part i perfect pack theorem averag case behavior optim pack e coffman c courcoubetis m garey p shor r weber m yannakakis',203
+'siam societi industri appli mathemat j comput dynam bin pack e coffman m garey',203
+'proc rd ann acm symp theori comput journal version see below fundament discrep between averag case analys discret continu distribut bin pack case studi e coffman c courcoubetis m garey l mcgeoch p shor r weber m yannakakis',203
+'nan averag case behavior ffd optim bin pack u distribut e coffman f leighton p shor r weber',203
+'proc th ann acm symp theori comput markov chain comput proof averag case analysi best fit bin pack e coffman p shor r weber',203
+'siam societi industri appli mathemat j comput applic bin pack multiprocessor schedul e coffman m garey',203
+'algorithm design comput system design g ausiello m lucertini p serafini editor springer verlag approxim algorithm bin pack updat survei e coffman m garey',203
+'approxim algorithm np hard problem d hochbaum editor pw publish approxim algorithm bin pack survei e coffman m garey',203
+'statist scienc probabilist analysi pack relat partit problem e coffman g lueker p shor',203
+'siam societi industri appli mathemat review updat version abov perfect pack theorem averag case behavior optim onlin bin pack e coffman c courcoubetis m garey p shor r weber m yannakakis',203
+'siam societi industri appli mathemat j comput perform bound level orient two dimension pack algorithm e coffman m garey r tarjan',203
+'siam societi industri appli mathemat j comput schedul file transfer e coffman m garey a lapaugh',203
+'discret math unit disk graph c colbourn',203
+'siam societi industri appli mathemat j discret math bin pack discret item size part i perfect pack theorem averag case behavior optim pack c courcoubetis e coffman m garey m yannakakis p shor r weber',203
+'stoc acm symposium theori comput fundament discrep between averag case analys discret continu distribut bin pack case studi c courcoubetis e coffman l mcgeoch m garey m yannakakis p shor r weber',203
+'siam societi industri appli mathemat j comput complex multitermin cut e dahlhaus c papadimitriou p seymour m yannakakis',203
+'j algorithm fun game nan',203
+'math bioscienc comput complex infer root phylogeni parsimoni w day d sankoff',203
+'siam societi industri appli mathemat j comput worst case perform bound simpl on dimension pack algorithm a demers j ullman m garey r graham',203
+'proc th annual symposium foundat comput scienc complex checker nxn board preliminari report a fraenkel m garey t schaefer y yesha',203
+'siam societi industri appli mathemat j appl math complex result bandwidth minim m garey r graham d knuth',203
+'siam societi industri appli mathemat j comput complex result multiprocessor schedul resourc constraint m garey',203
+'siam societi industri appli mathemat j comput compos function minim imag size m garey',203
+'siam societi industri appli mathemat j algebra discret method cross number is np complet m garey',203
+'ieee tran comput c algorithm set partit problem aris design multi purpos unit m garey f hwang',203
+'proc th hungarian combinator colloquium number theoret bin pack conjectur m garey r graham',203
+'ieee tran circuit system ca applic graph color print circuit test m garey h so',203
+'sigact new page note note simplifi np complet graph problem m garey',203
+'analysi design algorithm combinatori optim g ausiello m lucertini editor springer verlag approxim algorithm bin pack problem survei m garey',203
+'algorithm complex new direct recent result j f traub editor academ press approxim algorithm combinatori problem annot bibliographi m garey',203
+'oper research perform guarante schedul algorithm m garey r graham',203
+'j comb theori resourc constrain schedul as gener bin pack m garey r graham a yao',203
+'siam societi industri appli mathemat j comput schedul unit time task arbitrari releas time deadlin m garey b simons r tarjan',203
+'siam societi industri appli mathemat j algebra discret method schedul oppos forest m garey r tarjan m yannakakis',203
+'foc ieee symposium foundat comput scienc fast alloc algorithm nan',203
+'proc th annual acm symp theori comput np complet geometr problem m garey r graham',203
+'j acm strong np complet result motiv exampl implic m garey',203
+'siam societi industri appli mathemat j algebra discret method complex color circular arc chord m garey g miller c papadimitriou',203
+'siam societi industri appli mathemat j appl math complex comput steiner minim tree m garey r graham',203
+'math oper research complex flowshop jobshop schedul m garey r sethi',203
+'ieee tran inform theori it complex gener lloyd max problem m garey h witsenhausen',203
+'siam societi industri appli mathemat j comput planar hamiltonian circuit problem is np complet m garey r tarjan',203
+'proceed www world wide web seri effici robust stream provis vpn z mao o spatscheck j merwe j wang',203
+'www world wide web seri effici robust stream provis vpn j merwe j wang o spatscheck z mao',203
+'inform process letter triangul simpl polygon m garey f preparata r tarjan',203
+'ieee tran comput algorithm set partit problem aris design multipurpos unit f hwang m garey',203
+'soda symposium discret algorithm bound space line bin pack best is better than first j csirik',203
+'algorithmica bound space line bin pack best is better than first j csirik',203
+'journal comput system scienc fast algorithm bin pack nan',203
+'journal comput system scienc preliminari version proc th ann ieee symp foundat comput scienc how easi is local search c papadimitriou m yannakakis',203
+'icalp automata languag program local optim travel salesman problem nan',203
+'proc th colloq automata lang prog local optim travel salesman problem nan',203
+'proc th ann acm siam societi industri appli mathemat symp discret algorithm minim channel densiti later shift compon a lapaugh r pinter',203
+'inform process letter gener all maxim independ set c papadimitriou m yannakakis',203
+'proc th ann acm siam societi industri appli mathemat symp discret algorithm s s what ar least tractabl instanc max independ set m szegedy',203
+'journal comput system scienc approxim algorithm combinatori problem nan',203
+'proc th ann acm siam societi industri appli mathemat symp discret algorithm asymptot experiment analysi held karp travel salesman bound l mcgeoch e rothberg',203
+'theoret comp sci densest hemispher problem f preparata',203
+'proc th ann acm siam societi industri appli mathemat symp discret algorithm prize collect steiner tree problem theori practic m minkoff s phillips',203
+'journal comput system scienc test contain conjunct queri function inclus depend a klug',203
+'soda symposium discret algorithm better approxim algorithm bin cover c kenyon j csirik',203
+'stoc acm symposium theori comput sum squar algorithm bin pack c kenyon j csirik j orlin p shor r weber',203
+'alenex algorithm engin experi self organ bin pack heurist c kenyon j csirik p shor r weber',203
+'j algorithm dual version on dimension bin pack problem d kleitman j leung s assmann',203
+'foc ieee symposium foundat comput scienc optim conjunct queri when attribut domain ar not disjoint extend abstract a klug',203
+'pod symposium principl databas system test contain conjunct queri function inclus depend a klug',203
+'j comput syst sci test contain conjunct queri function inclus depend a klug',203
+'soda symposium discret algorithm minim channel densiti later shift compon a lapaugh r pinter',203
+'podc symposium principl distribut comput schedul file transfer distribut network a lapaugh e coffman m garey',203
+'stoc acm symposium theori comput unexpect expect behavior result bin pack c mcgeoch f leighton j bentley l mcgeoch',203
+'j assoc comp mach complex search graph n megiddo s hakimi m garey c papadimitriou',203
+'soda symposium discret algorithm prize collect steiner tree problem theori practic m minkoff s phillips',203
+'soda symposium discret algorithm structur travel salesmen g ostheimer l mcgeoch m fredman',203
+'j algorithm structur travel salesmen g ostheimer l mcgeoch m fredman',203
+'j comput syst sci how easi is local search c papadimitriou m yannakakis',203
+'foc ieee symposium foundat comput scienc how easi is local search extend abstract c papadimitriou m yannakakis',203
+'inf process lett gener all maxim independ set c papadimitriou',203
+'j acm complex search graph c papadimitriou m garey n megiddo s hakimi',203
+'foc ieee symposium foundat comput scienc complex search graph preliminari version c papadimitriou m garey n megiddo s hakimi',203
+'theor comput sci densest hemispher problem f preparata',203
+'inf process lett triangul simpl polygon f preparata m garey r tarjan',203
+'soda symposium discret algorithm asymptot experiment analysi held karp travel salesman bound e rothberg l mcgeoch',203
+'foc ieee symposium foundat comput scienc applic graph color print circuit test work paper h so m garey',203
+'theor comput sci simplifi np complet graph problem l stockmeyer m garey',203
+'stoc acm symposium theori comput simplifi np complet problem l stockmeyer m garey',203
+'soda symposium discret algorithm what ar least tractabl instanc max tndepend set m szegedy',203
+'proceed symp program languag design implement near optim intraprocedur branch align c young d karger m smith',203
+'stoc acm symposium theori comput approxim algorithm combinatori problem nan',203
+'j comput syst sci approxim algorithm combinatori problem nan',203
+'j algorithm np complet column ongo guid nan',203
+'ifip intern feder inform process congress travel salesman problem report state art nan',203
+'j algorithm dual version on dimension bin pack problem s assmann d kleitman j leung',203
+'j acm geometr maximum travel salesman problem a barvinok a tamir g woeginger r woodroofe s fekete',203
+'ipco integ program combinatori optim maximum travel salesman problem polyhedr norm a barvinok g woeginger r woodroofe',203
+'j algorithm gener planar match f berman f leighton l snyder p shor',203
+'j parallel distrib comput perform effici driven evalu scheme f berman',203
+'handbook theoret comput scienc volum algorithm complex catalog complex class nan',203
+'random structur algorithm bin pack discret item size part ii tight bound first fit e coffman p shor r weber',203
+'swat scandinavian workshop algorithm theori structur travel salesmen abstract nan',203
+'algorithmica preliminari version appear proc ann acm siam societi industri appli mathemat symp discret algorithm bound space line bin pack best is better than first j csirik',203
+'proc th ann acm siam societi industri appli mathemat symp discret algorithm better approxim algorithm bin cover j csirik c kenyon',203
+'proc annual acm symp theori comput journal version j acm sum squar algorithm bin pack j csirik c kenyon j orlin p shor r weber',203
+'algorithm engin experiment m t goodrich c c mcgeoch ed springer lectur note comput scienc self organ bin pack heurist j csirik c kenyon p shor r weber',203
+'j algorithm structur travel salesmen m fredman l mcgeoch g ostheimer',203
+'nan comput intract guid theori np complet m garey w freeman',203
+'j comput syst sci fast algorithm bin pack nan',203
+'j acm schedul task nonuniform deadlin two processor m garey',203
+'theoret comp sci simplifi np complet graph problem m garey l stockmeyer',203
+'j acm complex near optim graph color m garey',203
+'stoc acm symposium theori comput complex multiwai cut extend abstract c papadimitriou e dahlhaus m yannakakis p seymour',203
+'foc ieee symposium foundat comput scienc complex checker n n board preliminari report a fraenkel m garey t schaefer y yesha',203
+'foc ieee symposium foundat comput scienc connect compon o lg v parallel time crew pram p metaxas',204
+'j comput syst sci connect compon o log n parallel time crew pram p metaxas',204
+'siam societi industri appli mathemat j comput find all elementari circuit direct graph nan',204
+'siam societi industri appli mathemat j comput o n log n algorithm maximum flow undirect planar network r hassin',204
+'siam societi industri appli mathemat j comput erratum gener select rank sort matric g frederickson',204
+'siam societi industri appli mathemat j comput gener select rank sort matric g frederickson',204
+'siam societi industri appli mathemat j comput select kth element x y x x x m t mizoguchi',204
+'siam societi industri appli mathemat j comput complex network reliabl optim resourc placement problem l raab',204
+'algorithmica optim algorithm singl multipl vertex updat problem minimum span tree p metaxas',204
+'podc symposium principl distribut comput minim access cost replic distribut abstract m goldweber',204
+'stoc acm symposium theori comput gener select rank preliminari version g frederickson',204
+'j algorithm find k th path p center gener search good structur g frederickson',204
+'j algorithm parallel algorithm comput minimum span tree p metaxas',204
+'commun acm toward multimedia confer proceed f makedon j matthews m cheyney p metaxas p gloor',204
+'intern journal comput simul effect replic avail l raab',204
+'j comput syst sci complex select rank x y matric sort column g frederickson',204
+'j comput syst sci tight upper bound benefit replica control protocol l raab',204
+'foc ieee symposium foundat comput scienc parallel algorithm minimum cut maximum flow planar network preliminari version s venkatesan',204
+'inf process lett prioriti queue updat find minimum span tree nan',204
+'inf process lett sort number linear expect time optim extra space t gonzalez',204
+'j acm note dijkstra s shortest path algorithm nan',204
+'j acm effici algorithm shortest path spars network nan',204
+'j acm parallel algorithm minimum cut maximum flow planar network nan',204
+'foc ieee symposium foundat comput scienc partit planar flow network preliminari version s venkatesan',204
+'j acm new algorithm preemptiv schedul tree t gonzalez',204
+'j acm reduc among float point graph b minnihan c wrathall w miller',204
+'j acm lower bound select x y other multiset s kashdan',204
+'mathemat system theori prioriti queue which initi queue oper take o log log d time nan',204
+'icpp intern parallel process find optim quorum assign distribut databas l raab',204
+'ipp intern parallel process symposium optim algorithm vertex updat problem minimum span tree p metaxas',204
+'pod symposium principl databas system tight upper bound benefit replic consist control protocol l raab',204
+'spaa acm symposium parallel algorithm architectur parallel algorithm comput minimum span tree p metaxas',204
+'icalp automata languag program gener search set induc network g frederickson',204
+'wireless network editori c rose',205
+'monet european network excel editori mobil network internet c perkins',205
+'oper system review transpar optimist rollback recoveri w zwaenepoel',205
+'mobicom comput network mobil support ipv c perkins',205
+'mobihoc adapt demand driven multicast rout multi hop wireless ad hoc network j jetcheva',205
+'infocom confer comput commun packet leash defens against wormhol attack wireless network a perrig y hu',205
+'comput network isdn system imhp mobil host protocol internet a myles c perkins',205
+'ieee journal select area commun mobil host protocol support rout optim authent a myles c perkins',205
+'cluster comput rout optim mobil ip c perkins',205
+'ftc symposium fault toler comput complet asynchron optimist recoveri minim rollback j tygar s smith',205
+'podc symposium principl distribut comput internet support wireless mobil network nan',205
+'podc symposium principl distribut comput recoveri distribut asynchron messag log checkpoint w zwaenepoel',205
+'symposium reliabl distribut system effici transpar optimist rollback recoveri distribut applic program nan',205
+'icnp intern network protocol power mode schedul ad hoc network s palchaudhuri',205
+'symposium reliabl distribut system perform consist checkpoint e elnozahy w zwaenepoel',205
+'symposium reliabl distribut system minim timestamp size complet asynchron optimist recoveri minim rollback s smith',205
+'j algorithm recoveri distribut optimist messag log checkpoint w zwaenepoel',205
+'softw pract exper peregrin high perform rpc w zwaenepoel',205
+'acm comput surv survei rollback recoveri protocol messag pass e elnozahy l alvisi y wang',205
+'icdc intern distribut comput system scalabl robust internetwork rout mobil host nan',205
+'workshop workstat oper system ubiquit mobil host internetwork nan',205
+'pomc workshop principl comput ensur cach fresh demand ad hoc network rout protocol y hu',205
+'wmcsa workshop comput system applic sead secur effici distanc vector rout mobil wireless ad hoc network a perrig y hu',205
+'wmcsa workshop comput system applic design evalu metropolitan area multiti wireless ad hoc network architectur a saha j jetcheva s palchaudhuri y hu',205
+'mobicom comput network cach strategi demand rout protocol wireless ad hoc network y hu',205
+'mobicom comput network perform comparison multi hop wireless ad hoc network rout protocol d maltz j jetcheva j broch y hu',205
+'mobihoc implicit sourc rout demand ad hoc network rout y hu',205
+'symp haptic interfac proc asm dynam system control divis dsc comput anim improv method haptic trace sculptur surfac e cohen',206
+'proc haptic symposium six degre freedom haptic render complex polygon model p willemsen',206
+'proc acm symposium interact d graphic research triangl park icsc symposium neural comput spatial normal cone hierarchi e cohen',206
+'proc ieee intl conf robot autom haptic manipul virtual mechan from mechan cad design belgium leuven mai a nahvi d nelson j hollerbach',206
+'proc th annual symp haptic interfac virtual environ teleoper system nashvil asm haptic render surfac surfac sculpt model interact d nelson e cohen',206
+'asm design manufactur symposium comput anim haptic interfac virtual prototyp mechan cad design j hollerbach e cohen w thompson r freier a nahvi d nelson t ii s jacobsen',206
+'proc ieee intl conf robot autom framework effici minimum distanc comput belgium leuven mai e cohen',206
+'technic report uuc univers depart comput scienc minimum distanc queri polygon parametr model e cohen',206
+'icra intern robot autom bound coher minimum distanc comput e cohen',206
+'icra intern robot autom haptic manipul virtual mechan from mechan cad design a nahvi d nelson j hollerbach',206
+'haptic six degre freedom haptic render complex polygon model p willemsen',206
+'si d direct haptic render sculptur model e cohen t ii',206
+'icra intern robot autom framework effici minimum distanc comput e cohen',206
+'si d spatial normal come hierarchi e cohen',206
+'proc symposium interact d graphic direct haptic render sculptur model t ii e cohen',206
+'intern robot autom icra intern robot autom bound coher minimum distanc comput e cohen',206
+'virtual realiti vr virtual realiti paint textur haptic interfac t ii m kaplan d nelson e cohen',206
+'vr virtual realiti paint textur haptic interfac d nelson e cohen m kaplan t ii',206
+'acm polici cryptographi retent panopticon societi abstract j blanchette',207
+'acm polici anonym pseudonym inescap ident net abstract k miller',207
+'gi jahrestagung democraci global inform infrastructur nan',207
+'comput scienc engin handbook ethic issu comput scientist engin k miller',207
+'commun acm ethic onlin shape social behavior onlin take more than new law modifi edict nan',207
+'commun acm account comput decis j mulvey',207
+'commun acm new acm code ethic decis make d gotterbarn j perolle r anderson',207
+'acsac annual comput secur applic layer boundari protect experi inform assur l benzinger',208
+'fme formal method europ three applic formal method at mitr j guttman',208
+'ieee symposium secur privaci inform flow nondeterminist j wittbold',208
+'acm tran comput syst state secur requir toler set f thayer',208
+'csfw ieee comput secur foundat workshop secur composit machin f thayer',208
+'csfw ieee comput secur foundat workshop secur properti consist test semant commun process f thayer',208
+'proceed the twelfth annual of associ theoret linguist wh question unif type featur structur grammar vs featur check minimalist program s lappin',209
+'c martin vide ed current issu mathemat linguist elsevi overview stratifi featur grammar l moss',209
+'up arc pair grammar p postal',209
+'machin translat relat grammar gener jet japanes english machin translat h watanabe',209
+'j cole g green j morgan ed linguist comput csli comput anim stratifi featur structur multistrat relat analys l moss',209
+'u s patent text categor toolkit t hampp',209
+'proceed the first intern mathemat linguist taragona featur structur formal relat grammar nan',209
+'proceed the natur languag process workshop inform societi govern rule geni english gener nan',209
+'proceed the annual meet natur languag process inform process societi kyoto gener jet nan',209
+'proceed the ibm natur languag process thornwood geni transport english gener nan',209
+'u s patent multimod natur languag interfac cross applic task nan',209
+'proceed the intern fifth gener comput system tokyo linguist design post analysi jet japanes english machin translat nan',209
+'proceed the natur languag process workshop inform societi relat grammar approach machin translat nan',209
+'machin translat japanes technolog evalu center loyola ieee meta data nti pub pb technic infrastructur nan',209
+'publish inc toward theori relation grammar nan',209
+'natur languag linguist theori revolut confus repli our critic s lappin r levine',209
+'natur languag linguist theori press revolut maxim confus s lappin r levine',209
+'natur languag linguist theori structur unscientif revolut s lappin r levine',209
+'ibm technic report kitcat text categor toolkit t goetz f oles t zhang',209
+'journal logic languag inform dynam interpret constraint grammar formal l moss',209
+'ibm system journal decis tree symbol rule induct text categor f oles t goetz t zhang',209
+'ieee intellig system boost text mine perform s weiss c apte f damerau f oles t goetz t hampp',209
+'cole comput linguist tokyo natur languag understand grammar construct w zadrozny m szummer s jarecki l morgenstern',209
+'linguist philosophi critiqu minimalist program s lappin',209
+'journal logic languag inform dynam interpret constraint formal l moss',209
+'linguist philosophi grammar formal view as evolv algebra l moss',209
+'l polo m masuch ed appli logic how what why kluwer evolv algebra mathemat model languag l moss',209
+'csli up comput anim local constraint vs economi s lappin',209
+'nan linguist philosophi special issu mathemat languag l eds',209
+'fgc fifth gener comput system design post analysi jet japanes english machin translat nan',209
+'proceed the st annual meet associ cmputat linguist unif parser relat grammar a meyers l moss',209
+'annal artifici intellig mathemat formal properti stratifi featur grammar l moss',209
+'acl meet the associ comput linguist unif parser relat grammar a meyers l moss',209
+'annal mathemat artifici intellig formal properti stratifi featur grammar l moss',209
+'acl meet the associ comput linguist text chunk regular winnow f damerau t zhang',209
+'proceed the th associ comput linguist text chunk regular winnow t zhang f damerau',209
+'ieee tran info th asymptot m hypothesi bayesian detect c leang',210
+'nan relat between kullback leibler distanc fisher inform a dabak',210
+'cn when doe interv code occur r glantz',210
+'j comput neurosci optim stimulu code neural popul rate code w ray',210
+'icassp optim physic layer transmiss minim signal distort h diaz',210
+'nan symmetr kullback leibler distanc s sinanovic',210
+'nan basic inform process nan',210
+'nan dialogu concern neural code inform theori nan',210
+'nan from signal inform process present nan',210
+'nan four top reason why mutual inform doe not assess neural inform process nan',210
+'cn limit popul code nan',210
+'neural code workshop inform process perform limit neural popul nan',210
+'workshop statist signal process new multivari depend measur applic neural ensembl i goodman',210
+'j comput neurosci neural popul structur consequ neural code nan',210
+'j comput neurosci point process model singl neuron discharg nan',210
+'ieee tran signal process optim linear detector addit nois channel nan',210
+'proc ieee origin equival circuit concept current sourc equival nan',210
+'proc ieee origin equival circuit concept voltag sourc equival nan',210
+'invit talk ima journal appli mathemat workshop audit signal encod fire pattern auditori neuron nan',210
+'j acoust soc am fractal nois strength auditori nerv fiber record o kelly b delgutte p cariani',210
+'nan inform process linear block decod m lexa',210
+'workshop statist signal process inform process approach distribut detect a lexa',210
+'icassp new look at inform gain soft decis a lexa',210
+'nan optim binari decis manipul transmiss interv a lexa',210
+'j comput neurosci visual respons crayfish ocular motoneuron inform theoret analysi c miller j schroeter l myint r glantz',210
+'j comput neurosci visual signal optomotor reflex inform theoret analysi c miller j schroeter l myint r glantz',210
+'nan inform process dure transient respons crayfish visual c rozell',210
+'intern symposium inform theori toward theori inform process s sinanovic',210
+'ieee tran signal process linear transform symbol w wang',210
+'j acoust soc am optim binaur process point process model preprocess cue l yue',210
+'j neurophysiol singl neuron model lso unit respons m zacksenhouse j williams c tsuchitani',210
+'neurocomput correl neural inform code fidel effici c gruner',210
+'signal process magazin differ first cours electr engin j wise',210
+'neurocomput comparison optim suboptim spike sort algorithm theoret limit c gruner',210
+'journal comput neurosci visual signal optomotor reflex inform theoret analysi c miller j schroeter l myint r glantz',210
+'journal comput neurosci inform theoret analysi neural code c seshagiri c gruner k baggerly',210
+'neurocomput correl neural inform code fidel effici c gruner',210
+'neurocomput quantifi inform transfer spike gener c gruner r glantz',210
+'neurocomput quantifi inform transfer spike gener c gruner r glantz',210
+'j comput neurosci inform theoret analysi neural code c gruner k baggerly c seshagiri',210
+'ieee softwar appli cmm project plan practic divers environ j brodman',211
+'ieee softwar realiti reward softwar process improv j brodman',211
+'ics intern softwar engin what small busi small organ sai cmm experi report j brodman',211
+'ics intern softwar engin softwar process improv approach tailor small organ small project tutori j brodman',211
+'softwar process improv practic return invest roi from softwar process improv as measur us industri j brodman',211

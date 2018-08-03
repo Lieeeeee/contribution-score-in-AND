@@ -1,0 +1,39 @@
+@relation 'Dataset bdbcomp publish-venue jsilva'
+@attribute Text string
+@attribute class-att {106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123}
+@data
+'rede computador',106
+'rede computador',107
+'informatica educacao',108
+'informatica educacao',108
+'informatica educacao',109
+'informatica educacao',110
+'fator humano sistema computacionai',111
+'revista informatica teorica aplicada',111
+'fator humano sistema computacionai',111
+'computacao grafica processamento imagen',112
+'computacao grafica processamento imagen',113
+'inteligencia artifici',113
+'inteligencia artifici',113
+'encontro nacion inteligencia artifici',113
+'rede neurai',113
+'informatica educacao',113
+'rede neurai',113
+'rede neurai',113
+'engenharia softwar',113
+'geoinformatica',114
+'banco dado',114
+'geoinformatica',114
+'geoinformatica',114
+'banco dado',114
+'banco dado',114
+'rede computador',115
+'inteligencia artifici',116
+'inteligencia artifici',117
+'computacao grafica processamento imagen',118
+'rede computador',119
+'rede computador',119
+'rede computador',120
+'inteligencia artifici',121
+'inteligencia artifici',122
+'symposium integr circuit system design',123

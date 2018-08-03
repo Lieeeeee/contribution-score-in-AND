@@ -1,0 +1,64 @@
+110;54;ana paula ribeiro da silva;f teixeira,h wong,j nogueira;aspecto deteccao intruso rede sensor fio;rede computador;0
+111;54;ana paula r da silva;m martins,b rocha,a loureiro,l ruiz,h wong;deteccao intruso decentralizada rede sensor fio;rede computador;0
+112;55;alberto rodrigues da silva;p martins;case studi appli process project align methodolog;journal brazilian comput societi;0
+113;56;aline maria da paz silva;h caseli,m nunes;evalu method sentenc lexic align brazilian portugues english parallel text;inteligencia artifici;0
+114;57;allan j c silva;r santos,h santos,a laender,m goncalves;compon base digit librari servic find miss document;banco dado;0
+115;58;a c r da silva;;environ aid synthesi threephas analgu waveform us ahdl;symposium integr circuit system design;0
+52;21;ana cristina b da silva;c westephall;implementacao novo agent gerencia rede computador;rede computador;0
+53;21;a c da silva;l tarouco;proposta gerencia mail;rede computador;0
+54;22;ari c silva;m anguh;multiscal segment enhanc mammogram;computacao grafica processamento imagen;0
+55;23;alzenir silva;j camapum,a freitas,h bassani,f freitas;segment clinic structur imag human pelvic area;computacao grafica processamento imagen;0
+56;24;altigran s da silva;a laender,e silva;deby ferramenta extracao dado semi estruturado;banco dado;0
+57;24;altigran soares da silva;t coelho,a laender,k louly;interfac grafica consulta font dado xml;banco dado;0
+58;24;altigran soares da silva;i filha,a laender;queri semistructur data exampl qsbye interfac;intern inform integr web;0
+59;24;altigran soares da silva;a arantes,a laender,p golgher;environ build maintain web view;intern inform integr web;0
+60;24;altigran s da silva;k borges,a laender,c medeiros,c davis jr;web data sourc spatial databas;geoinformatica;0
+61;24;altigran s silva;e veloso,e moura,p golgher,r almeida,a laender,b ribeiro neto,n ziviani;retrato web brasileira;seminario integrado softwar hardwar;0
+62;24;altigran soares da silva;a carvalho,a bezerra,e moura,p peres;deteccao sitio replicado utilizando conteudo estrutura;banco dado;0
+63;24;altigran silva;k magalhaes,a laender;abordagem armazenamento dado semi estruturado banco dado relacionai;banco dado;0
+64;24;altigran s da silva;e oliveira,e moura,j cavalcanti;extract search us inform avail web faq;banco dado;0
+65;24;altigran s silva;r vieira,p calado,a laender,b ribeiro neto;consultando banco dado disponivei web usando palavra chave;banco dado;0
+66;24;altigran s da silva;o oliveira;verificacao automatica qualidad dado extraido web;banco dado;0
+67;24;altigran soares da silva;r rodrigues,e silveira,a vieiralves,g souza,j valente,k merklein;relato utilizacao agent tecnologico processo eleitor regiao amazonica;xxxi seminario integrado softwar hardwar;0
+68;24;altigran soares da silva;r santos,f mesquita,e vilarinho;extracao dado metadado texto semi estruturado usando hmm;banco dado;0
+69;25;aleksandra do socorro da silva;a hernandez dominguez;desenvolvimento sistema tutor inteligent baseado agent contexto aula virtual adaptada;informatica educacao;0
+70;25;aleksandra do socorro silva;s brito,e favero,a hernandez dominguez,o tavares,c frances;arquitetura desenvolvimento ambient interativo aprendizagem baseado agent component framework;informatica educacao;0
+71;25;aleksandra do socorro silva;m harb,s brito,e favero,o tavares,c frances;amam ambient aprendizagem multiparadigmatico;informatica educacao;0
+72;25;aleksandra silva;a hernandez dominguez,b silva;afm assistent tutor baseado agent ferramenta modelagem orientada objeto;informatica educacao;0
+73;26;alexandre goncalves da silva;r lotufo,r machado;ambient suport ensino processamento imagen usando linguagem python;informatica educacao;0
+74;26;alexandre goncalves silva;f flores,r lotufo,s isernhagen,l isernhagen,e rocha;automat method assess telangiectasia degre mathemat morpholog;computacao grafica processamento imagen;0
+75;26;alexandre goncalves silva;r lotufo,f flores;classif microstructur morpholog analysi estim hydrat degre cement past concret;computacao grafica processamento imagen;0
+76;26;a silva;r lotufo;detect line us hierarch region base represent;computacao grafica processamento imagen;0
+77;27;alexandre da silva;l moraes;modelo mobilidad representacao cenario ambient fechado;rede computador;0
+78;28;angela carrancho da silva;;karytu softwar letramento crianca surda otica bilingu;informatica educacao;0
+79;29;ana n r da silva;l goncalves,c alfano,n morimoto,j santos;mechan properti silicon oxid film deposit pecvd teo applic mem structur sensor;symposium microelectron technolog devic;0
+80;29;a n r da silva;r martinez,r furlan,i ramos,j santiago aviles;analysi electrospin nanofib function polyacrylonitril pan concentr;symposium microelectron technolog devic;0
+81;30;ana maria marques da silva;s olabarriaga,c dietrich,c schmitz;determin signatur skelet matur;computacao grafica processamento imagen;0
+82;31;aurelio paulo batista da silva;w rigo,t rauber;semi automat identif optic disk imag process quantit funduscopi;computacao grafica processamento imagen;0
+83;32;andrea vergara da silva;d freitas;wavelet base compar function base line signatur verif;computacao grafica processamento imagen;0
+84;33;andre constantino da silva;j oliveira,b hall;plan brazilian urban traffic geograph applic softwar;geoinformatica;0
+85;34;andre silva;l coradine,f albuquerque,j madeiro,m pereira,o tavares;interpretacao oraco simpl falibra tradutor portugu libra auxiliar aprendizagem crianca surda;informatica educacao;0
+86;35;antonio jose ferreira da silva;e oliveira;tarca integr system diagnosi treatment cardiac arrhythmia;inteligencia artifici;0
+87;36;ana estela antunes da silva;k cunha,f zuben,l martins;analis representatividad matriz u mapa auto organizavel kohonen;encontro nacion inteligencia artifici;0
+88;36;ana estela antunes da silva;l martins;modelo avaliacao especificaco semi formai requisito softwar baseado teoria;engenharia requisito;0
+89;37;andre luis silva;m menezes,l silva;verificacao formal etapa particionamento co design usando sistema reescrita bobj;xxx seminario integrado softwar hardwar;0
+90;38;ana paula c da silva;r leao,e silva;tecnica solucao transient modelo fila fluido;desempenho sistema computacionai comunicacao;0
+91;38;ana paula couto da silva;r leao,e silva;calculo eficient distribuicao tamanho fila baseado modelo fluido;rede computador;0
+92;39;antonio c roque da silva;m mazza;realist comput simul primari somatosensori cortex replic static properti topograph organ;rede neurai;0
+93;40;alexandre p alves da silva;o carpinteiro;hierarch neural model short term load forecast;rede neurai;0
+94;41;alexandre g silva;a fiorese,r silva,g santos;an arvor n aria espalhamento naturalment balanceada;journal comput scienc;0
+95;42;andre constantino da silva;s junior,j silva,m ribeiro;integracao ihc es processo planejamento reengenharia softwar guiado avaliacao usabilidad ppr u;fator humano sistema computacionai;0
+96;43;alex pacheco da silva;a farias,a lorenzoni,m parizotto,m silveira;ferramenta apoio construcao sistema ajuda onlin;fator humano sistema computacionai;0
+97;44;adeline silva;p borba;geracao sistema transformacao programa;linguagen programacao;0
+98;44;adeline silva;a furtado,c nascimento,g santos,a santos,c ferraz;hwsproxygen gerador proxi web servic linguagem haskel;linguagen programacao;0
+99;45;a c a silva;e kanazawa,k carvalho,v kinoshita,j uchoa,w lacerda,b schneider;softwar control temperatura estufa;journal comput scienc;0
+100;46;aloizio p silva;g mateus;perform analysi data servic third gener mobil telecommun network;journal brazilian comput societi;0
+101;46;aloizio p silva;g mateus;perform analysi data servic mobil telecommun network;rede computador;0
+102;47;alexandre c r da silva;s rossi,e moreno,e batista,a carvalho;desenvolvimento dispositivo gerenciador protocolo aplicaco ieee 1451;xxxii seminario integrado softwar hardwar;0
+103;48;adler da silva;s wu;robust strategi handl linear featur topolog consist polylin simplif;geoinformatica;0
+104;48;adler da silva;s wu;preserv coincid incid topolog;geoinformatica;0
+105;49;arnoldo n da silva;f lins,j junior,n rosa,p maciel,n quental;avaliacao desempenho composicao web servic usando rede petri;rede computador;0
+106;50;aloizio pereira da silva;;servico taxi baseado localizacao ambient comunicacao fio;informatica publica;0
+107;51;antonio braz de o e silva;w brandao,f parreiras;impacto desafio implementacao infra estrutura softwar livr organizaco estudo caso empresa setor siderurgico;informatica publica;0
+108;52;anderson oliveira da silva;j janeiro,s colcher;meta gerencia agent procurador usando snmp;gerencia operacao rede servico;0
+109;53;amanda s n silva;r sampaio,g alvarenga;aplicacao simul anneal problema alocacao sala;journal comput scienc;0

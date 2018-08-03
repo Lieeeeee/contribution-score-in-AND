@@ -1,0 +1,284 @@
+@relation 'Dataset dblp title ktanaka'
+@attribute Text string
+@attribute class-att {212, 213, 214, 215, 216, 217, 218, 219, 220, 221}
+@data
+'ubiquit servic orient network uson approach ubiquit world p p technolog',212
+'multimedia commun network architectur model high speed network',212
+'access control author cg multipl detail level',213
+'behavior analysi object orient databas method structur execut tree reachabl extend abstract',213
+'schema design view incomplet inform object orient databas',213
+'special issu nd web inform engin confer wise',213
+'behavior analysi object orient databas method structur execut tree reachabl extend abstract',213
+'design problem unnorm relat util semant constraint relat databas japanes',213
+'interfer problem between relat queri depend constraint japanes',213
+'problem relat databas design lectur note comput scienc',213
+'properti embed multivalu depend relat databas',213
+'represent relat databas output util depend',213
+'us abstract characterist relat databas',213
+'semant aspect depend their applic relat databas design',213
+'synthesi unnormal relat incorpor more mean',213
+'infolod landmark spatial present attribut inform comput repres object spatial',213
+'design implement orient medicin expert japanes',213
+'tree structur organ consecut retriev properti base file organ',213
+'visibl control orient medicin expert',213
+'dood deduct object orient databas',213
+'obas object databas model toward more flexibl object orient databas',213
+'continu object model multi media databas japanes',213
+'design implement visual queri languag histor databas',213
+'historychart visual queri languag histor databas',213
+'propag view instanc inherit mechan parial order relationship object orient databas japanes',213
+'navig instanc object databas dynam inherit capabl',213
+'abstract inherit hyperlink object orient hypertext databas textlink gem',213
+'ad method relat databas construct',213
+'cost model copyright manag d digit content multilevel complex object',213
+'tempor link mechan hypermedia broadcast',213
+'cut as queri unit www netnew e mail',213
+'object orient comput i japanes',213
+'fundament concept object orient databas japanes',213
+'histor databas model tupl sequenc it integr constraint japanes',213
+'integr hypermedia object orient databas technolog japanes',213
+'store manipul multimedia databas object postscript relat databas',213
+'foundat organ',213
+'toward integr environ edit view publish multimedia databas object',213
+'tutori object orient databas',213
+'bibliograph inform process facil relat databas ari',213
+'advanc applic futur research issu oodb',213
+'comput tupl sequenc object histori',213
+'relat languag simplifi binari relat handl capabl',213
+'schema virtual object orient databas',213
+'toward abstract complex databas object gener reduct unif set type object extend abstract',213
+'imag retriev web context fill gap between imag keyword usag keyword',213
+'semant structur video index',213
+'time stamp author graph video databas',213
+'comput tupl sequenc object histori extend abstract',213
+'interv queri object histori',213
+'interv queri object histori extend abstract',213
+'next gener databas manag technolog panel',213
+'advanc process environ manag continu semistructur featur multimedia content',213
+'interact classif web document self organ map search engin',213
+'som inform organ text video',213
+'queri multipl perspect video camera metaphor',213
+'tree structur organ consecut retriev properti',213
+'model structur multipl perspect video brows',213
+'skim multipl perspect video tempo spatial import measur',213
+'schema virtual object orient databas',213
+'logic integr local independ relat databas distribut databas',213
+'organ quasi consecut retriev file',213
+'tea time museum croquet as brows search environ digit librari',213
+'relat languag simplifi binari relat handl capabl',213
+'test join depend preserv modifi chase method',213
+'dynam zone retriev landmark comput spatial',213
+'infolod landmark brows retriev spatial',213
+'navig depend web view defin control semant unit web page',213
+'uncertainti manag object orient databas',213
+'dynam gener virtual space increment queri formul spatial brows',213
+'spatial present aggreg georeferenc',213
+'discoveri semant relationship among web page web topic structur',213
+'local filter search web page',213
+'web inform retriev local degre',213
+'back tv inform visual interfac tv program metaphor',213
+'compar web browser cwb brows compar web page',213
+'mwm retriev automat present manual mobil termin',213
+'webcarrousel restructur web search result passiv view mobil environ',213
+'webcarousel automat present semant restructur web search result mobil environ',213
+'associ present metadata digit archiv object virtual space as synchron multimedia content',213
+'tv program gener digest video scene script markup languag',213
+'queri pair as hypertext link',213
+'queri pair as hypertext link',213
+'historychart visual languag histor databas',213
+'increment organ ancient document databas',213
+'altern object object orient databas',213
+'spatial view lod access control vrml object databas',213
+'ovid design implement video object databas',213
+'video databas recent trend research develop activ',213
+'two level schemata gener link hypertext databas model',213
+'natur join object orient databas',213
+'webscan discov notifi import chang web site',213
+'dynam theori incent multi agent',213
+'context depend web bookmark their usag as queri',213
+'hypermedia broadcast tempor link',213
+'algebra retriev fragmentarili index video',213
+'queri model retriev relev interv within video stream',213
+'scoopcast dynam video product deliveri from index live video stream',213
+'queri model synthes answer interv from index video unit',213
+'new algebra approach retriev meaning video interv from fragmentarili index video shot',213
+'new techniqu discoveri logic document web',213
+'util prototyp object powerdomain support public author video databas',213
+'web reconfigur spatio tempor page person rule access',213
+'encapsul multimedia content copyright protect mechan distribut object',213
+'file organ suitabl relat databas oper',213
+'file organ suitabl relat databas oper',213
+'similar retriev human motion as multi stream time seri',213
+'queri video spatio tempor relationship move object trace',213
+'problem relat databas design',213
+'organ quasi consecut retriev file',213
+'access control model object orient',214
+'protocol pseudo activ replic wide area network',214
+'checkpoint distribut object',214
+'quorum protocol group commun',214
+'qualiti lock mode multimedia object',214
+'quorum lock protocol replica object',214
+'asynchron checkpoint protocol object',214
+'group protocol object',214
+'pseudo activ replic protocol reliabl replica group',214
+'group protocol exchang multimedia object group',214
+'group commun protocol object',214
+'quorum replic object',214
+'inform flow control role model distribut object',214
+'checkpoint protocol object',214
+'optim nest invoc replica object',214
+'distribut checkpoint influenti messag',214
+'group protocol quorum replic',214
+'qo method compens multimedia object',214
+'causal preced relat among messag object',214
+'reliabl nest invoc method distribut object',214
+'pseudo activ replic distribut object wide area network',214
+'quorum lock protocol replic object',214
+'protocol pseudo activ replic wide area network',214
+'qualiti synchron method multimedia object',214
+'inform flow control among object role access control model',214
+'object order deliveri messag object',214
+'protocol take object checkpoint',214
+'quorum lock protocol nest invoc method',214
+'qualiti synchron method multimedia object',214
+'signific checkpoint distribut',214
+'remot rapid manufactur action media as advanc user interfac',214
+'qo method compens multimedia object',214
+'author model object orient concept',214
+'replica manag object',214
+'group protocol deliv request replica',214
+'object causal order group protocol distribut multimedia',214
+'causal messag object',214
+'properti fuzzi set type',215
+'fuzzi set their oper',215
+'relat graph properti them',215
+'variou kind automata weight',215
+'implement fuzzi set theoret structur abstract',215
+'consider fuzzi automata',215
+'interact languag',215
+'weak axiom determinaci subsystem analysi ii sigma game',216
+'formal model theoret proof godel s theorem',216
+'diagrammat techniqu two dimension is model iii is model vertex model',216
+'determin paramet imag recoveri statist mechan mean',216
+'gener heisenberg model spin s greater than equival those spin',216
+'gener heisenberg model spin s greater than equival that spin',216
+'gener t j model gener half odd integr spin s',216
+'lattic model flux line',216
+'on dimens binari mixtur hard rod non addit distanc contact',216
+'numer studi d annni model cluster variat method',216
+'coher anomali analysi cluster variat method spin pair correl function is model',216
+'coher anomali analysi cluster variat method two dimension is model nearest neighbor next nearest neighbor interact',216
+'color imag compress algorithm self organ featur map interdisciplinari',216
+'cluster variat method two dimension hubbard t j model physica c pt',216
+'cluster variat method imag restor problem',216
+'coupl markov random field model phase as line field region field',216
+'correl random field is model imag restor problem',216
+'correl function on dimension lattic ga nearest neighbor next nearest neighbor interact',216
+'self embed theorem wkl non standard method',216
+'correl function on dimension lattic ga interact up third nearest neighbor',216
+'critic indic two dimension is model nearest neighbor next nearest neighbor interact',216
+'critic indic two dimension is model nearest neighbor next nearest neighbor interact ii strip cluster approxim',216
+'free energi layer free fermion model',216
+'quantum statist mechan iter method imag restor',216
+'loopi belief propag probabilist imag process',216
+'imag restor compound gauss markov random field model quantum line field',216
+'maximum likelihood hyperparamet estim solvabl markov random field model imag restor',216
+'maximum margin likelihood estim constrain optim imag restor',216
+'maximum posterior margin estim statist method imag restor',216
+'critic behavior frustrat spin is model',216
+'applic cluster variat method imag restor problem',216
+'applic cluster variat method three dimension t j model',216
+'applic culster variat method three dimension t j model ii',216
+'approxim optim algorithm markov random field model statist mechan techniqu',216
+'probabilist comput method imag restor statist mechan texhniqu',216
+'probabilist imag process mean beth approxim q is model',216
+'probabilist infer mean cluster variat method linear respons theori',216
+'probabilist iter quantum iter comput method grai level imag restrat',216
+'solvabl markov random field model color imag restor',216
+'spin pair correl function is model brickwork lattic second neighbor interact',216
+'coher anomali method wave number depend suscept',216
+'staistic mechan iter algorithm mean cluster variat method compound gauss markov random field model',216
+'statist mechan algorithm mrf model variat principl',216
+'statist mechan studi imag restor markov random field model',216
+'statist mechan iter algorithm imag restor grai level imag',216
+'statist mechan iter method imag restor',216
+'asymptot behavior spin pair correl function is model checkerboard lattic',216
+'asymptot behavior spin pair correl function is model gener kagom lattic',216
+'asymptot behavior modifi block toeplitz determin',216
+'asymptot form block toeplitz determin',216
+'three dimension t j model cluster variat method physica b',216
+'low temperatur behavior antiferromagnet is model triangular lattic',216
+'theoret studi hyperparamet estim maxim margin likelihood imag restor mean cluster variat method',216
+'automat hyperparamet estim probabilist imag restor algorithm gibb microcanon distribut',216
+'non standard construct haar measur weak konig s lemma',216
+'dynam properti imag restor hyper paramet estim neural network signal process xi',216
+'dynam maximum likelihood hyper paramet estim imag restor gradient descent versu expect maxim algorithm',216
+'mean field theori em algorithm bayesian grai scale imag restor',216
+'cluster ztp recoveri imag',216
+'non standard analysi wklo',216
+'fix point theori weak second order arithmet',216
+'conserv result week konig s lemma',216
+'quantum bit commit small storag quantum on wai permut',217
+'complex negat limit boolean network symposium theori comput page montreal quebec canada mai',217
+'negat limit circuit complex cliqu function',217
+'relationship between number negat circuit size',217
+'minim total complet time flow shop idl constraint',217
+'densiti attack knapsack cryptosystem enum sourc encod',217
+'limit negat bound depth circuit extens markov s theorem',217
+'lower bound negat limit invert',217
+'singl machin schedul posit due releas date',217
+'minim maximum absolut late rang late gener due date singl machin',217
+'minim rang late singl machin gener due date',217
+'improv algorithm singl machin schedul fuzzi due date',217
+'singl machin schedul fuzzi due date',217
+'singl machin schedul gener due date',217
+'singl machin schedul posit due date posit releas time',217
+'singl machin schedul minim maximum late both specif gener due date',217
+'singl machin schedul minim maximum late both specif gener due date',217
+'rsa famili trap door permut common domain it applic',217
+'effici anonym group identif scheme human memoriz secret kei',217
+'effici anonym group identif scheme short secret kei',217
+'negat limit circuit complex symmetr function',217
+'complex negat limit boolean network',217
+'quantum public kei cryptosystem',217
+'quantum public kei cryptosystem',217
+'exponenti gap remov on negat gate',217
+'more complex negat limit circuit',217
+'exponenti gap remov on negat gate',217
+'quantum public kei cryptosystem',217
+'negat limit circuit complex symmetr function',217
+'complex negat limit boolean network',217
+'approxim special case common subtre edit distanc',217
+'approxim special case common subtre edit distanc',217
+'acceler imag halfton techniqu improv genet algorithm',218
+'video steganographi how secretli emb d signatur pictur',218
+'hide via steganograph ic imag transform',218
+'hide fractal imag gener via fourier filter method',218
+'color wat ermark color vision model',218
+'multi level imag halftoni ng techniqu genet algorithm',218
+'imag encrypt scheme truncat b aker transform',218
+'genet algorithm nk landscap effec ts select drift mutat recombin',218
+'empir model coopera tive competit genet oper improv ga perform investig multipl knapsack problem',218
+'perform studi di stribut genet algorithm parallel cooper competit genet oper',218
+'simultan eou halfton imag gener improv multiobject genet algorithm',218
+'genet algorithm nk landscap effect select drift mutat recombin',218
+'halfton imag gener improv multiobject genet algorithm',218
+'parallel vari mutat determinist self adapt ga',218
+'web page color modif barrier free color vision genet algorithm',218
+'improv imag halfton techniqu ga concurr inter block evalu',218
+'halfton imag gener improv multiobject genet algorithm',218
+'parallel vari mutat determinist self adapt ga',218
+'cooper crossov mutat oper genet algorithm',218
+'measur fragment mri relic restor virtual realiti technolog',219
+'multipl visual featur identif integr d recoveri rotat object',219
+'understand mechan assembl instruct manual integr vision languag process simul',219
+'surfac model gener relic from slice imag approach automat restor',219
+'understand mechan assembl instruct manual virtual space',219
+'conveni notat organ structur basi connect stack',220
+'memori learner model it applic game coach',220
+'advanc fuzzi control trailer type mobil robot stabil analysi model fuzzi control',220
+'dual design problem via multipl lyapunov function',220
+'dynam parallel distribut compens takagi sugeno fuzzi lmi approach',220
+'provid visual rich resiz imag user interfac compon',221
+'link messag from real paper paper pda',221
+'inform percol ambient inform displai decor object',221

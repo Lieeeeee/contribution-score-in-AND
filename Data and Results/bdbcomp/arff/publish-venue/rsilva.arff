@@ -1,0 +1,31 @@
+@relation 'Dataset bdbcomp publish-venue rsilva'
+@attribute Text string
+@attribute class-att {192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213}
+@data
+'realidad virtual',206
+'informatica publica',207
+'journal comput scienc',208
+'journal comput scienc',209
+'journal comput scienc',210
+'journal comput scienc',210
+'journal comput scienc',210
+'journal comput scienc',211
+'banco dado',212
+'computacao grafica processamento imagen',213
+'symposium microelectron technolog devic',213
+'rede computador',192
+'computacao grafica processamento imagen',193
+'rede computador',194
+'engenharia softwar',195
+'qualidad softwar',195
+'informatica educacao',196
+'computacao grafica processamento imagen',197
+'computacao grafica processamento imagen',198
+'computacao grafica processamento imagen',199
+'informatica educacao',200
+'rede computador',201
+'encontro nacion inteligencia artifici',202
+'encontro nacion inteligencia artifici',203
+'computacao grafica processamento imagen',204
+'journal comput scienc',205
+'realidad virtual',206

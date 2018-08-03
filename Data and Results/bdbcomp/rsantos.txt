@@ -1,0 +1,20 @@
+314;174;rosana jamal f santos;j junior,m camargo,s gregorio,m ribeiro,f arruba jr,o fernandes,w ishibashi;comunicacao pacot experiencia piloto rdsi;rede computador;0
+315;175;r j f santos;j leite,c klemtz,m mandel,a mantovani,s cintra;comutador pacot sistema compac;rede computador;0
+316;176;r santos;t ohashi,t yoshida,t ejima;bias cluster method imag classif;computacao grafica processamento imagen;0
+317;177;rogerio guaraci dos santos;a calsavara;algoritmo substituicao objeto cach internet baseado semantica;rede computador;0
+318;178;regis e santos;i doi,j diniz,j swart,s santos;format character ni pt nisi mo devic applic;symposium microelectron technolog devic;0
+319;178;regis e santos;i doi,r teixeira,j diniz,j swart,s santos;format stabil ni pt poli layer structur;symposium microelectron technolog devic;0
+320;179;rafael valle dos santos;f artola,s fontoura,m vellasco;litholog recognit neural network ensembl;inteligencia artifici;0
+321;180;rafael santos;j tambor,l paulino,a bazzan;semi automat methodolog local short mitochondri gene long sequenc;bioinformatica;0
+322;181;rildo ribeiro dos santos;a calazans,k oliveira;dimensionando data mart adequacao metrica funcion;qualidad softwar;0
+323;182;roberto santos;p adeodato,a arnaud,r cunha,g vasconcelos,d monteiro;aplicacao mineracao dado manutencao rede telefonia;rede neurai;0
+324;183;roberto oliveira dos santos;f mesquita,a silva,e vilarinho;extracao dado metadado texto semi estruturado usando hmm;banco dado;0
+325;184;r b santos;w caminhas,l errico;deteccao intruso abordagem usando rede neurai;journal comput scienc;0
+326;185;rodrygo l t santos;;assistent configuracao biblioteca digitai componentizada;biblioteca digitai;0
+327;186;raniery santos;r andrade,e marcal,c vidal,r rios;museum aplicacao m learn realidad virtual;xxxii seminario integrado softwar hardwar;0
+328;187;ricardo dos santos;n medina,r lapa,m nero,a netto;desenvolvimento sig reconfiguracao rede energia eletrica interfac integrada;geoinformatica;0
+329;188;rodrygo l t santos;p roberto,m goncalves,a laender;rdbm workflow support component digit librari;banco dado;0
+330;188;rodrygo l t santos;a silva,h santos,a laender,m goncalves;compon base digit librari servic find miss document;banco dado;0
+331;189;rogerio santanna dos santos;a peterle,c castro,c meffe,n bretas;materializacao conceito softwar publico iniciativa cacic;informatica publica;0
+332;190;rodrigo santos;j santos,j orozco;energi awar schedul real time heterogen multiprocessor system chip;tempo real;0
+333;190;rodrigo c santos;c hara;utilizacao chave algoritmo diff xml;banco dado;0

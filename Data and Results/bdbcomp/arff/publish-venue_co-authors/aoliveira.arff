@@ -1,0 +1,56 @@
+@relation 'Dataset bdbcomp publish-venue_co-authors aoliveira'
+@attribute Text string
+@attribute class-att {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19}
+@data
+'linguagen programacao m maia',4
+'computacao grafica processamento imagen m kallmann',5
+'journal brazilian comput societi m kallmann',5
+'computacao grafica processamento imagen g giraldi',5
+'computacao grafica processamento imagen g giraldi e strauss',5
+'computacao grafica processamento imagen g giraldi e strauss',5
+'computacao grafica processamento imagen e strauss w jimenez g giraldi r silva',5
+'geoinformatica f mello e strauss a gesualdi',5
+'computacao grafica processamento imagen s ribeiro r farias c esperanca g giraldi',5
+'computacao grafica processamento imagen a cuno c esperanca p cavalcanti',5
+'rede computador j filho j jr m vieira',0
+'informatica educacao j soares m rodrigues',0
+'informatica educacao j soares a serra g barroso',0
+'seminario integrado softwar hardwar j soares a serra g barroso',0
+'rede computador j peyrin',0
+'rede computador j sousa m penna j junior',0
+'rede computador j souza m stanton',0
+'informatica educacao c geyer a rodrigues j emiliano a pereira d ferrari',1
+'rede computador j monteiro',2
+'linguagen programacao m cortes a garcia s carvalho',3
+'computacao grafica processamento imagen l goncalves',5
+'computacao grafica processamento imagen l goncalves r grupen',5
+'computacao grafica processamento imagen i matias l goncalves',5
+'computacao grafica processamento imagen l goncalves r grupen',5
+'computacao grafica processamento imagen l goncalves',5
+'computacao grafica processamento imagen l oliveira c esperanca',5
+'computacao grafica processamento imagen p coelho c esperanca',5
+'computacao grafica processamento imagen p coelho c esperancca',5
+'computacao grafica processamento imagen y atencio c esperanca p cavalcanti',5
+'computacao grafica processamento imagen f silva l garcia r farias',5
+'inteligencia artifici l lorena',6
+'encontro nacion inteligencia artifici l lorena',6
+'rede neurai l lorena a preto s stephany',6
+'inteligencia artifici l lorena',6
+'inteligencia artifici l lorena',6
+'encontro nacion inteligencia artifici g azevedo a barros a santos',7
+'engenharia softwar m villela j braga',8
+'informatica publica m duarte j braga',8
+'linguagen programacao t braga m maia r bigonha',9
+'realidad virtual j freire b schneider',10
+'rede neurai f neto s meira',11
+'revista informatica teorica aplicada l nunes a santiago r takiguti',12
+'test tolerancia falha f brasileiro',13
+'engenharia softwar c werner m mangan l murta r pinheiro m mattoso r braga m borges',14
+'rede computador m ravetti g mateus',15
+'rede computador g mateus',15
+'desenvolvimento distribuido softwar j oliveira t brito s jr g elias',15
+'journal comput scienc d garcia',16
+'banco dado j silva a vera r fidalgo a salgado v times',17
+'symposium microelectron technolog devic m carreno',18
+'symposium microelectron technolog devic m carreno',18
+'symposium integr circuit system design v sklyarov n lau a melo k kondratjuk a ferrari r monteiro i skliarova',19

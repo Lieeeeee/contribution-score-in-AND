@@ -1,0 +1,31 @@
+@relation 'Dataset bdbcomp publish-venue_title_co-authors fsilva'
+@attribute Text string
+@attribute class-att {60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81}
+@data
+'rede computador sistema manipulacao imagen via correio eletronico p rodrigues',60
+'linguagen programacao distribut concurr object program languag distribut comput mobil reso a figueira h paulino l lopes',61
+'computacao grafica processamento imagen interact edit multiresolut mesh a gomes',62
+'rede computador sisdi osi sistema didatico modelo osi c fujito e garcia',63
+'banco dado mine tempor constraint databas us genet algorithm s amo m fernandes j souza',64
+'engenharia softwar modelo simulacao processo softwar baseado agent cooperativo c reis d nunes r reis',65
+'engenharia softwar us tempor version model softwar configur manag environ r costa n edelweiss e bergamini',66
+'gerencia operacao rede servico avaliacao abordagen coleta processamento dado rede sensor fio t braga l ruiz j nogueira',67
+'rede computador elemento autonomico rede sensor fio t braga l ruiz j nogueira',67
+'linguagen programacao translat configur languag pi calculu g lucero',68
+'computacao grafica processamento imagen architectur motion captur base anim l velho p cavalcanti j gomes',69
+'computacao grafica processamento imagen motion cyclif time frequenc warp l velho j gomes s goldenstein',69
+'computacao grafica processamento imagen control theori approach real time anim artifici agent l garcia r farias a oliveira',69
+'inteligencia artifici petriplan new algorithm plan gener preliminari report m castilho l kunzle',70
+'encontro nacion inteligencia artifici modelo cooperacao sistema baseado conhecimento baseado capacidad e meneses',71
+'inteligencia artifici rule schemata game artifici intellig w vasconcelos',71
+'encontro nacion inteligencia artifici classificacao supervisionada dado tipo intervalo baseada distancia quadratica r souza f carvalho',72
+'inteligencia artifici cluster method symbol interv type data us adapt chebyshev distanc f carvalho r souza',72
+'qualidad softwar uso extrem program organizacao cmm nivel r campelo h moura',73
+'journal brazilian comput societi make web client cach cooper lan level j jin s meira',74
+'escola region banco dado bdterm sistema gerenciamento base dado terminologica r mello',75
+'engenharia requisito ferramenta suport mapeamento modelagem uml extend good xgood goos f pedroza f alencar j castro v santander',76
+'informatica publica pagina amarela web apresentacao resultado acordo localizacao geografica nan',77
+'tv digit analis comparativa metadado tv digit l alves r kulesza p juca g bressan',78
+'computacao grid aplicaco mag middlewar grade baseado agent estado atual perspectiva futura r lopes b sousa a viana s sousa',79
+'rede computador ambient especificacao verificacao automatica aplicaco baseada agent movei a andrade f barboza r oliveira',80
+'symposium microelectron technolog devic effect stencil align solder bead smt process m oka',81

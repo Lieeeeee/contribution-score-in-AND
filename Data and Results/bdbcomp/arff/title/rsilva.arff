@@ -1,0 +1,31 @@
+@relation 'Dataset bdbcomp title rsilva'
+@attribute Text string
+@attribute class-att {192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213}
+@data
+'vr tool visual cad model',206
+'aplicacao utilizando xml area adocao pesquisa crianca disponivei adocao pesquisa pre inscricao pretendent',207
+'uso tecnologia movel auxilio reeducacao alimentar',208
+'wxproc simulador politica escalonamento multiplataforma',209
+'adaptacao algoritmo genetico tratamento problema roteamento veiculo janela tempo',210
+'hybrid algorithm vehicl rout problem time window',210
+'softwar ensino protocolo janela deslizant',210
+'inteligencia artifici aplicada ambient engenharia softwar visao geral',211
+'constraint base tree pattern mine',212
+'document reconstruct base featur match',213
+'low frequenc nois deep submicron mosfet',213
+'prototipo servidor modem rede tcp ip',192
+'reconstruct 3d model rang imag us radial flow model',193
+'metodologia desenvolvimento implementaco agent supervisao elemento rede plataforma distribuida si',194
+'suport desenvolvimento uso component flexivei',195
+'suport uso framework orientado objeto base historico desenvolvimento aplicaco',195
+'dimensao socio afetiva interacao distancia',196
+'imag effect us contract map',197
+'reconstrucao objeto 3d usando modelo deformavei',198
+'semi automat surfac reconstruct framework base t surfac isosurfac extract method',199
+'orion construcao coletiva comunidad onlin conhecimento',200
+'extensao tempo vida rede ad hoc',201
+'revisao sintatica semantica logica defaut',202
+'asnod scp new version ant system set cover problem',203
+'inform embed multibit watermark',204
+'an arvor n aria espalhamento naturalment balanceada',205
+'viral framework desenvolvimento aplicaco realidad virtual',206

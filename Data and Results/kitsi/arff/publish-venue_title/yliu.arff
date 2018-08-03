@@ -1,0 +1,316 @@
+@relation 'Dataset kitsi publish-venue_title yliu'
+@attribute Text string
+@attribute class-att {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52}
+@data
+'dm number maximum match bipartit graph posit surplu',1
+'network fraction match number graph',1
+'icpr wavelet imag code us cluster grow embed',2
+'sswmc lot base adapt imag watermark',2
+'waim user interest detect web page build person inform agent',3
+'icpr structur approach recogn incomplet graphic object',3
+'icdar onlin segment freehand stroke dynam program',3
+'sspr novel constraint base approach onlin graphic recognit',3
+'sspr sketch recognit base topolog spatial relationship',3
+'infocom unrespons flow aqm perform',4
+'tomac scalabl fluid model simul larg scale ip network',4
+'infocom stochast fluid theori p2p stream system',4
+'sigmetr fluid model solut larg scale ip network',4
+'infocom tcp friendli voip traffic',4
+'cn self similar long rang depend internet second look evid origin implic',4
+'infocom integr fluid model packet simul',4
+'wsc impact concurr download',4
+'imc inform theoret approach network monitor measur',4
+'infocom optim rout multipl traffic matric',4
+'vc real time simul physic base surfac flow',5
+'jvca improv studi real time fluid simul gpu',5
+'pg real time 3d fluid simul gpu complex obstacl',5
+'jvca simul miscibl binari mixtur base lattic boltzmann method',5
+'icnp stabil sensit congest control wireless network time vari link capac',6
+'msn coverag problem direct sensor network',6
+'tmc rout correl data fusion cost wireless sensor network',6
+'ccr dvsr high perform metro ring protocol',6
+'pcm energi effici cooper imag process video sensor network',6
+'tc adapt data fusion energi effici rout wireless sensor network',6
+'infocom opportunist fair schedul multipl wireless channel',6
+'dialm energi effici rout adapt data fusion sensor network',6
+'tochi queue network model human processor qn mhp comput architectur multitask perform human machin system',7
+'ijmm comput model experiment investig effect composit element interfac design aesthet',7
+'ijmm monitor behavior manual autom schedul system',7
+'tc effect memori bandwidth processor block probabl multipl bu system',8
+'tc perform model priorit multipl bu multiprocessor system',8
+'jpdc analysi priorit crossbar multiprocessor system',8
+'icpr flag guid integr multipl regist rang imag',9
+'icpr discontinu base simplif free form surfac rang imag',9
+'3dpvt transform least squar weight least squar accur rang imag registr',9
+'ra develop structur constraint accur registr overlap rang imag',9
+'ivc automat registr overlap 3d point cloud us closest point',9
+'cgim three step approach detect remov grid line well log digit',9
+'icip pseudo linear method accur pose estim singl imag',9
+'smi geometr analysi two set 3d correspond data pattern',9
+'ra project registr error accur registr overlap rang imag',9
+'cviu special issu registr fusion rang imag',9
+'icpr invers valid accur rang imag registr structur data',9
+'3dim evalu collinear constraint automat rang imag registr',9
+'icpr free form shape match us determinist anneal softassign',9
+'3dim evalu structur constraint accur rang imag registr',9
+'pr improv icp easi implement free form surfac match',9
+'network rout select interdomain traffic engin',10
+'wecwi activ real time function electron brokerag design',10
+'mobicom design incent compat rout forward protocol wireless ad hoc network integr approach us game theoret cryptograph techniqu',10
+'icnp stabil ration heterogen interdomain rout select',10
+'entc iter increment implement systemat approach effici improv guarante',11
+'lctrt automat accur time bound analysi high level languag',11
+'pldi parametr regular path queri',11
+'topla optim aggreg arrai comput loop',11
+'vmcai optim live heap bound analysi',11
+'pepm optim ackermann s function increment',11
+'kbse autom softwar engin us concurr class machin',11
+'tc automat accur cost bound analysi high level languag',11
+'sa solv regular tree grammar base constraint',11
+'kbse cachet interact increment attribut base program transform system deriv increment program',11
+'iccl loop optim aggreg arrai comput',11
+'scp strengthen invari effici comput',11
+'mpc solv regular path queri',11
+'scp elimin dead code recurs data',11
+'pepm automat time bound analysi higher order languag',11
+'padl queri complex graph',11
+'pepm core role base access control effici implement transform',11
+'esop dynam program via static increment',11
+'pepm effici implement tupl pattern base retriev',11
+'pepm cach intermedi result program improv',11
+'ppdp datalog rule effici program time space guarante',11
+'pepm recurs iter optim',11
+'alc principl strength reduct',11
+'sa elimin dead code recurs data',11
+'scp systemat deriv increment program',11
+'topla static cach increment comput',11
+'lisp effici increment introduct',11
+'vmcai improv algorithm complex linear tempor logic model check pushdown system',11
+'lctrt gener optim code scr specif',11
+'iccl depend analysi recurs data',11
+'pepm program optim us index recurs data structur',11
+'lctrt automat accur live memori analysi garbag collect languag',11
+'sttt systemat increment techniqu applic hardwar design',11
+'ppdp effici trust manag polici analysi rule',11
+'popl discov auxiliari inform increment comput',11
+'lisp dynam program via static increment',11
+'cav effici symbol detect global properti distribut system',11
+'charm systemat increment techniqu applic hardwar design',11
+'oopsla increment across object abstract',11
+'tkde enhanc effect cluster spectra analysi',12
+'iwinac bird biomed inform integr discoveri semant web servic',12
+'bioinformat model nonlinear dilut design microarrai data',12
+'cvpr classif base similar metric 3d imag retriev',13
+'eccv discov textur regular higher order correspond problem',13
+'ijcv promis peril near regular textur',13
+'afpac group theoret formal contact motion',13
+'pami lattic base mrf model dynam near regular textur track',13
+'cvpr represent match articul shape',13
+'amfg quantifi studi facial asymmetri 3d face',13
+'ijrr group theoret formal surfac contact',13
+'isbi learn multispectr textur featur cervic cancer detect',13
+'iccv line select discrimin track featur',13
+'tog near regular textur analysi manipul',13
+'cviu facial asymmetri quantif express invari human identif',13
+'afpac period pattern analysi affin distort us wallpap group',13
+'miccai classif driven patholog neuroimag retriev us statist asymmetri measur',13
+'cvpr local facial asymmetri express classif',13
+'tmi robust midsagitt plane extract normal patholog 3d neuroradiolog imag',13
+'eccv gait sequenc analysi us friez pattern',13
+'isbi map ventricular chang relat dementia mild cognit impair larg commun base cohort',13
+'cvpr skew symmetri group',13
+'pr svm decis boundari base discrimin subspac induct',13
+'cvpr comput model repeat pattern percept us friez wallpap group',13
+'miccai cervic cancer detect us svm base featur screen',13
+'fgr facial asymmetri quantif express invari human identif',13
+'cvpr textur replac real imag',13
+'miccai discrimin mr imag featur analysi automat schizophrenia alzheim s diseas classif',13
+'caivd content base 3d neuroradiolog imag retriev preliminari result',13
+'pami comput model period pattern percept base friez wallpap group',13
+'iccv bayesian bodi local us mixtur nonlinear shape model',13
+'cvpr bodi local still imag us hierarch model hybrid search',13
+'cibcb model transcript regul chondrogenesi us particl swarm optim',14
+'bmcbi princip compon analysi predict transcript factor bind motif arrai deriv data',14
+'bibe regul gene express us optim control theori',14
+'csl studi machin learn imbalanc data sentenc boundari detect speech',15
+'mlmi toward joint segment classif dialog act multiparti meet',15
+'taslp enrich speech recognit automat detect sentenc boundari disfluenc',15
+'acl us condit random field sentenc boundari detect speech',15
+'naacl initi studi automat identif speaker role broadcast new speech',15
+'acl pcfg syntact prosod indic speech repair',15
+'tsd us prosodi automat sentenc segment multi parti meet',15
+'csl effect prune compress graphic represent output speech recogn',15
+'tcom design mimo block fade channel feedback link capac constraint',16
+'tit capac memoryless channel block fade channel design cardin constrain channel state feedback',16
+'bell optim space time schedul block fade channel partial power feedback',16
+'tit design space time space frequenc code mimo frequenc select fade channel',16
+'bell iter detect blast system arbitrari number receiv antenna',16
+'tit rank criterion qam space time code',16
+'ijcai protein quaternari fold recognit us condit graphic model',17
+'icml predict protein fold structur repeat us chain graph model',17
+'sigir context sensit vocabulari applic protein secondari structur predict',17
+'ecml new pairwis ensembl approach text classif',17
+'ijcai semi supervis learn attribut valu pair product descript',17
+'recomb segment condit random field scrf new approach protein fold recognit',17
+'icml kernel condit random field represent cliqu select',17
+'ijcai graph base semi supervis learn gener model',17
+'bioinformat comparison probabilist combin method protein secondari structur predict',17
+'tog geometr model conic mesh develop surfac',18
+'tog fit b spline curv point cloud curvatur base squar distanc minim',18
+'smi reconstruct b spline curv point cloud tangenti flow approach us least squar minim',18
+'gmp quadric surfac extract variat shape approxim',18
+'pg fit subdivis surfac unorgan point data us sdm',18
+'dac approxim vcc new character multimedia workload system level mpsoc design',19
+'rtcsa gener rate analysi media process platform',19
+'rtss interfac base rate analysi embed system',19
+'estimedia workload character cost qualiti tradeoff mpeg decod resourc constrain devic',19
+'rtss processor frequenc select soc platform multimedia applic',19
+'infocom approxim optim spare capac alloc success surviv rout',20
+'ton approxim optim spare capac alloc success surviv rout',20
+'network spare capac plan surviv mesh network',20
+'icd smart care servic studi visual impair user live context',21
+'icd practic synthesi dynam role set telecar servic',21
+'icpp distribut access control crown group',22
+'vldb index pla effici similar search',22
+'infocom locat awar topolog match p2p system',22
+'tpd effect util global cluster memori larg data intens parallel program',22
+'tpd dica effici distribut cach mechan p2p system',22
+'hipc poma priorit overlai multicast ad hoc environ',22
+'ipp distribut page ram grid system wide area memori share',22
+'ipp design overlai anonym multicast protocol',22
+'sigmod contour map match event detect sensor network',22
+'ipsn underground structur monitor wireless sensor network',22
+'ipp mutual anonym peer peer protocol design',22
+'infocom anyse peer peer live stream',22
+'jpdc mutual anonym overlai multicast',22
+'tpd improv queri respons deliveri qualiti peer peer system',22
+'tc improv unstructur peer peer system adapt connect establish',22
+'tpd locat awar unstructur peer peer system',22
+'iceb s club overlai base effici servic discoveri mechan crown grid',22
+'icdc distribut approach solv overlai mismatch problem',22
+'icpp parallel network ram effect util global cluster memori larg data intens parallel program',22
+'icdc iso map energi effici contour map wireless sensor network',22
+'ipp pseudo trust zero knowledg base authent anonym peer peer protocol',22
+'icpp dynam layer manag super peer architectur',22
+'infocom ds pp practic framework guarante differenti qo terabit router parallel packet switch',22
+'ipp popular adapt search hybrid p2p system',22
+'icdc non threshold base event detect 3d environ monitor sensor network',22
+'icdc distribut cach adapt search multilay p2p network',22
+'tpd dynam layer manag superp architectur',22
+'winet landmarc indoor locat sens us activ rfid',22
+'webi ipr autom interact process reconcili',22
+'ipp build scalabl bipartit p2p overlai network',22
+'grid build effici overlai',22
+'jpdc scalabl local awar web document share',22
+'mascot approach optim peer peer overlai',22
+'logcom complet axiomat block world',23
+'aaai hoar style proof system robot program',23
+'amai complet axiomat block world',23
+'kr logic limit belief reason disjunct inform',23
+'ijcai tractabl result reason incomplet first order knowledg base',23
+'ijcai tractabl reason incomplet first order knowledg dynam system context depend action',23
+'aaai tractabl reason first order knowledg base disjunct inform',23
+'ijcai ground model expans k guard formula induct definit',23
+'icec ensembl structur evolutionari artifici neural network',24
+'evow evolutionari approach adapt model build',24
+'tsmc make us popul inform evolutionari artifici neural network',24
+'seal epnet chaotic time seri predict',24
+'eh get evolutionari approach',24
+'ep experiment investig self adapt evolutionari program',24
+'ppsn learn evolut minim mutual inform',24
+'nn ensembl learn via neg correl',24
+'tec evolutionari ensembl neg correl learn',24
+'ep scale evolutionari program algorithm',24
+'ep evolv artifici neural network evolutionari program',24
+'tsmc simultan train neg correl neural network ensembl',24
+'seal time seri predict us neg correl neural network',24
+'ep fast evolut strategi',24
+'icec evolutionari design artifici neural network differ node',24
+'tec evolutionari program made faster',24
+'ppsn toward design neural network ensembl evolut',24
+'gecco maintain popul divers minim mutual inform',24
+'ep fast evolutionari program',24
+'pg robust method shape base 3d model retriev',25
+'hase genet program model softwar qualiti classif',26
+'ictai genet program base decis tree softwar qualiti classif',26
+'hase reduc overfit genet program model softwar qualiti classif',26
+'ivc object watermark digit imag video',27
+'isca 3d object base scalabl wavelet video code boundari effect suppress',27
+'isca fast lossless multi resolut motion estim scalabl wavelet video code',27
+'pcm adapt video watermark scheme',27
+'aaai valu function base transfer reinforc learn us structur map',28
+'ecp sensor plan non linear util function',28
+'aaai function valu iter decis theoret plan gener util function',28
+'jetai interact represent plan object decis theoret plan task',28
+'amai effici ineffici ant coverag method',28
+'uai exist finit condit risk sensit plan result conjectur',28
+'agent terrain coverag ant robot simul studi',28
+'aaai risk sensit plan switch util function valu iter',28
+'aip represent decis theoret plan task',28
+'robocup keepawai soccer machin learn testb benchmark',28
+'aaai valu function rl base behavior transfer compar studi',28
+'nar suit web base program search transcript regulatori motif',29
+'www supervis rank aggreg',30
+'jct number loopless regular map project plane',31
+'dm count root near triangul sphere',31
+'ejc gener cycl space graph surfac small genera',31
+'dam gener bicycl',31
+'jct number root c net',31
+'dm bisingular map sphere project plane',31
+'dam enumer near regular map sphere toru',31
+'dm chromat sum edg connect map plane',31
+'jct isomorph caylei graph abelian group',31
+'dam determin star valenc graph',31
+'ejc enumer nonsepar planar map',31
+'sigir maximum coher model dictionari base cross languag inform retriev',32
+'aaai queri translat disambigu graph partit',32
+'www powerrank web link analysi algorithm',32
+'pakdd framework incorpor class prior discrimin classif',32
+'sigir improv web search result us affin graph',32
+'vc mesh blend',33
+'cad quasi mont carlo method comput area point sampl surfac',33
+'ci bilater filter mesh us new predictor',33
+'oopsla formal framework compon deploy',34
+'oopsla interact base program classag',34
+'scp us classic problem teach java framework design',35
+'acms boxscript compon orient languag teach',35
+'serp architectur design fruit famili retarget user interfac tool',35
+'serp keep secret within famili rediscov parna',35
+'acms map compon specif enterpris javabean implement',35
+'acms java box implement boxscript compon languag',35
+'vc optim triangl mesh reconstruct unstructur point',36
+'cvgip optim algorithm free form surfac partit base weight gaussian imag',36
+'vc manifold guarante core simplif larg mesh control topolog type',36
+'vc featur base approach individu human head model',36
+'cad maxim intersect spheric polygon arc applic axi machin',36
+'jcst multiresolut free form object model point sampl geometri',36
+'siamdm nowher zero flow caylei graph solvabl group',37
+'arscom hamiltonian graph larg neighborhood union',37
+'dm cycl length arc cyclic semicomplet digraph',37
+'jss perform predict compon base applic',38
+'tse design level perform predict compon base applic',38
+'cbse perform predict j2ee applic us messag protocol',38
+'ics revel8or model driven capac plan tool suit',38
+'wicsa custom benchmark gener us mda',38
+'apsec empir evalu architectur altern j2ee web servic',38
+'ifip6 framework end end qo context transfer mobil ipv6',39
+'bmcbi multiclass discoveri arrai data',40
+'nn global exponenti stabil gener recurr neural network discret distribut delai',41
+'ijon global exponenti stabil gener stochast neural network mix time delai',41
+'acl tree string align templat statist machin translat',42
+'acl log linear model word align',42
+'prl featur select us proxim index optim model',43
+'bit bit string without q separ',43
+'itcc toolkit automat construct outdoor radio map',44
+'jbi compar genom approach studi organ similar differ',45
+'aaai semi supervis multi label learn constrain non neg matrix factor',46
+'entc algorithm design us object z twig xml queri evalu',47
+'icfem verif comput orchestr via time automata',47
+'ismir search effect measur symbol music queri larg databas',48
+'icmc multipl watermark power share better time share',48
+'cbm effici schema design pharmaceut data repositori',49
+'jcisd effici implement drug candid databas',49
+'dm enumer near perfect match factor critic graph',50
+'dm character maximum match graph certain type',50
+'cata prototyp mobil agent applic',51
+'delta flexibl embed sram compil',52

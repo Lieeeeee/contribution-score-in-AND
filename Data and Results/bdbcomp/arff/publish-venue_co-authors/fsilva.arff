@@ -1,0 +1,31 @@
+@relation 'Dataset bdbcomp publish-venue_co-authors fsilva'
+@attribute Text string
+@attribute class-att {60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81}
+@data
+'rede computador p rodrigues',60
+'linguagen programacao a figueira h paulino l lopes',61
+'computacao grafica processamento imagen a gomes',62
+'rede computador c fujito e garcia',63
+'banco dado s amo m fernandes j souza',64
+'engenharia softwar c reis d nunes r reis',65
+'engenharia softwar r costa n edelweiss e bergamini',66
+'gerencia operacao rede servico t braga l ruiz j nogueira',67
+'rede computador t braga l ruiz j nogueira',67
+'linguagen programacao g lucero',68
+'computacao grafica processamento imagen l velho p cavalcanti j gomes',69
+'computacao grafica processamento imagen l velho j gomes s goldenstein',69
+'computacao grafica processamento imagen l garcia r farias a oliveira',69
+'inteligencia artifici m castilho l kunzle',70
+'encontro nacion inteligencia artifici e meneses',71
+'inteligencia artifici w vasconcelos',71
+'encontro nacion inteligencia artifici r souza f carvalho',72
+'inteligencia artifici f carvalho r souza',72
+'qualidad softwar r campelo h moura',73
+'journal brazilian comput societi j jin s meira',74
+'escola region banco dado r mello',75
+'engenharia requisito f pedroza f alencar j castro v santander',76
+'informatica publica nan',77
+'tv digit l alves r kulesza p juca g bressan',78
+'computacao grid aplicaco r lopes b sousa a viana s sousa',79
+'rede computador a andrade f barboza r oliveira',80
+'symposium microelectron technolog devic m oka',81

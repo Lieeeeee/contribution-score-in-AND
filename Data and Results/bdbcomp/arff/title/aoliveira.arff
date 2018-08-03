@@ -1,0 +1,56 @@
+@relation 'Dataset bdbcomp title aoliveira'
+@attribute Text string
+@attribute class-att {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19}
+@data
+'jpearl linguagem descricao reestruturaco programa java',4
+'metamorfos modelo poliedrai utilizando campo vetoriai tetraedraco',5
+'homeomorph metamorphosi polyhedr model us field direct defin triangul',5
+'visualizacao vortic dinamica fluido computacion',5
+'boundari extract approach base multi resolut method t snake framework',5
+'improv origin dual t snake model',5
+'semi automat surfac reconstruct framework base t surfac isosurfac extract method',5
+'non uniform mesh simplif us adapt merg procedur',5
+'loop snake snake enhanc topolog control',5
+'fast polygon variat implicit surfac',5
+'minhoca plu rede local fin didatico',0
+'problema qualidad servico perspectiva sistema educacao distancia',0
+'arquitetura ambient concebido base dimenso critica educacao tecnologica distancia',0
+'analis dimenso critica educacao distancia base especificacao sistema gestao',0
+'minhonix distribut system teach',0
+'plataforma computacao administracao ibcn',0
+'migrando solucao interoperabilidad sistema tmn baseada metodologia aid ambient osimi',0
+'semeai sistema multiagent ensino aprendizagem internet',1
+'modelo trafego multiplexacao estatistica trafego dado rede atm',2
+'especificacao formal tratamento exceco linguagem ddl',3
+'tentando manter diferenciabilidad morph curva',5
+'framework attent object categor us stereo head robot',5
+'enhanc volumetr approach stereo match',5
+'control architectur multi modal sensori integr',5
+'pipelin stereo match binari imag',5
+'compressao imagen usando transformada wavelet curva peano hilbert',5
+'techniqu compens light sourc direct face recognit applic',5
+'imag process belief network approach face detect',5
+'collis detect respons scheme simplifi physic base anim',5
+'control theori approach real time anim artifici agent',5
+'opt popul train minim open stack problem',6
+'construct evolutionari approach linear gate assign problem',6
+'adapt hierarch fair competit genet algorithm larg scale numer optim',6
+'pattern sequenc problem cluster search',6
+'detect promis area evolutionari cluster search',6
+'sistema suport auditoria folha pagamento baseado rede neurai',7
+'modelagem ontologica apoio modelagem conceitu',8
+'determinacao semi automatica fator critico sucesso area academica',8
+'metaj extens environ metaprogram java',9
+'interact applic us vrml aid teach graphic comput',10
+'novelti detect time seri neural network forecast robust confid interv',11
+'modular test code microcontrol unit rom',12
+'escalonamento tolerant sabotagem grade computacionai pare',13
+'odysseyshar ambient desenvolvimento cooperativo component',14
+'traffic engin mpl network ar adapt rout scheme base control chart',15
+'us genet algorithm lsp setup mpl network',15
+'extensao framework componentforg desenvolvimento distribuido softwar',15
+'mineracao base dado processo seletivo universitario',16
+'queri geograph data warehous geomdql',17
+'phosphoru implant near stoichiometr sic h film',18
+'format 3c sic film silicon thermal anneal process',18
+'synthesi tool design environ dynam reconfigur fpga',19

@@ -1,0 +1,372 @@
+@relation 'Dataset dblp publish-venue djohnson'
+@attribute Text string
+@attribute class-att {197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211}
+@data
+'ibm system journal',197
+'ibm system journal',197
+'ibm system journal',197
+'acm comput commun secur',197
+'icpp intern parallel process',198
+'icpp intern parallel process',198
+'j parallel distrib comput',198
+'rsa',199
+'ae candid',199
+'ieee comput',200
+'nip neural inform process system',200
+'lisp function program',201
+'asplo architectur support program languag oper system',201
+'oop messeng',202
+'oopsla object orient program system languag applic',202
+'j algorithm',203
+'j algorithm',203
+'siam societi industri appli mathemat journal appli mathemat',203
+'siam societi industri appli mathemat j appl math',203
+'j complex',203
+'siam societi industri appli mathemat j comput',203
+'american mathemat societi',203
+'ieee tran vehicular technolog',203
+'j algorithm',203
+'http www research att com dsj chtsp index html',203
+'http www research att com dsj nsflist html',203
+'acm press',203
+'american mathemat societi',203
+'travel salesman problem e l lawler j k lenstra h g rinnooi kan d b shmoi editor john wilei son ltd',203
+'handbook theor comp sci j van leeuwen editor elsevi',203
+'academ press new',203
+'j graph theori',203
+'travel salesman problem it variat g gutin a punnen editor kluwer academ publish dordrecht',203
+'travel salesman problem it variat g gutin a punnen editor kluwer academ publish dordrecht',203
+'natur page',203
+'math oper research',203
+'academ press collect np complet column',203
+'j comb theori b',203
+'j algorithm',203
+'monograph prepar',203
+'proc th southeastern conf comb graph theori comput',203
+'siam societi industri appli mathemat j comput',203
+'american mathemat societi',203
+'travel salesman problem e l lawler j k lenstra h g rinnooi kan d b shmoi editor john wilei son ltd',203
+'siam societi industri appli mathemat j comput',203
+'oper research',203
+'new scientist page',203
+'j algorithm',203
+'network',203
+'sigact new',203
+'local search combinatori optim e h l aart j k lenstra editor john wilei son ltd',203
+'proceed the th th dimac implement challeng m goldwass d s johnson c c mcgeoch editor american mathemat societi',203
+'j algorithm',203
+'siam societi industri appli mathemat j comput',203
+'siam societi industri appli mathemat j comput',203
+'proceed infocom confer comput commun',203
+'j algorithm',203
+'j algorithm',203
+'siam societi industri appli mathemat j comput',203
+'siam societi industri appli mathemat j comput',203
+'j algorithm',203
+'j algorithm',203
+'j algorithm',203
+'j algorithm',203
+'j algorithm',203
+'j algorithm',203
+'j algorithm',203
+'j algorithm',203
+'j algorithm',203
+'j algorithm',203
+'j algorithm',203
+'j algorithm',203
+'updat j algorithm',203
+'proced the fifth workshop algorithm engin experiment r e ladner editor siam societi industri appli mathemat',203
+'oper research',203
+'proc st ann allerton conf commun control comput',203
+'proc th ann acm symp theori comput',203
+'j algorithm',203
+'network',203
+'math oper research',203
+'siam societi industri appli mathemat j algebra discret method',203
+'ann disc math',203
+'alenex algorithm engin experi',203
+'j complex',203
+'nan',203
+'siam societi industri appli mathemat j discret math',203
+'siam societi industri appli mathemat j comput',203
+'proc rd ann acm symp theori comput journal version see below',203
+'nan',203
+'proc th ann acm symp theori comput',203
+'siam societi industri appli mathemat j comput',203
+'algorithm design comput system design g ausiello m lucertini p serafini editor springer verlag',203
+'approxim algorithm np hard problem d hochbaum editor pw publish',203
+'statist scienc',203
+'siam societi industri appli mathemat review updat version abov',203
+'siam societi industri appli mathemat j comput',203
+'siam societi industri appli mathemat j comput',203
+'discret math',203
+'siam societi industri appli mathemat j discret math',203
+'stoc acm symposium theori comput',203
+'siam societi industri appli mathemat j comput',203
+'j algorithm',203
+'math bioscienc',203
+'siam societi industri appli mathemat j comput',203
+'proc th annual symposium foundat comput scienc',203
+'siam societi industri appli mathemat j appl math',203
+'siam societi industri appli mathemat j comput',203
+'siam societi industri appli mathemat j comput',203
+'siam societi industri appli mathemat j algebra discret method',203
+'ieee tran comput c',203
+'proc th hungarian combinator colloquium',203
+'ieee tran circuit system ca',203
+'sigact new page',203
+'analysi design algorithm combinatori optim g ausiello m lucertini editor springer verlag',203
+'algorithm complex new direct recent result j f traub editor academ press',203
+'oper research',203
+'j comb theori',203
+'siam societi industri appli mathemat j comput',203
+'siam societi industri appli mathemat j algebra discret method',203
+'foc ieee symposium foundat comput scienc',203
+'proc th annual acm symp theori comput',203
+'j acm',203
+'siam societi industri appli mathemat j algebra discret method',203
+'siam societi industri appli mathemat j appl math',203
+'math oper research',203
+'ieee tran inform theori it',203
+'siam societi industri appli mathemat j comput',203
+'proceed www world wide web seri',203
+'www world wide web seri',203
+'inform process letter',203
+'ieee tran comput',203
+'soda symposium discret algorithm',203
+'algorithmica',203
+'journal comput system scienc',203
+'journal comput system scienc preliminari version proc th ann ieee symp foundat comput scienc',203
+'icalp automata languag program',203
+'proc th colloq automata lang prog',203
+'proc th ann acm siam societi industri appli mathemat symp discret algorithm',203
+'inform process letter',203
+'proc th ann acm siam societi industri appli mathemat symp discret algorithm s s',203
+'journal comput system scienc',203
+'proc th ann acm siam societi industri appli mathemat symp discret algorithm',203
+'theoret comp sci',203
+'proc th ann acm siam societi industri appli mathemat symp discret algorithm',203
+'journal comput system scienc',203
+'soda symposium discret algorithm',203
+'stoc acm symposium theori comput',203
+'alenex algorithm engin experi',203
+'j algorithm',203
+'foc ieee symposium foundat comput scienc',203
+'pod symposium principl databas system',203
+'j comput syst sci',203
+'soda symposium discret algorithm',203
+'podc symposium principl distribut comput',203
+'stoc acm symposium theori comput',203
+'j assoc comp mach',203
+'soda symposium discret algorithm',203
+'soda symposium discret algorithm',203
+'j algorithm',203
+'j comput syst sci',203
+'foc ieee symposium foundat comput scienc',203
+'inf process lett',203
+'j acm',203
+'foc ieee symposium foundat comput scienc',203
+'theor comput sci',203
+'inf process lett',203
+'soda symposium discret algorithm',203
+'foc ieee symposium foundat comput scienc',203
+'theor comput sci',203
+'stoc acm symposium theori comput',203
+'soda symposium discret algorithm',203
+'proceed symp program languag design implement',203
+'stoc acm symposium theori comput',203
+'j comput syst sci',203
+'j algorithm',203
+'ifip intern feder inform process congress',203
+'j algorithm',203
+'j acm',203
+'ipco integ program combinatori optim',203
+'j algorithm',203
+'j parallel distrib comput',203
+'handbook theoret comput scienc volum algorithm complex',203
+'random structur algorithm',203
+'swat scandinavian workshop algorithm theori',203
+'algorithmica preliminari version appear proc ann acm siam societi industri appli mathemat symp discret algorithm',203
+'proc th ann acm siam societi industri appli mathemat symp discret algorithm',203
+'proc annual acm symp theori comput journal version j acm',203
+'algorithm engin experiment m t goodrich c c mcgeoch ed springer lectur note comput scienc',203
+'j algorithm',203
+'nan',203
+'j comput syst sci',203
+'j acm',203
+'theoret comp sci',203
+'j acm',203
+'stoc acm symposium theori comput',203
+'foc ieee symposium foundat comput scienc',203
+'foc ieee symposium foundat comput scienc',204
+'j comput syst sci',204
+'siam societi industri appli mathemat j comput',204
+'siam societi industri appli mathemat j comput',204
+'siam societi industri appli mathemat j comput',204
+'siam societi industri appli mathemat j comput',204
+'siam societi industri appli mathemat j comput',204
+'siam societi industri appli mathemat j comput',204
+'algorithmica',204
+'podc symposium principl distribut comput',204
+'stoc acm symposium theori comput',204
+'j algorithm',204
+'j algorithm',204
+'commun acm',204
+'intern journal comput simul',204
+'j comput syst sci',204
+'j comput syst sci',204
+'foc ieee symposium foundat comput scienc',204
+'inf process lett',204
+'inf process lett',204
+'j acm',204
+'j acm',204
+'j acm',204
+'foc ieee symposium foundat comput scienc',204
+'j acm',204
+'j acm',204
+'j acm',204
+'mathemat system theori',204
+'icpp intern parallel process',204
+'ipp intern parallel process symposium',204
+'pod symposium principl databas system',204
+'spaa acm symposium parallel algorithm architectur',204
+'icalp automata languag program',204
+'wireless network',205
+'monet european network excel',205
+'oper system review',205
+'mobicom comput network',205
+'mobihoc',205
+'infocom confer comput commun',205
+'comput network isdn system',205
+'ieee journal select area commun',205
+'cluster comput',205
+'ftc symposium fault toler comput',205
+'podc symposium principl distribut comput',205
+'podc symposium principl distribut comput',205
+'symposium reliabl distribut system',205
+'icnp intern network protocol',205
+'symposium reliabl distribut system',205
+'symposium reliabl distribut system',205
+'j algorithm',205
+'softw pract exper',205
+'acm comput surv',205
+'icdc intern distribut comput system',205
+'workshop workstat oper system',205
+'pomc workshop principl comput',205
+'wmcsa workshop comput system applic',205
+'wmcsa workshop comput system applic',205
+'mobicom comput network',205
+'mobicom comput network',205
+'mobihoc',205
+'symp haptic interfac proc asm dynam system control divis dsc comput anim',206
+'proc haptic symposium',206
+'proc acm symposium interact d graphic research triangl park icsc symposium neural comput',206
+'proc ieee intl conf robot autom',206
+'proc th annual symp haptic interfac virtual environ teleoper system nashvil asm',206
+'asm design manufactur symposium comput anim',206
+'proc ieee intl conf robot autom',206
+'technic report uuc univers depart comput scienc',206
+'icra intern robot autom',206
+'icra intern robot autom',206
+'haptic',206
+'si d',206
+'icra intern robot autom',206
+'si d',206
+'proc symposium interact d graphic',206
+'intern robot autom icra intern robot autom',206
+'virtual realiti vr virtual realiti',206
+'vr virtual realiti',206
+'acm polici',207
+'acm polici',207
+'gi jahrestagung',207
+'comput scienc engin handbook',207
+'commun acm',207
+'commun acm',207
+'commun acm',207
+'acsac annual comput secur applic',208
+'fme formal method europ',208
+'ieee symposium secur privaci',208
+'acm tran comput syst',208
+'csfw ieee comput secur foundat workshop',208
+'csfw ieee comput secur foundat workshop',208
+'proceed the twelfth annual of associ theoret linguist',209
+'c martin vide ed current issu mathemat linguist elsevi',209
+'up',209
+'machin translat',209
+'j cole g green j morgan ed linguist comput csli comput anim',209
+'u s patent',209
+'proceed the first intern mathemat linguist taragona',209
+'proceed the natur languag process workshop inform societi',209
+'proceed the annual meet natur languag process inform process societi kyoto',209
+'proceed the ibm natur languag process thornwood',209
+'u s patent',209
+'proceed the intern fifth gener comput system tokyo',209
+'proceed the natur languag process workshop inform societi',209
+'machin translat japanes technolog evalu center loyola ieee meta data nti pub pb',209
+'publish inc',209
+'natur languag linguist theori',209
+'natur languag linguist theori press',209
+'natur languag linguist theori',209
+'ibm technic report',209
+'journal logic languag inform',209
+'ibm system journal',209
+'ieee intellig system',209
+'cole comput linguist tokyo',209
+'linguist philosophi',209
+'journal logic languag inform',209
+'linguist philosophi',209
+'l polo m masuch ed appli logic how what why kluwer',209
+'csli up comput anim',209
+'nan',209
+'fgc fifth gener comput system',209
+'proceed the st annual meet associ cmputat linguist',209
+'annal artifici intellig mathemat',209
+'acl meet the associ comput linguist',209
+'annal mathemat artifici intellig',209
+'acl meet the associ comput linguist',209
+'proceed the th associ comput linguist',209
+'ieee tran info th',210
+'nan',210
+'cn',210
+'j comput neurosci',210
+'icassp',210
+'nan',210
+'nan',210
+'nan',210
+'nan',210
+'nan',210
+'cn',210
+'neural code workshop',210
+'workshop statist signal process',210
+'j comput neurosci',210
+'j comput neurosci',210
+'ieee tran signal process',210
+'proc ieee',210
+'proc ieee',210
+'invit talk ima journal appli mathemat workshop audit',210
+'j acoust soc am',210
+'nan',210
+'workshop statist signal process',210
+'icassp',210
+'nan',210
+'j comput neurosci',210
+'j comput neurosci',210
+'nan',210
+'intern symposium inform theori',210
+'ieee tran signal process',210
+'j acoust soc am',210
+'j neurophysiol',210
+'neurocomput',210
+'signal process magazin',210
+'neurocomput',210
+'journal comput neurosci',210
+'journal comput neurosci',210
+'neurocomput',210
+'neurocomput',210
+'neurocomput',210
+'j comput neurosci',210
+'ieee softwar',211
+'ieee softwar',211
+'ics intern softwar engin',211
+'ics intern softwar engin',211
+'softwar process improv practic',211

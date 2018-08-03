@@ -1,0 +1,35 @@
+191;106;jorge luiz e silva;c kirner;protocolo comunicacao sistema distribuido baseado barramento paralelo centralizado;rede computador;0
+192;107;jorge luiz c e silva;j bezerra,f maciel,r braquehais,m fernandez,j jr;previsibilidad comportamento canal rede ieee 802;rede computador;0
+193;108;josenildo costa da silva;e costa,e ferneda;design develop author environ build maintain societi artifici tutor agent;informatica educacao;0
+194;108;josenildo c silva;s labidi,n costa,e costa;agent base architectur cooper learn environ;informatica educacao;0
+195;109;jose carlos tavares silva;b feijo;maquina estado finito avaliacao desempenho grupo discussao line;informatica educacao;0
+196;110;jose carlos tavares da silva;c avila,l madeira;amonmef agent interfac avaliacao aprendizagem ensino distancia;informatica educacao;0
+197;111;junia c a silva;r orbolato,v almeida;desenvolvimento materi instrucion qualidad ead segundo principio cognitivo;fator humano sistema computacionai;0
+198;111;junia c a silva;v almeida,r orbolato;processo ensino aprendizagem pautado principio cognitivo;revista informatica teorica aplicada;0
+199;111;junia coutinho anacleto silva;s junior,a silva,m ribeiro;integracao ihc es processo planejamento reengenharia softwar guiado avaliacao usabilidad ppr u;fator humano sistema computacionai;0
+200;112;jose ricardo porto silva;c tozzi;algoritmo geometrico geracao funco discriminant;computacao grafica processamento imagen;0
+201;113;jose demisio simoes silva;p simoni,k bharadwaj;multipl correspond stereo vision genet algorithm approach;computacao grafica processamento imagen;0
+202;113;jose demisio simoes da silva;p simoni;correspond problem uncertainti reason approach;inteligencia artifici;0
+203;113;jose demisio simoes da silva;k bharadwaj;toward integr hierarch censor product rule hcpr base neural network;inteligencia artifici;0
+204;113;jose demisio simoes da silva;p simoni;dempster shafer theori infer method correspond geometr distort imag;encontro nacion inteligencia artifici;0
+205;113;jose demisio simoes da silva;k bharadwaj;integr hierarch censor product rule hcpr base system neural network;rede neurai;0
+206;113;jose demisio simoes silva;f cunha,c oliveira;sistema resolucao distribuida problema apoiar planejamento educacion;informatica educacao;0
+207;113;jose demisio simoes silva;l hoffmann,a castro;imag base autonom navig softcomput decis make techniqu;rede neurai;0
+208;113;jose demisio simoes silva;e shiguemori,h velho,j carvalho;radial basi function neural network invers temperatur vertic profil satellit radianc data;rede neurai;0
+209;113;jose demisio simoes da silva;i tronto,n santanna;investigacao modelo estimativa esforco gerenciamento projeto softwar;engenharia softwar;0
+210;114;joel da silva;r fidalgo,v times,f sousa,r barros;gmla xml schema integr exchang multidimension geograph data;geoinformatica;0
+211;114;joel silva;r fidalgo,v times,f souza,a salgado;provid multidimension geograph integr base gdw metamodel;banco dado;0
+212;114;joel da silva;v times,r fidalgo,r barros;toward web servic geograph multidimension process;geoinformatica;0
+213;114;joel da silva;v times,a salgado,r fidalgo;propondo linguagem consulta geografica multidimension;geoinformatica;0
+214;114;joel da silva;a vera,a oliveira,r fidalgo,a salgado,v times;queri geograph data warehous geomdql;banco dado;0
+215;114;joel da silva;r fonseca,r fidalgo,v times;metamodelo especificacao data warehous geografico;banco dado;0
+216;115;j a n da silva;r leao;estudo metodo analis transient modelo markoviano sistema comunicacao;rede computador;0
+217;116;joao c p da silva;s veloso;repres belief revis default theori;inteligencia artifici;0
+218;117;joa l t da silva;p abrahao,v lima;integr morpholog syntact sement aspect multi agent cooper;inteligencia artifici;0
+219;118;jose demisio sima es da silva;p simoni;correspond geometr distort imag us uncertainti infer method;computacao grafica processamento imagen;0
+220;119;jorge castro e silva;m campos,p cunha;progcon sistema prognostico congestionamento trafego rede;rede computador;0
+221;119;jorge l de c e silva;m campos,p cunha,j souza;analis estocastica descart pacot rede tcp;rede computador;0
+222;120;jose airton fernandes da silva;n mendonca;avaliacao empirica politica invocacao servico web replicado;rede computador;0
+223;121;jose reinaldo silva;f tonidandel,t vaquero;read pddl write object orient model;inteligencia artifici;0
+224;122;junia coutinho anacleto silva;h lieberman,a carvalho,v neris,m godoi,m tsutsumi,j espinosa,a neto,s zem mascarenhas;us common sens recogn cultur differ;inteligencia artifici;0
+225;123;j m s silva;l silveira;issu parallel multigrid base substrat model extract analysi;symposium integr circuit system design;0

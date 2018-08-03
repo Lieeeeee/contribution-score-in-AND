@@ -1,0 +1,38 @@
+@relation 'Dataset bdbcomp publish-venue jsouza'
+@attribute Text string
+@attribute class-att {128, 129, 130, 131, 132, 133, 134, 135, 136, 125, 126, 127}
+@data
+'rede computador',125
+'rede computador',125
+'rede computador',125
+'rede computador',125
+'rede computador',125
+'rede computador',125
+'rede computador',125
+'informatica educacao',126
+'banco dado',127
+'banco dado',128
+'banco dado',128
+'banco dado',128
+'banco dado',129
+'banco dado',129
+'geoinformatica',129
+'banco dado',129
+'geoinformatica',129
+'engenharia softwar',129
+'engenharia softwar',129
+'geoinformatica',129
+'geoinformatica',129
+'geoinformatica',129
+'banco dado',129
+'computacao grafica processamento imagen',130
+'rede neurai',131
+'seguranca sistema computacionai',132
+'xxxi seminario integrado softwar hardwar',133
+'internacion melhoria processo softwar',134
+'rede neurai',135
+'escola region banco dado',136
+'rede computador',125
+'test tolerancia falha',125
+'computacao grid aplicaco',125
+'gerencia operacao rede servico',125

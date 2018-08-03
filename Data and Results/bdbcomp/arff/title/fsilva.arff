@@ -1,0 +1,31 @@
+@relation 'Dataset bdbcomp title fsilva'
+@attribute Text string
+@attribute class-att {60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81}
+@data
+'sistema manipulacao imagen via correio eletronico',60
+'distribut concurr object program languag distribut comput mobil reso',61
+'interact edit multiresolut mesh',62
+'sisdi osi sistema didatico modelo osi',63
+'mine tempor constraint databas us genet algorithm',64
+'modelo simulacao processo softwar baseado agent cooperativo',65
+'us tempor version model softwar configur manag environ',66
+'avaliacao abordagen coleta processamento dado rede sensor fio',67
+'elemento autonomico rede sensor fio',67
+'translat configur languag pi calculu',68
+'architectur motion captur base anim',69
+'motion cyclif time frequenc warp',69
+'control theori approach real time anim artifici agent',69
+'petriplan new algorithm plan gener preliminari report',70
+'modelo cooperacao sistema baseado conhecimento baseado capacidad',71
+'rule schemata game artifici intellig',71
+'classificacao supervisionada dado tipo intervalo baseada distancia quadratica',72
+'cluster method symbol interv type data us adapt chebyshev distanc',72
+'uso extrem program organizacao cmm nivel',73
+'make web client cach cooper lan level',74
+'bdterm sistema gerenciamento base dado terminologica',75
+'ferramenta suport mapeamento modelagem uml extend good xgood goos',76
+'pagina amarela web apresentacao resultado acordo localizacao geografica',77
+'analis comparativa metadado tv digit',78
+'mag middlewar grade baseado agent estado atual perspectiva futura',79
+'ambient especificacao verificacao automatica aplicaco baseada agent movei',80
+'effect stencil align solder bead smt process',81

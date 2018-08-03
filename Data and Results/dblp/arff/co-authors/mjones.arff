@@ -1,0 +1,264 @@
+@relation 'Dataset dblp co-authors mjones'
+@attribute Text string
+@attribute class-att {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13}
+@data
+'elke a rundensteiner harumi a kuno pedro jos eacute marr oacute n viviane crestana taube young gook ra',10
+'elke a rundensteiner yun wu huang',10
+'elke a rundensteiner yun wu huang',10
+'elke a rundensteiner',10
+'chad berkley daniel higgins metacat jivka bojilova',11
+'chad berkley daniel higgins metacat',11
+'chad berkley jivka bojilova mark schildhauer',11
+'sing bing kang',12
+'cecilia magdalena procopiuc pankaj k agarwal t m murali',12
+'nan',13
+'paul e black kelly m hall michael d jones trent n larson phillip j windley',13
+'annette bunker michael d jones trent n larson phillip j windley',13
+'annette bunker trent larson phil windley',13
+'ganesh gopalakrishnan',13
+'m d jones g gopalakrishnan',13
+'a s jones m d jones m clement q snell',13
+'michael d jones',13
+'m d jones g gopalakrishnan',13
+'abdel mokkedem ravi hosabettu michael d jones ganesh gopalakrishnan',13
+'airy weinzoepflen dominique cansell dominique m eacute ry ganesh gopalakrishnan',13
+'mark p jones',1
+'andrew p black johan nordlander magnus carlsson richard b kieburtz',1
+'mark p jones',1
+'benedict r gaster mark p jones',1
+'mark p jones paul hudak sebastian shaumyan',1
+'paul hudak sheng liang',1
+'mark p jones',1
+'paul hudak sebastian shaumyan',1
+'mark p jones',1
+'mark p jones',1
+'simon peyton jones erik meijer',1
+'mark p jones',1
+'nan',1
+'nan',1
+'nan',1
+'nan',1
+'nan',1
+'nan',1
+'nan',1
+'nan',1
+'nan',1
+'mark p jones',1
+'mark p jones luc duponcheel',1
+'mark p jones',1
+'mark p jones',1
+'mark p jones',1
+'mark p jones',1
+'mark p jones',1
+'mark p jones',1
+'sheng liang paul hudak mark p jones',1
+'mark p jones',1
+'john peterson',1
+'mark p jones',1
+'john peterson mark p jones',1
+'mark p jones simon peyton jones',1
+'mark p jones',1
+'nan',1
+'nan',1
+'nan',1
+'nan',1
+'nan',1
+'mark p jones',1
+'nan',1
+'mark p jones paul hudak',1
+'christopher w fraser richard draves richard f rashid robert p fitzgerald todd b knoblock william j bolosky',2
+'michael b jones daniela rosu marcel catalin rosu',2
+'paul j leach richard draves',2
+'michael b jones john regehr',2
+'aloysius k mok c douglas locke constance l heitmeyer kevin jeffay ragunathan rajkumar',2
+'michael b jones paul j leach richard p draves joseph s barrera iii',2
+'richard f rashid',2
+'michael b jones joseph s barrera iii alessandro forin paul j leach daniela rosu marcel catalin rosu',2
+'john regehr michael b jones john a stankovic',2
+'michael b jones john regehr',2
+'john regehr',2
+'michael b jones stefan saroiu',2
+'john regehr',2
+'michael b jones stefan saroiu',2
+'john regehr stefan saroiu',2
+'daniela rosu marcel catalin rosu',2
+'stefan saroiu',2
+'marvin theimer michael b jones',2
+'michael b jones john regehr',2
+'michael b jones john regehr',2
+'michael b jones john regehr stefan saroiu',2
+'michael b jones',2
+'mary r thompson richard f rashid',2
+'michael b jones',2
+'alec wolman anne marie kermarrec antony i t rowstron helenj wang marvin theimer miguel castro',2
+'michael b jones',2
+'alec wolman marvin theimer nicholas j a harvey stefan saroiu',2
+'michael b jones',2
+'michael b jones',2
+'michael b jones',2
+'michael b jones',2
+'nan',2
+'nan',2
+'nan',2
+'nan',2
+'nan',2
+'nan',2
+'andrew birrell edward wobber',2
+'william j bolosky richard p draves robert p fitzgerald christopher w fraser michael b jones todd b knoblock rick rashid',2
+'william j bolosky joseph s barrera iii richard p draves robert p fitzgerald garth a gibson michael b jones steven p levi nathan p myhrvold richard f rashid',2
+'luis felipe cabrera michael b jones marvin theimer',2
+'george m candea michael b jones',2
+'j hess d lee s harper p athanas',3
+'david c lee peter m athanas scott f midkiff',3
+'david a lehn kiran puttehowda jae h park p athanas',3
+'tom martin zahi nakad',3
+'paul e plassmann',3
+'tom martin zahi nakad',3
+'l scharf j scott c twaddle m yaconis k yao p athanas b schott',3
+'shashank mehrotra jae park',3
+'daniel szyld',3
+'jae park mukta nandwani paul e plassmann yanhua yi',3
+'michael tang paul e plassmann tom canfield',3
+'jae park paul e plassmann yanhua yi',3
+'merrell patrick',3
+'merrell l patrick',3
+'nan',3
+'william barry paul plassmann',3
+'eloise coupey',3
+'joshua edmison tom martin zahi nakad',3
+'j edmison z nakad t martin',3
+'lori a freitag paul e plassmann',3
+'lori freitag paul plassmann',3
+'lori freitag paul plassmann',3
+'robert gjertsen paul plassmann',3
+'paul plassmann',3
+'paul plassmann',3
+'paul plassmann',3
+'paul plassmann',3
+'p plassmann',3
+'paul e plassmann robert k gjertsen',3
+'paul plassmann',3
+'paul e plassmann',3
+'paul e plassmann',3
+'paul e plassmann',3
+'g buchanan a blandford h thimbleby',4
+'george buchanan harold w thimbleby',4
+'c eacute cile rigny harold w thimbleby yin leng theng',4
+'p curzon a blandford g marsden',4
+'p c woodland',4
+'e delgaldo p gough r noble p stenton',4
+'g buchanan',4
+'h dunlop s j cunningham',4
+'g buchanan h thimbleby',4
+'p jain g buchanan',4
+'g marsden n mohd nasir g buchanon',4
+'nan',4
+'y l theng c rigny h thimbleby',4
+'nan',4
+'g marsden',4
+'y l theng h thimbleby',4
+'g marsden',4
+'n mohd nasir g buchanon',4
+'y l theng c rigny h thimbleby',4
+'g marsden',4
+'y l theng h thimbleby',4
+'gary marsden harold w thimbleby paul gillary',4
+'h thimbleby a blandford p cairns p curzon m finlay jones d etienne eds j',4
+'gary marsden george buchanan',4
+'harold w thimbleby',4
+'gary marsden george buchanan harold w thimbleby michael j pazzani sarah farrant',4
+'h thimbleby g marsden',4
+'h thimbleby p cairns',4
+'h thimbleby y l theng',4
+'i h witten d bainbridge s j cunningham',4
+'g buchanan g marsden',4
+'p c woodland',4
+'p c woodland',4
+'g marsden n mohd nasir k boone',4
+'gary marsden george buchanan kevin boone norliza mohd nasir',4
+'g buchanan h thimbleby',4
+'g marsden h thimbleby p gillary',4
+'nan',4
+'gary marsden george buchanan preeti jain',4
+'nan',4
+'g marsden p gillary h thimbleby',4
+'nan',4
+'bonnie nardi elizabeth mynatt',4
+'g marsden',4
+'a steel m apperley',4
+'p jain g buchanan g marsden',4
+'david bainbridge george buchanan harold w thimbleby noel cassidy norliza mohd nasir yin leng theng',4
+'y l theng c rigny h thimbleby',4
+'j berleur p duquenoy d whitehouse',4
+'y l theng n mohd nasir g buchanan d bainbridge h thimbleby',4
+'ann blandford george buchanan harold w thimbleby',4
+'y l theng n mohd nasir h thimbleby g buchanan',4
+'stephen brewster',4
+'g buchanan h thimbleby s farrant',4
+'y l theng h thimbleby',4
+'george buchanan harold w thimbleby norliza mohd nasir yin leng theng',4
+'g buchanan g marsden',4
+'george buchanan norliza mohd nasir',4
+'g buchanan a blandford h thimbleby',4
+'nan',5
+'nan',5
+'s eacute amas kelly',5
+'geoff walsham',5
+'joe nandhakumar',5
+'helena karsten',5
+'pamela abbott',5
+'marios v karahannas',5
+'nan',5
+'jason eisner',6
+'david scott warren',6
+'van e kelly',6
+'dimitra vista divesh srivastava h v jagadish',6
+'premkumar t devanbu',6
+'premkumar t devanbu',6
+'nan',6
+'nan',6
+'tomaso poggio',7
+'tomaso poggio',7
+'paul a viola',7
+'paul a viola thomas d rikert',7
+'paul a viola',7
+'james m rehg',7
+'tomaso poggio',7
+'james m rehg',7
+'r satherley m w jones',8
+'min chen richard satherley steve m f treavett',8
+'richard satherley',8
+'m chen m w jones p townsend',8
+'richard satherly',8
+'m chen',8
+'m w jones ed',8
+'m w jones ed',8
+'m w jones',8
+'m w jones',8
+'m w jones',8
+'m w jones',8
+'m w jones m chen',8
+'t simpson m w jones',8
+'m w jones',8
+'s m f treavett m chen r satherley m w jones',8
+'m w jones',8
+'c whyley m w jones',8
+'m w jones r satherley',8
+'m w jones',8
+'m w jones',8
+'m w jones m chen',8
+'m w jones r satherley',8
+'m w jones r satherley',8
+'m w jones',8
+'r satherley m w jones',8
+'r satherley m w jones',8
+'r satherley m w jones',8
+'nan',8
+'r satherley m w jones',8
+'nan',8
+'min chen peter townsend',8
+'jim e greer permanand mohan',9
+'ken wellsch',9
+'nan',9
+'carl gutwin kim massie adolphe patrick brackett',9
+'barbara brecht',9

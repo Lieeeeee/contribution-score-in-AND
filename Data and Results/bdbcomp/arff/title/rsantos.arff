@@ -1,0 +1,24 @@
+@relation 'Dataset bdbcomp title rsantos'
+@attribute Text string
+@attribute class-att {174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190}
+@data
+'comunicacao pacot experiencia piloto rdsi',174
+'comutador pacot sistema compac',175
+'bias cluster method imag classif',176
+'algoritmo substituicao objeto cach internet baseado semantica',177
+'format character ni pt nisi mo devic applic',178
+'format stabil ni pt poli layer structur',178
+'litholog recognit neural network ensembl',179
+'semi automat methodolog local short mitochondri gene long sequenc',180
+'dimensionando data mart adequacao metrica funcion',181
+'aplicacao mineracao dado manutencao rede telefonia',182
+'extracao dado metadado texto semi estruturado usando hmm',183
+'deteccao intruso abordagem usando rede neurai',184
+'assistent configuracao biblioteca digitai componentizada',185
+'museum aplicacao m learn realidad virtual',186
+'desenvolvimento sig reconfiguracao rede energia eletrica interfac integrada',187
+'rdbm workflow support component digit librari',188
+'compon base digit librari servic find miss document',188
+'materializacao conceito softwar publico iniciativa cacic',189
+'energi awar schedul real time heterogen multiprocessor system chip',190
+'utilizacao chave algoritmo diff xml',190

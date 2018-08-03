@@ -1,0 +1,284 @@
+@relation 'Dataset dblp co-authors ktanaka'
+@attribute Text string
+@attribute class-att {212, 213, 214, 215, 216, 217, 218, 219, 220, 221}
+@data
+'e shinohara h matsumura h sunaga m takemoto',212
+'c hong s honda t yoneda y matsushita',212
+'k yoda k tajima',213
+'m yoshikawa r hull',213
+'m yoshikawa k ishihara',213
+'h schek m ozsu y zhang',213
+'r hull m yoshikawa',213
+'y kambayashi k takeda s yajima',213
+'y kambayashi',213
+'y kambayashi s yajima',213
+'y kambayashi s yajima',213
+'y kambayashi k takeda s yajima',213
+'y kambayashi s yajima',213
+'y kambayashi s yajima',213
+'y kambayashi k takeda',213
+'h kawagishi k koiso t matsumoto t mori',213
+'s kitamura',213
+'nan',213
+'s kitamura s tsuji',213
+'s ceri d tsur',213
+'s nishio',213
+'e oomoto',213
+'e oomoto',213
+'e oomoto',213
+'e oomoto',213
+'s pradhan t jozen',213
+'q qiang m tanizaki',213
+'n sanada',213
+'y sugiyama y kidawara',213
+'k sumiya r noda',213
+'k tajima m kitagawa y mizuuchi',213
+'s nishio k kagakusha',213
+'nan',213
+'nan',213
+'nan',213
+'nan',213
+'s ghosh y kambayashi',213
+'nan',213
+'nan',213
+'s yajima y kambayashi',213
+'nan',213
+'s ginsburg',213
+'s yajima y kambayashi',213
+'m yoshikawa k ishihara',213
+'m yoshikawa',213
+'k zettsu y kidawara',213
+'k zettsu k uehara',213
+'k zettsu k uehara n kimura',213
+'s ginsburg',213
+'s ginsburg',213
+'s ginsburg',213
+'c harris e saberdoti f bancilhon m kifer m brodie y masunaga',213
+'k harumoto k tajima m tsukamoto m arikawa s shimojo s nishio y ariki',213
+'k hatano r sano y duan',213
+'k hatano q qian',213
+'t hirose t hata y nakanishi',213
+'nan',213
+'t hirose y nakanishi',213
+'t hirose t hata',213
+'k ishihara m yoshikawa',213
+'y kambayashi',213
+'y kambayashi s yajima',213
+'nan',213
+'y kambayashi s yajima',213
+'y kambayashi',213
+'h kawagishi k koiso',213
+'h kawagishi k koiso t matsumoto',213
+'h kiyomitsu',213
+'s kobayashi t sakanoue',213
+'k koiso k kawakatsu t mori',213
+'k koiso t matsumoto',213
+'h kondo t matsukura y hirata',213
+'c matsumoto m qiang',213
+'c matsumoto m qiang',213
+'a nadamoto h kondo k sumiya m kusahara t hattori',213
+'a nadamoto',213
+'a nadamoto k sumiya m shikata',213
+'a nadamoto h kondo',213
+'a nadamoto h kondo',213
+'a nadamoto k koiso',213
+'a nadamoto a iizawa k sumiya t hattori t hashimoto y shirota',213
+'k nanba n nishikawa s hirayama',213
+'n nishikawa s hirayama k nanba',213
+'e ohmoto',213
+'h oiso j morishita k ohtsuki q qian s ueshima',213
+'t chang',213
+'h oiso k tajima m kamiura',213
+'e oomoto',213
+'e oomoto',213
+'q qian',213
+'t chang',213
+'m qiang s miyazaki',213
+'y shoham',213
+'k sumiya s oyama s nakajima',213
+'k sumiya r noda',213
+'k tajima s pradhan t sogo',213
+'k tajima s pradhan',213
+'a doi k sumiya k uehara t kawaguchi',213
+'k tajima s pradhan',213
+'k tajima s pradhan t sogo',213
+'k tajima',213
+'k tajima s pradhan',213
+'a takeuchi h kiyomitsu',213
+'k uehara y kidawara',213
+'c viet s yajima y kambayashi',213
+'c viet y kambayashi s yajima',213
+'t yabe',213
+'c yajima y nakanishi',213
+'s yajima y kambayashi',213
+'s yajima y kambayashi',213
+'k izaki m takizawa',214
+'h higaki m takizawa',214
+'h higaki m takizawa',214
+'h higaki m takizawa',214
+'h higaki m takizawa m katsumoto',214
+'m takizawa',214
+'m takizawa',214
+'m takizawa y timura',214
+'h higaki m takizawa n nemoto',214
+'k shimamura m takizawa',214
+'m takizawa y timura',214
+'m takizawa',214
+'k izaki m takizawa',214
+'m takizawa',214
+'m takizawa',214
+'m takizawa',214
+'k arai m takizawa',214
+'m takizawa m yokoyama',214
+'m takizawa y timura',214
+'m takizawa',214
+'h higaki m takizawa',214
+'h higaki m takizawa',214
+'h higaki m takizawa',214
+'m takizawa n nemoto',214
+'k izaki m takizawa',214
+'h higaki m takizawa',214
+'m takizawa',214
+'m takizawa',214
+'m takizawa n nemoto',214
+'h higaki m takizawa',214
+'m mitsuishi t nagao y yokokohji',214
+'m takizawa m yokoyama',214
+'k izaki m takizawa',214
+'m takizawa',214
+'k arai m takizawa',214
+'k shimamura m takizawa',214
+'m takizawa y timura',214
+'m mizumoto',215
+'m mizumoto',215
+'j toyoda t tsuji',215
+'j toyoda m mizumoto',215
+'m mizumoto m umano',215
+'j toyoda m mizumoto',215
+'j toyoda m mizumoto y ezawa',215
+'nan',216
+'m kikuchi',216
+'t morita',216
+'t morita',216
+'t morita',216
+'t morita',216
+'t morita',216
+'t morita',216
+'t morita k hiroike',216
+'y murai t morita',216
+'t horiguchi t morita',216
+'t horiguchi t morita',216
+'n hoshi t horiguchi',216
+'h ebisawa t morita',216
+'t morita',216
+'d furusato t horiguchi',216
+'t morita',216
+'t morita k hiroike',216
+'nan',216
+'t morita k hiroike',216
+'t horiguchi t morita',216
+'t horiguchi t morita',216
+'t morita',216
+'t horiguchi',216
+'j inoue d titterington',216
+'nan',216
+'j inoue',216
+'nan',216
+'nan',216
+'y honda t horiguchi',216
+'t morita',216
+'y takane h ebisawa t morita',216
+'t morita',216
+'nan',216
+'nan',216
+'j inoue d titterington',216
+'nan',216
+'t horiguchi',216
+'t horiguchi',216
+'t morita k hiroike',216
+'t horiguchi t morita',216
+'nan',216
+'m ichioka t morita',216
+'t morita',216
+'t morita',216
+'m ichioka t morita',216
+'t morita',216
+'t morita',216
+'t morita',216
+'t morita',216
+'y takane h ebisawa t morita',216
+'t horiguchi t morita',216
+'nan',216
+'nan',216
+'t yamazaki',216
+'j inoue',216
+'j inoue',216
+'j inoue',216
+'t morita',216
+'nan',216
+'n shioji',216
+'s simpson t yamazaki',216
+'nan',217
+'t nishino',217
+'t nishino',217
+'t nishino',217
+'m okada m vlach',217
+'k omura',217
+'s sung',217
+'s sung',217
+'m vlach',217
+'m vlach',217
+'m vlach',217
+'m vlach',217
+'m vlach',217
+'m vlach',217
+'m vlach',217
+'m vlach',217
+'m vlach',217
+'r hayashi t tatsuaki',217
+'t isshiki',217
+'t isshiki',217
+'t nishino r beals',217
+'t nishino',217
+'t okamoto s uchiyama',217
+'t okamoto s uchiyama',217
+'s sung',217
+'r beals t nishino',217
+'s sung',217
+'s uchiyama t okamoto',217
+'r beals t nishino',217
+'r beals t nishino',217
+'m halldorsson',217
+'m halldorsson',217
+'e aguirre t sugimura',218
+'e matsui',218
+'e takano t sugimura',218
+'e takano t sugimura',218
+'e tanigaki t sugimura s kondo',218
+'e umemura h aguirre',218
+'e yano',218
+'e aguirre',218
+'e aguirre t sugimura',218
+'e aguirre s oshita',218
+'e aguirre t sugimura s oshita',218
+'h aguirre',218
+'h aguirre s oshita t sugimura',218
+'h aguirre',218
+'k ichikawa k fukami k hiroshima m ichikawa s kondo s tanabe',218
+'e myodo h aguirre',218
+'e aguirre t sugimura s oshita',218
+'e aguirre',218
+'h aguirre t sugimura',218
+'a yokota h taki n abe y watanabe y kinoshita',219
+'j zheng n abe t ohtsuka',219
+'h taki n abe',219
+'a yokota h taki n abe y watanabe y kinoshita',219
+'h taki n abe',219
+'h abe m sasaki s sasaki t yamasaki y kudo',220
+'k kubota',220
+'nan',220
+'h wang t hori',220
+'d niemann h wang j li',220
+'s hudson',221
+'j heiner s hudson',221
+'j heiner s hudson',221

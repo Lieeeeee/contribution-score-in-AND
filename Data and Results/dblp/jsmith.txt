@@ -1,0 +1,904 @@
+0;155;j smith;n kransnogor;mafra java memet algorithm framework;workshop proceed the intern genet evolutionari comput gecco editor s wu;0
+1;155;j smith;n krasnogor;emerg profit search strategi simpl inherit mechan;spector l e goodman wu w b langdon h m voigt m gen s sen m dorigo s pezeshk m garzon e editor proceed the genet evolutionari comput gecco genet evolutionari comput san francisco comput anim morgan kaufmann publish;0
+2;155;j smith;n krasnogor,w hart,d pelta;protein structur predict evolutionari algorithm;proceed genet evolutionari comput banzhaf daida eiben garzon honovar jakiela smith editor morgan kaufmann;0
+3;155;j smith;n krasnogor,w hart;recent advanc memet algorithm;springer;0
+4;155;j smith;;co evolut memet algorithm initi result;merelo adam beyer fgenandez villacan schwefel ed parallel problem solv from natur ppsn parallel problem solv from natur vii springer verlag lnc;0
+5;155;j smith;;adapt parameteris evolutionari ststem self adapt recombin mutat steadi state genet algorithm;parallel problem solv from natur iv ed voigt ebel rechenberg schwefel springer verlag;0
+6;155;j smith;t fogarty;genet featur select cluster classif;iee colloquium genet algorithm imag process vision london iee digest;0
+7;155;j smith;;genet algorithm;handbook global optim volum heurist approach ed romeijn pardalo kluwer academ publish isbn;0
+8;155;j smith;;co evolut memet algorithm protein structur predict;hart krasnogor smith ed proceed the third intern workshop memet algorithm;0
+9;155;j smith;m bartley;microprocessor design verif two phase evolut variabl length test;proceed the ieee intern evolutionari comput ieee press;0
+10;155;j smith;;model ga self adapt mutat rate;spector l e goodman wu w b langdon h m voigt m gen s sen m dorigo s pezeshk m garzon e editor proceed the genet evolutionari comput gecco genet evolutionari comput san francisco comput anim morgan kaufmann publish;0
+11;155;j smith;r smith;new method tunabl random landscap;foundat genet algorithm martin spear ed morgan kaufmann;0
+12;155;j smith;;paramet perturb mechan binari code ga self adapt mutat;row poli dejong cotta ed foundat genet algorithm morgan kauffman;0
+13;155;j smith;;oper paramet adapt genet algorithm;pp soft comput springer verlag;0
+14;155;j smith;f vavak;replac strategi steadi state genet algorithm dynam environ;p journal comput inform technolog special issu evolutionari comput;0
+15;155;j smith;p solly;adapt imag segment visual interact feedback learn;i parme editor proceed acdm springer verlag;0
+16;155;j smith;a staggemeier,a clarke,u aickelin;hybrid genet algorithm solv lot size schedul problem;proceed the of intern feder oper research societi;0
+17;155;j smith;m steuer,p smith;modifi neocognitron network medic signal classif;proceed the intern neural network expert system medicin healthcar;0
+18;155;j smith;m steuer;altern approach evalu neocognitron;proceed the th european symposium artifici neural network bruge;0
+19;155;j smith;c stone;strategi paramet variat self adapt mutat rate;pp langdon et ed proceed the genet evolutionari comput morgan kaufmann;0
+20;155;j smith;a eiben;introduct evolutionari comput;isbn springer heidelberg new;0
+21;155;james smith;;appropri adapt level learn gene linkag;journal genet program evolv machin number;0
+22;155;james smith;b carr,w hart,n krasnogor,j hirst,e burke;align protein structur memet evolutionari algorithm;langdon et ed proceed the genet evolutionari comput morgan kaufmann;0
+23;155;jim smith;;co evolv memet algorithm initi investig;ppsn parallel problem solv from natur;0
+24;155;jim smith;t fogarty;self adapt mutat rate steadi state genet algorithm;intern evolutionari comput;0
+25;155;jim smith;n krasnogor;memet algorithm self adapt local search tsp as case studi;gecco genet evolutionari comput;0
+26;155;jim smith;t fogarty;adapt poli parent recombin strategi;evolutionari comput ed fogarti t c springer verlag;0
+27;155;jim smith;r smith;examin tuneabl random search landscap;foundat genet algorithm v banzhaf reev editor morgan kaufmann;0
+28;155;jim smith;t fogarty;recombin strategi adapt via evolut gene linkag;proceed ieee intern evolutionari comput;0
+29;155;jim smith;f vavak;replac strategi steadi state genet algorithm static environ;foundat genet algorithm v banzhaf reev editor morgan kaufmann;0
+30;155;jim smith;t fogarty;self adapt mutat rate steadi state genet algorithm;proceed ieee intern evolutionari comput ieee press;0
+31;155;jim smith;c stone;strategi paramet varieti self adapt mutat rate;gecco genet evolutionari comput;0
+32;155;jim smith;f vavak;replac strategi steadi state genet algorithm static environ;foga foundat genet algorithm workshop;0
+33;155;jim smith;t fogarty;adapt parameteris evolutionari self adapt recombin mutat genet algorithm;ppsn parallel problem solv from natur;0
+34;155;jim smith;t fogarty;evolv softwar test ga s learn self express;evolutionari comput aisb societi the studi artifici intellig the simul behaviour workshop;0
+35;155;jim smith;t fogarty;adapt poli parent recombin strategi;evolutionari comput aisb societi the studi artifici intellig the simul behaviour workshop;0
+36;155;jim smith;t fogarty;recombin strategi adapt via evolut gene linkag;intern evolutionari comput;0
+37;156;jim smith;a fernandes,a gounaris,n paton,p watson,r sakellariou;distribut queri process grid;grid grid comput;0
+38;156;jim smith;n paton,p watson,s sampaio;valid cost model parallel oql queri process;ooi object orient inform system;0
+39;156;jim smith;n paton,p watson,s sampaio;parallel algebra object databas;dexa databas expert system applic workshop;0
+40;156;jim smith;n paton,p watson,s sampaio;experi object navig parallel object databas;dexa databas expert system applic workshop;0
+41;156;jim smith;n paton,p watson,s sampaio;speed up navig request parallel object databas;euro par;0
+42;156;jim smith;n paton,p watson,s sampaio;experiment perform evalu join algorithm parallel object databas;euro par;0
+43;156;jim smith;;synchronis fault toler comput intens program network workstat;euro par;0
+44;156;jim smith;n paton,p watson,s sampaio;polar architectur parallel odmg compliant object databas;cikm intern inform knowledg manag;0
+45;156;jim smith;s shrivastava;fault toler execut comput intens program network workstat;euro par i;0
+46;157;j l smith;a leiner,r marimont,w notz;concurr oper comput;ifip intern feder inform process congress;0
+47;157;j l smith;a weinberger,a leiner,w notz;pilot new multipl comput;j acm;0
+48;157;j l smith;r drake;techniqu file recoveri;australian comput journal;0
+49;157;j l smith;d ryan,h mackenzie;experi britton lee base machin csironet;australian comput journal;0
+50;157;j l smith;h mackenzie;implement base manag;australian comput journal;0
+51;157;j l smith;;base organis arrai processor;australian comput journal;0
+52;157;j l smith;;altern architectur design distribut base;australian comput journal;0
+53;157;j l smith;d abel;simpl approach nearest neighbour problem;australian comput journal;0
+54;157;j l smith;d abel;structur queri algorithm databas areal entiti;australian comput journal;0
+55;158;j smith;g drake;simul real time plan schedul control;winter simul;0
+56;158;jeffrey s smith;b peters;simul as decis make tool real time control flexibl manufactur;icra intern robot autom;0
+57;158;jeffrey s smith;b peters,m snell,s jordan;distribut real time simul intrud detect analysi;winter simul;0
+58;158;jeffrey s smith;b peters,m madsen,m snell,s jordan;discret event simul design evalu physic protect;winter simul;0
+59;158;jeffrey s smith;a helton,d helton,e thompson,f gonzalez,g walterscheild;design solid state physic model autom be us as test bed control applic;winter simul;0
+60;158;jeffrey s smith;b peters,g drake;simul as plan schedul tool flexibl manufactur;winter simul;0
+61;158;jeffrey s smith;b peters,c lajimodiere,g drake,j curry;advanc tutori simul schedul control;winter simul;0
+62;158;jeffrey s smith;d sturrock,g smith,r wysk,s joshi,s ramaswamy;discret event simul shop floor control;winter simul;0
+63;159;j macgregor smith;;m g c k block probabl model perform;perform eval;0
+64;159;j macgregor smith;w li;quadrat assign problem m g c c state depend network flow;att solut;0
+65;159;j macgregor smith;w li;quadrat assign problem m g c c state depend network flow;journal combinatori optim;0
+66;159;j smith;n chikhale;buffer alloc class nonlinear stochast knapsack problem;;0
+67;159;j smith;;evacu network;encyclopedia optim be publish kluwer publish compani;0
+68;159;j smith;;quadrat set pack problem steiner tree their integr;paper intern journal mathemat algorithm;0
+69;159;j smith;r weiss,m pate;o nxn heurist steiner minim tree d;;0
+70;159;j smith;w smith;steiner ratio d;;0
+71;159;j smith;;steiner minim tree d theori algorithm applic;handbook combinatori optim be publish kluwer publish compani;0
+72;159;j smith;f cruz;buffer alloc problem gener finit buffer queueu network;;0
+73;159;j smith;b toppur;euclidean steiner minim tree minimum energi configur embed problem weight graph e;discret appli mathemat;0
+74;159;j smith;j weng;steiner minim tree on polygon obstacl;algorithmica;0
+75;159;j smith;;topolog network design state depend queue network;network;0
+76;159;j smith;p winter;path distanc heurist steiner problem undirect network;algorithmica;0
+77;159;j smith;s yuhaski;model circul build state depend queue model;queue syst;0
+78;159;j smith;d du,h rubinstein;advanc steiner tree new monograph steiner tree;kluwer publish compani;0
+79;159;j smith;r jain;model vehicular traffic flow m g c c state depend queue model;;0
+80;159;j smith;l kerbache;multi object rout within larg scale facil open finit queue network;ejor;0
+81;159;j smith;p kubat,c yum;design cellular network divers capac constraint;paper ieee transact reliabl;0
+82;159;j smith;p kubat;multi period network design problem cellular telecommun;ejor;0
+83;159;j smith;d mitchell;topolog network design pedestrian network;transport research seri;0
+84;160;j c smith;c deedman;applic expert technolog case law;icail intern artifici intellig law;0
+85;160;j c smith;;us lexicon inform retriev legal databas;icail intern artifici intellig law;0
+86;160;j c smith;d gelbart;beyond boolean search flexicon legal tex intellig;icail intern artifici intellig law;0
+87;160;j c smith;d gelbart;flexicon evalu statist rank model adapt intellig legal text manag;icail intern artifici intellig law;0
+88;160;j c smith;b atherton,d gelbart,j mcclean,k maccrimmon,l quintana,m shinehoft;artifici intellig legal discours flexlaw legal text manag;artifici intellig law;0
+89;160;j c smith;d gelbart;toward comprehens legal inform retriev;dexa databas expert system applic;0
+90;161;j smith;d barlow,j baum,m drummond,j finney,j thornton;theoret aspect protein conform;amino acid peptid protein specialist period report the royal societi chemistri;0
+91;161;j smith;b roux,j baudry,s crouzy;effici calcul two dimension adiabat free energi map applic isomer c c c n bond retin bacteriorhodopsin;journal comput chemistri;0
+92;161;j smith;s schwarzl,t tschopp,s fischer;can calcul ligand bind free energi be improv continuum solvent electrostat ideal ga entropi correct journal comput chemistri;;0
+93;161;j smith;c simon,m aalouach;model simul light activ membran protein dynam transit bacteriorhodopsin;faradai discuss;0
+94;161;j smith;g kneller;combin neutron scatter molecular dynam determin intern motion bio molecul;molecular simul;0
+95;161;j smith;a micu,n foloppe;comput simul bio molecular principl practic;current topic biophys ed p frangopol iasi univers press;0
+96;161;j smith;z cournia,a taly,a tournier,d mihailescu,g ullmann;conform transit protein membran;proc nato asi workshop novel approach structur dynam liquid rhode ed samio press;0
+97;161;j smith;s cusack,p poole,j finney;direct measur hydrat relat dynam chang lysozym inelast neutron scatter spectroscopi;journal biomolecular structur dynam;0
+98;161;j smith;j baudry,s hery,a lamy,a micu,m souaille;harmon anharmon dynam protein molecular crystal;nonlinear physic theori experi ed m alfini m boiti l martina f pempinelli world scientif;0
+99;161;j smith;m karplus;empir forc field studi geometri conform transit organ molecul;journal the american chemic societi;0
+100;161;j smith;b roux,j baudry,s crouzy;quantum chemic free energi simul analysi retin conform energet;journal chemic inform comput scienc;0
+101;161;j smith;a lamy,m kataoka,j yunoki,a petrescu,v receveur,p calmettes,d durand;motion nativ denatur protein;physica b condens matter;0
+102;161;j smith;s cusack,u pezzeca,b brooks,m karplus;inelast neutron scatter analysi low frequenc motion protein normal mode studi bovin pancreat trypsin inhibitor;journal chemic physic;0
+103;161;j smith;s cusack,b tidor,m karplus;inelast neutron scatter analysi low frequenc motion protein harmon damp harmon model bpti;journal chemic physic;0
+104;161;j smith;p calmettes,d durand,m desmadril,s corbin,g kneller,b roux;configur access fold denatur protein;statist mechan protein structur protein substrat interact ed s doniach plenum press new;0
+105;161;j smith;s cusack,k kuczera,b tidor,m karplus;intern dynam globular protein comparison theoret model neutron scatter measur;physica b;0
+106;161;j smith;f merzel,c verma,s fischer;protein hydrat water structur thermodynam;journal molecular liquid;0
+107;161;j smith;d durand,m field,s corbin,g kneller,b roux;supramolecular interact atom dynam protein peptid crystal;jump lattic wave liquid like diffus comput approach supramolecular chemistri ed g wipff kluwer;0
+108;161;j smith;k kuczera,m karplus;temperatur depend myoglobin dynam neutron spectra calcul from molecular dynam simul myoglobin;proceed the nation academi scienc u s;0
+109;161;j smith;;dynam biomolecul simul versu x rai neutron scatter experi;chapter comput simul biomolecul ed w f van gunsteren p k weiner j wilkinson kluwer escom leiden p;0
+110;161;j smith;;x rai neutron scatter as probe dynam biolog molecul;comput biochemistri biophys ed o becker d mackerel b roux m watanab marcel dekker new;0
+111;161;j smith;n bondar,r daniel,j finney,s fischer,m kataoka,a petrescu;protein fold dynam new insight from comput simul scatter experi;journal the physic societi suppl proc int symp asr ed s katano n metoki y morii y ishii;0
+112;161;j smith;;motion biomolecul compar simul experi;spectroscop techniqu biophys ed g m giacometti g giacometti io press;0
+113;161;j smith;;inelast quasielast neutron scatter complementar biomolecular simul;structur dynam biomolecul neutron synchrotron radiat condens matter studi volum iv univers press;0
+114;161;j smith;;interact dynam protein molecular crystal probe quantum chemistri comput simul scatter experi;current topic biophys;0
+115;161;j smith;;princip compon protein dynam transit;physic review letter press;0
+116;161;j smith;;protein dynam comparison simul inelast neutron scatter experi;quarterli review biophys;0
+117;161;j smith;;protein dynam studi inelast neutron scatter;ph d thesi birkbeck univers london;0
+118;161;j smith;;protein interact dynam probe quantum chemistri comput simul neutron experi;biophys chemistri;0
+119;161;j smith;j sopkova,m delaforge,h virelizier,c jankowski;oxid tetra hydro beta carbolin cytochrom p determin rationalis product distribut;european journal biochemistri;0
+120;161;j smith;j sopkova,s fischer,c guilbert,a bentley;pathwai larg scale conform chang annexin v;biochemistri;0
+121;161;j smith;j sopkova,f oling,s rety,a brisson,a bentley;s protein annexin interact model anx p heterotetram complex;biochimica et biophysica acta;0
+122;161;j smith;p calmettes,b roux,d durand,m desmadril;configur distribut denatur phosphoglycer kinas;journal molecular biologi;0
+123;161;j smith;m souaille,a dianoux,f guillaume;dynam n nonadecan chain urea inclus compound as seen incoher quasielast neutron scatter comput simul;observ predict simul phase transit complex fluid ed m bau l f rull j p ryckaert nato asi seri;0
+124;161;j smith;m souaille;molecular dynam analysi charg fluctuat associ far infrar absorpt water;molecular physic;0
+125;161;j smith;m souaille,f guillaume;molecular dynam analysi alkan dynam urea inclus compound i comparison quasielast neutron scatter experi;journal chemic physic;0
+126;161;j smith;m souaille,f guillaume;molecular dynam analysi alkan dynam urea inclus compound ii rotat distribut elast incoher structur factor;journal chemic physic;0
+127;161;j smith;m souaille,f guillaume;simul collect dynam n nonadecan urea inclus compound;journal physic chemistri;0
+128;161;j smith;b svensson,c etchebest,p tuffery,p kan,s a;model photosystem ii reaction centr core includ structur primari donor p;biochemistri;0
+129;161;j smith;b svensson,c etchebest,p tuffery,s a;structur model deriv molecular mechan core photosystem ii reaction centr includ redox compon;proceed ix intern congress photo synthesi nagoya ed murata kluwer academ publish;0
+130;161;j smith;a taly,p sebban,g ullmann;structur chang q b pocket photosynthet reaction center depend ph theoret analysi proton uptak upon q b reduct;biophys journal;0
+131;161;j smith;c souaille;structur ma toxin antibodi antigen complex combin model function map result;protein engin;0
+132;161;j smith;c souaille;structur model complex between snake toxin antibodi that mimick acetylcholin receptor;protein structur function genet;0
+133;161;j smith;p calmettes,d durand,p minard,m desmadril,v receveur;how random is highli denatur protein biophys chemistri;;0
+134;161;j smith;c tenette,c topham;potenti function develop conform search strategi simul biomolecular recognit process;biochem societi transact;0
+135;161;j smith;c tenette,f ducancel;structur model anti snake toxin antibodi ma;protein structur function genet;0
+136;161;j smith;a thomas,b roux;comput simul intern flexibl seri cyclic peptid analog;biopolym;0
+137;161;j smith;c topham;potenti energi function drug design lexitropsin dna minor groov binder;journal chimi physiqu;0
+138;161;j smith;c topham;influenc helix morpholog cooper polyamid backbon conform flexibl peptid nucleic acid complex;journal molecular biologi;0
+139;161;j smith;a tournier,j xu;solvent cage intern motion myoglobin at low temperatur;physchemcomm;0
+140;161;j smith;a tournier,s schwarzl,d huang,s fischer;time resolv comput protein biochemistri solvent effect interact conform transit equilibrium fluctuat;faradai discuss;0
+141;161;j smith;a tournier,j xu;translat hydrat water dynam drive protein glass transit;biophys journal;0
+142;161;j smith;a vaiana,h neuweiler,a schulz,j wolfrum,m sauer;fluoresc quench dye tryptophan interact at atom detail from combin experi comput simul;journal the american chemic societi press;0
+143;161;j smith;a vaiana,a schulz,j wolfrum,m sauer;molecular mechan forc field parameter fluoresc probe rhodamin g autom frequenc match;journal comput chemistri;0
+144;161;j smith;p calmettes,d durand,m desmadril,p minard;structur protein denatur guanidinium chlorid journal de physiqu iv c;;0
+145;161;j smith;b velikson,t garel,j niel,h orland;conform distribut hepta alanin analysi new mont carlo chain growth method;journal comput chemistri;0
+146;161;j smith;b velikson,p cohen,m rholam,j rose;structur model pro ocytocin neurophysin precursor;protein engin;0
+147;161;j smith;s justin,l pillet,f ducancel,a thomas,j boulain,a menez;engin protein epitop singl delet gener full bind capac previous unrecogn antibodi;protein engin;0
+148;161;j smith;z cournia,a vaiana,g ullmann;deriv molecular mechan forc field cholesterol;journal pure appli chemistri press;0
+149;161;j smith;s crouzy,j baudry,b roux;effici calcul two dimension adiabat free energi map applic isomer c c c n bond retin bacteriorhodopsin;journal comput chemistri;0
+150;161;j smith;p cuniasse,a thomas,h thanh,m leonetti,a menez;structur basi antibodi cross reactiv solut conform immunogen peptid fragment deriv from snake toxin b epitop;biochemistri;0
+151;161;j smith;s cusack,m karplus,j finney;low frequenc dynam bpti studi inelast neutron scatter;structur dynam function biomolecul ed ehrenberg rigler graslund nilsson springer verlag;0
+152;161;j smith;j baudry,r hayward,h middendorf;collect vibrat crystallin alanin dipeptid at veri low temperatur;biolog macromolecular dynam ed s cusack h buttner m ferrand p langan p timmin adenin press;0
+153;161;j smith;s cusack,j finney,m karplus,j trewhella;low frequenc dynam protein studi neutron time flight spectroscopi;physica b;0
+154;161;j smith;s cusack,j finney,b tidor,m karplus;inelast neutron scatter analysi picosecond intern protein dynam comparison harmon theori experi;journal molecular biologi;0
+155;161;j smith;r daniel,m ferrand,s hery,r dunn,j finney;enzym activ below dynam transit at k;biophys journal;0
+156;161;j smith;r daniel,j finney,v reat,r dunn,m ferrand;enzym dynam activ timescal depend dynam transit glutam dehydrogenas solut;biophys journal;0
+157;161;j smith;r daniel,j finney;dynam transit enzym mai have simpl explan;faradai discuss;0
+158;161;j smith;r daniel,r dunn,j finney;role dynam enzym activ;annual review biophys biomolecular structur;0
+159;161;j smith;s dellerue,a petrescu,s longeville,m funel;collect dynam photosynthet protein probe neutron spin echo spectroscopi molecular dynam simul;physica b;0
+160;161;j smith;s dellerue,a petrescu,m funel;radial soften diffus motion globular protein;biophys journal;0
+161;161;j smith;a dianoux,g kneller,j sauvajol;dynam pure sodium dope polyacetylen;aip proceed e c c c comput chemistri ed f bernardi j l rivail american institut physic new;0
+162;161;j smith;a dianoux,g kneller,j sauvajol;dynam sodium dope polyacetylen;journal chemic physic;0
+163;161;j smith;j baudry,s crouzy,b roux;from sequenc structur function model simul light activ membran protein;genom proteom ed s suhai kluwer plenum;0
+164;161;j smith;a dianoux,g kneller,j sauvajol;polar densiti state crystallin polyacetylen molecular dynam analysi comparison neutron scatter result;journal chemic physic;0
+165;161;j smith;a dianoux,j sauvajol,g kneller;polar densiti state pristin sodium dope polyacetylen;journal noncrystallin solid;0
+166;161;j smith;r dunn,v reat,j finney,m ferrand,r daniel;enzym dynam activ xylanas activ absenc fast anharmon motion;biochem journal;0
+167;161;j smith;d durand,m quilichini,m field;lattic vibrat crystallin l alanin;biopolym;0
+168;161;j smith;a kettani;pathwai conform chang seryl t rna synthetas from thermu thermophilu;compt rendu l academi de scienc iii scienc vie;0
+169;161;j smith;p faure,a micu,d perahia,j doucet,j benoit;correl motion x rai diffus scatter lysozym;natur structur biologi;0
+170;161;j smith;m ferrand,g zaccai,m nina,c etchebest,b roux;structur dynam bacteriorhodopsin comparison simul experi feb letter;;0
+171;161;j smith;s fischer,c verma;dissect vibrat entropi chang protein ligand bind burial water molecul bovin pancreat trypsin inhibitor;journal physic chemistri b;0
+172;161;j smith;n foloppe,j breton;conform energet partial symmetr photosynthet reaction center;chemic physic letter;0
+173;161;j smith;n foloppe,j breton;potenti energi function photosynthet reaction centr chromophor energi minim crystallin bacteriopheophytin analog;bacteri photosynthet reaction center ii structur spectroscopi dynam nato asi seri life scienc ed j breton a vermeglio;0
+174;161;j smith;j baudry;hydrogen bond cooper f q barrier n methylacetamid;journal molecular structur theo chem chemistri;0
+175;161;j smith;n foloppe,m ferrand,j breton;structur model photosynthet reaction center rhodobact capsulatu protein structur function genet;;0
+176;161;j smith;s corbin,r lavery;low frequenc vibrat helic helicoid analysi polyalanin deoxymyoglobin molecular dynam trajectori;biopolym;0
+177;161;j smith;s corbin,g kneller;picosecond time scale rigid bodi helix side chain motion myoglobin;protein structur function genet;0
+178;161;j smith;s corbin,g kneller;protein simul supercomput;jornad supercomputaci catalunya catsupercomp ed fundaci catalana per recerca;0
+179;161;j smith;t garel,j niel,h orland,b velikson;comparison new mont carlo peptid conform search procedur high temperatur molecular dynam;journal chimi physiqu;0
+180;161;j smith;j garen,m field,g kneller,m karplus;torsion dynam methyl ammonium group crystallin l alanin;journal chimi physiqu;0
+181;161;j smith;d genest,s hery;fluctuat correl crystallin lysozym;journal chemic inform comput scienc;0
+182;161;j smith;a gruia,s fischer;comput simul protein unfold;proceed high perform comput scienc engin ed e kraus w j ger springer verlag;0
+183;161;j smith;a gruia,s fischer;molecular dynam simul reveal surfac salt bridg form kinet trap unfold truncat staphylococc nucleas;protein structur function genet;0
+184;161;j smith;c guilbert,f ricard;dynam simul mous prion protein;biopolym;0
+185;161;j smith;j baudry,s crouzy,b roux;quantum chemic free energi simul analysi retin conform energet;journal chemic inform comput scienc;0
+186;161;j smith;r hayward,h middendorf,u wanderlingh;dynam crystallin acetanilid analysi inelast neutron scatter comput simul;journal chemic physic;0
+187;161;j smith;j hayward,j finney,r daniel;molecular dynam decomposit temperatur depend elast neutron scatter protein solut;biophys journal;0
+188;161;j smith;j hayward,j finney,r daniel;us comput simul understand elast neutron scatter from complex small protein variou solvent;chemic physic;0
+189;161;j smith;j hayward;temperatur depend protein dynam comput simul analysi neutron scatter properti;biophys journal;0
+190;161;j smith;s hery,m souaille;dynam biomolecul simul versu x rai far infrar experi;biomolecular structur dynam ed g vergoten t theophanid kluwer;0
+191;161;j smith;s hery,d genest;dynam protein correl diffus;physica b;0
+192;161;j smith;s hery,d genest;fluctuat correl crystallin lysozym;journal chemic inform comput scienc;0
+193;161;j smith;s hery,d genest;x rai diffus scatter rigid bodi motion crystallin lysozym probe molecular dynam simul;journal molecular biologi;0
+194;161;j smith;t huynh,g musat,j neumann,a sanson;molecular dynam simul isol domain i annexin i;theoret chemistri account;0
+195;161;j smith;j baudry,s crouzy,b roux;simul analysi retin conform equilibrium dark adapt bacteriorhodopsin;biophys journal;0
+196;161;j smith;t huynh,a sanson;protein unfold transit intrins unstabl annexin domain molecular dynam simul comparison nuclear magnet reson;biophys journal;0
+197;161;j smith;d durand,m field,s corbin,g kneller,b roux;structur dynam function hydrogen bond network protein relat;hydrogen bond network ed j dore m c beliss funel kluwer;0
+198;161;j smith;m kataoka,m ferrand,a lamy,h kamikubo,j yunoki,t oka;dynam structur modif staphylococc nucleas c termin truncat;physica b;0
+199;161;j smith;m kataoka,h kamikubo,h nakagawa,s parker;neutron inelast scatter as high resolut vibrat spectroscopi new tool studi protein dynam;spectroscopi;0
+200;161;j smith;m klein,m marchi;potenti energi function molecular simul;journal chimi physiqu;0
+201;161;j smith;g kneller;liquid like side chain dynam myoglobin;journal molecular biologi;0
+202;161;j smith;g kneller,w doster,m settles,s cusack;methyl group dynam crystallin alanin dipeptid combin comput simul inelast neutron scatter analysi;journal chemic physic;0
+203;161;j smith;a lamy;denatur truncat staphylococc nucleas molecular dynam simul at k;journal the american chemic societi;0
+204;161;j smith;a lamy,j yunoki,s parker,m kataoka;high resolut vibrat inelast neutron scatter new spectroscop tool globular protein;journal the american chemic societi;0
+205;161;j smith;a lamy,m souaille;simul evid experiment detect low temperatur vibrat inhomogen globular protein;biopolym;0
+206;161;j smith;t becker;energi resolut dynam heterogen effect elast incoher neutron scatter from molecular;physic review e;0
+207;161;j smith;a mackerell,d bashford,m bellott,r dunbrack,j evenseck,m field,s fischer,j gao,h guo,s ha,d joseph,l kuchni,k kuczera,f lau,c mattos,s michnick,t ngo,d nguyen,b prodhom,i reiher,b roux,m schlenkrich,r stote,j straub,m watanabe,j kuczera,d yin,m karplus;all atom empir potenti molecular model dynam studi protein;journal physic chemistri b;0
+208;161;j smith;p manivet,b schneider,d choi,l maroteaux,o kellermann,j launay;serotonin bind site human murin ht b receptor molecular model site direct mutagenesi;journal biolog chemistri;0
+209;161;j smith;f merzel;calcul small angl scatter intens from molecular dynam simul;cellular molecular biologi letter;0
+210;161;j smith;f merzel;method calcul small angl x rai neutron scatter associ molecular envelop from explicit atom model solvat protein;acta crystallographica section d;0
+211;161;j smith;f merzel;is first hydrat shell lyzozym higher densiti than bulk water proceed nation academi scienc u;s;0
+212;161;j smith;a micu,d durand,m quilichini,m field;collect vibrat crystallin l alanin;journal physic chemistri;0
+213;161;j smith;a micu;serena program calcul x rai diffus scatter from molecular dynam trajectori;comput physic commun;0
+214;161;j smith;d mihailescu;comput simul energi transduc protein peptid membran interact;ac proceed press;0
+215;161;j smith;d mihailescu,j reed;converg peptid fold simul multipl trajectori potenti aid pharmacophor;biopolym;0
+216;161;j smith;d mihailescu;molecular dynam simul cyclic decapeptid antibiot gramicidin s dimethyl sulfoxid solut;journal physic chemistri b;0
+217;161;j smith;t becker,s fischer,f noe,a tournier,g ullmann;protein dynam glass transit mechan function;advanc solid state physic;0
+218;161;j smith;d mihailescu,j reed;solut structur put hiv immunogen peptid comput simul princip cd bind domain gp;journal medicin chemistri;0
+219;161;j smith;d mihailescu;atom detail peptid membran inter action molecular dynam simul gramicidin s dmpc bilay;biophys journal;0
+220;161;j smith;k moeller,g williams,c hirshmugl,s steinhauser;hydrat depend far infrar absorpt lysozym detect synchrotron radiat;biophys journal;0
+221;161;j smith;n morelon,g kneller,m ferrand,a grand,m bee;dynam alkan chain includ organ matrix molecular dynam simul comparison neutron experi;journal chemic physic;0
+222;161;j smith;g musat,j neumann,a sanson;structur human annexin i comparison homolog model crystallograph experi;biochimi;0
+223;161;j smith;f nardi,w doster,b tidor,m karplus,s cusack;dynam trna experiment neutron spectra compar normal mode analysi;journal chemistri;0
+224;161;j smith;h neuweiler,a schulz,a vaiana,s kaul,j wolfrum,m sauer;detect individu p autoantibodi quench peptid molecular probe;angewandt chemi intl ed;0
+225;161;j smith;m nina,b roux;ab initio quantum chemic analysi retin schiff base hydrat bacteriorhodopsin;journal molecular structur theochem;0
+226;161;j smith;m nina,b roux;function interact bacterio rhodopsin theoret analysi retin hydrogen bond water;biophys journal;0
+227;161;j smith;m nina,b roux;ground state potenti surfac calcul butadien retin;structur function retin protein ed j l rigaud inserm john libbei eurotext ltd;0
+228;161;j smith;m funel,r daniel,d durand,m ferrand,j finney,s pouget;nanosecond protein dynam first detect neutron incoher spin echo signal;journal the american chemic societi;0
+229;161;j smith;f noe,s schwarzl,s fischer;comput tool analyz structur chang protein solut;appli bioinformat press;0
+230;161;j smith;a north;radial distribut water water distanc protein crystal;intern journal biolog macromolecul;0
+231;161;j smith;a petrescu,p calmettes,d durand,v receveur;chang backbon torsion angl distribut protein fold;protein scienc;0
+232;161;j smith;a petrescu,p calmettes,v receveur;exclud volum configur distribut strongli denatur protein;protein scienc;0
+233;161;j smith;a petrescu,v receveur,p calmettes,d durand,m desmadril,b roux;small angl neutron scatter strongli denatur protein analysi random polym theori;biophys journal;0
+234;161;j smith;v reat,j finney,w steer,m roberts,r dunn,m peterson,r daniel;cryosolv us protein enzym studi below oc;journal biochem biophys method;0
+235;161;j smith;v reat,r dunn,m ferrand,j finney,r daniel;solvent depend dynam transit protein solut;proceed the nation academi scienc u s;0
+236;161;j smith;v receveur,p calmettes,m desmadril,g coddens,d durand;picosecond dynam chang phospho glycer kinas denatur reveal quasielast neutron scatter;protein structur function genet;0
+237;161;j smith;e rittger,g kneller,a micu,m souaille;dynam protein spectroscopi scatter simul;aip proceed e c c c comput chemistri ed f bernardi j l rivail american institut physic new;0
+238;161;j smith;b roux,m nina,r pomes;thermodynam stabil water molecul bacteriorhodopsin proton channel molecular dynam free energi perturb studi;biophys journal;0
+239;161;jeremy c smith;s schwarzl,s fischer,t tschopp;can calcul ligand bind free energi be improv continuum solvent electrostat ideal ga entropi correct;journal comput chemistri;0
+240;161;jeremy c smith;s schwarzl,d huang,s fischer;how well doe charg reparametris account solvent screen molecular mechan calcul exampl myosin;silico biologi;0
+241;161;jeremy c smith;d huang,s schwarzl,s fischer;how well doe charg reparametris account solvent screen molecular mechan calcul exampl myosin;silico biologi;0
+242;162;j smith;;field mice extract hand geometri from electr field measur;ibm system journal;0
+243;162;joshua r smith;b comiskey;modul inform hide imag;inform hide;0
+244;162;joshua r smith;c dodge;develop steganographi;inform hide;0
+245;162;joshua r smith;d allport,j paradiso,n gershenfeld,t zimmerman;appli electr field sens human comput interfac;chi human factor comput system;0
+246;162;joshua r smith;;design biomorph interact genet algorithm;icga intern comput game associ;0
+247;163;j smith;j letkowski,k baclawski,l hart,m kokar,p emery,p kogut;extend unifi model languag ontolog develop;softwar system model;0
+248;163;jeffrey e smith;k baclawski,k passino,m kokar;map applic control architectur specif problem;iwsa intern workshop self adapt softwar;0
+249;163;jeffrey e smith;j letkowski,k baclawski,m kokar;consist check rm odp specif;woodpeck workshop open distribut process comput knowledg engin realis;0
+250;163;jeffrey e smith;k baclawski,m kokar;formal verif uml diagram first step toward code gener;puml;0
+251;163;jeffrey e smith;j letkowski,k baclawski,l hart,m aronson,m kokar,p kogut,w iii;extend uml support ontolog engin semant web;uml unifi model languag;0
+252;164;jim q smith;r settimi;geometri bayesian graphic model hidden variabl;uai uncertainti artifici intellig;0
+253;164;jim q smith;a gargoum,r settimi;approxim learn complex dynam bayesian network;uai uncertainti artifici intellig;0
+254;164;jim q smith;r puch;find train packag assess forens fibr evid;micai;0
+255;164;jim q smith;k papamichail;fast bay dynam junction forest;artif intel;0
+256;165;alan jay smith;a huang,b wah,d douglas,d degroot,h stone,h jordan,h siegel,j jamp,j dennis,j goodman,k batcher,l snyder,r tuck,s abraham,t casavant,t feng,w bain,y patt;report purdu workshop grand challeng comput architectur support high perform comput;j parallel distrib comput;0
+257;165;j smith;j cantin,m lipasti;dynam verif cach coher protocol;workshop memori perform issu gothenburg;0
+258;165;j smith;a dhodapkar;dynam microarchitectur adapt via co design virtual machin;intern solid state circuit;0
+259;165;j smith;a dhodapkar,g cai;integr perform power thermal model;journal circuit system comput;0
+260;165;j smith;a dhodapkar;save restor implement context co design virtual machin;workshop complex effect design gothenburg;0
+261;165;j smith;r espasa,m valero;vector architectur past present futur;intern supercomput;0
+262;165;j smith;t heil;concurr garbag collect hardwar assist profil;intern symposium memori manag;0
+263;165;j smith;t heil;select dual path execut;ec tech report;0
+264;165;j smith;;dynam instruct schedul astronaut zs;ieee comput;0
+265;165;j smith;s sastry,r bodik;character coars grain reus comput;rd acm workshop feedback direct dynam optim;0
+266;165;j smith;s sastry,t heil,t bezenek;achiev high perform via co design virtual machin;intern workshop innov architectur maui high perform comput center;0
+267;165;j smith;s vajapeyam;trace processor move fourth gener microarchitectur;ieee comput;0
+268;165;j smith;b vanderwarn,c rozewski,d fowler,g dermer,j laudon,k scidmore,s klinger;zs central processor;asplo architectur support program languag oper system;0
+269;165;j smith;s weiss;powerpc alpha tale two risc;ieee comput;0
+270;165;james e smith;;character comput perform singl number;commun acm;0
+271;165;james e smith;;instruct level distribut process;hipc;0
+272;165;james e smith;;instruct level distribut process adapt futur technolog;ishpc high perform comput;0
+273;165;james e smith;;instruct level distribut process;ieee comput;0
+274;165;james e smith;;exist combin logic circuit exhibit multipl redund;ieee tran comput;0
+275;165;james e smith;;retrospect decoupl access execut architectur;year isca intern symposium comput architectur retrospect reprint;0
+276;165;james e smith;;retrospect implement precis interrupt pipelin processor;year isca intern symposium comput architectur retrospect reprint;0
+277;165;james e smith;;retrospect studi branch predict strategi;year isca intern symposium comput architectur retrospect reprint;0
+278;165;james e smith;;studi branch predict strategi;isca intern symposium comput architectur;0
+279;165;james e smith;r bodik,s sastry;rapid profil via stratifi sampl;isca intern symposium comput architectur;0
+280;165;james e smith;r canal,a gonzalez;veri low power pipelin signific compress;rd int symp microarchitectur;0
+281;165;james e smith;;comment redund test combin network;ieee tran comput;0
+282;165;james e smith;j cantin,m lipasti;complex verifi memori coher;spaa acm symposium parallel algorithm architectur;0
+283;165;james e smith;a dhodapkar;manag multi configur hardwar via dynam work set analysi;isca intern symposium comput architectur;0
+284;165;james e smith;r espasa,m valero;out order vector architectur;th int symp microarchitectur;0
+285;165;james e smith;g faanes,l kontothanassis,m scott,r sugumar;cach perform vector supercomput;supercomput;0
+286;165;james e smith;g faanes,r sugumar;vector instruct set support condit oper;isca intern symposium comput architectur;0
+287;165;james e smith;;decoupl access execut comput architectur;year isca intern symposium comput architectur retrospect reprint;0
+288;165;james e smith;a gonzalez,j gonzalez,j aragon;dual path instruct process;ic intern supercomput;0
+289;165;james e smith;a gonzalez,r canal;veri low power pipelin signific compress;micro intern symposium microarchitectur;0
+290;165;james e smith;j goodman;instruct cach replac polici organ;ieee tran comput;0
+291;165;james e smith;j goodman;studi instruct cach organ replac polici;isca intern symposium comput architectur;0
+292;165;james e smith;s gopal,t vijaykumar,g sohi;specul version cach;fourth int symp high perform comput architectur;0
+293;165;james e smith;t heil,z smith;improv branch predictor correl valu;micro intern symposium microarchitectur;0
+294;165;james e smith;t heil;relat profil enabl thread level parallel virtual machin;rd int symp microarchitectur;0
+295;165;james e smith;c holt;diagnosi asymmetr invalid;ieee tran comput;0
+296;165;james e smith;;detect fault programm logic arrai;ieee tran comput;0
+297;165;james e smith;c holt;self diagnosi distribut;ieee tran comput;0
+298;165;james e smith;c hsiung,w hsu;futur gener purpos supercomput architectur;supercomput;0
+299;165;james e smith;w hsu;perform cach dram organ vector supercomput;isca intern symposium comput architectur;0
+300;165;james e smith;w hsu;perform studi instruct cach prefetch method;ieee tran comput;0
+301;165;james e smith;w hsu;prefetch supercomput instruct cach;supercomput;0
+302;165;james e smith;e jacobsen,e rotenberg;assign confid condit branch predict;th annual intern symposium microarchitectur;0
+303;165;james e smith;q jacobson;instruct pre process trace processor;fifth int symp high perform comput architectur;0
+304;165;james e smith;q jacobson,e rotenberg;path next trace predict;th int symp microarchitectur;0
+305;165;james e smith;q jacobson;trace preconstruct;proceed the th annual intern symposium comput architectur;0
+306;165;james e smith;n jouppi,s palacharla;complex effect superscalar processor;isca intern symposium comput architectur;0
+307;165;james e smith;h kim;instruct set microarchitectur instruct level distribut process;isca intern symposium comput architectur;0
+308;165;james e smith;s kunkel;pipelin regist storag architectur;icpp intern parallel process;0
+309;165;james e smith;s kunkel;optim pipelin supercomput;isca intern symposium comput architectur;0
+310;165;james e smith;p lam;theori total self check design;ieee tran comput;0
+311;165;james e smith;c lee;studi partit vector regist file;supercomput;0
+312;165;james e smith;g metze;strongli fault secur logic network;ieee tran comput;0
+313;165;james e smith;s nussbaum;model superscalar processor via statist simul;pact parallel comput technolog intern parallel architectur compil techniqu barcelona;0
+314;165;james e smith;s nussbaum;statist simul symmetr multiprocessor;annual simul symposium;0
+315;165;james e smith;s palacharla,n jouppi;complex effect superscalar processor;th int symp comput architectur;0
+316;165;james e smith;;measur effect fault signatur analysi;ieee tran comput;0
+317;165;james e smith;s palacharla;decoupl integ execut superscalar processor;micro intern symposium microarchitectur;0
+318;165;james e smith;n pang,s weiss;simul studi decoupl architectur comput;ieee tran comput;0
+319;165;james e smith;a pleszkun;implement precis interrupt pipelin processor;ieee tran comput;0
+320;165;james e smith;a pleszkun;implement precis interupt pipelin processor;year isca intern symposium comput architectur retrospect reprint;0
+321;165;james e smith;a pleszkun;implement precis interrupt pipelin processor;isca intern symposium comput architectur;0
+322;165;james e smith;e rotenberg;control independ trace processor;int symp microarchitectur;0
+323;165;james e smith;e rotenberg,q jacobson;path next trace predict;micro intern symposium microarchitectur;0
+324;165;james e smith;e rotenberg,e jacobsen;assign confid condit branch predict;micro intern symposium microarchitectur;0
+325;165;james e smith;e rotenberg,q jacobson;studi control independ superscalar processor;proceed the th annual intern symposium high perform comput architectur;0
+326;165;james e smith;e rotenberg,s bennett;trace cach low latenc approach high bandwidth instruct fetch;annual intern symposium microarchitectur;0
+327;165;james e smith;;univers diagnosi algorithm;ieee tran comput;0
+328;165;james e smith;e rotenberg,s bennett;trace cach microarchitectur evalu;ieee tran comput;0
+329;165;james e smith;s nussbaum;model superscalar processor via statist simul;ieee pact parallel comput technolog;0
+330;165;james e smith;s sastry,s palacharla;exploit idl float point resourc integ execut;acm program languag design implement;0
+331;165;james e smith;s sastry,r bodik;rapid profil via stratifi sampl;th int symposium comput architectur;0
+332;165;james e smith;y sazeides;limit valu predict;intern journal parallel program;0
+333;165;james e smith;y sazeides;model program predict;proceed the th intern symposium comput architectur;0
+334;165;james e smith;y sazeides;predict valu;th int symp microarchitectur;0
+335;165;james e smith;n sharma,q jacobson,s bennett;control flow specul multiscalar processor;hpca intern symposium high perform comput architectur;0
+336;165;james e smith;;necessari suffici condit multipl fault undetect;ieee tran comput;0
+337;165;james e smith;g faanes,r sugumar;vector instruct set support condit oper;proceed the th annual intern symposium comput architectur;0
+338;165;james e smith;;instruct level distribut process;th intern high perform comput hipc bangalor;0
+339;165;james e smith;g sohi,j goodman;restrict fetch phi oper parallel process;ic intern supercomput;0
+340;165;james e smith;g sohi,s gopal,t vijaykumar;specul version cach;hpca intern symposium high perform comput architectur;0
+341;165;james e smith;g sohi,s gopal,t vijaykumar;specul version cach;ieee tran parallel distrib syst;0
+342;165;james e smith;m valero,r espasa;vector architectur past present futur;intern supercomput;0
+343;165;james e smith;m valero,r espasa;out order vector architectur;micro intern symposium microarchitectur;0
+344;165;james e smith;;separ unord code;ieee tran comput;0
+345;165;james e smith;s vassiliadis,y sazeides;perform potenti depend specul collaps;micro intern symposium microarchitectur;0
+346;165;james e smith;s weiss;instruct issu logic pipelin supercomput;isca intern symposium comput architectur;0
+347;165;james e smith;s weiss;instruct issu logic pipelin supercomput;ieee tran comput;0
+348;165;james e smith;s weiss;studi scalar compil techniqu pipelin supercomput;asplo architectur support program languag oper system;0
+349;165;james e smith;s weiss;studi scalar compil techniqu pipelin supercomput;acm tran math softw;0
+350;165;jim smith;e rotenberg,q jacobson,y sazeides;trace processor;th int symp microarchitectur;0
+351;166;jeffrey d smith;c potts,k ota,k takahashi,v kumar;hypermedia support collabor requir analysi;icr;0
+352;166;jeffrey d smith;k takahashi;multimedia architectur support requir analysi;idm interact distribut multimedia system telecommun servic;0
+353;166;jeffrey d smith;c potts,k ota,k takahashi;evalu inquiri requir analysi internet servic;re ieee int conf requir engin;0
+354;166;jeffrey d smith;f cao,k takahashi;architectur distribut media server support guarante qo media index;icmc intern multimedia comput system;0
+355;167;james smith;e burke,j hirst,n krasnogor,r carr,w hart;align protein structur memet evolutionari algorithm;gecco genet evolutionari comput;0
+356;167;james smith;e burke;memet algorithm schedul plan mainten nation grid;acm journal experiment algorithm;0
+357;167;james smith;;appropri adapt level learn gene linkag;genet program evolv machin;0
+358;168;james smith;g micheli;polynomi method compon match verif;iccad intern comput aid design;0
+359;168;james smith;g micheli;autom composit hardwar compon;dac design autom;0
+360;168;james smith;g micheli;polynomi method alloc complex compon;date design autom test europ;0
+361;169;j smith;;cellbas databas manag control cell line storag;comput applic bioscienc;0
+362;169;j smith;d thomas;quantit analysi on dimension gel electrophoresi profil;comput applic bioscienc;0
+363;169;j smith;;oligoget computer databas control oligonucleotid product;comput applic bioscienc;0
+364;170;j smith;;modal theori partial order digit geometri;mathemat foundat program semant;0
+365;170;j smith;k johnson;charact finit quasigroup iii quotient fusion;eur j comb;0
+366;170;j smith;;associ scheme;superschem relat invari permut group eur j comb avail onlin;0
+367;170;j smith;j phillips;endocent it applic quasigroup represent theori;comm math univ carol avail onlin;0
+368;170;j smith;;three kei question complex;semiot evolut energi develop page electron journal click here local copi paper;0
+369;170;j smith;;time biolog;studi structur time ed r buccheri v di ge m saniga kluwer new;0
+370;170;j smith;;time biologi physic;natur time geometri physic percept ed r buccheri m saniga w m stuckei kluwer dordrecht;0
+371;170;j smith;;two enumer principl free algebra;acta univ carolina math et phy;0
+372;170;j smith;j choi;tri restrict number power permut represent;j comb math comb comp;0
+373;170;j smith;k johnson;charact finit quasigroup ii induc charact;eur j comb;0
+374;170;j smith;;coalgebra approach quasigroup permut represent;alg univ avail onlin;0
+375;170;j smith;;classic quantum statist mechan permut represent;group korea proceed the intern pusan nation univers pusan korea ed y g baik d l johnson c kim gruyter;0
+376;170;j smith;;class quasigroup solv problem ergod theori;comment math univ carol avail onlin;0
+377;170;j smith;;combinatori charact quasigroup;code theori design theori part i code theori ed d rai chaudhuri springer new;0
+378;170;j smith;a romanowska;commun process entrop algebra;fund informatica;0
+379;170;j smith;;commut moufang loop bessel function;inv math;0
+380;170;j smith;;commut moufang loop first year;algebra group geometri;0
+381;170;j smith;;competit canon ensembl;math biosci avail onlin;0
+382;170;j smith;x shen;comtran algebra bilinear form;arch math;0
+383;170;j smith;;comtran algebra their physic applic;banach center public;0
+384;170;j smith;k athreya;canon distribut phase transit;discuss math prob stat onlin abstract;0
+385;170;j smith;;canon ensembl;evolut compet speci the arrow time evolutionari system biolog epistemolog perspect select self organ ed g van vijver s n salth m delpo kluwer dordrecht;0
+386;170;j smith;;continu fraction;fiber automata a theorem multipl valu logic;0
+387;170;j smith;;centralis ring multipl group quasigroup;math proc camb phil soc;0
+388;170;j smith;a romanowska;differenti groupoid;contribut gener algebra ed d dorning g eigenthal h k kaiser w b m ller h lder pichler tempski;0
+389;170;j smith;k pszczola,a romanowska;dualiti free mode;discuss math gen alg appl onlin abstract;0
+390;170;j smith;a romanowska;dualiti semilattic represent;j pure appl algebra avail onlin;0
+391;170;j smith;;demographi canon ensembl;math biosci avail onlin;0
+392;170;j smith;a romanowska;distribut lattic;gener relat non associ algebra j math;0
+393;170;j smith;a pilitowska,a romanowska;affin space algebra subalgebra;alg univ;0
+394;170;j smith;;finit code groupoid word;eur j comb;0
+395;170;j smith;;finit distribut quasigroup;math proc camb phil soc;0
+396;170;j smith;;finit equation complet entrop quasigroup;contribut gener algebra ed h kautschitsch w b m ller w n bauer johann heyn klagenfurt;0
+397;170;j smith;a romanowska;from affin project geometri via convex;univers algebra lattic theori ed s d comer springer lectur note mathemat;0
+398;170;j smith;f hummer;greedi loop transvers code;metric lexicod j comb math comb comp;0
+399;170;j smith;;greedi loop transvers code confer report;proceed the fortieth annual allerton commun control comput univers;0
+400;170;j smith;d choi;greedi loop transvers code correct error burst;discret math avail onlin;0
+401;170;j smith;;homotopi semisymmetri quasigroup;alg univ avail onlin;0
+402;170;j smith;a romanowska;bisemilattic subsemilattic;j algebra;0
+403;170;j smith;m hobart;vector lattic root tree;alg univ;0
+404;170;j smith;m akivis;v v goldberg;occas hi th birthdai web quasigroup;0
+405;170;j smith;m akivis;vladislav v goldberg;occas hi th birthdai year scientif activ web quasigroup;0
+406;170;j smith;;left loop sphere;j alg avail onlin;0
+407;170;j smith;f hsu,f hummer;logarithm syndrom function inform rate greedi loop transvers code;j comb math comb comp;0
+408;170;j smith;;loop quasigroup aspect current work prospect futur;comment math univ carol avail onlin;0
+409;170;j smith;;loop transvers code;cubo invit expositori paper;0
+410;170;j smith;;loop transvers linear code;j comb info system scienc;0
+411;170;j smith;;quasigroup action markov chain;pseudoinvers linear represent southeast asia bulletin mathemat invit paper;0
+412;170;j smith;;quasigroup homogen space linear represent;j alg avail onlin;0
+413;170;j smith;a ungar;abstract space time their lorentz group;j math phy avail onlin;0
+414;170;j smith;;quasigroup permut represent;quasigroup relat system onlin abstract;0
+415;170;j smith;;quasigroup;associ scheme oper almost period function algebra extrem metric combinator ed m m deza p frankl i g univers press;0
+416;170;j smith;;quasigroup quandl;discret math avail onlin;0
+417;170;j smith;j phillips;quasiprimit quasigroup;bull australian math soc;0
+418;170;j smith;r rossmanith;altern approach altern algebra;acta sci math;0
+419;170;j smith;a romanowska;embed sum cancel mode functori sum affin space;unsolv problem mathemat the st centuri tribut kiyoshi is ki s th birthdai ed j m ab s tanaka io press;0
+420;170;j smith;;macroscop approach demographi;j math biol avail onlin;0
+421;170;j smith;;modal theori;partial order digit geometri mathemat foundat program semant ed melton springer lectur note comput scienc;0
+422;170;j smith;;mode modal;discuss math onlin abstract;0
+423;170;j smith;;multilinear algebra lie s theorem formal n loop;arch math;0
+424;170;j smith;k johnson;charact finit quasigroup;eur j comb;0
+425;170;j smith;;minim tree given search number;discret math;0
+426;170;j smith;;exterior algebra represent commut moufang loop;arch math;0
+427;170;j smith;;induc class function ar condit expect;eur j comb;0
+428;170;j smith;;defenc eponymi;math intelligenc;0
+429;170;j smith;;inform theori it applic biologi;financ physic invit report entropi electron journal;0
+430;170;j smith;;wreath product along period doubl rout chao;ergod th dynam system;0
+431;170;j smith;j choi;combinator multi restrict number;ar combinatoria;0
+432;170;j smith;;dimens finit permut group action;beitr ge zur algebra und geometri avail onlin;0
+433;170;j smith;;evolut semiot capac;semiot evolut energi ed e taborski shaker verlag aachen;0
+434;170;j smith;g czedli;uniqu mal cev polynomi;colloq math soc j no bolyai finit algebra multipl valu logic szege;0
+435;170;j smith;k johnson,s song;charact finit quasigroup vi critic exampl doubleton;eur j comb;0
+436;170;j smith;;nilpot class commut moufang loop;math proc camb phil soc;0
+437;170;j smith;a romanowska;structur barycentr algebra;j math;0
+438;170;j smith;a romanowska;structur subalgebra idempot entrop algebra;j alg;0
+439;170;j smith;a romanowska;structur semilattic sum;czech j math;0
+440;170;j smith;k johnson;note charact induct associ scheme;eur j comb;0
+441;170;j smith;;entropi;charact theori central finit quasigroup math proc camb phil soc;0
+442;170;j smith;d brooks;entropi inform evolv biolog;biologi philosophi;0
+443;170;j smith;m saniga;plane cubic curv;three web the dimension space time noetic j;0
+444;170;j smith;;permut represent loop;j alg avail onlin;0
+445;170;j smith;k johnson;charact finit quasigroup v linear charact;eur j comb;0
+446;170;j smith;;orbit decomposit subset action;discret math avail onlin;0
+447;170;j smith;;regular orbit power permut represent;arch math avail onlin;0
+448;170;j smith;x shen;represent theori comtran algebra;j pure appl alg;0
+449;170;j smith;b im;orthogon ternari algebra thoma sum;alg colloq;0
+450;170;j smith;l thur;subdifferenti monoton function from semilattic distribut lattic;order;0
+451;170;j smith;a romanowska;subalgebra idempot entrop algebra;j alg;0
+452;170;j smith;;second grammar associ;math proc camb phil soc;0
+453;170;j smith;;skein polynomi entrop right quasigroup;demonstr math;0
+454;170;j smith;;observ concept inform theoret entropi random;entropi electron journal;0
+455;170;j smith;a romanowska;semilattic dualiti;studia logica;0
+456;170;j smith;k johnson;charact finit quasigroup iv product superschem;eur j comb;0
+457;170;j smith;x shen;simpl algebra hermitian oper;arch math;0
+458;170;j smith;x shen;simpl algebra invari oper;alg colloq;0
+459;170;j smith;x shen;simpl multilinear algebra;rectangular matric lie algebra j alg avail onlin;0
+460;170;j smith;t fuad;simpl multilinear algebra hermitian oper;comment math univ carol avail onlin;0
+461;170;j smith;b im;simpl ternari grassman algebra;alg colloq;0
+462;170;j smith;;speed s orbit problem variat theme burnsid;eur j comb avail onlin;0
+463;170;j smith;a dharwadker;split extens represent moufang loop;comm alg;0
+464;170;j smith;d choi;support function gener convex set;alg univ;0
+465;170;j smith;a romanowska;support function ordin product;geom dedicata;0
+466;170;j smith;a romanowska;separ mode;alg univ;0
+467;170;jonathan d h smith;d choi;greedi loop transvers code correct error burst;discret mathemat;0
+468;170;jonathan d h smith;j choi;unimod combinator bessel number;discret mathemat;0
+469;170;jonathan d h smith;j choi;unimod combinator bessel number;discret math avail onlin;0
+470;171;j smith;c pomerance,r tuler;pipelin architectur factor larg integ quadrat siev algorithm;siam societi industri appli mathemat j comput;0
+471;171;j w smith;v bobba;paramet driven router;dac design autom;0
+472;171;j w smith;c pomerance,s wagstaff;new idea factor larg integ;crypto intern crytolog;0
+473;172;john w smith;;user s guid shadowi crystal ball practic tip techniqu plan futur;sigucc special interest group univers comput servic;0
+474;172;john w smith;;make standard work whole product approach;sigucc special interest group univers comput servic;0
+475;173;jim smith;e rotenberg,q jacobson,y sazeides;trace processor;micro intern symposium microarchitectur;0
+476;173;jim smith;;multiscalar as new architectur paradigm;acm comput surv;0
+477;174;j smith;s penny,p sengers;trace embodi immers interact semi autonom avatar;converg journal research new mediatechnolog;0
+478;174;j smith;s penny,a bernhardt;trace wireless full bodi track cave;ninth intern artifici realiti telexist icat;0
+479;174;j smith;j hodgins,i oppenheim,a witkin;model truss structur optimizationa;siggraph special interest group comput graph;0
+480;174;j smith;;three applic optim comput graphic;doctor dissert tech report cmu tr robot institut carnegi mellon univers;0
+481;174;jeffrey smith;a witkin,d baraff;fast control simul shatter brittl object;comput graphic forum;0
+482;174;jeffrey smith;a witkin,i oppenheim,j hodgins;creat model truss structur optim;acm tran graph;0
+483;174;jeffrey smith;a witkin,d baraff;fast control simul shatter brittl object;comput graph forum;0
+484;175;j smith;a kasprzyk,a rust,a stabenau,a vidal,c melsopp,d barker,e eyras,e mongin,e schmidt,e stupka,e birney,g cameron,g slater,h lehvaslaiho,i vastrik,j gilbert,j stalker,j cuff,l clark,l huminiecki,m hammond,m pocock,m clamp,p lijnzaad,r pettett,r durbin,s potter,s searle,t cox,t down,t hubbard,v curwen,w spooner,y chen;ensembl genom databas project;nucleic acid research;0
+485;175;j smith;a kasprzyk,a rust,a stabenau,a vidal,c melsopp,d andrews,d barker,d keefe,e eyras,e mongin,e schmidt,e stupka,e birney,g cameron,g slater,h lehvaslaiho,i vastrik,j gilbert,j stalker,j cuff,l clark,m clamp,m hammond,p bevan,r pettett,r durbin,s potter,s searle,t cox,t down,t hubbard,v curwen,v iyer,w spooner,y chen;ensembl accommod compar genom;nucleic acid research;0
+486;176;j smith;;interact technolog econom cultur as basi understand academ comput support need;sigucc special interest group univers comput servic;0
+487;176;john w smith;g town,j haskett,s stager;practic manag comput ethic comput center comput scienc depart approach;sigucc special interest group univers comput servic;0
+488;165;james e smith;e rotenberg,q jacobson,y sazeides;trace processor;micro intern symposium microarchitectur;0
+489;177;jim smith;;multiscalar as new architectur paradigm;acm comput surv;0
+490;178;j smith;x aho,s chang,k mckeown,d radev,k zaman;columbia digit new proc intl conf advanc digit librari adl;dc;0
+491;178;j smith;a smeaton,p over,c costello,a vries,d doermann,a hauptmann,m rorvig,l wu;trec video track inform retriev digit video inform;proc european conf digit librari ecdl european digit librari;0
+492;178;j smith;;content access imag video librari;encyclopedia librari inform scienc marcel dekker inc ed;0
+493;178;j smith;;content queri color imag databas;imag databas john wilei son inc ed l d bergman v castelli;0
+494;178;j smith;c li;decod imag semant composit region templat;ieee workshop content base access imag video databas fort collin;0
+495;178;j smith;;digit video librari internet;ieee commun mag special issu next gener internet;0
+496;178;j smith;v castelli,c li;adapt storag retriev larg compress imag;proc is t spie intern societi optic engin symp electron imag scienc technolog storag retriev imag video databas vii san jose comput anim;0
+497;178;j smith;a benitez;descript collect model audio visual content;mpeg multimedia content descript languag john wilei son inc ed p salembi b s manjunath t sikora;0
+498;178;j smith;a amir,b tseng,c lin,d ponceleon,g iyengar,m naphade,s basu,s srinivasan;integr featur model semant trec video retriev;trec text retriev;0
+499;178;j smith;v castelli,a jhingran,c li;dynam assembl view cube proc acm principl databas pod;;0
+500;178;j smith;s chang;frequenc spatial adapt wavelet packet;proc ieee intl conf acoust speech signal process icassp;0
+501;178;j smith;s chang;joint adapt space frequenc graph basi select;proc ieee intl conf imag process;0
+502;178;j smith;;video index retriev mpeg;handbook imag video databas design applic crc press ed b furht o marqu;0
+503;178;j smith;;videozoom spatio tempor video browser internet;proc spie intern societi optic engin photon east multimedia storag archiv system iii;0
+504;178;j smith;c lin,m naphade;video textur index spatio tempor wavelet;proc ieee intl conf imag process icip intern imag process;0
+505;178;j smith;s chang;visual search web content;ieee multimedia mag;0
+506;178;j smith;b lugeon;visual annot tool multimedia content descript;proc spie intern societi optic engin photon east internet multimedia manag system;0
+507;178;j smith;s basu,m naphade;statist model approach content video retriev;proc iapr intern associ pattern recognit intl conf pattern recognit icpr intern pattern recognit;0
+508;178;j smith;s chang;local color textur extract spatial queri;proc ieee intl conf imag process icip intern imag process lausann ch;0
+509;178;j smith;s chang;quadtre segment textur imag queri;proc acm intl conf multimedia;0
+510;178;j smith;;quantit assess imag retriev evalu;journal the american societi inform scienc special issu perspect imag access bridg multipl need multipl perspect;0
+511;178;j smith;c lin,m naphade,a natsev,b tseng;learn concept from video multi modal featur;tyrrhenian intern workshop digit commun capri;0
+512;178;j smith;;queri vector project access method;proc is t spie intern societi optic engin storag retriev still imag video databas vii san jose comput anim;0
+513;178;j smith;s chang;queri color region visualseek content visual queri;intellig multimedia inform retriev aaa press mit press ed m t mayburi;0
+514;178;j smith;c li;imag classif queri composit region templat;journal comput vision pattern recognit;0
+515;178;j smith;;imag retriev evalu;ieee workshop content base access imag video databas fort collin;0
+516;178;j smith;y chang,c li;multi object multi featur search mpeg;proc ieee intl conf imag process icip intern imag process thesaloniki gr;0
+517;178;j smith;;multimedia content manag mpeg framework;proc spie intern societi optic engin itcom internet multimedia manag system iii;0
+518;178;j smith;p beek,t ebrahimi,t suzuki,j askelof;metadata driven multimedia access;ieee signal process mag special issu univers multimedia access;0
+519;178;j smith;;multimedia databas;ieee conf web ag inform manag xian cn;0
+520;178;j smith;c lin,b tseng;multimedia resourc transcod mpeg digit item adapt;proc spie intern societi optic engin itcom internet multimedia manag system iv;0
+521;178;j smith;m naphade,a natsev;multimedia semant index model vector;proc ieee intl conf multimedia expo icm ieee meta data;0
+522;178;j smith;;multimedia signal process;electr engin handbook academ press ed yih fang;0
+523;178;j smith;s chang;multi stage classif imag from featur relat text;proc fourth delo workshop pisa;0
+524;178;j smith;;mpeg multimedia content descript interfac standard;mpeg awar event sydnei au;0
+525;178;j smith;b manjunath,n day;mpeg multimedia content descript interfac standard;ieee intl conf consum electron icc lo angel comput anim;0
+526;178;j smith;;mpeg multimedia content descript standard;multimedia inform retriev manag springer ed d feng w c siu h zhang;0
+527;178;j smith;;mpeg s path intellig multimedia futur;proc ieee intl conf inform technolog commun code itcc la vega;0
+528;178;j smith;a puri,m tekalp;mpeg standard;ieee intl conf multimedia expo icm new;0
+529;178;j smith;p beek;navig access multimedia content;mpeg multimedia content descript languag john wilei son inc ed p salembi b s manjunath t sikora;0
+530;178;j smith;;mpeg standard multimedia databas;acm intl data manag acm sigmod intern manag data santa barbara comput anim;0
+531;178;j smith;s chang;enhanc imag search divers environ;workshop multimedia signal process n j;0
+532;178;j smith;;univers multimedia access;proc spie intern societi optic engin itcom multimedia network system;0
+533;178;j smith;s chang;imag video search engin world wide web;proc is t spie intern societi optic engin storag retriev still imag video databas v san jose comput anim;0
+534;178;j smith;v reddy;applic perspect univers multimedia access mpeg;proc spie intern societi optic engin photon east multimedia network system iv;0
+535;178;j smith;;integr spatial featur imag retriev analysi compress;graduat school art scienc univers new;0
+536;178;j smith;s basu,c lin,m naphade,b tseng;integr featur model semant content;;0
+537;178;j smith;s srinivasan,a amir,s basu,g iyengar,c lin,m naphade,d ponceleon,b tseng;integr featur model semant trec video retriev;proc nist text retriev conf trec text retriev ieee meta data;0
+538;178;j smith;a benitez,s paek,s chang,a puri,q huang,c li,l bergman,c judice;object multimedia content descript scheme applic mpeg;imag commun journal icj invit paper special issu mpeg;0
+539;178;j smith;s basu,c lin,m naphade,b tseng;interact content retriev video proc ieee intl conf imag process ic ip;;0
+540;178;j smith;a jaimes,c lin,m naphade,a natsev,b tseng;interact search fusion method video databas retriev;proc ieee intl conf imag process icip intern imag process barcelona es;0
+541;178;j smith;s chang;interoper content access multimedia digit librari;proc delo workshop inform seek search queri digit librari zurich ch;0
+542;178;j smith;s chang;safe gener framework integr spatial featur imag search;workshop multimedia signal process n j;0
+543;178;j smith;z miao,c li;simpl video format mobil pervas devic;proc is t spie intern societi optic engin symp electron imag imag video commun process san jose comput anim;0
+544;178;j smith;s chang;singl color extract imag queri;proc ieee intl conf imag process icip intern imag process dc;0
+545;178;j smith;s chang;space adapt wavelet packet imag compress;proc is t spie intern societi optic engin symp electron imag still imag compress san jose comput anim;0
+546;178;j smith;a natsev;spatial featur normal content retriev;proc ieee intl conf multimedia expo icm lausann ch;0
+547;178;j smith;s chang;search imag video world wide web;univers cu ctr tr;0
+548;178;j smith;c lin,m naphade,a natsev,b tseng;statist model retriev video content;dimac workshop video mine new n j;0
+549;178;j smith;c lin,m naphade,a natsev,b tseng;statist techniqu video analysi search video mine kluwer academ publish;ed rosenfeld d doermann d dementhon;0
+550;178;j smith;s chang;autom binari textur featur set imag retriev;proc ieee intl conf acoust speech signal process icassp;0
+551;178;j smith;r mohan,c li;transcod internet content heterogen client devic;proc ieee intl symp circuit syst isca ieee intern symposium circuit system;0
+552;178;j smith;i standard;inform technolog multimedia content descript interfac part conform;iso iec first edit;0
+553;178;j smith;i standard;inform technolog multimedia content descript interfac part multimedia descript scheme;iso iec first edit;0
+554;178;j smith;b tseng,c lin;video person summar;proc ieee intl conf multimedia signal process mmsp st thoma;0
+555;178;j smith;b tseng,c lin;video person usag environ;proc spie intern societi optic engin itcom internet multimedia manag system iii;0
+556;178;j smith;b tseng,c lin;real time video surveil traffic monitor virtual line analysi;proc ieee intl conf multimedia expo icm lausann ch;0
+557;178;j smith;b tseng,c lin,v video;summar person pervas mobil devic;proc is t spie intern societi optic engin symp electron imag scienc technolog storag retriev imag video databas x san jose comput anim;0
+558;178;j smith;h zhang,d feng;multimedia inform retriev manag part i;ieee intl conf acoust speech signal process icassp hong kong cn;0
+559;178;j smith;d zhong,s chang;differenti compress optim cach method content imag search;proc spie intern societi optic engin photon east multimedia storag archiv system iv;0
+560;178;j smith;a benitez;medianet multimedia inform network knowledg represent;proc spie intern societi optic engin photon east internet multimedia manag system;0
+561;178;j smith;;quantit assess imag retriev effect;jasist journal the american societi inform scienc;0
+562;178;j smith;a benitez,s chang;imka intellig multimedia knowledg;proc acm intl conf multimedia acm mm acm multimedia comput anim;0
+563;178;j smith;a benitez,d zhong,s chang;mpeg md content descript tool applic;proc intl conf comput analysi imag pattern caip comput analysi imag pattern;0
+564;178;j smith;a benitez;new frontier intellig content retriev;proc is t spie intern societi optic engin symp electron imag scienc technolog storag retriev imag video databas ix san jose comput anim;0
+565;178;j smith;l bergman,v castelli,c li,e achuthan,y chang,m hill,b thompson,s imagery;proc spie photon east multimedia storag archiv iv boston ma sept;;0
+566;178;j smith;v castelli,l bergman,c li,a thomasian;progress content retriev satellit imag databas through internet;ieee tyrrhenian intl workshop digit comm ischia;0
+567;178;j smith;s chang,d anastassiou,a eleftheriadis,j meng,s paek,s pejhan;develop advanc imag video server video demand testb;proc ieee visual signal process commun workshop new n j;0
+568;178;j smith;y chang,l bergman,c li;effici multidimension index structur linear maxim queri;proc spie intern societi optic engin photon east multimedia storag archiv system iv;0
+569;178;j smith;;mpeg standard multimedia databas;sigmod intern manag data;0
+570;178;j smith;s chang,h meng,l wang,d zhong;visual queri project;d lib magazin;0
+571;178;j smith;s chang;visual search web content;ieee multimedia;0
+572;178;j smith;y chang,l bergman,c li;queri taxonomi multimedia databas;proc spie intern societi optic engin photon east multimedia storag archiv system iv;0
+573;178;j smith;s chang;extract multi dimension signal featur content visual queri;proc spie intern societi optic engin symp visual commun imag process vcip;0
+574;178;j smith;y chang,m lo;issu solut storag retriev search mpeg document;proc spie intern societi optic engin photon east internet multimedia manag system;0
+575;178;j smith;r han,c lin,b tseng;univers tuner video stream cpu power constrain mobil devic;proc acm intl conf multimedia acm mm acm multimedia comput anim;0
+576;178;j smith;r han;transcod internet multimedia univers access;multimedia commun direct innov academ press ed j gibson;0
+577;178;j smith;x helal,l lampath;uma wireless mobil video deliveri architectur;proc spie intern societi optic engin photon east internet multimedia manag system;0
+578;178;j smith;r henderson,b topol,c li,r mohan,i computing,n networking,s jose,c ca,j jan;2894;;0
+579;178;j smith;a jaimes,b tseng;modal keyword ontolog reason video understand;civr intern imag video retriev;0
+580;178;j smith;a jaimes;semi automat;data driven construct multimedia ontolog;0
+581;178;j smith;c li,v castelli;combin index learn iter refin;proc is t spie intern societi optic engin symp electron imag scienc technolog storag retriev imag video databas vii san jose comput anim;0
+582;178;j smith;c li,v castelli,l bergman;compar textur featur set retriev core imag petroleum applic;proc is t spie intern societi optic engin symp electron imag scienc technolog storag retriev imag video databas vii san jose comput anim;0
+583;178;j smith;c li,y chang,l bergman;framework effici process content fuzzi cartesian queri;proc is t spie intern societi optic engin symp electron imag scienc technolog storag retriev imag video databas san jose comput anim;0
+584;178;j smith;c li,l bergman,v castelli,a thomasian;model mine remot sens environment public health applic;advanc biomed imag databas kluwer academ publish ed s wong;0
+585;178;j smith;w adams,a amir,c dorai,s ghosal,g iyengar,a jaimes,c lang,c lin,m naphade,a natsev,c neti,h nock,h permuter,r singh,s srinivasan,b tseng,a varadarajuand,d zhang;ibm research trec video retriev;proc nist text retriev conf trec text retriev ieee meta data;0
+586;178;j smith;c li,r mohan;multimedia content descript infopyramid;proc ieee intl conf acoust speech signal process icassp;0
+587;178;j smith;c li,c aggrarwal,m campbell,y chang,g glass,v iyengar,m joshi,c lin,m naphade,b tseng,m wang,k wu,p yu;epi spire bio surveil environment public health activ monitor;proc ieee intl conf multimedia expo icm ieee meta data;0
+588;178;j smith;c lin,b tseng,m naphade,a natsev;videoal end end mpeg video automat label;ieee intl conf imag process icip intern imag process barcelona es;0
+589;178;j smith;c lin,b tseng;improv text overlai detect video fusion classifi;proc ieee intl conf multimedia expo icm ieee meta data;0
+590;178;j smith;r mohan,c li;content adapt framework bring internet inform applianc;proc globecom;0
+591;178;j smith;r mohan,c li;multimedia content custom univers acccess;proc spie intern societi optic engin photon east multimedia storag archiv system iii;0
+592;178;j smith;m naphade,a jaimes,c lin,a natsev,b tseng;framework moder vocabulari semant visual concept detect;proc ieee intl conf multimedia expo icm ieee meta data;0
+593;178;j smith;m naphade;learn visual model semant concept;proc ieee intl conf imag process icip intern imag process barcelona es;0
+594;178;j smith;m naphade;learn region semant concept from incomplet annot;proc ieee intl conf imag process icip intern imag process barcelona es;0
+595;178;j smith;m naphade,c lin;learn semant multimedia represent from small set exampl;proc ieee intl conf multimedia expo icm lausann ch;0
+596;178;j smith;m naphade,c lin,b tseng,s basu;learn annot video databas;proc is t spie intern societi optic engin symp electron imag scienc technolog storag retriev imag video databas x san jose comput anim;0
+597;178;j smith;m naphade,s basu,c lin,b tseng;model semant concept support queri keyword video;proc ieee intl conf imag process icip intern imag process;0
+598;178;j smith;m naphade,e chang;multimedia semant machin learn;ieee intl conf multimedia expo icm ieee meta data;0
+599;178;j smith;m naphade,s basu;statist model approach content video retriev;proc ieee intl conf acoust speech signal process icassp salt lake citi;0
+600;178;j smith;a natsev,y chang,c li,j vitter;constrain queri multimedia databas issu approach;proc is t spie intern societi optic engin symp electron imag scienc technolog storag retriev imag video databas ix san jose comput anim;0
+601;178;j smith;a natsev;activ select multi exampl queri content;proc ieee intl conf multimedia expo;0
+602;178;j smith;a natsev,m naphade;explor semant depend scalabl concept detect;proc ieee intl conf imag process icip intern imag process barcelona es;0
+603;178;j smith;a natsev;studi imag retriev anchor;proc ieee intl conf multimedia expo icm lausann ch;0
+604;178;j smith;s paek;detect imag purpos world wide web document;proc is t spie intern societi optic engin symp electron imag scienc technolog document recognit san jose comput anim;0
+605;178;j smith;r retrieval;proc nsf workshop multimedia content index retriev pari fr oct;;0
+606;178;j smith;e rogowitz,t frese,c bouman;perceptu imag similar;proc is t spie intern societi optic engin symp electron imag human vision electron imag iii san jose comput anim;0
+607;178;j smith;p salembier;overview mpeg multimedia descript scheme;mpeg multimedia content descript languag john wilei son inc ed p salembi b s manjunath t sikora;0
+608;178;j smith;p salembier;mpeg multimedia descript scheme;ieee tran circuit system video technolog;0
+609;178;john r smith;;videozoom spatio tempor video browser;ieee transact multimedia;0
+610;178;john r smith;a benitez;conceptu model audio visual content;proc ieee intl conf multimedia expo icm new;0
+611;178;john r smith;r mohan,c li;content transcod imag internet;proc ieee intl conf imag process;0
+612;178;john r smith;c li;adapt synthesi progress retriev audio visual;proc ieee intl conf multimedia expo icm new;0
+613;178;john r smith;;videozoom spatio tempor video browser;ieee tran multimedia;0
+614;178;john r smith;s chang;visualseek fulli autom content imag queri;proc acm intl conf multimedia;0
+615;178;john r smith;c li;adapt view element framework multi dimension manag;proc acm int conf inform knowledg manag cikm intern inform knowledg manag citi;0
+616;178;john r smith;s chang;integr spatial featur imag queri;multimedia system springer verlag;0
+617;178;john r smith;r mohan,c li;scalabl multimedia deliveri pervas comput;proc acm intl conf multimedia;0
+618;178;john r smith;a benitez;conceptu model audio visual content;ieee intern multimedia expo ii;0
+619;178;john r smith;s chang;tool techniqu color imag retriev;proc is t spie intern societi optic engin storag retriev still imag video databas iv san jose comput anim;0
+620;178;john r smith;;toward semant univers multimedia access;proc th intl workshop vlbv veri low bitrat video code visual content process represent lnc springer madrid es;0
+621;178;john r smith;s chang;transform featur textur classif discrimin larg imag databas;proc ieee intl conf imag process icip intern imag process;0
+622;178;john r smith;b tseng,c lin,r han,v ha;cpu power constrain mobil devic;acm multimedia;0
+623;178;john r smith;a benitez,m beigi,s chang;visual inform retriev from larg distribut onlin repositori;commun acm;0
+624;178;john r smith;a benitez,s chang;imka multimedia organ combin perceptu semant knowledg;acm multimedia;0
+625;178;john r smith;l bergman,c li;spire digit librari scientif inform;intl journal digit librari special issu;0
+626;178;john r smith;s chang,j meng;effici techniqu featur imag video access manipul;proc rd annual clinic librari applic data process digit imag access retriev;0
+627;178;john r smith;s chang;joint adapt space frequenc basi select;icip intern imag process;0
+628;178;john r smith;s chang,m beigi,a benitez;visual inform retriev from larg distribut onlin repositori;commun acm;0
+629;178;john r smith;s chang;visualseek fulli autom content imag queri;acm multimedia;0
+630;178;john r smith;s chang;imag video search engin world wide web;storag retriev imag video databas spie intern societi optic engin;0
+631;178;john r smith;s chang,h meng;explor imag function www applic develop imag video search edit engin;proc ieee intl conf imag process icip intern imag process santa barbara comput anim;0
+632;178;john r smith;s chang;integr spatial featur imag queri;multimedia syst;0
+633;178;john r smith;;interoper content access multimedia digit librari invit talk;delo workshop inform seek search queri digit librari;0
+634;178;john r smith;y chang,l bergman,v castelli,c li,m lo;onion techniqu index linear optim queri;proc acm intl conf manag data sigmod intern manag data;0
+635;178;john r smith;s chang;tool techniqu color imag retriev;storag retriev imag video databas spie intern societi optic engin;0
+636;178;john r smith;s chang;transform featur textur classif discrimin larg imag databas;icip intern imag process;0
+637;178;john r smith;;toward semant univers multimedia access;vlbv veri low bitrat video code;0
+638;178;john r smith;a jhingran,c li,v castelli;dynam assembl view cube;pod symposium principl databas system;0
+639;178;john r smith;c li,r mohan;content transcod imag internet;icip intern imag process;0
+640;178;john r smith;c li;adapt synthesi progress retriev audio visual;ieee intern multimedia expo i;0
+641;178;john r smith;c li,r mohan;adapt content client resourc internet;icmc intern multimedia comput system;0
+642;178;john r smith;c li,r mohan;adapt multimedia internet content univers access;ieee transact multimedia;0
+643;178;john r smith;c li,l bergman,y chang;model multi modal inform retriev from larg archiv;icdc intern distribut comput system workshop knowledg discoveri data mine world wide web;0
+644;178;john r smith;c li;adapt view element framework multi dimension manag;cikm intern inform knowledg manag;0
+645;178;john r smith;c li,r mohan;scalabl multimedia deliveri pervas comput;acm multimedia;0
+646;178;john r smith;c li,r han,y chang;secur transcod internet content;jci joint inform scienc;0
+647;178;john r smith;c li,l bergman,v castelli;sequenti process content retriev composit object;storag retriev imag video databas spie intern societi optic engin;0
+648;178;john r smith;c li,l bergman,v castelli;spire digit librari scientif inform;int j digit librari;0
+649;178;john r smith;c li,l bergman,v castelli;spire progress content spatial imag retriev engin;sigmod intern manag data;0
+650;178;john r smith;c li,l bergman,v castelli;search progress imag retriev from distribut imag video databas spire project;ecdl european digit librari;0
+651;178;john r smith;c li,y chang;search dynam bundl good pairwis relat;acm electron;0
+652;178;john r smith;a aho,d radev,k mckeown,k zaman,s chang;columbia digit new project environ brief search multimedia inform;int j digit librari;0
+653;178;john r smith;c li,v castelli;s stir similar search through iter refin;proc is t spie intern societi optic engin symp electron imag scienc technolog storag retriev imag video databas san jose comput anim;0
+654;178;john r smith;c li,l bergman,m lo,v castelli,y chang;onion techniqu index linear optim queri;sigmod intern manag data;0
+655;178;john r smith;j meng,s chang;effici techniqu featur imag video access manipul;data process clinic;0
+656;178;john r smith;h meng,s chang;explor imag function www applic develop imag video search edit engin;icip intern imag process;0
+657;178;john r smith;r mohan,c li;adapt content client resourc internet;proc ieee intl conf multimedia comp system;0
+658;178;john r smith;r mohan,c li;adapt multimedia internet content univers access;ieee tran multimedia;0
+659;178;john r smith;a aho,d radev,k mckeown,k zaman,s chang;columbia digit new environ brief search multimedia inform;adl advanc digit librari;0
+660;178;john r smith;m naphade;hybrid framework detect semant concept context;civr intern imag video retriev;0
+661;178;john r smith;x aho,s chang,k mckeown,d radev,k zaman;columbia digit new environ brief search multimedia inform;intl journal digit librari ijodl;0
+662;178;john r smith;n natsev,y chang,j vitter;support increment join queri rank input;proc intl conf veri larg databas conf vldb veri larg data base it;0
+663;178;john r smith;a natsev,b tseng,c neti,c lin,h nock,m naphade,w adams;user trainabl video annot multimod cue;sigir research develop inform retriev;0
+664;178;jonathan m smith;s chang;quad tree segment textur imag queri;acm multimedia;0
+665;179;j smith;d alexander,w arbaugh,a keromytis,s muir;secur qualiti servic handl sqosh;ieee commun magazin special issu activ programm code network;0
+666;179;j smith;;select challeng comput network;ieee comput;0
+667;179;j smith;;survei process migrat mechan;acm sigop oper system review;0
+668;179;j smith;;impact atm oper;acm comput commun review;0
+669;179;j smith;d tennenhouse,w sincoskie,d wetherall,g minden;survei activ network research;ieee commun;0
+670;179;j smith;c traw;implement perform atm host interfac workstat;proceed ieee workshop architectur implement high perform commun subsystem hpc intern symposium high perform comput system;0
+671;179;j smith;j veen,c traw,h pasch;perform model high perform atm link adapt;proceed second intern comput commun network san diego comput anim;0
+672;179;j smith;d alexander,w arbaugh,a keromytis;safeti secur programm network infrastructur;ieee commun magazin;0
+673;179;j smith;d alexander,p menage,a keromytis,w arbaugh,k anagnostakis;price safeti activ network;journal commun network;0
+674;179;j smith;d alexander,m hicks,p kakkar,a keromytis,m shaw,j moore,c gunter,t jim,s nettles;switchwar activ network implement;proceed acm sigplan special interest group program languag workshop ml ieee meta data;0
+675;179;j smith;d alexander,w arbaugh,m hicks,p kakkar,a keromytis,j moore,c gunter,s nettles;switchwar activ network architectur;ieee network magazin special issu activ programm network;0
+676;179;j smith;k anagnostakis,s ioannidis,s miltchev,j ioannidis,m greenwald;effici packet monitor network manag;proceed ieee nom it;0
+677;179;j smith;w arbaugh,a keromytis;dhcp appli effici implement method fail stop cryptograph protocol;ieee globecom sydnei au;0
+678;179;j smith;w arbaugh,d farber;secur reliabl bootstrap architectur;ieee secur privaci comput anim;0
+679;179;j smith;w arbaugh,j davin,d farber;secur virtual privat intranet;ieee comput special issu broadband network secur cover featur;0
+680;179;j smith;w arbaugh,a keromytis,d farber;autom recoveri secur bootstrap process;internet societi symposium network distribut system secur san diego comput anim;0
+681;179;j smith;r bajcsy,d farber,r paul;gigabit telerobot appli advanc inform infrastructur;intern symposium robot manufactur maui;0
+682;179;j smith;c brendan,s traw;stripe within network subsystem;ieee network;0
+683;179;j smith;;programm network select challeng comput network;ieee comput;0
+684;179;j smith;j chung,c traw;event signal within higher perform network subsystem;proceed high perform commun subsystem mystic;0
+685;179;j smith;b davie,c traw;host interfac atm network;high perform commun ed ahm n tantawi kluwer academ publish;0
+686;179;j smith;b davie,d clark,d farber,i gopal,r guerin,w sincoskie,d tennenhouse;aurora experi gigabit network technolog;high perform commun ed ahm n tantawi kluwer academ publish;0
+687;179;j smith;g delp,d farber,r minnich,m tam;memori as network abstract;ieee network;0
+688;179;j smith;g delp,d farber,r minnich,i tam;memori as network abstract;read distribut comput system ed thoma l casav mukesh singhal ieee cs press order number piscatawai revis version ieee network paper;0
+689;179;j smith;d farber,j davin,w arbaugh;secur virtual privat intranet;ieee comput;0
+690;179;j smith;d farber,m tam;taxonomi comparison sever distribut share memori;oper system review;0
+691;179;j smith;d feldmeier,a mcauley,d bakin,w marcus,t raleigh;protocol booster;ieee journal select area commun special issu protocol architectur st centuri applic;0
+692;179;j smith;f goktas,r bajcsy;u synthesi distribut control network induc delai;proceed th ieee decis control kobe;0
+693;179;j smith;f goktas,r bajcsy;telerobot commun network control network issu;th ieee decis control san diego comput anim;0
+694;179;j smith;i hadzic,s udani;hardwar virus;field programm logic springer verlag edinburgh uk;0
+695;179;j smith;i hadzic,w marcus;fly programm hardwar network;ieee globecom sydnei au;0
+696;179;j smith;;survei process migrat mechan;oper system review;0
+697;179;j smith;i hadzic;p platform fpga implement protocol booster;springer verlag field programm logic;0
+698;179;j smith;m hicks,a keromytis;secur plan extend version;proceed darpa activ network and exposit ieee comput societi press san francisco comput anim;0
+699;179;j smith;s ioannidis,s bellovin;sub oper new approach applic secur;th sigop european workshop;0
+700;179;j smith;t johnson,e wilson;disk respons time measur;proceed winter usenix advanc comput system associ technic dc;0
+701;179;j smith;a keromytis,j ioannidis;implement ipsec;proceed ieee globecom;0
+702;179;j smith;a keromytis,s ioannidis,m greenwald;scalabl secur mechan internet;ci ci depart univers;0
+703;179;j smith;g maguire;process migrat effect scientif comput;sigplan special interest group program languag notic;0
+704;179;j smith;a mallet,j chung;oper support protocol booster;proceed hipparch workshop uppsala earlier version avail upenn ci tr ci;0
+705;179;j smith;w marcus,i hadzic,t mcauley;protocol booster appli programm network infrastructur;ieee commun;0
+706;179;j smith;s muir;function divis piglet multiprocessor oper;proceed the th sigop european workshop;0
+707;179;j smith;s muir;support continu media piglet os;th intern workshop network oper system support digit audio video uk;0
+708;179;j smith;s muir;asymo asymmetr multiprocessor oper;proceed st openarch san francisco comput anim;0
+709;179;j smith;k nahrstedt;design implement experi omega end point architectur;ieee journal select area commun special issu multimedia system;0
+710;179;j smith;k nahrstedt;qo negoti robot environ;proceed workshop distribut multimedia applic qualiti servic verif montreal st;0
+711;179;j smith;k nahrstedt;integr multimedia architectur high speed network;proceed multimedia comput anim;0
+712;179;j smith;k nahrstedt;applic driven approach network multimedia;proceed th local comput network;0
+713;179;j smith;k nahrstedt;qo broker;ieee multimedia;0
+714;179;j smith;d alexander,c traw;embed high speed atm unix ip;usenix advanc comput system associ high speed network symposium comput anim;0
+715;179;j smith;h orman,k calvert,l peterson,s murphy;activ network progress report;ieee comput;0
+716;179;j smith;s personick,d crawford,r gallager,j jaffe,j kurose,d leeper,c manders,b mccune,a mclaughlin,l streeter,l wishart,b zeigler,c strategy,n press,w washington,d dc;3032;;0
+717;179;j smith;j shapiro,d farber;state cach ero kernel implement orthogon persist pure capabl;persist object system principl practic ed richard connor scott nettl morgan kaufmann present at th workshop persist object system;0
+718;179;j smith;j shapiro,d farber;measur perform fast local ipc;proceed the th intern workshop object orient oper system;0
+719;179;j smith;c traw,d farber;cryptograph support gigabit network;proceed inet internet societi kobe inaugur of internet societi;0
+720;179;j smith;i hadzic,w marcus;activ interconnect let s have gut;proceed ieee hot interconnect workshop palo alto comput anim;0
+721;179;j smith;k calvert,s murphy,h orman,l peterson;activ network progress report;ieee comput;0
+722;179;j smith;;gigabit network;commun handbook second edit ed jerri d gibson crc press isbn;0
+723;179;j smith;d alexander,w arbaugh,a keromytis;secur activ network environ architectur realiz switchwar;ieee network magazin special issu activ programm network;0
+724;179;j smith;c traw;give applic access gb s network;ieee network special issu end system support high speed network break through network i o bottleneck;0
+725;179;j smith;e cooper,b davie,i leslie,y ofek,r watson;guest editori;ieee journal select area commun special issu high speed comput network interfac;0
+726;179;j smith;j ioannidis;implement remot fork checkpoint restart;ieee technic committe oper system newslett invit paper;0
+727;179;j smith;g maguire;explor;multipl world;0
+728;179;j smith;g maguire;measur respons time page size fetch network;acm sigarch comput architectur new;0
+729;179;j smith;j chung,c traw;interrupt;encyclopedia electr electron engin ed john wilei new;0
+730;179;j smith;g maguire;process migrat effect scientif comput;acm sigplan special interest group program languag notic;0
+731;179;j smith;;protect distribut share memori;proceed th intern workshop distribut environ network tokyo invit paper;0
+732;179;jonathan m smith;;pdi inform highwai;pdi parallel distribut inform system;0
+733;179;jonathan m smith;;rapid locat mount point;softwar practic experi;0
+734;179;jonathan m smith;;softwar design laboratori;comput system journal the usenix advanc comput system associ associ univers press;0
+735;179;jonathan m smith;d farber;traffic characterist distribut memori;comput network isdn system;0
+736;179;jonathan m smith;g maguire;transpar concurr execut mutual exclus altern;proceed ninth intern distribut comput system beach comput anim;0
+737;179;jonathan m smith;c traw;high perform host interfac atm network;proceed sigcomm special interest group data commun zurich;0
+738;179;jonathan m smith;d alexander,w arbaugh,a keromytis;secur activ network;secur internet program secur issu and distribut object ed vitek christian jensen springer verlag;0
+739;179;jonathan m smith;d alexander;architectur alien;proceed first intern work activ network ed covaci springer verlag;0
+740;179;jonathan m smith;k anagnostakis,s ioannidis,s miltchev;practic network applic lightweight activ manag environ;proceed intern work activ network ed i s nettl n wakamiya springer verlag;0
+741;179;jonathan m smith;k anagnostakis,m hicks,s ioannidis,a keromytis;scalabl resourc control activ network;proceed second intern work activ network ed h yasuda springer verlag tokyo;0
+742;179;jonathan m smith;;practic problem cryptograph protect scheme;crypto intern crytolog;0
+743;179;jonathan m smith;s bellovin,s ioannidis;design implement virtual privat servic;ci ci depart univers;0
+744;179;jonathan m smith;c brendan,s traw;high perform host interfac atm network;sigcomm special interest group data commun;0
+745;179;jonathan m smith;c brendan,s traw;hardwar softwar organ high perform atm host interfac;ieee journal select area commun special issu high speed comput network interfac;0
+746;179;jonathan m smith;a broscius;exploit parallel hardwar implement de;proceed crypto intern crytolog confer ed joan feigenbaum santa barbara comput anim;0
+747;179;jonathan m smith;a broscius;exploit parallel hardwar implement de;crypto intern crytolog;0
+748;179;jonathan m smith;d clark,b davie,d farber,i gopal,b kadaba,w sincoskie,d tennenhouse;overview aurora gigabit testb;proceed infocom confer comput commun;0
+749;179;jonathan m smith;d clark,b davie,d farber,i gopal,b kadaba,w sincoskie,d tennenhouse;aurora gigabit testb;comput network isdn system north;0
+750;179;jonathan m smith;d farber,j shapiro;ero fast capabl;sosp symposium oper system principl;0
+751;179;jonathan m smith;;rapid locat mount point;softw pract exper;0
+752;179;jonathan m smith;d farber,j shapiro;state cach ero kernel;po workshop persist object system;0
+753;179;jonathan m smith;d farber;traffic characterist distribut memori;comput network isdn system;0
+754;179;jonathan m smith;a galis,b plattner,s denazis,e moeller,h guo,c klein,j serrat,j laarhuis,g karetsos,c todd;flexibl ip activ network architectur;proceed second intern work activ network ed h yasuda springer verlag tokyo;0
+755;179;jonathan m smith;i hadzic,s udani;fpga virus;fpl field programm logic applic;0
+756;179;jonathan m smith;s ioannidis,a keromytis,s bellovin;implement distribut firewal;proceed acm comput commun secur;0
+757;179;jonathan m smith;g maguire;effect copi write memori manag respons time unix fork oper;comput system;0
+758;179;jonathan m smith;g maguire;explor multipl world parallel;icpp intern parallel process;0
+759;179;jonathan m smith;g maguire;transpar concurr execut mutual exclus altern;icdc intern distribut comput system;0
+760;179;jonathan m smith;b kadaba,b davie,d clark,d farber,d tennenhouse,i gopal,w sincoskie;overview aurora gigabit testb;infocom confer comput commun;0
+761;179;jonathan m smith;b kadaba,b davie,d clark,d farber,d tennenhouse,i gopal,w sincoskie;aurora gigabit testb;comput network isdn system;0
+762;179;jonathan m smith;;softwar design laboratori;comput system;0
+763;179;jonathan m smith;a keromytis,j ioannidis,s ioannidis,s bellovin;design implement virtual privat servic;wetic workshop enabl technolog infrastructur collabor enterpris;0
+764;179;jonathan m smith;a keromytis,s ioannidis,s bellovin;implement distribut firewal;acm comput commun secur;0
+765;179;jonathan m smith;a keromytis,k anagnostakis,m hicks,s ioannidis;scalabl resourc control activ network;iwan intern work activ network;0
+766;179;jonathan m smith;a keromytis,j ioannidis,s ioannidis,s miltchev,v prevelakis;secur flexibl global file share;usenix advanc comput system associ annual technic freenix free open sourc softwar track;0
+767;179;jonathan m smith;a keromytis,d alexander,w arbaugh;secur activ network;secur internet program;0
+768;179;jonathan m smith;d alexander,m shaw,s nettles;activ bridg;sigcomm special interest group data commun;0
+769;179;jonathan m smith;k nahrstedt;new algorithm admiss control schedul support multimedia feedback remot control applic;proc intern multimedia commun system;0
+770;179;jonathan m smith;k nahrstedt;servic kernel multimedia endstat;proceed intern workshop advanc teleservic high speed commun architectur ed ralf steinmetz springer verlag heidelberg;0
+771;179;jonathan m smith;j shapiro,d farber;ero fast capabl;proceed th sosp symposium oper system principl kiawah island supercomput;0
+772;179;jonathan m smith;g maguire;effect copi write memori manag respons time unix fork oper;comput system journal the usenix advanc comput system associ associ univers press;0
+773;179;jonathan m smith;;pdi inform highwai;proceed parallel distribut inform system invit present paper;0
+774;179;jonathan m smith;;practic problem cryptograph protect scheme;advanc cryptographi proceed crypto ed gill brassard springer verlag;0
+775;180;j smith;d smith;relat base machin;ieee comput;0
+776;180;john miles smith;;larg scale knowledg;wissensbasiert system;0
+777;180;john miles smith;;normal form abstract syntax;vldb veri larg data base;0
+778;180;john miles smith;c lin,d smith;design rotat associ arrai memori relat databas manag applic;vldb veri larg data base;0
+779;180;john miles smith;;comment paper base design theori practic bo sundgren;vldb veri larg data base;0
+780;180;john miles smith;d smith;principl databas conceptu design;data base design techniqu i;0
+781;180;john miles smith;d smith;base abstract;data abstract definit structur;0
+782;180;john miles smith;p chang;optim perform relat algebra base interfac abstract;sigmod intern manag data;0
+783;180;john miles smith;p chang;optim perform relat algebra databas interfac;commun acm;0
+784;180;john miles smith;d smith;databas abstract aggreg;commun acm;0
+785;180;john miles smith;d smith;databas abstract aggreg gener;acm tran databas syst;0
+786;180;john miles smith;c lin,d smith;design rotat associ arrai memori relat databas manag applic;acm tran databas syst;0
+787;180;john miles smith;;expert databas databas perspect;expert databas workshop;0
+788;180;john miles smith;;comment paper base design theori practic bo sundgren;vldb veri larg data base survei;0
+789;180;john miles smith;;comment paper softwar engin view base manag i wasserman softwar engin view base h weber;vldb veri larg data base survei;0
+790;180;john miles smith;;larg scale knowledg;foundat knowledg base manag xania;0
+791;180;john miles smith;;conclud remark from databas perspect;knowledg base manag system islamorada;0
+792;180;john miles smith;u dayal;probe knowledg orient databas manag;knowledg base manag system islamorada;0
+793;180;john miles smith;a borgida,c rich,j carbonell,j king,p hitchcock;consist model discuss;workshop data abstract databas conceptu model;0
+794;180;john miles smith;d mcleod;abstract databas;workshop data abstract databas conceptu model;0
+795;182;j smith;a bayazitoglu,k johnson,n amra,t johnson;on framework two flexibl abduct method problem space paradigm appli antibodi identif biopsi interpret;artifici intellig medicin;0
+796;182;j smith;a bayazitoglu;explor relationship between ration bound ration medic knowledg;artifici intellig medicin;0
+797;182;j smith;d steier,t johnson;guest editor s introduct;ieee expert;0
+798;182;j smith;t johnson;stratifi approach specifi design build knowledg;ieee expert;0
+799;182;j smith;j josephson,m tanner,w iii;peirc tool experi abduct;ieee expert;0
+800;182;j smith;j malin,j zhang,k johnson,v patel;design human center distribut inform;ieee intellig system;0
+801;182;j smith;d galdes,d thomas,j fraser,j blazina,j svirbely,m kennedy,s rudmann,t miller;cope complex multipl solut problem case studi;intern journal man machin studi;0
+802;182;j smith;j fraser;catalog error;intern journal man machin studi;0
+803;182;jack w smith;b chandrasekaran,t johnson;task structur analysi knowledg model;commun acm;0
+804;182;jack w smith;b chandrasekaran,s mittal;mdx relat medic decis make;ijcai intern joint artifici intellig;0
+805;182;jack w smith;b chandrasekaran,t johnson;task structur analysi knowledg model;aifipp artifici intellig from inform process perspect;0
+806;182;jack w smith;b chandrasekaran;tenth annual workshop artifici intellig medicin overview;ai artifici intellig magazin;0
+807;182;jack w smith;b chandrasekaran;differ methodolog perspect artifici intellig;ai artifici intellig magazin;0
+808;183;j smith;s gauch;intellig search full text databas;proceed riao mit revis version publish;0
+809;183;j smith;s gauch;search improv via automat queri reformul;acm transact inform system;0
+810;183;j smith;g hill,h ashman,m bernstein,p nurnberg,v balasubramanian;www hypertext research panel;hypertext;0
+811;183;j smith;i jenkins,m lansman;tutori we experiment studi;report chapel hill depart comput scienc;0
+812;183;j smith;m lansman,i weber;comput gener protocol studi writer s plan strategi;report chapel hill depart comput scienc;0
+813;183;j smith;m lansman,i weber;write environ studi writer strategi;comput composit;0
+814;183;j smith;h meserole;shakespear annot world bibliographi;shakespear quarterli bibliographi issu;0
+815;183;j smith;b rosenberg;comput finnish histor geograph method;bruce journal american folklor;0
+816;183;j smith;d shackelford,f smith;distribut storag servic support group collabor;report chapel hill depart comput scienc;0
+817;183;j smith;d shackelford,f smith;distribut graph storag artifact group collabor;report chapel hill depart comput scienc;0
+818;183;j smith;d shackelford;tao subgraph model abc distribut graph storag;report chapel hill depart comput scienc;0
+819;183;j smith;d shackelford,j boone,b elledge;unc graph server distribut hypermedia manag;report chapel hill depart comput scienc;0
+820;183;j smith;m lansman;cognit basic comput write environ;report chapel hill depart comput scienc;0
+821;183;j smith;p bush,g ferguson,s weiss,j bolter;overview architectur we;report chapel hill depart comput scienc;0
+822;183;j smith;m lansman;cognit basi comput write environ;b k britton s m glynn ed comput write aid theori reserach practic hillsdal erlbaum;0
+823;183;j smith;m rooks,g ferguson;cognit grammar write version;report chapel hill depart comput scienc;0
+824;183;j smith;m lansman;cognit mode strategi write;report chapel hill depart comput scienc;0
+825;183;j smith;;collect intellig comput collabor;hillsdal laurenc erlbaum associ;0
+826;183;j smith;;collect intellig comput collabor introduct;report chapel hill depart comput scienc;0
+827;183;j smith;;comput critic;style fall also trend linguist studi mongraph comput languag research w sedelow w sedelow s y ed mouton;0
+828;183;j smith;;comput literari theori;associ literari linguist comput bulletin;0
+829;183;j smith;;comput studi human intellectu educ social implic;interdisciplinari essai iv;0
+830;183;j smith;d smith,s b;hypermedia vs paper user strategi brows sna materi;report chapel hill depart comput scienc;0
+831;183;j smith;s weiss;hypertext;commun the acm;0
+832;183;j smith;s weiss,g ferguson;microarra overview;report chapel hill depart comput scienc;0
+833;183;j smith;;imageri mind stephen dedalu;lewisburg bucknel univers press;0
+834;183;j smith;f smith,p calingaert,j hayes,d holland,k jeffay,m lansman;unc collaboratori project overview;report chapel hill depart comput scienc;0
+835;183;j smith;s weiss,g ferguson,j bolter,m lansman,d beard;we write environ profession;proceed nation comput afip press;0
+836;183;j smith;c smith;write think comput;r zwaan d meutsch ed comput model technolog media research new elsevi scienc publish also poetic journal empir research literatur media the art special issu comput model technolog;0
+837;183;j smith;d nash;interact home media privaci;dc feder trade commiss;0
+838;183;j smith;b rosenberg;rhythm speech formula structur four fundamentalist sermon;comput studi human verbal behavior;0
+839;183;j smith;;random access text associ text analysi;siglash newslett;0
+840;183;j smith;;arra new environ literari analysi;perspect comput summer fall;0
+841;183;j smith;;arra user s manual;report chapel hill depart comput scienc;0
+842;183;j smith;;ratsal languag analysi eighti;style fall;0
+843;183;j smith;;rat middl level text util;comput the human;0
+844;183;j smith;;lucubr specif natur languag analyz;comput studi human verbal behavior;0
+845;183;j smith;c smith;strateg method write;report chapel hill depart comput scienc;0
+846;183;j smith;;themat structur complex;style winter;0
+847;183;j smith;s gauch;queri reformul strategi intellig search intermediari;proceed annual ai artifici intellig system govern dc;0
+848;183;j smith;d smith,e kupstas;autom protocol analysi;human comput interact;0
+849;183;j smith;d smith,e kupstas;autom protocol analysi tool methodolog;report chapel hill depart comput scienc;0
+850;183;j smith;;toward marxist poetic;style winter;0
+851;183;j smith;h meserole;yet there is method it;perspect comput;0
+852;183;j smith;s southard,s weiss,g ferguson;overview architectur microarra;report chapel hill depart comput scienc;0
+853;183;j smith;f young;structur analysi cognit design analysi softwar;report chapel hill depart comput scienc;0
+854;183;j smith;f young;toward structur analysi environ cognit design;comput graphic statist buja p tukei ed new springer verlag;0
+855;183;j smith;s gauch;expert automat queri reformul;journal the american societi inform scientist;0
+856;183;j smith;s gauch;expert automat queri reform;jasi journal the american societi inform scienc;0
+857;183;j smith;s gauch;intellig inform retriev introduct;journal the american societi inform scientist;0
+858;183;john b smith;;comput gener analogu mental structur from languag;ifip intern feder inform process congress;0
+859;183;john b smith;k jeffay,j lin,j menges,f smith;architectur artifact collabor matrix;proceed cscw comput support cooper work new acm press;0
+860;183;john b smith;k jeffay,j lin,j menges,f smith;architectur artifact collabor matrix;report chapel hill depart comput scienc;0
+861;183;john b smith;m lansman;design theori case studi;chi human factor comput system;0
+862;183;john b smith;;king is dead long live king keynot;hypertext;0
+863;183;john b smith;e mylonas,g landow,m bernstein;process discoveri hypertext scholarship;hypertext;0
+864;183;john b smith;w schuler;author s argument assist aaa hypertext author tool argument text;proceed european hypertext univers press;0
+865;183;john b smith;d shackelford,f smith;architectur implement distribut hypermedia storag;hypertext;0
+866;183;john b smith;f smith;abc hypermedia artifact collabor;hypertext;0
+867;183;john b smith;;comput gener analogu mental structur from languag;proceed ifip intern feder inform process congress hagu north publish;0
+868;183;john b smith;m lansman;design theori case studi;proceed chi human factor comput system new acm press;0
+869;183;john b smith;g ferguson,s weiss;hypertext write environ it cognit basi;hypertext;0
+870;183;john b smith;s weiss;format text access randomli;softwar practic experi;0
+871;183;john b smith;s weiss,g ferguson;hypertext write environ it cognit basi;proceed acm intern research develop inform retriev revis version publish special issu inform process manag;0
+872;183;john b smith;g ferguson,s weiss;microarra advanc full text retriev analysi;sigir research develop inform retriev;0
+873;183;john b smith;f smith,j lin,j menges,k jeffay;architectur artifact collabor matrix;cscw comput support cooper work;0
+874;183;john b smith;s weiss;format text access randomli;softw pract exper;0
+875;183;john b smith;s weiss;hypertext introduct special issu;commun acm;0
+876;184;j smith;g sambin,s sadocco,t coquand;formal topolog set first order formula;j symb log;0
+877;184;j smith;;formal topolog set first order formula;journal symbol logic;0
+878;184;j smith;;nonconstruct type theori program deriv;proceed confer logic it applic;0
+879;184;j smith;;interpret kleen s slash type theori logic environ;g huet g plotkin ed univers press;0
+880;184;j smith;;interpret martin lof s type theori type free theori proposit;journal symbol logic;0
+881;184;j smith;;proposit function famili type;notr dame journal formal logic;0
+882;184;j smith;;interpret martin lof s type theori type free theori proposit;j symb log;0
+883;184;j smith;b nordstrom;proposit type specif martin lof s type theori;bit;0
+884;184;j smith;;identif proposit type martin lof s type theori;foundat comput theori volum lectur note comput scienc page springer verlag;0
+885;184;j smith;;independ peano s fourth axiom from martin lof s type theori without univers;journal symbol logic;0
+886;184;j smith;;proposit function famili type;notr dame journal formal logic;0
+887;184;j smith;;independ peano s fourth axiom from martin lof s type theori without univers;j symb log;0
+888;184;j smith;b nordstrom,b sydow,t coquand;type theori program;bulletin the eatc european associ theoret comput scienc;0
+889;184;jan m smith;;kleen s slash exist valu open term type theori;csl comput scienc logic;0
+890;184;jan m smith;a salvesen;strength subset type martin lof s type theori;lic logic comput scienc;0
+891;184;jan m smith;;kleen s slash exist valu open term type theori;select paper from csl comput scienc logic e boerger et ed lnc springer verlag;0
+892;184;jan m smith;t coquand;applic construct complet;proceed type proof program torino be publish lnc;0
+893;184;jan m smith;k petersson;program deriv type theori partit problem;comput languag;0
+894;184;jan m smith;t tammet;optim encod fragment type theori first order logic;proceed type proof program torino be publish lnc;0
+895;184;jan m smith;a salvesen;strength subset type martin lof s type theori;proceed lic logic comput scienc edinburgh ieee;0
+896;184;jan m smith;g mints,e tyugu;type theoret semant declar languag;d bj rner editor select work baltic republ comput scientist lectur note comput scienc springer verlag;0
+897;184;jan m smith;t tammet;optim encod fragment type theori first order logic;type;0
+898;184;jan m smith;t tammet;optim encod fragment type theori first order logic;journal logic comput;0
+899;184;jan m smith;e tyugu,g mints;type theoret semant declar languag;baltic comput scienc;0
+900;184;jan m smith;t coquand;applic construct complet;type;0
+901;184;jan m smith;k petersson;program deriv type theori partit problem;comput lang;0
+902;184;jan smith;;identif proposit type martin lof s type theori program exampl;fct fundament comput theori;0
+903;184;jan smith;b nordstrom;proposit specif program martin lof type theori;bit;0

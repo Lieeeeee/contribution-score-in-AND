@@ -1,0 +1,31 @@
+@relation 'Dataset bdbcomp publish-venue fsilva'
+@attribute Text string
+@attribute class-att {60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81}
+@data
+'rede computador',60
+'linguagen programacao',61
+'computacao grafica processamento imagen',62
+'rede computador',63
+'banco dado',64
+'engenharia softwar',65
+'engenharia softwar',66
+'gerencia operacao rede servico',67
+'rede computador',67
+'linguagen programacao',68
+'computacao grafica processamento imagen',69
+'computacao grafica processamento imagen',69
+'computacao grafica processamento imagen',69
+'inteligencia artifici',70
+'encontro nacion inteligencia artifici',71
+'inteligencia artifici',71
+'encontro nacion inteligencia artifici',72
+'inteligencia artifici',72
+'qualidad softwar',73
+'journal brazilian comput societi',74
+'escola region banco dado',75
+'engenharia requisito',76
+'informatica publica',77
+'tv digit',78
+'computacao grid aplicaco',79
+'rede computador',80
+'symposium microelectron technolog devic',81

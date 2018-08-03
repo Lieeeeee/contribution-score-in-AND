@@ -1,0 +1,37 @@
+@relation 'Dataset bdbcomp publish-venue_title lsilva'
+@attribute Text string
+@attribute class-att {138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155}
+@data
+'rede computador utilizacao tecnica estel gerar sequencia test protocolo comunicacao',138
+'engenharia softwar meta modelo especificacao arquitetura softwar camada',139
+'engenharia softwar enriquecendo codigo cenario',139
+'engenharia softwar integracao caracteristica transversai durant modelagem requisito',139
+'engenharia requisito geracao ontologia subsidiada engenharia requisito',139
+'engenharia requisito linguagem modelagem requisito orientada aspecto',139
+'engenharia softwar requisito arquitetura softwar orientada aspecto integracao sinergica',139
+'latin american aspect orient softwar develop marisa ferramenta mapeamento bidirecion modelo orientado aspecto requisito arquitetura softwar',139
+'computacao grafica processamento imagen effici fill algorithm non simpl close curv us point contain paradigm',140
+'computacao grafica processamento imagen stroke discret polynomi bezier curv via point contain paradigm',140
+'computacao grafica processamento imagen estudo detecao borda imagen profundidad',141
+'computacao grafica processamento imagen robust multiview rang imag registr',141
+'algoritmo mineracao dado ferramenta mineracao imagen suport calculo idad gestacion recem nascido',141
+'revista informatica teorica aplicada mineracao imagen',141
+'seminario integrado softwar hardwar gerenciamento integrado moden via snmp estudo caso',142
+'linguagen programacao isamadapt ambient desenvolvimento aplicaco novo paradigma definido computacao pervasiva',143
+'xxxii seminario integrado softwar hardwar disseminando informaco arquitetura isam',143
+'rede neurai us neural network uncertainti inform core point fingerprint classif',144
+'encontro nacion inteligencia artifici expert coop++ ambient desenvolvimento sistema multiagent',145
+'encontro nacion inteligencia artifici aprendizagem participativa agrupamento nebuloso dado',146
+'xxx seminario integrado softwar hardwar verificacao formal etapa particionamento co design usando sistema reescrita bobj',147
+'xxxi seminario integrado softwar hardwar monitoramento pe diabetico suport computacion',147
+'qualidad softwar inspeco requisito softwar utilizando pbr apoio ferrament',148
+'banco dado modelagem biblioteca digitai usando abordagem 5s estudo caso',149
+'informatica publica servico auto arquivamento publicaco cientifica compativel padrao oai',149
+'symposium integr circuit system design solv satisfi combin circuit bactrack search recurs learn',150
+'realidad virtual multius system kennet world',151
+'engenharia requisito elicit requir identifi workflow categori',152
+'informatica publica mapeando estrutura organizacionai categoria workflow',152
+'geoinformatica cartograph data treatment analysi real time three dimension terrain visual',153
+'informatica publica computador producao servico publico resultado investigacao prefeitura belo horizont',154
+'latin american aspect orient softwar develop controlando evolucao sistema orientado aspecto meio aspect awar interfac',155
+'latin american aspect orient softwar develop estudo emprego quantificacao sistema orientado aspecto resultado preliminar',155

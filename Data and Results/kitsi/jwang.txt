@@ -1,0 +1,325 @@
+17108;1;james ze wang;r datta,d joshi,j li;studi aesthet photograph imag us comput approach;eccv;2006
+17109;1;james ze wang;j li,g wiederhold;simplic semant sensit integr match pictur librari;visual;2000
+17110;1;james ze wang;j li;studi digit imageri ancient paint mixtur stochast model;tip;2004
+17111;1;james ze wang;j li,g wiederhold,o firschein;system screen objection imag;comcom;1998
+17112;1;james ze wang;j li,r gray,g wiederhold;unsupervis multiresolut segment imag low depth field;pami;2001
+17113;1;james z wang;n boujemaa,a bimbo,d geman,a hauptmann,j tesic;divers multimedia inform retriev research;mir;2006
+17114;1;james ze wang;j li,g wiederhold;classif textur non textur imag us region segment;icip;2000
+17115;1;james ze wang;j li,r gray,g wiederhold;multiresolut object interest detect imag low depth field;iciap;1999
+17116;1;james ze wang;;region base retriev biomed imag;mm;2000
+17117;1;james ze wang;y chen;region base fuzzi featur match approach content base imag retriev;pami;2002
+17118;1;james ze wang;a jaiswal,c giles,p mitra;architectur creat collabor semant capabl scientif data share infrastructur;widm;2006
+17119;1;james ze wang;j bi,y chen;spars support vector machin approach region base imag categor;cvpr;2005
+17120;1;james ze wang;r datta,w ge,j li;toward bridg annot retriev gap imag search gener model approach;mm;2006
+17121;1;james ze wang;j li;automat linguist index pictur statist model approach;pami;2003
+17122;1;james ze wang;j li,s lin;evalu strategi automat linguist index pictur;icip;2003
+17123;1;james ze wang;j li,g wiederhold;irm integr region match imag retriev;mm;2000
+17124;1;james ze wang;y du;rf ipf weight scheme multimedia inform retriev;iciap;2001
+17125;1;james ze wang;d joshi,j li;stori pictur engin system automat text illustr;tomccap;2006
+17126;1;james ze wang;r datta,j li;imagin robust imag base captcha gener system;mm;2005
+17127;1;james ze wang;y chen,r krovetz;content base imag retriev cluster;mir;2003
+17128;1;james ze wang;y chen,j bi;mile multipl instanc learn via embed instanc select;pami;2006
+17129;1;james ze wang;k grieb,y zhang,c chen,y chen,j li;machin annot retriev digit imageri histor materi;jodl;2006
+17130;1;james ze wang;e giladi,m walker,w volkmuth;sst algorithm find near exact sequenc match time proport logarithm databas size;bioinformat;2002
+17131;1;james ze wang;x lu,p mitra,c giles;automat categor figur scientif document;jcdl;2006
+17132;1;james ze wang;y chen,r krovetz;clue cluster base retriev imag unsupervis learn;tip;2005
+17133;1;james ze wang;g wiederhold,o firschein,s wei;wavelet base imag index techniqu partial sketch retriev capabl;adl;1997
+17134;1;james z wang;x lu,p mitra,c giles;deriv knowledg figur digit librari;www;2007
+17135;1;james z wang;j li;real time computer annot pictur;mm;2006
+17136;1;james ze wang;c chen,h wactlar,k kiernan;digit imageri signific cultur histor materi;jodl;2005
+17137;1;james ze wang;j li,g wiederhold;simplic semant sensit integr match pictur librari;pami;2001
+17138;1;james ze wang;j li,g wiederhold,o firschein;classifi objection websit base imag content;idm;1998
+17139;1;james ze wang;d joshi,r datta,z zhuang,w weiss,m friedenberg,j li;paragrab comprehens architectur web imag manag multimod queri;vldb;2006
+17140;1;james ze wang;y du;scalabl integr region base imag retriev us irm statist cluster;jcdl;2001
+17141;1;james ze wang;y chen;imag categor learn reason region;jmlr;2004
+17142;1;james ze wang;j li;learn base linguist index pictur d mhmm;mm;2002
+17143;1;j z wang;d joshi,j li;computation effici approach estim two three dimension hidden markov model;tip;2006
+17144;1;james ze wang;y du;scalabl integr region base imag retriev system;icip;2001
+17145;1;james ze wang;g wiederhold,o firschein,s wei;content base imag index search us daubechi wavelet;jodl;1997
+17146;1;james ze wang;j li,d joshi;stochast model imag d hidden markov model;icip;2004
+17147;2;jue wang;m cohen;iter optim approach unifi imag segment mat;iccv;2005
+17148;2;jue wang;b thiesson,y xu,m cohen;imag video segment anisotrop kernel mean shift;eccv;2004
+17149;2;jue wang;p bhat,a colburn,m agrawala,m cohen;interact video cutout;tog;2005
+17150;2;jue wang;y xu,h shum,m cohen;video toon;tog;2004
+17151;3;jiacun wang;w tepfenhart,d rosca,a tsai;resourc constrain workflow model;tase;2007
+17152;3;jiacun wang;y deng,x he,j tsai;constraint propag progress verif compon base process model;ijsek;2004
+17153;3;jiacun wang;y deng,m zhou;composit time petri net reduct rule;tsmc;2000
+17154;3;jiacun wang;y deng,r sinha;increment architectur model verif real time concurr system;icfem;1998
+17155;3;jiacun wang;d rosca;dynam workflow model verif;cais;2006
+17156;3;jiacun wang;c jin,y deng;perform analysi traffic network base stochast time petri net model;icecc;1999
+17157;3;jiacun wang;y deng,j tsai,k beznosov;approach model analysi secur system architectur;tkde;2003
+17158;3;jiacun wang;d rosca,w tepfenhart,a milewski,m stoute;intuit formal approach dynam workflow model analysi;bpm;2005
+17159;3;jiacun wang;y deng;integr architectur model analysi high assur command control system design;ansoft;1999
+17160;3;jiacun wang;y deng;integr architectur model analysi high assur command control system design;hase;1998
+17161;3;jiacun wang;x he,y deng;introduc softwar architectur specif analysi sam exampl;infsof;1999
+17162;4;jie wang;j lu;perform model analysi web switch;cmg;2005
+17163;4;jie wang;z yu;new variat chord novel improv lookup local;gca;2006
+17164;4;jie wang;;p creativ set p complet creativ set;tc;1991
+17165;4;jie wang;m kao;minim roundoff error prefix sum via dynam construct huffman tree;tc;2001
+17166;4;jie wang;;pack unequ sphere autom radiosurg treatment plan;jco;1999
+17167;4;jie wang;m kao;linear time approxim algorithm comput numer summat provabl small error;corr;1999
+17168;4;jie wang;m kao;linear time approxim algorithm comput numer summat provabl small error;siamcomp;2000
+17169;4;jie wang;j belanger;averag p vs averag np;coco;1992
+17170;4;jie wang;;polynomi time product approxim level;siamcomp;1992
+17171;4;jie wang;j karro;toward practic secur larg scale onlin elect;acsac;1999
+17172;4;jie wang;;averag case complet word problem group;stoc;1995
+17173;4;jie wang;j belanger;averag p vs averag np;dagstuhl;1992
+17174;4;jie wang;;complet averag boolean satisfi;jc;2002
+17175;4;jie wang;k sivalingam;perform mac protocol wdm network line schedul;infocom;1996
+17176;4;jie wang;j belanger;np isomorph problem respect random instanc;jcss;1995
+17177;4;jie wang;s homer;immun complet problem;iandc;1994
+17178;4;jie wang;m kao;effici minim numer summat error;icalp;1998
+17179;4;jie wang;y ge;optim problem virtual endoscopi;tc;1998
+17180;4;jie wang;s homer;absolut result concern wai function applic;mst;1989
+17181;4;jie wang;n zhong;effici point coverag wireless sensor network;jco;2006
+17182;5;jianfeng wang;h zhai,x chen,y fang;medium access control mobil ad hoc network challeng solut;wicomm;2006
+17183;5;jianfeng wang;h zhai,y fang,j shea,d wu;omar util multius divers wireless ad hoc network;tmc;2006
+17184;5;jianfeng wang;y fang,d wu;power save multi radio multi channel mac protocol wireless local area network;infocom;2006
+17185;6;jenq haur wang;p cheng,j teng,r chen,w lu,l chien;translat unknown queri web corpora cross languag inform retriev;sigir;2004
+17186;6;jenq haur wang;t lee;enhanc dhcp base infrastructur intranet manag;ic;2002
+17187;6;jenq haur wang;j teng,p cheng,w lu,l chien;translat unknown cross lingual queri digit librari us web base approach;jcdl;2004
+17188;6;jenq haur wang;h chang,c lin,l chien;peer peer approach collabor repositori digit librari;icadl;2006
+17189;6;jenq haur wang;t lee;enhanc intranet manag dhcp enabl environ;compsac;2002
+17190;6;jenq haur wang;j hsiao,m chen,c chen,l chien;construct wrapper base drm system digit content protect digit librari;icadl;2005
+17191;6;jenq haur wang;c huang,j teng,l chien;gener concept hierarchi text intellig analysi;isi;2004
+17192;6;jenq haur wang;j hsiao,c li,c chiu,c chen,l chien;effect content track digit right manag digit librari;ercimdl;2006
+17193;6;jenq haur wang;w lu,l chien;toward web mine queri translat cross languag inform retriev digit librari;icadl;2003
+17194;6;jenq haur wang;t lee;peer peer support file transfer cach mechan;pcm;2002
+17195;6;jenq haur wang;w lu,l chien;toward web mine cross languag queri translat digit librari;jodl;2004
+17196;6;jenq haur wang;d juang,c lai,c hsieh,l chien,j ho;resolv unencod charact problem chines digit librari;jcdl;2005
+17197;6;jenq haur wang;j teng,w lu,l chien;exploit web multilingu corpu unknown queri translat;jasi;2006
+17198;7;jingbin wang;m betke,j ko;shape base curv grow model adapt regular pulmonari fissur segment ct;miccai;2004
+17199;7;jingbin wang;v athitsos,s sclaroff,m betke;detect instanc shape class exhibit variabl structur;eccv;2006
+17200;7;jingbin wang;e gu,m betke;mosaicshap stochast region group shape prior;cvpr;2005
+17201;8;jhing fa wang;j wang,c lin,k jian,w kuok;content base audio classif us support vector machin independ compon analysi;icpr;2006
+17202;8;jhing fa wang;y chen;skew detect reconstruct base maxim varianc transit count;pr;2000
+17203;8;jhing fa wang;j wang,y weng;chip design mfcc extract speech recognit;integr;2002
+17204;8;jhing fa wang;h chang;robust stroke extract method handwritten chines charact;ijprai;1994
+17205;8;jhing fa wang;h hsu,h wang;constrain textur synthesi scalabl sub patch algorithm;icmc;2004
+17206;8;jhing fa wang;t huang,c yang,j lee;graph theoret character reliabl gener boolean n cube network;pc;1989
+17207;8;jhing fa wang;c wu,c hsia,t liu;voic convers us durat embed bi hmm express speech synthesi;taslp;2006
+17208;8;jhing fa wang;h hsu,j li;intellig object extract algorithm base foreground background classif;euc;2005
+17209;8;jhing fa wang;y su;learn process identif featur point chines charact;icpr;2002
+17210;8;jhing fa wang;a suen,j lin;vlsi architectur implement fs1016 celp decod reduc power memori requir;integr;1997
+17211;8;jhing fa wang;j jou,j lee,y sun;effici vlsi switch box router;dt;1990
+17212;8;jhing fa wang;y su;learn process identif featur point chines charact;tsmc;2003
+17213;8;jhing fa wang;m sheu,j lee,a suen,l liu;high throughput rate architectur d dct;isca;1993
+17214;9;jia wang;s singh,f baboescu,g varghese;packet classif us multidimension cut;sigcomm;2003
+17215;9;jia wang;a buchsbaum,g fowler,b krishnamurthy,k vo;fast prefix match bound string;jea;2003
+17216;9;jia wang;q zhao,a kumar,j xu;data stream algorithm accur effici measur traffic flow matric;sigmetr;2005
+17217;9;jia wang;z mao,d johnson,j rexford,r katz;scalabl accur identif level forward path;infocom;2004
+17218;9;jia wang;s sen;analyz peer peer traffic across larg network;imc;2002
+17219;9;jia wang;a kumar,j xu,o spatscheck,l li;space code bloom filter effici flow traffic measur;infocom;2004
+17220;9;jia wang;m sung,a kumar,e li,j xu;scalabl effici data stream algorithm detect common content internet traffic;icd;2006
+17221;9;jia wang;z mao,d johnson,o spatscheck,j merwe;effici robust stream provis vpn;www;2003
+17222;9;jia wang;b krishnamurthy;traffic classif applic specif peer;imc;2002
+17223;9;jia wang;z mao,j rexford,r katz;toward accur level tracerout tool;sigcomm;2003
+17224;9;jia wang;b krishnamurthy;network awar cluster web client;sigcomm;2000
+17225;9;jia wang;f wang,l gao,j qiu;understand transient interdomain rout failur;icnp;2005
+17226;9;jia wang;z wang;us neural network determin sugeno measur statist;nn;1997
+17227;9;jia wang;f wang,z mao,l gao,r bush;measur studi impact rout event end end internet path perform;sigcomm;2006
+17228;9;jia wang;n hu,l li,z mao,p steenkiste;measur studi internet bottleneck;infocom;2005
+17229;9;jia wang;b krishnamurthy;topolog model via cluster graph;imw;2001
+17230;9;jia wang;q dong,s banerjee,d agrawal,a shukla;packet classifi ternari cam can smaller;sigmetr;2006
+17231;9;jia wang;b krishnamurthy,y xie;earli measur cluster base architectur p2p system;imw;2001
+17232;9;jia wang;a kumar,j xu,e li;space code bloom filter effici traffic flow measur;imc;2003
+17233;9;jia wang;z mao,l qiu,y zhang;level path infer;sigmetr;2005
+17234;9;jia wang;j rexford,z xiao,y zhang;bgp rout stabil popular destin;imc;2002
+17235;9;jia wang;s sen;analyz peer peer traffic across larg network;ton;2004
+17236;9;jia wang;s keshav;effici accur ethernet simul;lcn;1999
+17237;9;jia wang;a buchsbaum,g fowler,b krishnamurthy,k vo;fast prefix match bound string;alenex;2003
+17238;10;jeen shing wang;c lee,j yuh;line self organ neuro fuzzi control autonom underwat vehicl;icra;1999
+17239;10;jeen shing wang;c lee,j yuh;self adapt neuro fuzzi system fast paramet learn autonom underwat vehicl control;icra;2000
+17240;10;jeen shing wang;c lee,j yuh;self adapt neuro fuzzi system autonom underwat vehicl control;ar;2001
+17241;10;jeen shing wang;j chiang;valid guid support vector cluster algorithm identif optim cluster configur;smc;2004
+17242;10;jeen shing wang;c lee;self adapt recurr neuro fuzzi control autonom underwat vehicl;icra;2002
+17243;11;jianfang wang;b xu,p wang;connect g cage;arscom;2002
+17244;11;jianfang wang;h li;upper bound essenti cyclomat number hypergraph;dm;2002
+17245;11;jianfang wang;c chen;factor graph odd cycl properti;dm;1993
+17246;11;jianfang wang;z zhang,l liu,j zhang;relat arbor independ number cover number;dam;1998
+17247;11;jianfang wang;z zhang,l liu;adjac strong edg color graph;appml;2002
+17248;11;jianfang wang;p lam,w shiu,f sun,g yan;linear vertex arbor independ number cliqu cover number;arscom;2001
+17249;11;jianfang wang;;point linear arbor planar graph;dm;1988
+17250;11;jianfang wang;l sun;upper bound independ domin number;jct;1999
+17251;11;jianfang wang;y alavi,j liu,z zhang;total cover graph;dm;1992
+17252;11;jianfang wang;p wang,b xu;note edg connect cage;combinator;2003
+17253;12;ju wang;j liu,j lin;partit base parallel mpeg softwar decod;jci;2002
+17254;12;ju wang;m elicin,j liu;multimedia support wireless w cdma dynam spread;winet;2002
+17255;12;ju wang;j liu,y cen;analysi soft handoff algorithm dynam spread wcdma system;aina;2003
+17256;13;jason tsong li wang;d shasha,s zhang;unord tree mine applic phylogeni;icd;2004
+17257;13;jason tsong li wang;c wei,q liu,p ng;knowledg discov document classif us tree match texpro;isci;1997
+17258;13;jason tsong li wang;x hao,p ng;inform extract structur part offic document;isci;1996
+17259;13;junhan wang;j wang,j liu;xml cluster retriev princip compon analysi;ijait;2005
+17260;13;jiying wang;;inform discoveri extract integr hidden web;vldb;2003
+17261;13;jason tsong li wang;g chirn,t marr,b shapiro,d shasha,k zhang;combinatori pattern discoveri scientif data preliminari result;sigmod;1994
+17262;13;jason tsong li wang;s zhang,k herbert;xml queri exampl;ijcia;2002
+17263;13;jason tsong li wang;d shasha,r giugno;algorithm applic tree graph search;pod;2002
+17264;13;jason tsong li wang;k zhang,g chirn;algorithm approxim graph match;isci;1995
+17265;13;jason tsong li wang;q ma;biolog data mine us bayesian neural network case studi;ijait;1999
+17266;13;jason tsong li wang;x wang,k lin,d shasha,b shapiro,k zhang;index structur data mine cluster;kai;2000
+17267;13;jason tsong li wang;x wang,d shasha,b shapiro,k zhang,x zheng,q ma,z weinberg;approxim search engin structur databas;sigmod;2000
+17268;13;jason tsong li wang;k herbert,s pusapati,w piel;lineag path integr phylogenet resourc;ssdbm;2005
+17269;13;jason tsong li wang;k zhang,d shasha;pattern match pattern discoveri scientif program document databas;sigmod;1995
+17270;13;jason tsong li wang;c chang;scientif data mine case studi;seke;1996
+17271;13;jason tsong li wang;q ma,d shasha,c wu;applic neural network biolog data mine case studi protein sequenc classif;kdd;2000
+17272;13;jason tsong li wang;k herbert,n gehani,w piel,c wu;bio ajax extens framework biolog data clean;sigmod;2004
+17273;13;jason tsong li wang;k zhang;find similar consensu tree algorithm distanc hierarchi;pr;2001
+17274;13;jason tsong li wang;d shasha,k zhang,f shih;exact approxim algorithm unord tree match;tsmc;1994
+17275;13;jiying wang;w su,f lochovsky;automat hierarch classif structur deep web databas;wise;2006
+17276;13;jason tsong li wang;k zhang;identifi consensu tree align;isci;2000
+17277;13;jason tsong li wang;d shasha;queri process distanc metric;vldb;1990
+17278;13;jiying wang;j wen,f lochovsky,w ma;instanc base schema match web databas domain specif queri probe;vldb;2004
+17279;13;jason tsong li wang;f mhlanga,z zhu,p ng;new approach model person offic document;dke;1995
+17280;13;jason tsong li wang;g zhou,p ng;curriculum knowledg represent manipul knowledg base tutor system;tkde;1996
+17281;13;jason tsong li wang;k zhang,c chang;identifi approxim common substructur tree base restrict edit distanc;isci;1999
+17282;13;jason tsong li wang;x wang;fast similar search three dimension structur databas;jcisd;2000
+17283;13;jason tsong li wang;c chang,r chang;scientif data mine case studi;ijsek;1998
+17284;13;jason tsong li wang;m yin;effect hidden markov model detect splice junction site dna sequenc;isci;2001
+17285;13;jason tsong li wang;x wang,d shasha,b shapiro,i rigoutsos,k zhang;find pattern three dimension graph algorithm applic scientif data mine;tkde;2002
+17286;13;jason tsong li wang;s rozen,b shapiro,d shasha,z wang,m yin;new techniqu dna sequenc classif;jcb;1999
+17287;13;jason tsong li wang;k zhang,k jeong,d shasha;system approxim tree match;tkde;1994
+17288;13;jason t l wang;s zhang,k herbert,w piel,d stockwell;phylomin tool evolutionari data analysi;ssdbm;2006
+17289;13;jason tsong li wang;x wang,k lin,d shasha,b shapiro,k zhang;evalu class distanc map algorithm data mine cluster;kdd;1999
+17290;13;jason tsong li wang;m yin;mine gene dna us genescout;icdm;2002
+17291;13;jason tsong li wang;q ma,d shasha,c wu;new techniqu extract featur protein sequenc;ibmsj;2001
+17292;13;jason tsong li wang;b shapiro,d shasha,k zhang,k currey;algorithm find largest approxim common substructur two tree;pami;1998
+17293;13;jason tsong li wang;k zhang,d shasha;approxim tree match presenc variabl length don t care;jal;1994
+17294;13;jason tsong li wang;k zhang,g chang,d shasha;find approxim pattern undirect acycl graph;pr;2002
+17295;13;jason tsong li wang;s zhang;mine frequent agreement subtre phylogenet databas;sdm;2006
+17296;13;jiying wang;f lochovsky;data rich section extract html page;wise;2002
+17297;13;jason tsong li wang;h shan,k herbert,w piel,d shasha;structur base search engin phylogenet databas;ssdbm;2002
+17298;13;jason tsong li wang;b shapiro,d shasha,k zhang,c chang;autom discoveri activ motif multipl rna secondari structur;kdd;1996
+17299;13;jason tsong li wang;k zhang,d shasha;edit distanc undirect acycl graph;ijfc;1996
+17300;13;jason tsong li wang;d shasha;new techniqu best match retriev;toi;1990
+17301;13;jiying wang;w su,q huang,f lochovsky;queri result rank commerc web databas;cikm;2006
+17302;13;jason tsong li wang;d shasha,g chang,l relihan,k zhang,g patel;structur match discoveri document databas;sigmod;1997
+17303;13;jiying wang;w su,f lochovsky;holist queri interfac match us parallel schema match;icd;2006
+17304;13;jason tsong li wang;x wang,d shasha,b shapiro,s dikshitulu,i rigoutsos,k zhang;autom discoveri activ motif three dimension molecul;kdd;1997
+17305;14;jie wang;x fang,m xu;arc regular graph;ejc;2002
+17306;14;jie wang;x fang,c li,m xu;cubic caylei graph finit simpl group;dm;2002
+17307;14;jie wang;s xu,x fang,m xu;cubic s arc transit caylei graph finit simpl group;ejc;2005
+17308;15;james zijun wang;r guha;novel data cach scheme multimedia server;simpra;2002
+17309;15;james zijun wang;r guha;data alloc algorithm distribut video server;mm;2000
+17310;15;james zijun wang;k hua,w tavanapong;2psm effici framework search video inform limit bandwidth environ;mm;1999
+17311;15;james zijun wang;z du,p srimani;cooper proxi cach wireless base station;mi;2007
+17312;15;james z wang;z du,r payattakool,p yu,c chen;new method measur semant similar go term;bioinformat;2007
+17313;15;james zijun wang;z du,p srimani;network cach model wireless proxi cach;mascot;2005
+17314;15;james zijun wang;r guha;proxi ecolog cooper proxi artifici life;iat;2003
+17315;15;james z wang;r guha;proxi ecolog cooper proxi artifici life;wia;2004
+17316;15;james z wang;m vanninen;self configur protocol p2p network;wia;2006
+17317;15;james zijun wang;k hua;bandwidth manag techniqu hierarch storag larg scale multimedia server;icmc;1997
+17318;15;james zijun wang;v bhulawala;design implement p2p cooper proxi cach system;webi;2005
+17319;15;james zijun wang;f ali;effici ontolog comparison tool semant web applic;webi;2005
+17320;15;james zijun wang;k hua,s sheu;earthworm network memori manag techniqu larg scale distribut multimedia applic;infocom;1997
+17321;15;james z wang;f luo,e promislow;explor local commun structur larg network;webi;2006
+17322;15;james zijun wang;f ali,r appaneravanda;web servic effici ontolog comparison;icw;2005
+17323;15;james zijun wang;m vanninen;novel self configur mechan heterogen p2p network;iat;2004
+17324;15;james zijun wang;k hua,h young;sep space effici pipelin techniqu manag disk buffer multimedia server;icmc;1996
+17325;16;jia wang;z gu,y yang,r dick,l shang;taph thermal awar unifi physic level high level synthesi;aspdac;2006
+17326;16;jia wang;m kao,h zhou;address gener nanowir decod;glvlsi;2007
+17327;16;jia wang;h zhou;optim jumper insert antenna avoid ratio upper bound;dac;2006
+17328;16;jia wang;h zhou;minim period retim process variat;glvlsi;2004
+17329;16;jia wang;z gu,r dick,h zhou;increment explor combin physic behavior design space;dac;2005
+17330;16;jia wang;c lin,h zhou;cluster process rate optim;iccad;2005
+17331;16;jia wang;h zhou,p wu;process rate optim sequenti system floorplan;isq;2006
+17332;17;jianning wang;m oliveira;fill hole local smooth surfac reconstruct point cloud;ivc;2007
+17333;17;jianning wang;m oliveira,a kaufman;reconstruct manifold non manifold surfac point cloud;visual;2005
+17334;17;jianning wang;m oliveira;improv scene reconstruct rang imag;cgf;2002
+17335;17;jianning wang;m oliveira;hole fill strategi reconstruct smooth surfac rang imag;sibgrapi;2003
+17336;18;jiren wang;m leung,s hui;cursiv word refer line detect;pr;1997
+17337;18;jiren wang;q mu;soap ht blast high throughput blast base web servic;bioinformat;2003
+17338;19;janet meiling wang;s vrudhula,p ghanta;hermit polynomi base interconnect analysi presenc process variat;tcad;2006
+17339;20;jingtao wang;s zhai,j canny;camera phone base motion sens interact techniqu applic perform studi;uist;2006
+17340;20;jingtao wang;m kam,a iles,e tse,j chiu,d glaser,o tarshish,j canny;livenot system cooper augment note take lectur;chi;2005
+17341;20;jingtao wang;s zhai,h su;chines input keyboard ey track anatom studi;chi;2001
+17342;20;jingtao wang;j canny;tinymot camera phone base interact method;chi;2006
+17343;20;jingtao wang;j canny;end user place annot mobil devic compar studi;chi;2006
+17344;21;jiangzhou wang;m moeneclaey;hybrid ds sfh spread spectrum multipl access predetect divers code indoor radio;jsac;1992
+17345;21;jiangzhou wang;y zhou,m sawahashi;downlink transmiss broadband ofcdm system part effect doppler shift;tcom;2006
+17346;21;jiangzhou wang;l milstein;adapt lm filter cellular cdma overlai situat;jsac;1996
+17347;21;jiangzhou wang;l milstein;multicarri cdma overlai ultra wideband commun;tcom;2004
+17348;21;jiangzhou wang;b xia;effect channel estim error qam system antenna divers;tcom;2005
+17349;21;jiangzhou wang;w tung;narrowband interfer suppress time hop impuls radio ultra wideband commun;tcom;2006
+17350;22;jianqiang wang;d oard,d soergel,d doermann,x huang,g murray,b ramabhadran,m franz,s gustman,j mayfield,l kharevych,s strassel;build inform retriev test collect spontan convers speech;sigir;2004
+17351;22;jianqiang wang;d he,d oard,j luo,d demner fushman,k darwish,p resnik,s khudanpur,m nossal,m subotin,a leuski;make miracl interact translingu search cebuano hindi;talip;2003
+17352;22;jianqiang wang;h meng,b chen,s khudanpur,g levow,w lo,d oard,p schone,k tang,h wang;mandarin english inform mei investig translingu speech retriev;csl;2004
+17353;22;jianqiang wang;b dorr,d he,j luo,d oard,r schwartz,d zajic;iclef 2003 maryland translat select document select;clef;2003
+17354;22;jianqiang wang;d oard,j gonzalo,m sanderson,f lopez ostenero;interact cross languag document select;ir;2004
+17355;22;jianqiang wang;d he,d oard,m nossal;compar user assist automat queri translat;clef;2002
+17356;22;jianqiang wang;d he,j luo,d oard;summar design interact cross languag question answer;clef;2004
+17357;22;jianqiang wang;d he,d oard,m nossal;user assist queri translat interact clir;sigir;2003
+17358;22;jianqiang wang;d oard;combin bidirect translat synonymi cross languag inform retriev;sigir;2006
+17359;22;jianqiang wang;d oard;effect term segment chines english cross languag inform retriev;spire;1999
+17360;23;jiantao wang;a tang,s low;fair alloc alwai ineffici;infocom;2004
+17361;23;jiantao wang;l li,s low,j doyle;cross layer optim tcp ip network;ton;2005
+17362;23;jiantao wang;a tang,s low;understand choke throughput spatial characterist;ton;2004
+17363;23;jiantao wang;a tang,s low;understand choke;infocom;2003
+17364;23;jiantao wang;d wei,s low;model stabil fast tcp;infocom;2005
+17365;24;jing wang;k coombes,w highsmith,m keating,l abruzzo;differ gene express b cell chronic lymphocyt leukemia normal b cell meta analysi three microarrai studi;bioinformat;2004
+17366;25;jiaping wang;y chen,x tong,s lin,b guo,h shum;shell textur function;tog;2004
+17367;25;jiaping wang;x tong,j snyder,y chen,b guo,h shum;captur render geometri detail btf map surfac;vc;2005
+17368;25;jiaping wang;x tong,s lin,b guo,h shum;model render quasi homogen materi;tog;2005
+17369;25;jiaping wang;x tong,s lin,m pan,c wang,h bao,b guo,h shum;appear manifold model time variant appear materi;tog;2006
+17370;26;jie wang;k plataniotis,j lu,a venetsanopoulos;solv face recognit problem train sampl subject;pr;2006
+17371;26;jie wang;j lu,k plataniotis,a venetsanopoulos;effici kernel discrimin analysi method;pr;2005
+17372;26;jie wang;j lu,q gu,k plataniotis;compar studi skin color model;iciar;2005
+17373;26;jie wang;k plataniotis,a venetsanopoulos;select discrimin eigenfac face recognit;prl;2005
+17374;27;jian gang wang;h kong,l wang,e teoh,r venkateswarlu;framework 2d fisher discrimin analysi applic face recognit small number train sampl;cvpr;2005
+17375;27;jian gang wang;h kong,l wang,e teoh,x li,r venkateswarlu;gener 2d princip compon analysi face imag represent recognit;nn;2005
+17376;28;jun wang;z zeng;multiperiod exponenti attract evok period extern input delai cellular neural network;neco;2006
+17377;28;jun wang;y tan;support vector machin hybrid kernel minim vapnik chervonenki dimens;tkde;2004
+17378;28;jun wang;;primal dual neural network shortest path rout;tsmc;1998
+17379;28;jun wang;g wu;multilay recurr neural network solv continu time algebra riccati equat;nn;1998
+17380;28;jun wang;h ding;recurr neural network minimum infin norm kinemat control redund manipul;tsmc;1999
+17381;28;jun wang;l tian,z mao;constrain motion control flexibl robot manipul base recurr neural network;tsmc;2004
+17382;28;jun wang;y tan;nonlinear blind sourc separ us higher order statist genet algorithm;tec;2001
+17383;28;jun wang;y li;network model blind sourc extract variou ill condit case;nn;2005
+17384;28;jun wang;y xia;dual neural network kinemat control redund robot manipul;tsmc;2001
+17385;28;jun wang;y xia;recurr neural network solv linear project equat;nn;2000
+17386;29;jilong wang;n chunsheng,j wu,g yunfei;next gener internet;ispan;2004
+17387;30;jiamin wang;o berman;probabilist locat problem discret demand weight;network;2004
+17388;30;jiamin wang;o berman,k sapna;optim manag cross train worker servic neglig switch cost;eor;2005
+17389;31;john y a wang;e adelson;repres move imag layer;tip;1994
+17390;32;jin wang;b d auriol,y lee,s lee;swarm intellig inspir autonom rout scenario ubiquit sensor network;mue;2007
+17391;32;jin wang;b d auriol,x wu,y lee,s lee;energi consumpt swarm intellig inspir rout algorithm manet;mue;2007
+17392;33;jun wang;m song;new algorithm solv synchron consensu depend failur;pdcat;2005
+17393;33;jun wang;m al laho,m song;mobil pattern base local updat algorithm mobil wireless sensor network;msn;2005
+17394;34;jun wang;m xu;quasi abelian caylei graph parson graph;ejc;1997
+17395;35;jue wang;z li,j yao,z sun,m li,w ma;adapt user profil model collabor filter person new;apweb;2006
+17396;35;jue wang;j yao,z li,m li,w ma;rank web new via homepag visual layout cross site vote;ecir;2006
+17397;36;joseph wang;d eppstein;fast approxim central;soda;2001
+17398;36;joseph wang;d eppstein;fast approxim central;corr;2000
+17399;36;joseph wang;d eppstein;steadi state model graph power law;corr;2002
+17400;36;joseph wang;d eppstein;fast approxim central;jgaa;2004
+17401;37;jin wang;h zhu,g hu,z ouyang,z she;accuraci improv identifi translat initi site microbi genom;bioinformat;2004
+17402;38;jia shung wang;b wang,c peng;recogn depth first search tree parallel;ipp;1995
+17403;38;jia shung wang;h wei,p tsai;three side side match finit state vector quantiz;tcsv;2000
+17404;38;jia shung wang;p tai,c liu;complex distort optim search algorithm block motion estim;dcc;2001
+17405;38;jia shung wang;c liu,p tai,a chen,c peng;content base scheme ct lung imag retriev;icmc;2000
+17406;38;jia shung wang;p tai,c liu;complex adapt search algorithm block motion estim;icip;2001
+17407;38;jia shung wang;s huang;cascad mrvq dct scheme compress sequenc imag;tip;1997
+17408;39;jian sheng wang;;cluster mont carlo algorithm applic;accv;1995
+17409;40;jiaye wang;d liu,w wang;comput almost minimum set span line segment polyhedron;ijcga;2001
+17410;41;jianlin wang;p howland,h park;solv small sampl size problem face recognit us gener discrimin analysi;pr;2006
+17411;42;jason tsong li wang;g chang,g samtani,m healey,f kurfess;precis environment search integr hierarch inform search envirodaemon;jsi;2001
+17412;43;jun wang;c tropper;nicaru distribut verilog compil;icppw;2004
+17413;43;jun wang;c tropper;compil code distribut logic simul;wsc;2006
+17414;44;jianguo wang;h yan;mend broken handwrit macrostructur analysi method improv recognit;prl;1999
+17415;44;jianguo wang;h yan;hybrid method unconstrain handwritten numer recognit combin structur neural ga classifi;prl;2000
+17416;45;jingdong wang;j lee,c zhang;kernel trick embed gaussian mixtur model;alt;2003
+17417;46;jun wang;s wang,t kubota;fragment salient close boundari depth studi;cvpr;2004
+17418;46;jun wang;s wang,t kubota,j siskind;salient close boundari extract ratio contour;pami;2005
+17419;47;jianyu wang;z gao,j urrutia;diagon flip label planar triangul;gc;2001
+17420;48;jihua wang;t chua,l chen;stratif approach model video;mta;2002
+17421;49;john wang;q chen,a norcio;neural network base stereotyp user profil;nca;2000
+17422;50;junwen wang;s hannenhalli;gener markov model character biolog sequenc;bmcbi;2005
+17423;51;jie wang;s xu,j zhang,d han;data distort privaci protect terrorist analysi system;isi;2005
+17424;52;jiansuo wang;l lai,y tang;structur featur toxic chemic specif toxic;jcisd;1999
+17425;53;jinggang wang;b ravindran,g lann,p li;system engin approach construct certifi real time distribut system;isorc;2003
+17426;54;jeen shing wang;y chen;autom hammerstein recurr neural network dynam applic;iastedci;2005
+17427;55;junbai wang;t bo,i jonassen,o myklebost,e hovig;tumor classif marker gene predict featur select fuzzi c mean cluster us microarrai data;bmcbi;2003
+17428;55;junbai wang;j delabie,h aasheim,e smeland,o myklebost;cluster som easili reveal distinct gene express pattern result reanalysi lymphoma studi;bmcbi;2002
+17429;56;jianyong wang;j pei,h wang,j liu,k wang,p yu;discov frequent close partial order string;tkde;2006
+17430;57;ji ping z wang;b lindsay,j leebens mack,l cui,p wall,w miller,c depamphilis;est cluster error evalu correct;bioinformat;2004
+17431;58;jean wang;i marquis,t nguyen;web base cours english second languag case studi;webnet;1997
+17432;59;jianglu wang;y sheng,f tian,b wei,y zhu;path extend claw free graph;dm;2006

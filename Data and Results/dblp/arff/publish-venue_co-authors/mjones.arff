@@ -1,0 +1,264 @@
+@relation 'Dataset dblp publish-venue_co-authors mjones'
+@attribute Text string
+@attribute class-att {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13}
+@data
+'sigmod intern confer manag data confer elke a rundensteiner harumi a kuno pedro jos eacute marr oacute n viviane crestana taube young gook ra',10
+'geoinformatica elke a rundensteiner yun wu huang',10
+'ssd symposium larg spatial databas elke a rundensteiner yun wu huang',10
+'cikm intern confer inform knowledg manag elke a rundensteiner',10
+'ssdbm statist scientif databas manag chad berkley daniel higgins metacat jivka bojilova',11
+'ssdbm statist scientif databas manag chad berkley daniel higgins metacat',11
+'ieee internet comput chad berkley jivka bojilova mark schildhauer',11
+'intern journal comput vision sing bing kang',12
+'sigmod intern confer manag data confer cecilia magdalena procopiuc pankaj k agarwal t m murali',12
+'categori b tphol nan',13
+'ieee custon integr circuit confer paul e black kelly m hall michael d jones trent n larson phillip j windley',13
+'librari compon model qualiti assur annette bunker michael d jones trent n larson phillip j windley',13
+'tool paper fmcad lnc edit windlei gopalakrishnan annette bunker trent larson phil windley',13
+'fmcad formal method comput aid design ganesh gopalakrishnan',13
+'formal method comput aid design fmcad formal method comput aid design springer lnc m d jones g gopalakrishnan',13
+'th intern confer telecommun system model analysi nashvil a s jones m d jones m clement q snell',13
+'categori b tphol michael d jones',13
+'ieee intern high level design valid test hldvt m d jones g gopalakrishnan',13
+'formal method system design abdel mokkedem ravi hosabettu michael d jones ganesh gopalakrishnan',13
+'zb airy weinzoepflen dominique cansell dominique m eacute ry ganesh gopalakrishnan',13
+'research report yaleu dc rr yale univers new haven shorter revis version without proof appear fpca function program languag comput architectur confer function program languag comput architectur jolla comput anim mark p jones',1
+'symposium object orient real time distribut comput andrew p black johan nordlander magnus carlsson richard b kieburtz',1
+'proceed twenti third annual acm sigplan special interest group program languag sigact symposium principl program languag st beach mark p jones',1
+'technic report nottc tr depart comput scienc univers nottingham univers park nottingham ng rd england benedict r gaster mark p jones',1
+'proceed function program ullapool scotland publish springer verlag workshop comput scienc seri mark p jones paul hudak sebastian shaumyan',1
+'popl symposium principl program languag paul hudak sheng liang',1
+'fpca function program languag comput architectur confer function program languag comput architectur copenhagen appear extend form journal function program univers press mark p jones',1
+'function program paul hudak sebastian shaumyan',1
+'research report yaleu dc rr yale univers new haven mark p jones',1
+'esop european symposium program european symposium program renn springer verlag lectur note comput scienc mark p jones',1
+'proceed haskel th simon peyton jones erik meijer',1
+'proceed th european symposium program esop european symposium program springer verlag lnc mark p jones',1
+'journal function program nan',1
+'lisp symbol comput nan',1
+'pepm partial evalu semant base program manipul nan',1
+'advanc function program nan',1
+'popl symposium principl program languag nan',1
+'tac theoret aspect comput softwar nan',1
+'mpc mathemat program construct nan',1
+'plilp symposium program languag implement logic program nan',1
+'function program nan',1
+'research report yaleu dc rr yale univers new haven mark p jones',1
+'research report yaleu dc rr yale univers new haven mark p jones luc duponcheel',1
+'journal function program univers press mark p jones',1
+'acm sigplan special interest group program languag partial evalu semant base program manipul mark p jones',1
+'proceed haskel publish technic report uu cs depart comput scienc univers utrecht mark p jones',1
+'first intern school advanc function program techniqu b aa stad springer verlag lectur note comput scienc mark p jones',1
+'proceed oopsla confer object orient program system languag applic formal underpin java mark p jones',1
+'proceed haskel jolla yale univers research report yaleu dc rr mark p jones',1
+'confer record popl symposium principl program languag acm sigplan special interest group program languag sigact symposium principl program languag san francisco comput anim sheng liang paul hudak mark p jones',1
+'proceed twenti fourth annual acm sigplan special interest group program languag sigact symposium principl program languag mark p jones',1
+'pldi special interest group program languag design implement john peterson',1
+'technic report nottc tr function program research group depart comput scienc univers nottingham nottingham ng rd england mark p jones',1
+'proceed acm sigplan special interest group program languag symposium program languag design implement acm sigplan special interest group program languag john peterson mark p jones',1
+'proceed haskel publish technic report uu cs depart comput scienc univers utrecht mark p jones simon peyton jones',1
+'univers press mark p jones',1
+'fpca function program languag comput architectur nan',1
+'popl symposium principl program languag nan',1
+'fpca function program languag comput architectur nan',1
+'sci comput program nan',1
+'esop european symposium program nan',1
+'tac theoret aspect comput softwar confer theoret aspect comput softwar sendai springer verlag lectur note comput scienc mark p jones',1
+'esop european symposium program nan',1
+'research report yaleu dc rr yale univers new haven mark p jones paul hudak',1
+'hot topic oper system christopher w fraser richard draves richard f rashid robert p fitzgerald todd b knoblock william j bolosky',2
+'proceed th acm symposium oper system principl saint malo page michael b jones daniela rosu marcel catalin rosu',2
+'nossdav network oper system support digit audio video paul j leach richard draves',2
+'proceed third usenix advanc comput system associ window symposium page michael b jones john regehr',2
+'icdc intern confer distribut comput system aloysius k mok c douglas locke constance l heitmeyer kevin jeffay ragunathan rajkumar',2
+'proceed fifth hot topic oper system hoto orca island page ieee comput societi michael b jones paul j leach richard p draves joseph s barrera iii',2
+'oopsla confer object orient program system languag applic richard f rashid',2
+'proceed seventh acm sigop european connemara page michael b jones joseph s barrera iii alessandro forin paul j leach daniela rosu marcel catalin rosu',2
+'microsoft research technic report msr tr john regehr michael b jones john a stankovic',2
+'microsoft research technic report msr tr michael b jones john regehr',2
+'ieee real time technolog applic symposium john regehr',2
+'microsoft research technic report msr tr michael b jones stefan saroiu',2
+'hot topic oper system john regehr',2
+'proceed acm sigmetr measur model comput system confer measur model comput system michael b jones stefan saroiu',2
+'ieee real time technolog applic symposium john regehr stefan saroiu',2
+'sosp symposium oper system principl daniela rosu marcel catalin rosu',2
+'sigmetr measur model comput system perform stefan saroiu',2
+'proceed intern confer distribut comput system icdc intern confer distribut comput system ieee comput societi marvin theimer michael b jones',2
+'proceed eighth intern network oper system support digit audio video nossdav network oper system support digit audio video england michael b jones john regehr',2
+'proceed seventh hot topic oper system hoto rio rico ieee comput societi michael b jones john regehr',2
+'proceed seventh real time technolog applic symposium rta ieee real time technolog applic symposium taipei michael b jones john regehr stefan saroiu',2
+'proceed winter usenix confer page michael b jones',2
+'popl symposium principl program languag mary r thompson richard f rashid',2
+'invit posit statement distribut system onlin real time embed system area special issu real time embed system research go issu ieee michael b jones',2
+'infocom confer comput commun alec wolman anne marie kermarrec antony i t rowstron helenj wang marvin theimer miguel castro',2
+'proceed fourth workstat oper system wwo workstat oper system now hoto comput anim page ieee comput societi michael b jones',2
+'usenix advanc comput system associ symposium internet technolog system alec wolman marvin theimer nicholas j a harvey stefan saroiu',2
+'proceed second intern object orient oper system iwooo page ieee comput societi michael b jones',2
+'proceed th acm symposium oper system principl icsc symposium neural comput page michael b jones',2
+'microsoft research technic report msr tr michael b jones',2
+'ph d thesi carnegi mellon univers school comput scienc avail technic report cmu cs michael b jones',2
+'acm comput surv nan',2
+'workstat oper system nan',2
+'nossdav network oper system support digit audio video nan',2
+'sosp symposium oper system principl nan',2
+'secur internet program nan',2
+'oper system review nan',2
+'sosp symposium oper system principl andrew birrell edward wobber',2
+'proceed sixth hot topic oper system hoto cape cod ieee comput societi william j bolosky richard p draves robert p fitzgerald christopher w fraser michael b jones todd b knoblock rick rashid',2
+'proceed sixth intern network oper system support digit audio video nossdav network oper system support digit audio video zushi ieee comput societi william j bolosky joseph s barrera iii richard p draves robert p fitzgerald garth a gibson michael b jones steven p levi nathan p myhrvold richard f rashid',2
+'proceed eighth hot topic oper system hoto elmau ieee comput societi luis felipe cabrera michael b jones marvin theimer',2
+'proceed second usenix advanc comput system associ window symposium page given best student paper award george m candea michael b jones',2
+'proceed ieee symposium field programmalb custom comput machin napa ca april j hess d lee s harper p athanas',3
+'iwan intern work confer activ network david c lee peter m athanas scott f midkiff',3
+'ersa david a lehn kiran puttehowda jae h park p athanas',3
+'commun comput tom martin zahi nakad',3
+'supercomput paul e plassmann',3
+'mamset proc model analysi middlewar support electron textil tom martin zahi nakad',3
+'proceed ieee symposium field programm custom comput machin comput anim l scharf j scott c twaddle m yaconis k yao p athanas b schott',3
+'int j supercomput applic shashank mehrotra jae park',3
+'numer linear algebra applic daniel szyld',3
+'commun comput jae park mukta nandwani paul e plassmann yanhua yi',3
+'ppsc siam confer parallel process scientif comput michael tang paul e plassmann tom canfield',3
+'pdpta parallel distribut process techniqu applic jae park paul e plassmann yanhua yi',3
+'siam societi industri appli mathemat journal matrix analysi applic merrell patrick',3
+'ppsc siam confer parallel process scientif comput merrell l patrick',3
+'iswc proceed sixth intern symposium nan',3
+'advanc engin softwar william barry paul plassmann',3
+'quarterli journal electron eloise coupey',3
+'iswc intern symposium wearabl comput joshua edmison tom martin zahi nakad',3
+'wearabl comput j edmison z nakad t martin',3
+'ppsc siam confer parallel process scientif comput lori a freitag paul e plassmann',3
+'siam societi industri appli mathemat journal scientif comput lori freitag paul plassmann',3
+'ima journal appli mathemat volum mathemat applic lori freitag paul plassmann',3
+'journal parallel distribut comput robert gjertsen paul plassmann',3
+'comput system engin paul plassmann',3
+'journal finit element analysi design paul plassmann',3
+'acm tran mathemat softwar paul plassmann',3
+'acm tran mathemat softwar paul plassmann',3
+'comput aid civil infrastructur engin p plassmann',3
+'j parallel distrib comput paul e plassmann robert k gjertsen',3
+'siam societi industri appli mathemat journal scientif comput paul plassmann',3
+'ppsc siam confer parallel process scientif comput paul e plassmann',3
+'ppsc siam confer parallel process scientif comput paul e plassmann',3
+'parallel comput paul e plassmann',3
+'acm ieee joint confer digit librari visual interfac digit librari g buchanan a blandford h thimbleby',4
+'hci human comput interact george buchanan harold w thimbleby',4
+'bc british comput societi hci human comput interact c eacute cile rigny harold w thimbleby yin leng theng',4
+'proceed th annual confer teach comput smith august ctc dublin univers p curzon a blandford g marsden',4
+'proceed eurospeech p c woodland',4
+'j siddiqi wilkinson j ed companion proceed peopl comput uk e delgaldo p gough r noble p stenton',4
+'poster proceed th intern confer world wide web g buchanan',4
+'proceed second acm ieee cs joint confer digit librari h dunlop s j cunningham',4
+'paterno f ed proceed th intern symposium hci human comput interact pisa lnc springer g buchanan h thimbleby',4
+'chi confer human factor comput system search p jain g buchanan',4
+'poster proceed th intern confer world wide web toronto g marsden n mohd nasir g buchanon',4
+'proc intern symposium electron art nan',4
+'conail thoma p j pp y l theng c rigny h thimbleby',4
+'ph d thesi univers engin depart nan',4
+'colloquium issu network interperson commun london u k iee savoi place london g marsden',4
+'proceed first asia pacif confer comput human interact inform technolog institut y l theng h thimbleby',4
+'south african comput journal comput societi south africa g marsden',4
+'gellerson h w ubiquit comput karlsrhu lnc springer n mohd nasir g buchanon',4
+'adjunct proceed bc british comput societi hci human comput interact u k y l theng c rigny h thimbleby',4
+'proceed saicsit best paper confer winner g marsden',4
+'iee digest colloquium inform overload london u k iee y l theng h thimbleby',4
+'person ubiquit comput gary marsden harold w thimbleby paul gillary',4
+'comput memor yet invis proceed peopl septemb london h thimbleby a blandford p cairns p curzon m finlay jones d etienne eds j',4
+'ecdl european confer digit librari gary marsden george buchanan',4
+'person ubiquit comput harold w thimbleby',4
+'www world wide web confer seri gary marsden george buchanan harold w thimbleby michael j pazzani sarah farrant',4
+'turner s turner p ed proceed peopl comput sunderland pp h thimbleby g marsden',4
+'acm transact comput human interact tochi comput human interact acm press h thimbleby p cairns',4
+'poster proceed acm hypertext southampton uk h thimbleby y l theng',4
+'journal digit creativ press i h witten d bainbridge s j cunningham',4
+'th world wide web confer g buchanan g marsden',4
+'proc icslp yokohama p c woodland',4
+'proc ieee icassp p c woodland',4
+'comput network g marsden n mohd nasir k boone',4
+'comput network gary marsden george buchanan kevin boone norliza mohd nasir',4
+'interact comput g buchanan h thimbleby',4
+'confer extend abstract human factor comput system acm chi confer human factor comput system hagu pp g marsden h thimbleby p gillary',4
+'confer companion proceed first asia pacif confer comput human interact nan',4
+'hci human comput interact gary marsden george buchanan preeti jain',4
+'thesi univers engin depart nan',4
+'intern journal person ubiquit technolog springer g marsden p gillary h thimbleby',4
+'encyclopaedia comput comput histori fitzroydearborn publish nan',4
+'acm transact human comput interact bonnie nardi elizabeth mynatt',4
+'proceed ed media telcom confer calgari g marsden',4
+'confer extend abstract human factor comput system a steel m apperley',4
+'intern symposium hci human comput interact udin relat tech report p jain g buchanan g marsden',4
+'ecdl european confer digit librari david bainbridge george buchanan harold w thimbleby noel cassidy norliza mohd nasir yin leng theng',4
+'proceed first asia pacif confer comput human interact inform technolog institut y l theng c rigny h thimbleby',4
+'ifip intern feder inform process isbn j berleur p duquenoy d whitehouse',4
+'borbinha j t ed proceed fourth european confer y l theng n mohd nasir g buchanan d bainbridge h thimbleby',4
+'visual interfac digit librari ann blandford george buchanan harold w thimbleby',4
+'proceed th acm confer digit librari san antonio y l theng n mohd nasir h thimbleby g buchanan',4
+'intern journal person ubiquit comput stephen brewster',4
+'m th intern confer world wide web pazzani mai hong kong g buchanan h thimbleby s farrant',4
+'iee digest colloquium author applic hypermedia base user interfac london u k iee savoi place london y l theng h thimbleby',4
+'acm dl digit librari george buchanan harold w thimbleby norliza mohd nasir yin leng theng',4
+'agosti m costantino t ed proceed th european confer research advanc technolog digit librari lnc springer g buchanan g marsden',4
+'huc handheld ubiquit comput george buchanan norliza mohd nasir',4
+'springer book seri inform visual g buchanan a blandford h thimbleby',4
+'nan nan',5
+'transform organ inform technolog nan',5
+'commun acm s eacute amas kelly',5
+'impact comput support technolog inform system develop geoff walsham',5
+'human organiz social dimens inform system develop joe nandhakumar',5
+'cscw confer comput support cooper work helena karsten',5
+'global organiz discours inform technolog pamela abbott',5
+'ici intern confer inform system marios v karahannas',5
+'organiz social perspect nan',5
+'aaai nation confer artifici intellig jason eisner',6
+'aaai nation confer artifici intellig david scott warren',6
+'aaai nation confer artifici intellig van e kelly',6
+'cikm intern confer inform knowledg manag dimitra vista divesh srivastava h v jagadish',6
+'ics intern confer softwar engin premkumar t devanbu',6
+'acm tran softw eng methodol premkumar t devanbu',6
+'ijcai intern joint confer artifici intellig nan',6
+'ijcai intern joint confer artifici intellig nan',6
+'iccv intern confer comput vision tomaso poggio',7
+'iccv intern confer comput vision tomaso poggio',7
+'iccv intern confer comput vision paul a viola',7
+'iccv intern confer comput vision paul a viola thomas d rikert',7
+'nip neural inform process system paul a viola',7
+'intern journal comput vision james m rehg',7
+'cvpr comput vision pattern recognit tomaso poggio',7
+'cvpr comput vision pattern recognit james m rehg',7
+'chen kaufman yagel ed graphic springer isbn r satherley m w jones',8
+'comput graphic intern min chen richard satherley steve m f treavett',8
+'shape model intern richard satherley',8
+'y s wilbur ed imag process broadcast video product springer verlag m chen m w jones p townsend',8
+'vmv vision model visual richard satherly',8
+'comput graph forum m chen',8
+'ieee comput societi press isbn m w jones ed',8
+'ieee comput societi press isbn m w jones ed',8
+'earnshaw jone vinc ed visual model m w jones',8
+'proc bc british comput societi displai group visualis model univers leed m w jones',8
+'proc th ann conf eurograph uk chapter isbn m w jones',8
+'t ertl b girod g greiner h niemann h p seidel ed vision model visual io press isbn m w jones',8
+'m goebel hueller b urban isbn issn m w jones m chen',8
+'proc th ann conf eurograph uk chapter isbn t simpson m w jones',8
+'m chen p townsend j vinc visualis springer isbn m w jones',8
+'proc comput graphic intern ieee comput societi press issn s m f treavett m chen r satherley m w jones',8
+'proc th ann conf eurograph uk chapter loughborough m w jones',8
+'proc th ann conf eurograph uk chapter london isbn c whyley m w jones',8
+'b girod g greiner h niemann h p seidel ed vision model visual io press isbn m w jones r satherley',8
+'journal wscg intern confer central europ comput graphic visual issn m w jones',8
+'proc th ann conf eurograph uk chapter m w jones',8
+'comput graphic forum issn improv chapter ph d thesi pleas us journal refer refer work m w jones m chen',8
+'intern confer shape model applic ieee comput societi press isbn m w jones r satherley',8
+'proc th ann conf eurograph uk chapter london isbn m w jones r satherley',8
+'comput graphic forum issn m w jones',8
+'k mueller kaufman ed graphic springer wien new issn r satherley m w jones',8
+'visual comput issn r satherley m w jones',8
+'th intern confer central europ comput graphic visual comput vision isbn r satherley m w jones',8
+'vmv vision model visual nan',8
+'comput vision imag understand issn r satherley m w jones',8
+'comput graph forum nan',8
+'comput amp graphic min chen peter townsend',8
+'intellig tutor system jim e greer permanand mohan',9
+'ecai european confer artifici intellig ken wellsch',9
+'comput intellig nan',9
+'j uc univers comput scienc carl gutwin kim massie adolphe patrick brackett',9
+'intern journal man machin studi barbara brecht',9

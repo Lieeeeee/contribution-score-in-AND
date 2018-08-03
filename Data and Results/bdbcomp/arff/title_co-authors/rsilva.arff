@@ -1,0 +1,31 @@
+@relation 'Dataset bdbcomp title_co-authors rsilva'
+@attribute Text string
+@attribute class-att {192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213}
+@data
+'vr tool visual cad model e corseuil a raposo m pinto g wagner m gattass',206
+'aplicacao utilizando xml area adocao pesquisa crianca disponivei adocao pesquisa pre inscricao pretendent r maranhao r barros',207
+'uso tecnologia movel auxilio reeducacao alimentar c garrozi',208
+'wxproc simulador politica escalonamento multiplataforma a rocha a schneider j alves',209
+'adaptacao algoritmo genetico tratamento problema roteamento veiculo janela tempo h oliveira m souza g alvarenga',210
+'hybrid algorithm vehicl rout problem time window g alvarenga r sampaio',210
+'softwar ensino protocolo janela deslizant m souza h oliveira',210
+'inteligencia artifici aplicada ambient engenharia softwar visao geral nan',211
+'constraint base tree pattern mine s amo n silva f pereira',212
+'document reconstruct base featur match c solana l fernandes e justino m oliveira l oliveira f bortolozzi g crespo',213
+'low frequenc nois deep submicron mosfet g wirth j koh r thewes r brederlow',213
+'prototipo servidor modem rede tcp ip e moreira',192
+'reconstruct 3d model rang imag us radial flow model s wu',193
+'metodologia desenvolvimento implementaco agent supervisao elemento rede plataforma distribuida si m andrade h andrade j nogueira',194
+'suport desenvolvimento uso component flexivei r price',195
+'suport uso framework orientado objeto base historico desenvolvimento aplicaco e freiberger',195
+'dimensao socio afetiva interacao distancia c nascimento p barbosa',196
+'imag effect us contract map j gomes c mota l velho',197
+'reconstrucao objeto 3d usando modelo deformavei s wu',198
+'semi automat surfac reconstruct framework base t surfac isosurfac extract method e strauss w jimenez g giraldi a oliveira',199
+'orion construcao coletiva comunidad onlin conhecimento e silva m abreu',200
+'extensao tempo vida rede ad hoc j leite m fernandez',201
+'revisao sintatica semantica logica defaut r filho m pequeno',202
+'asnod scp new version ant system set cover problem g ramalho',203
+'inform embed multibit watermark j mayer',204
+'an arvor n aria espalhamento naturalment balanceada a silva a fiorese g santos',205
+'viral framework desenvolvimento aplicaco realidad virtual t bastos a raposo m gattass',206

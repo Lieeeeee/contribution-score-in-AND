@@ -1,0 +1,25 @@
+@relation 'Dataset bdbcomp publish-venue msilva'
+@attribute Text string
+@attribute class-att {160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 157, 158, 159}
+@data
+'rede computador',157
+'geoinformatica',158
+'rede neurai',158
+'banco dado',159
+'inteligencia artifici',160
+'encontro nacion inteligencia artifici',160
+'banco dado',161
+'banco dado',161
+'internacion melhoria processo softwar',162
+'geoinformatica',163
+'inteligencia artifici',163
+'rede neurai',164
+'rede neurai',165
+'xxxii seminario integrado softwar hardwar',166
+'xxxii seminario integrado softwar hardwar',167
+'rede computador',168
+'rede computador',169
+'latin american aspect orient softwar develop',170
+'symposium microelectron technolog devic',171
+'symposium microelectron technolog devic',171
+'symposium microelectron technolog devic',172

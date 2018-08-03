@@ -1,0 +1,39 @@
+@relation 'Dataset bdbcomp publish-venue_title_co-authors jsilva'
+@attribute Text string
+@attribute class-att {106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123}
+@data
+'rede computador protocolo comunicacao sistema distribuido baseado barramento paralelo centralizado c kirner',106
+'rede computador previsibilidad comportamento canal rede ieee 802 j bezerra f maciel r braquehais m fernandez j jr',107
+'informatica educacao design develop author environ build maintain societi artifici tutor agent e costa e ferneda',108
+'informatica educacao agent base architectur cooper learn environ s labidi n costa e costa',108
+'informatica educacao maquina estado finito avaliacao desempenho grupo discussao line b feijo',109
+'informatica educacao amonmef agent interfac avaliacao aprendizagem ensino distancia c avila l madeira',110
+'fator humano sistema computacionai desenvolvimento materi instrucion qualidad ead segundo principio cognitivo r orbolato v almeida',111
+'revista informatica teorica aplicada processo ensino aprendizagem pautado principio cognitivo v almeida r orbolato',111
+'fator humano sistema computacionai integracao ihc es processo planejamento reengenharia softwar guiado avaliacao usabilidad ppr u s junior a silva m ribeiro',111
+'computacao grafica processamento imagen algoritmo geometrico geracao funco discriminant c tozzi',112
+'computacao grafica processamento imagen multipl correspond stereo vision genet algorithm approach p simoni k bharadwaj',113
+'inteligencia artifici correspond problem uncertainti reason approach p simoni',113
+'inteligencia artifici toward integr hierarch censor product rule hcpr base neural network k bharadwaj',113
+'encontro nacion inteligencia artifici dempster shafer theori infer method correspond geometr distort imag p simoni',113
+'rede neurai integr hierarch censor product rule hcpr base system neural network k bharadwaj',113
+'informatica educacao sistema resolucao distribuida problema apoiar planejamento educacion f cunha c oliveira',113
+'rede neurai imag base autonom navig softcomput decis make techniqu l hoffmann a castro',113
+'rede neurai radial basi function neural network invers temperatur vertic profil satellit radianc data e shiguemori h velho j carvalho',113
+'engenharia softwar investigacao modelo estimativa esforco gerenciamento projeto softwar i tronto n santanna',113
+'geoinformatica gmla xml schema integr exchang multidimension geograph data r fidalgo v times f sousa r barros',114
+'banco dado provid multidimension geograph integr base gdw metamodel r fidalgo v times f souza a salgado',114
+'geoinformatica toward web servic geograph multidimension process v times r fidalgo r barros',114
+'geoinformatica propondo linguagem consulta geografica multidimension v times a salgado r fidalgo',114
+'banco dado queri geograph data warehous geomdql a vera a oliveira r fidalgo a salgado v times',114
+'banco dado metamodelo especificacao data warehous geografico r fonseca r fidalgo v times',114
+'rede computador estudo metodo analis transient modelo markoviano sistema comunicacao r leao',115
+'inteligencia artifici repres belief revis default theori s veloso',116
+'inteligencia artifici integr morpholog syntact sement aspect multi agent cooper p abrahao v lima',117
+'computacao grafica processamento imagen correspond geometr distort imag us uncertainti infer method p simoni',118
+'rede computador progcon sistema prognostico congestionamento trafego rede m campos p cunha',119
+'rede computador analis estocastica descart pacot rede tcp m campos p cunha j souza',119
+'rede computador avaliacao empirica politica invocacao servico web replicado n mendonca',120
+'inteligencia artifici read pddl write object orient model f tonidandel t vaquero',121
+'inteligencia artifici us common sens recogn cultur differ h lieberman a carvalho v neris m godoi m tsutsumi j espinosa a neto s zem mascarenhas',122
+'symposium integr circuit system design issu parallel multigrid base substrat model extract analysi l silveira',123

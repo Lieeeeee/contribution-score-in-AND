@@ -1,0 +1,207 @@
+@relation 'Dataset kitsi co-authors jlee'
+@attribute Text string
+@attribute class-att {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66}
+@data
+'s midkiff d padua',1
+'w blume r eigenmann k faigin j grout t lawrence j hoeflinger d padua y paek p petersen w pottenger l rauchwerger p tu s weatherford',1
+'s midkiff d padua',1
+'w blume r doallo r eigenmann j grout j hoeflinger t lawrence d padua y paek w pottenger l rauchwerger p tu',1
+'y solihin j torrellas',1
+'s midkiff d padua',1
+'d padua s midkiff',1
+'z sura c wong x fang s midkiff d padua',1
+'z manna n bjorner a browne e chang m colon l alfaro h devarajan a kapur h sipma t uribe',1
+'d padua',1
+'h moonesinghe',1
+'d padua',1
+'y solihin j torrellas',1
+'y solihin j torrellas',1
+'h yoe',1
+'y solihin j torrellas',1
+'y solihin j torrellas',1
+'j lim s hong p park',2
+'j lim s hong p park',2
+'e durfee',3
+'e durfee',3
+'y kim a helmy',4
+'y kim a helmy',4
+'k choi n dutt',5
+'k choi n dutt',5
+'k choi n dutt',5
+'y nah s park h lee s kim m kim k han',6
+'y nah w lee h lee m kim k han',6
+'h lee j hwang s park c lee y nah s jeon m kim',6
+'j kwak s hong m sohn',7
+'j kwak j chun',7
+'i goulden j kwak',7
+'j kwak y shin',7
+'j kwak',7
+'r feng j kwak j kim',7
+'j kwak',7
+'j kwak m sohn',7
+'b lee j yoo',8
+'b lee k kwon',8
+'s ahn j yoo b lee',8
+'j choi c un',9
+'m chiang a calderbank',9
+'r mazumdar n shroff',9
+'r mazumdar n shroff',9
+'a tang j huang m chiang a calderbank',9
+'r mazumdar n shroff',9
+'r mazumdar n shroff',9
+'r mazumdar n shroff',9
+'j downie',10
+'j downie s cunningham',10
+'j downie a gruzd m jones',10
+'nan',11
+'h lai l chen',11
+'c lee',11
+'nan',11
+'j lui',11
+'r anderson f stajano',12
+'j oh s hwang',12
+'j oh s kote b bandi',12
+'r anderson',12
+'j oh s hwang',12
+'r anderson',12
+'s hwang j oh y cao w tavanapong d liu j wong p groen',12
+'j oh s kote',12
+'nan',12
+'r anderson f bergadano b crispo c manifavas r needham',12
+'j oh s shah x yuan s tang',12
+'j oh s hwang',12
+'nan',13
+'m kwan',13
+'x deng robby',14
+'nan',14
+'t hsu',15
+'b tierney w johnston h herzog g hoo g jin l chen d rotem',16
+'b tierney b crowley d gunter m holding m thompson',16
+'b tierney d gunter m stoufer j evans',16
+'d gunter b tierney k jackson m stoufer',16
+'b tierney b crowley d gunter m thompson',16
+'b tierney l chen h herzog g hoo g jin w johnston',16
+'a antony j blom c laat w sjouw',16
+'b tierney b crowley m holding j hylton f drake',16
+'d gunter m stoufer b tierney',16
+'g lim',17
+'k lee h kim t kim c kim m yoon e hwang h park',17
+'k lee j hong w kim e kim s choi h kim o yang h choi',17
+'m sohn',17
+'j kang',17
+'k cho s lee t kwon y choi',18
+'j min c chung',19
+'m park c lee j lin o serres c chung',19
+'y ko s lee',20
+'y ko s lee',20
+'v lifschitz',21
+'f lin',21
+'nan',21
+'e giunchiglia v lifschitz n mccain h turner',21
+'f lin',21
+'v akman s erdogan v lifschitz h turner',21
+'k whang',22
+'k whang m 0002 m lee k lee',22
+'k lee s kim e whang',22
+'h lim m lee k whang i song',22
+'m 0002 k whang m lee',22
+'j han k whang',22
+'k whang m lee m 0002 w han',22
+'y lee',23
+'y lee',23
+'d kim',24
+'y rhee',24
+'h yun s lee s maeng',24
+'s lee h yun s maeng',24
+'u ramachandran',24
+'m kim h lee',24
+'s park d jung j kang j kim',24
+'u ramachandran',24
+'s lee m cho h yoon s eun h yoon j cho',24
+'k sihn j cho',24
+'e seo y koo',24
+'h roh j kim',24
+'j kang h jo j kim',24
+'i jung j hyun j ma',24
+'e kim h saito d lee h nakamura t nanya',25
+'e kim d lee',25
+'e kim d lee',25
+'j lee e kim e paek',25
+'w shin h kim k sakurai',25
+'e kim d lee',25
+'e kim d lee',25
+'e jung j lee s kwak k jhang d har',25
+'j chai p reitsma j hodgins n pollard',26
+'j chai p reitsma j hodgins n pollard',26
+'r raskar p beardsley j baar y wang p dietz d leigh t willwacher',27
+'d avrahami s hudson j forlizzi p dietz d leigh',27
+'p dietz d leigh w yerazunis s hudson',27
+'j fogarty s hudson c atkeson d avrahami j forlizzi s kiesler j yang',27
+'j forlizzi s hudson',27
+'j forlizzi s hudson',27
+'y kim j chung t kim',28
+'m kim y lee',29
+'k woo m kim y lee',29
+'w kim m kim y lee',29
+'s choi s kim j song y lee',29
+'m kim y lee',29
+'y chung y lee m kim',29
+'m kim y lee',29
+'z geng l haynes r carroll',30
+'k park',31
+'s lim j hwang k kim k park',31
+'s lim j yoo k park h choi k park',31
+'j jeon w croft',32
+'j jeon w croft',32
+'nan',32
+'j jeon w croft s park',32
+'d he g ritchie',33
+'h kim',34
+'e jun',35
+'k lee h kim t kim',35
+'y chang',35
+'j kang',35
+'h lee',35
+'i lee h choi s ahn',35
+'n lee',35
+'e lee',36
+'s lee s chun d kim c chung',37
+'d kim s lee c chung g cha',37
+'d archdeacon j kwak m sohn',38
+'j kwak',38
+'y shin',38
+'i goulden j kwak',38
+'e gianchandani j papin',39
+'y choi j paek s choi g lee h jung',40
+'y choi s park s choi g lee h jung',40
+'m lustig j tsaig d donoho',41
+'d nishimura b osgood',41
+'nan',42
+'y lee v phadke a deshmukh',43
+'y lee v phadke a deshmukh',43
+'k lee',44
+'s dow c oezbek b macintyre j bolter m gandy',45
+'n moray',46
+'j lee c jun s kim',47
+'s choi',48
+'nan',49
+'s bhatia c dahn m sampat d mccrickard',49
+'c chewar d mccrickard',49
+'s nair a kumar m sampat d mccrickard',49
+'w kim',50
+'t lin h ho',51
+'s lee g kim',52
+'s yang d robertson',53
+'m terribilini c yan r jernigan s carpenter',54
+'nan',55
+'h lee h lee',56
+'c choi',57
+'t lee h jung s lee',58
+'m huynh r kwok s pi',59
+'d kim k park y cho',60
+'l winslow',61
+'w jr',62
+'s kim',63
+'s jun j forlizzi s hudson',64
+'s iyer d hislop p jones f pearce s albert',65
+'s marsella',66

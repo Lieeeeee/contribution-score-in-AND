@@ -1,0 +1,802 @@
+@relation 'Dataset dblp title_co-authors cchen'
+@attribute Text string
+@attribute class-att {128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 125, 126, 127}
+@data
+'formal approach scenario analysi d kung j samuel j gao p hsia y toyoshima',94
+'engin internet global softwar product d leung j gao y toyoshima',94
+'regress test object orient program d kung j gao p hsia y toyoshima',94
+'develop object orient softwar test mainten environ d kung j gao p hsia y toyoshima y song y kim',94
+'object orient softwar test research develop d kung j gao p hsia y toyoshima',94
+'chang impact identif object orient softwar mainten d kung f wen j gao p hsia y toyoshima',94
+'test strategi object orient program d kung j gao p hsia y toyoshima',94
+'develop integr test environ world wide web technolog d leung j gao y toyoshima',94
+'object state test object orient program d kung j gao p hsia y toyoshima',94
+'l extract now what introduct induct wise interconnect simul engin inductwis t chen h kim',95
+'inductwis induct wise interconnect simul extractor t chen c luk',95
+'inductwis induct wise interconnect simul extractor t chen c luk h kim',95
+'optim wire size function fring capacit consider d wong',95
+'suprem substrat power deliveri reluct enhanc macromodel evalu t chen c luk',95
+'podea power deliveri effici analysi realiz model reduct r jiang t chen',95
+'realiz reduct electromagnet coupl rlmc interconnect r jiang',95
+'score spice compat reluct extract r jiang',95
+'be care self mutual induct formula h kim',95
+'hierarch model order reduct signal integr driven interconnect synthesi y lee',95
+'optim wire size function elmor delai model bound wires y lee d wong',95
+'fdtd adi uncondition stabl full wave maxwel equat solver vlsi model n murugesan t lee s hagness',95
+'optim space capacit pad gener clock structur y lee h lai',95
+'power grid transient simul linear time d altern direct implicit method y lee',95
+'power grid transient simul linear time d altern direct implicit method y lee',95
+'effici induct extract chip interconnect c luk',95
+'spec repeat insert wire size chip interconnect n menezes',95
+'zero skew clock tree optim buffer insert size wire size j tsai t chen',95
+'epsilon optim zero skew clock tree wire size pseudo polynomi time j tsai t chen',95
+'d thermal adi linear time chip level transient thermal simul t wang',95
+'d thermal adi effici chip level transient thermal simul t wang y lee',95
+'power deliveri network optim thermal reliabl integr t wang j tsai',95
+'spice compat thermal simul lump circuit model thermal reliabl analysi model reduct t wang',95
+'thermal power integr power ground network optim t wang j tsai',95
+'fast algorithm optim wire size elmor delai model d wong',95
+'linear time hierarch capacit extract without multipol expans s balakrishnan j park h kim y lee',95
+'futur soc design challeng solut invit e cheng',95
+'hiprim hierarch passiv reserv interconnect macromodel engin rlkc power deliveri y cao y lee t chen',95
+'rc rc out model order reduct accur up second order moment p ganesh',95
+'linear time hierarch capacit extract without multipol expans h kim j park s balakrishnan y lee',95
+'power grid transient simul linear time transmiss line model altern direct implicit method y lee',95
+'power grid transient simul linear time transmiss line model altern direct implicit method y lee',95
+'gener fdtd adi uncondition stabl full wave maxwel s equat solver vlsi interconnect model n murugesan s hagness t lee',95
+'effici larg scale power grid analysi precondit krylov subspac iter method t chen',95
+'optim power ground network wire size space sequenti network simplex algorithm t wang',95
+'thermal adi linear time chip level dynam thermal simul algorithm altern direct implicit adi method t wang',95
+'thermal adi linear time chip level dynam thermal simul algorithm altern direct implicit adi method t wang',95
+'hiprim hierarch passiv reserv interconnect macromodel engin rlkc power deliveri t chen y cao y lee',95
+'nois awar repeat insert wire size chip interconnect hierarch moment match n menezes',95
+'optim non uniform wire size elmor delai model h zhou d wong',95
+'optim wire size formula elmor delai model y chen d wong',95
+'error bound pade approxim via bilinear conform transform d wong',95
+'fast exact simultan gate wire size lagrangian relax c chu d wong',95
+'fast exact simultan gate wire size lagrangian relax c chu d wong',95
+'fast perform driven optim buffer clock tree lagrangian relax y chang d wong',95
+'1569 nan',96
+'freedhand draw fuzzi concept s xie',96
+'materi structur properti predict self architect neural network y cao s leclair',96
+'fuzzi inform engin guid tour applic edit d duboi h prade r yager john wilei son s xie a system',96
+'increment adapt implement function link process function approxim time seri predict identif s leclair y pao',96
+'integr neural network rule design plan mechan assembl y pao',96
+'proper clamp sequenc fixtur prismat workpiec nan',96
+'rapid learn dynam stepwis updat algorithm flat neural network it applic time seri predict j wan',96
+'rapid supervis learn neural network function interpol approxim nan',96
+'rapid supervis learn neural network function approxim time seri predict adapt function link neural network s leclair y pao',96
+'integr design manufactur learn approach nan',96
+'setup gener featur sequenc unsupervis learn algorithm nan',96
+'systemat approach design plan mechan assembl c wichman',96
+'automat gener assembl sequenc pattern match nan',96
+'task assign load balanc autonom vehicl flexibl manufactur c lee c mcgillem',96
+'intellig engin through artifici neural network fuzzi logic evolutionari program c dagli m akay b fernandez j ghosh',96
+'smart engin design neural network fuzzi logic evolutionari program c dagli m akay b fernandez j ghosh',96
+'cluster number select small set sampl bayesian ying yang model p guo m lyu',96
+'dynam coupl doubl caviti optic interfer filter p guo a awwal',96
+'model sensor valid turbofan engin auto associ neural network t guo d mattern l jaw',96
+'regular paramet estim bayesian kullback smooth theori feedforward neural network p guo',96
+'rapid stepwis learn algorithm flat neural network self architect function basi neural network nan',96
+'extens principl fuzzi set categori q he h li e lee',96
+'increment adapt implement function link process function approxim time seri predict identif s leclair y pao',96
+'effici map algorithm schedul robot invers dynam comput multiprocessor c lee',96
+'dfe method fuzzi decis make approach factor space theori h li',96
+'factor space theori fuzzi inform process fuzzi decis make concept feedback extens h li e lee',96
+'factor space theori it applic fuzzi inform process two kind factor space cane h li v yen e lee',96
+'fuzzi neural intellig mathemat foundat applic engin h li h huang',96
+'mathemat essenc structur neural network fuzzi neural network part function link neural network h li e lee',96
+'mathemat essenc structur neural network fuzzi neural network part forward neural network h li e lee',96
+'solv sequenc interact featur episod associ memori nan',96
+'equival between fuzzi logic feedback forward neural network h li',96
+'interpol mechan fuzzi control it relationship pid control h li',96
+'regular paramet estim feedforward neural network m lyu p guo',96
+'aggreg feedforward neural network rule extract v schmidt',96
+'bandwidth degrad qo adapt multimedia wireless mobil network y xiao b wang',96
+'call admiss control bandwidth realloc algorithm multi class adapt multimedia servic wireless mobil network y xiao y wang',96
+'optim admiss control multi class wireless adapt multimedia servic y xiao y wang',96
+'featur sequenc rapid design genet algorithm h kamhawi s leclair',96
+'effici algorithm reconstruct d object from orthograph project q yan z tang',96
+'effici algorithm automat reconstruct d object from orthograph project q yan z tang',96
+'design real time or assembl schedul optim neural network nan',96
+'effici schedul algorithm robot invers dynam comput multiprocessor c lee e hou',96
+'fuzz fuzzi concept format that integr human categor numer cluster y lu',96
+'integr design manufactur solv setup gener featur sequenc unsupervis learn approach s leclair',96
+'integr design manufactur solv setup gener featur sequenc unsupervis learn approach s leclair',96
+'extract rule from aggreg feedforward neural network v schmidt',96
+'optim distribut call admiss control adapt multimedia wireless mobil network y wang y xiao',96
+'qo adapt multimedia wireless mobil network y xiao',96
+'freehand draw fuzzi logic concept s xie',96
+'genet learn algorithm gener parsimoni function link network c bhumireddy',96
+'polygon decomposit problem nan',97
+'minim polygon triangul r chang',97
+'maxim planar graph onli on separ triangl is hamiltonian nan',97
+'proper interv graph guard problem c chang g chang',97
+'exist hyper l tripl loop network f hwang j lee s shih',97
+'class addit multipl graph function di l hsu e jean',97
+'supermodular variou partit problem f hwang m liao',97
+'vertex tree arbor graph g chang y chen',97
+'equival nondegener l shape doubl loop network f hwang',97
+'necessari condit graph be visibl graph simpl polygon nan',97
+'necessari condit graph be visibl graph simpl polygon nan',97
+'minimum distanc diagram doubl loop network f hwang',97
+'equival l shape doubl loop network degener case f hwang',97
+'maxim planar graph onli on separ triangl is hamiltonian nan',97
+'minimum distanc diagram doubl loop network f hwang',97
+'planar visibl graph s lin',97
+'disprov conjectur planar visibl graph k wu',97
+'simpl algorithm find step doubl loop network r chan z hong',97
+'connect proper interv graph guard problem spiral polygon nan',97
+'minim polygon triangualt r chang',97
+'disprov conjectur planar visibl graph k wu',97
+'equival l shape doubl loop network degener case f hwang',97
+'color imag segment bladder cancer diagnosi j wang j lee c mao',98
+'robust watermark scheme still imag frequenc shift kei high varianc block select g w chen',98
+'assif underwat signal wavelet transform neural network j lee',98
+'d imag reconstruct brain blood vessel from angiogram j guo j lee j tsai',98
+'multi polyhedron reconstruct three view relax j kuo j lee',98
+'occlud object recognit multiscal featur hopfield neural network j lee y sun',98
+'d registr spect ct imag liver diagnosi g lee',98
+'determin locat orient label cylind point pair estim algorithm j lee j lee y you',98
+'classif underwat signal neural network j lee m lin',98
+'new algorithm two diment object inspect string match j lee j lee',98
+'genet grei neural network wavelet transform search optim codebook c lin',98
+'vq codebook design genet competit learn network c lin j lin g g',98
+'multiscal object recognit affin transform w lin j lee y sun',98
+'new multisal shape recognit method w lin j lee y sun',98
+'applic wavelet etrema d object recognit angl chang w lin j lee g g',98
+'compens fuzzi competit learn network appli imag compress c lin j lin g g',98
+'fast classif scheme hyperspectr imageri t tu',98
+'fast two stage classif method high dimension remot sens t tu j wu c chang',98
+'nois subspac project approach target signatur detect extract unknown background hyperspectr imag t tu c chang',98
+'posteriori least squar orthogon subspac project approach desir signatur extract detect t tu c chang',98
+'classifi vector quantiz imag compress direct classif c wang',98
+'classifi vector quantiz direct classif c wang k wang g g',98
+'d nonsepar wavelet frame textur segment genet algorithm j wang',98
+'genet featur select textur classif d nonsepar wavelet base j wang',98
+'high fidel imag code techniqu multimedia applic c wang g g',98
+'low complex fractal imag compress c wang c wong g g',98
+'fast classif method high dimension remot sens imag t tu g g',98
+'low complex fractal imag compress two stage search strategi c wang g glo',98
+'modifi vq btc algorithm imag compress c wang i chen',98
+'edg preserv imag code vq c wang c hsieh',98
+'novel perceptu imag code vector quantiz c wang y tsai g g',98
+'textur classif nonseper two dimension wavelet j wang w chien c tsai g gte',98
+'genet algorithm tune reliabl fuzzi k wu j lee',98
+'genet algorithm tune reliabl fussi k wu j lee',98
+'model reduct via haar wavelet j wu',98
+'model reduct via haar wavelet j wu g g',98
+'unifi deriv oper matric integr analysi j wu g g',98
+'vitro studi ultrasound real time track renal stone shock wave lithotripsi part s chen c kuo f yu z chu',98
+'numer invers laplac transform haar wavelet oper matric j wu g g',98
+'path plan prototyp design agv k wu j lee j ko',98
+'ring cach genet algorithm tune reliabl fussi logic control k wu j lee',98
+'bit level systol arrai bidirect associ memori d yang',98
+'depend analysi bit level systol arrai median filter d yang g gda',98
+'d cerebr vessel reconstruct from angiogram c yu j guo y yu y sun',98
+'vitro stadi ultrasound real time track renal stone shock wave lithotripsi part ii s chen f yu w yang y tong c kuo',98
+'interpol block zerotre structur color imag compress dwt vq w chen g g',98
+'public kei imag hide scheme dct vector quantiz code w chen g g',98
+'public kei imag steganographi dct qpvq code w chen g g',98
+'robust multipl watermark scheme still imag dwt dct spread spectrum w chen j lin g g',98
+'detect corner polygon polyhedr object j guo r hsu y sun',98
+'new scheme id cryptosystem signatur c laih j lee l harn',98
+'robust multipl watermark scheme still imag dwt dct spread spectrum j lin w chen',98
+'spread neural network fuzzi cluster techniqu appli color imag code mdt domain c lin r chen',98
+'textur classif non separ two dimension wavelet c tsai j wang w chien',98
+'occlud object recognit multiscal featur hopfield neural network g tseng j lee y sun',98
+'constrain volum match moment distanc distribut r altman',99
+'imperfect secondari structur predict improv molecular structur comput j singh r altman',99
+'surfac measur probabilist structur comput j schmidt j cooper r altman',99
+'parallel protein structur determin from uncertain j singh r altman w poland',99
+'biomolecular structur estim case studi irregular hierarch parallel j singh r altman',99
+'hierarch organ molecular structur comput j singh r altman',99
+'hierarch organ molecular structur comput j singh r altman',99
+'probabilist constraint satisfact non gaussian nois j singh r altman w poland',99
+'compress d object multistag color depth panoram map c tsai g tang w chang',100
+'pose estim gener imag devic via solv non perspect n point problem w chang',100
+'fast robust approach registr partial overlap rang imag j cheng y hung',100
+'new calibr free approach augment realiti parameter cuboid structur c yu y hung',100
+'integr virtual object real imag augment realiti c hsieh c tang c yu s shih y hung',100
+'multipass hierarch stereo match gener digit terrain model from aerial imag c fuh k hung y hung y chen',100
+'augment panorama object movi gener novel view dispar view morph s lin y hung y tsai',100
+'ransac darc new approach fast automat registr partial overlap rang imag j cheng y hung',100
+'cach protocol error detect recoveri fault toler comput a somani',101
+'effect cach traffic share bu multiprocessor a somani',101
+'proteu architectur organ a somani c wittenbrink j hwang k cooper l shapiro r johnson r haralick',101
+'unifi architectur tradeoff methodolog a somani',101
+'algebra model arithmet code nan',101
+'easi us approach practic bu design f lin',101
+'architectur techniqu trade off mean memori delai time a somani',101
+'fault contain cach memori tmr redund processor a somani',101
+'budget manag applic a srivastava e bozorgzadeh m sarrafzadeh',102
+'effect algorithm gate level power delai tradeoff two voltag m sarrafzadeh',102
+'potenti slack effect metric combin circuit perform m sarrafzadeh x yang',102
+'provabl good algorithm low power consumpt dual suppli voltag m sarrafzadeh',102
+'power manag schedul techniqu control domin high level synthesi m sarrafzadeh',102
+'physic design multipl chip voltag nan',102
+'probabilist analysi rectilinear steiner tree nan',102
+'fast algorithm optim wire size elmor delai model d wong',103
+'fast exact simultan wire transistor size lagrangian relax method c chu d wong',103
+'optim non uniform wire size formula fring capacit consider d wong',103
+'spec repeat insert wire size chip interconnect n menezes',103
+'fast exact simultan gate wire size lagrangian relax c chu d wong',103
+'nois awar repeat insert wire size chip interconnect hierarch moment match n menezes',103
+'fast perform driven optim buffer clock tree lagrangian relax d wong y chang',103
+'optim non uniform wire size elmor delai model d wong h zhou',103
+'optim wire size function fring capacit consider d wong',103
+'optim wire size formular elmor delai model d wong y chen',103
+'error bound pade approxim via bilinear conform transform d wong',103
+'fast perform driven optim buffer clock tree lagrangian relax y chang d wong',103
+'nois awar repeat insert wire size chip interconnect hierarch moment match n menezes',103
+'optim non uniform wire size elmor delai model h zhou d wong',103
+'optim wire size formula elmor delai model y chen d wong',103
+'error bound pade approxim via bilinear conform transform d wong',103
+'hypertext s analysis',104
+'visual interfac digit librari motiv util socio technic challeng k borner',104
+'workshop visual interfac digit librari it past present futur k borner',104
+'trailblaz literatur hypertext author co citat analysi l carr',104
+'from latent semant spatial hypermedia integr approach m czerwinski',104
+'fit jigsaw citat inform visual domain analysi r paul b oaakeefe',104
+'augment user interfac digit librari virtual realiti nan',104
+'visual knowledg domainaa intellectu structur r paul',104
+'visualis anim visual inform forag context t cribbin',104
+'visualis scientif disciplin web y yu',104
+'model situat action collabor hypertext databas r rada',104
+'empir evalu inform visual introduct intern m czerwinski',104
+'individu differ virtual environ introduct overview m czerwinski r macredie',104
+'write collabor hypertext analysi model nan',104
+'integr spatial semant social structur knowledg manag j davies',104
+'interact hypertext meta analysi experiment studi r rada',104
+'repres semant virtual space l thomas j cole',104
+'similar imag brows g gagaudakis p rosin',104
+'structur visualis world wide web generalis similar analysi nan',104
+'trailblaz literatur hypertext author co citat analysi l carr',104
+'repres semant virtual space j cole l thomas',104
+'visual spatial explor themat space compar studi three visualis model t cribbin',104
+'explor cognit issu visual inform retriev t cribbin',104
+'studi navig strategi spatial semant visualis t cribbin',104
+'empir evalu inform visual introduct m czerwinski',104
+'individu differ virtual environ introduct overview m czerwinski r macredie',104
+'integr spatial semant social structur knowledg manag j davies',104
+'jasi i environment',104
+'jasist v introduction',104
+'jasi l jacobs',104
+'footprint inform forag behaviour semant visual explor j kuljis r macredie t cribbin',104
+'rise landscap visual explor superstr revolut physic j kuljis',104
+'visual track growth compet paradigm two case studi r macredie s morar t cribbin',104
+'jasi w modeling',104
+'fit jigsaw citat inform visual domain analysi b keefe r paul',104
+'visual knowledg domain s intellectu structur r paul',104
+'hicss a reality',104
+'empir studi inform visual meta analysi y yu',104
+'extend fishey view browser collabor write a zeb r rada',104
+'behaviour pattern collabor write hypertext state transit approach nan',104
+'aesthet versu function nan',104
+'starwalk virtual environ integr design social navig nan',104
+'track latent domain structur integr pathfind latent semant analysi nan',104
+'visual interfac digit librari k borner',104
+'top ten problem visual interfac digit librari k borner',104
+'visual evolut subject domain case studi l carr',104
+'semant centric approach inform visual l carr',104
+'bridg gap us pathfind network visual navig nan',104
+'bridg gap us pathfind network visual navig nan',104
+'generalis similar analysi pathfind network scale nan',104
+'how did univers depart interweav web studi connect underli factor j newman r newman r rada',104
+'visual evolut subject domain case studi l carr',104
+'domain visual digit librari nan',104
+'visualis semant space author co citat network digit librari nan',104
+'generalis similar analysi pathfind network scale nan',104
+'spatial abil visual navig empir studi m czerwinski',104
+'foster social interact share semant space collabor learn j cole l thomas',104
+'from latent semant spatial hypertext integr approach m czerwinski',104
+'visualis inform mosaic perspect nan',104
+'spatial abil visual navig empir studi m czerwinski',104
+'spatial semant virtual world structur dualiti beyond m forsyth',104
+'content imag visual g gagaudakis p rosin',104
+'cbir pathfind network imag databas visual g gagaudakis p rosin',104
+'conclud remark todai s vision envis semant futur v geroimenko',104
+'visualis semant space author co citat network digit librari nan',104
+'semant modifi diffus limit aggreg visual larg scale network n lobo',104
+'how did univers depart interweav web studi connect underli factor j newman r newman r rada',104
+'visual semant web i web',104
+'inform visual nan',104
+'human factor usabl issu introduct l wilcox',104
+'inform visual is grow nan',104
+'articl thi issu nan',104
+'graph partit concurr test schedul vlsi circuit nan',105
+'alloc multiport memori port differ type regist transfer level synthesi nan',105
+'autonom tol hardwar partit built self test environ j lee j yuen',105
+'concurr test schedul built self test environ j yuen',105
+'synthesi configur linear feedback shifter regist detect random pattern resist fault nan',105
+'comment area time optim adder design a kumar',105
+'bistsyn built self test synthes nan',105
+'comment ensembl averag classifi pattern recognit machin nan',106
+'improv moment invari shape discrimin nan',106
+'improv moment invari shape discrimin t tsai',106
+'experi fit discret markov random field textur r dubes',106
+'markov random field textur discrimin c huang',106
+'afi fingerprint classif y wang',106
+'environment studi icm segment algorithm r dubes',106
+'wavelet featur textur discrimin nan',106
+'nonparametr test compar estim markov random field nan',106
+'select imag compress algorithm nan',106
+'watermark experi wavelet transform nan',106
+'applic icm segment algorithm nan',106
+'zerotre wavelet transform textur discrimin nan',106
+'singular valu decomposit textur compress j hsieh',106
+'studi imag compress wavelet transform h chu',106
+'textur discrimin singular valu decomposit j luo',106
+'textur synthesi algorithm experi nan',106
+'textur synthesi review experi nan',106
+'color imag segment scale space filter markov random field t cheng c huang',106
+'acceler fractal compress real time decod h chu',106
+'invari shape featur modifi moment c chang',106
+'domain index fractal imag compress h chu',106
+'fractal model d imag synthesi h chu',106
+'effici decod scheme fractal imag h chu',106
+'real time fractal imag compress domain index h chu',106
+'relationship between mpeg standard xml h chu',106
+'mrf model algorithm imag segment r dubes a jain s nadabar',106
+'biometr person identif verif s wang y chen',106
+'bootstrap error estim a jain r dubes',106
+'bootstrap techniqu error estim a jain r dubes',106
+'perform evalu shape featur j luo',106
+'singular valu decomposit textur analysi j luo',106
+'afi fingerprint classif y wang',106
+'decomposit addit separ structur element applic j yang',106
+'discret mrf model paramet as featur textur classif r dubes',106
+'encrypt mrf rsa kei nan',106
+'gabor transform textur analysi nan',106
+'vector quantiz princip compon analysi y chen',106
+'encrypt mrf rsa kei nan',106
+'fast algorithm gener fractal h chu',106
+'bound box iter function attractor h chu',106
+'acceler fractal compress h chu',106
+'effici decod scheme fractal imag compress h chu',106
+'filter method textur discrimin nan',106
+'multi resolut gabor filter textur analysi nan',106
+'optim hot spot alloc mesh larg scale parallel algorithm s lee',107
+'parallel em algorithm pet imag reconstruct s lee',107
+'discret region competit approach incorpor weak edg enhanc ultrasound imag segment h lu y chen',107
+'analyz effect share replic minim commun overhead s lee',107
+'replic uniformli access share larg scale parallel algorithm s lee',107
+'effici four connect parallel pet imag reconstruct nan',107
+'power reduct real time oper s cheng',108
+'tempor analysi algorithm real time schedul alloc s cheng',108
+'schedul overload real time s hwang a agrawala',108
+'network topolog manag mobil switch atm network dynam partit algorithm c li s cheng',108
+'fault toler model real time s tripathi s cheng',108
+'fault toler schedul real time s tripathi',108
+'analyt model reliabl real time s tripathi',108
+'optimist concurr control algorithm real time databas s tripathi',108
+'network topolog manag mobil switch atm network dynam partit algorithm c li s cheng',108
+'perform studi real time optimist concurr control knowledg execut time s hwang s tripathi',108
+'automat identif chines seal imprint arbitrari partial shape w tsai',108
+'resourc synchron protocol multiprocessor real time a blackmore s tripathi',108
+'dynam round resourc manag demand multimedia server s cheng',108
+'low power design real time s cheng j hwang',108
+'low power design real time j hwang s cheng',108
+'fault toler model multiprocessor real time s tripathi s cheng',108
+'resourc synchron protocol multiprocessor real time s tripathi a blackmore',108
+'distribut object orient parallel comput environ java corba k hsieh',109
+'optim parallel rout star graph extend abastract j chen',109
+'maximum partit match problem applic j chen',109
+'maximum partit match problem applic j chen',109
+'homomorph de bruijn graph it applic j chen',109
+'vertex disjoint rout star graph j chen',109
+'linear time uniform gap algorithm j chen',109
+'nearli optim on mani rout star network j chen',109
+'on mani node disjoint rout star network j chen',109
+'optim parallel rout star network j chen',109
+'nearli optim on mani parallel rout star network j chen',109
+'nearli optim on mani parallel rout star network j chen',109
+'optim parallel rout star graph j chen',109
+'sqlst spatio tempor model queri languag c zaniolo',110
+'design implement tempor extens sql c zaniolo j kong',110
+'univers tempor extens databas languag c zaniolo',110
+'univers tempor languag c zaniolo',110
+'xml queri via sql a malhotra',110
+'dbcube new class hierarch multiprocessor interconnect network area effici layout d agrawal j burke',111
+'hybrid graph network multiprocess d agrawal j burke',111
+'adapt mac protocol satellit atm k li',111
+'perform analysi singl stage interconnect network d agrawal j burke t lee',111
+'design analysi class highli scalabl hierarch network pdbcube d agrawal j burke',111
+'adapt databas buffer alloc queri feedback n roussopoulos',112
+'adapt select estim queri feedback n roussopoulos',112
+'adm project view r us a delis n roussopoulos s kelley y papakonstantinou',112
+'implement perform evalu adm queri optim integr queri result cach match n roussopoulos',112
+'dbc process scientif internet k salem m livny',112
+'new gradient search method grei gradient search model c hong h fan',113
+'design fuzzi slide control cerebellar learn model c hong h fan',113
+'neural network document classifi linguist featur select c hwang h lee',113
+'effici gradient forecast search method util discret differ equat predict model h lee',113
+'learn effici improv back propag algorithm error satur prevent method h lee t huang',113
+'minimum complet time criterion parallel spars choleski factor w lin',114
+'optim fill preserv order spars matric parallel choleski factor w lin',114
+'analysi vector access perform skew interleav memori c liao',114
+'simpl approach implement multipl small tabl b wang g chen',114
+'processor alloc task schedul minim ditribut spars choleski faxtor time t kan',114
+'lo alamo high speed channel will spur gigabit s network nan',115
+'what s happen supercomput network d tolmie',115
+'present futur supercomput network architectur d tolmie',115
+'high speed channel hsc ultra speed network d tolmie',115
+'high speed channel hsc standard d tolmie',115
+'hippi fiber optic j toy',115
+'design km dual simplex fiber optic hippi extend j toy p casper e al',115
+'fiber optic link that run supercomput l waller',115
+'ibm beat pack high speed channel r weiss t costlow',115
+'host product tap hippi a wolfe',115
+'user we want our faster j ambrosio',115
+'dual eulerian properti plane multigraph b carlson d meliksetian',115
+'control polici interconnect distribut via hippi switch i chlamtac a ganz m kienzle',115
+'multitask high speed interconnect i chlamtac m kienzle',115
+'hippi interconnect i chlamtac a ganz m kienzle',115
+'perform evalu hippi connect i chlamtac a ganz m kienzle',115
+'superhighwai channel nan',115
+'perform evalu hippi interconnect i chlantac a ganz',115
+'supercomput world adopt standard link t costlow',115
+'hippi fibr channel coexist r cummings',115
+'hp unveil high speed workstat adapt j duffy',115
+'raid becom peopl s choic m ferelli',115
+'geograph extens hippi channel via high speed sonet w franta j hughes',115
+'mix match technolog boost commun speed todai s network environ w franta j halpern j hughes',115
+'extend high speed network emploi hippi switch w franta j hughes',115
+'extend high speed network emploi hippi switch high speed wan fddi ring w franta j hughes',115
+'super high speed link mai revolution comput commun nan',115
+'broadband jigsaw puzzl l gasman',115
+'llnl experi hippi d getchell',115
+'hippi switch build high perform multipl fddi ring network t gilbert',115
+'hippi world switch is network k hardwick',115
+'hssi hppi open up highwai high speed traffic b hastings',115
+'fast track supercomput k herbst',115
+'dawn ag network supercomput k herbst',115
+'hippi mean speed lab user c hildebrand',115
+'high perform i o rs b homan c stoops',115
+'perform evalu circuit switch multistag interconnect network hold strategi s hsiao',115
+'casa hippi sonet w john d massey',115
+'high perform parallel interfac hippi repeat applic note w john',115
+'hippi exploit tcp ip environ c jung d advani',115
+'hppi gatewai open sonet pipe r karpinski',115
+'raid ii design implement larg scale disk arrai control r katz p chen e al',115
+'experi gigabit neurosci applic cm t kwan j terstriep',115
+'perform circuit switch lan differ traffic condit q ma p steenkiste',115
+'deploy hippi distribut supercomput environ at pittsburgh supercomput center j mahdavi g huntoon m mathis',115
+'model internetwork hippi lan broadband integr servic digit network a mazyad',115
+'hp s link interfac chipset serial hippi w mcfarland e al',115
+'do busi electron present futur lan box j mcquillan',115
+'partition multistag interconnect network part dynam subcub compact d meliksetian m ayyaz',115
+'partition multistag interconnect network part task migrat scheme d meliksetian m ayyaz',115
+'optim rout algorithm diamet cube connect cycl d meliksetian',115
+'nectar hippi atm sonet c n',115
+'arrai fault toler vme hppi e ohrenstein',115
+'supercomput seek high throughput expand storag e ohrenstein',115
+'build practic hippi lan j renwick',115
+'hippi atm sonet network interfac nectar gigabit testb k al',115
+'what s drive gigabit sec channel p rupert',115
+'supercomput hail need gbit lan s scully',115
+'gigabit net get readi lift off j shandle',115
+'programm hippi interfac graphic supercomput r singh e al',115
+'survei ip arp hippi implement l sloan',115
+'hippi beyond n smith',115
+'host interfac architectur high speed network p steenkiste b zill h kung s schlick j hughes b kowalski j mullaney',115
+'architectur evalu high speed network subsystem distribut memori p steenkiste m hemy t mummert b zill',115
+'systemat approach host interfac design high speed network p steenkiste',115
+'nectar network interfac p steenkiste',115
+'lo alamo multipl crossbar network crossbar interfac r thomsen',115
+'gigabit network d tolmie',115
+'hippi fibr channel atm high speed network d tolmie',115
+'hippi fibr channel atm as gigabit lan d tolmie',115
+'hippi fibr channel d tolmie',115
+'hippi relationship fibr channel atm d tolmie',115
+'hippi simplic yield success d tolmie j renwick',115
+'hippi serial hippi d tolmie m halvorson',115
+'local area gigabit network d tolmie',115
+'sequenc path synthesi regular iter algorithm m aloqeely',115
+'perform enhanc cmo vlsi circuit transistor reorder b carlson',115
+'transistor chain static cmo function cell arbitrari planar topolog b carlson d meliksetian',115
+'multimedia synchron c chang p berra t little',115
+'embed network ring connect hypercub machin y chung',115
+'special issu multimedia process technolog a ghafoor',115
+'issu network manag distribut multimedia a ghafoor p berra t little',115
+'time driven placement physic net constraint b halpin n sehgal',115
+'effic boolean match algorithm cell librari j acken q wu',115
+'hierarch methodolog improv channel rout pin permut c hou',115
+'pin permut algorithm improv cell channel rout c hou',115
+'permut capabl multistag interconnect network c hsia',115
+'synthesi asynchron circuit test uniqu circuit behavior signal transit graph c hsia',115
+'new model perform evalu synchron circuit switch multistag interconnect network s hsiao',115
+'high perform gener purpos multi point signal router j acken n seghal',115
+'novel ultra fast heurist vlsi cad steiner tree b krishna n sehgal',115
+'analyt model partial block finit buffer switch network j luciani',115
+'perform evalu hippi interconnect camp strategi a mazyad',115
+'post processor path synthesi multiport memori i ahmad',115
+'commun aspect cube connect cycl d meliksetian',115
+'design multimedia object orient dbm d meliksetian l liu m chang',115
+'queue analysi perform dqdb d meliksetian g makhoul',115
+'markov modul bernoulli process approxim analysi banyan network d meliksetian',115
+'methodolog design video server d meliksetian f yu',115
+'perform analysi commun static interconnect network d meliksetian',115
+'synthesi applic specif multiprocessor i ahmad m dhodhi',115
+'smooth algorithm deliveri compress video d meliksetian t kiprulu',115
+'datapath schedul two level pipelin m moricz',115
+'signal flow model novel driven approach parallel process m mudawwar',115
+'model storag alloc strategi homogen parallel access storag devic real time multimedia inform process k nwosu p berra',115
+'multimedia object model storag alloc strategi k nwosu p berra',115
+'transistor reorder techniqu gate matrix layout u singh',115
+'new model perform evalu synchron circuit switch multistag interconnect network a almazyad s hsiao',115
+'minim resourc consumpt multidatabas queri optim c lee c ke j chang y chen',116
+'improv locat c lee c ke',116
+'predict queri process strategi mobil commerc c lee c ke',116
+'perform upgrad larg object base disk arrai c lee c ke y chen',116
+'stochast approach queri optim mobil comput environ c lee c ke',116
+'broadcast schedul deliveri real time constraint wireless commun c ke c lee',116
+'broadcast schedul multipl channel wireless inform c ke',116
+'joint broadcast schedul user s cach manag wireless inform c ke c lee',116
+'minim expect time broadcast comput environ c ke c lee',116
+'improv locat manag mobil user frequent visit locat c ke c lee',116
+'broadcast schedul deliveri real time constraint c lee c ke',116
+'code deliveri strategi ubiquit comput c lee c ke',116
+'best movement mobil agent mobil comput c lee c ke',116
+'compress broadcast strategi wireless inform c lee c ke',116
+'locat manag strategi reduc both movement cost locat cost simultan c lee',116
+'improv locat manag mobil user frequent visit locat c lee c ke',116
+'track mobil user util their frequent visit locat c lee c ke',116
+'best movement mobil agent mobil comput c lee c ke',116
+'practic nonblock queue algorithm compar swap c shann t huang',117
+'new schedul strategi numa multiprocessor g lai',117
+'look ahead memori consist model c wu d pean',117
+'optim depend convex hull partit techniqu maxim parallel nest loop non uniform depend d pean g lai',117
+'effect mechan reduc overhead migratori share link cach coher protocol cluster multiprocessor architectur d pean j wu',117
+'content hybrid dpcm classifi vector quantiz code video telephoni sequenc c hsu',118
+'d shape reconstruct deform object vision sensor nan',118
+'line comput elementari function finit state machin nan',118
+'pipelin comput veri larg word length addit subtract polynomi hardwar cost r chen c yang',118
+'pipelin comput ln addit subtract veri small lookup tabl c yang',118
+'passiv activ vision smooth surfac detect deform plate y zheng',118
+'robot ey hand calibr calibr optic axi target pattern s stitt y zheng',118
+'recognit overlap object mathemat morpholog nan',118
+'error analysi dct algorithm float point logarithm number y chen',118
+'deform identif estim on dimension object vision sensor y zheng',118
+'thin plate surfac approxim coon patch y zheng',118
+'design line logarithm number processor c chichyang',118
+'human face detect color imag c chichyang',118
+'automat track face featur from imag sequenc c chichyang',118
+'fast digit parallel convers from sign digit convent represent t stouraitis',118
+'hybrid sign digit logarithm number processor t stouraitis',118
+'edg non linear gaussian filter construct multiresolut imag c wang',118
+'deform identif estim on dimension object vision sensor y zheng',118
+'strategi automat assembl deform object y zheng r pei',118
+'design digit line addit unit logarithm number k cho',118
+'design digit line exponenti logarithm comput unit k cho s chiang',118
+'detect human face color imag s chiang',118
+'human face detect color imag s chiang',118
+'hybrid sign digit logarithm number arithmet processor nan',118
+'low bit rate video code imag triangul t lin',118
+'imag predic face detect triangul c hsu',118
+'new robot hand ey calibr method activ view checkerboard pattern y zheng',118
+'simpl edg preserv filter techniqu construct multi resolut imag c wang',118
+'imag predict face detect triangul c hsu t lin',118
+'simpl edg preserv filter techniqu construct multi resolut imag c wang',118
+'pipelin comput veri larg word length ln addit subtract polynomi hardwar cost c yang r chen',118
+'new robot hand ey calibr method activ view checkerboard pattern y zheng',118
+'integr test framework object orient program k chang s liao',119
+'test scenario gener formal specif usag profil k chang r chapman s liao',119
+'test object orient program usag profil formal specif k chang s liao s seidman',119
+'test scenario regress test suit gener from object z formal specif object orient program test k chang r chapman',119
+'web lesson situat learn senior high school level k liao y hsu',120
+'where built tide power plant cooper learn web h wu y hsu',120
+'develop exploratori simul constructivist learn exampl java applic d yarger j boysen y hsu',120
+'develop form evalu instruct simul web aid meteorolog cours d yarger r thomas y hsu',120
+'bist test pattern gener stuck open delai test s gupta',121
+'satisfi test gener path delai fault combin circut s gupta',121
+'bist test pattern gener two pattern test theori design algorithm s gupta',121
+'methodolog design effici bist test pattern gener s gupta',121
+'threshold admiss control polici multimedia server i chen',122
+'perform evalu admiss control algorithm dynam threshold negoti i chen s cheng',122
+'dynam quota admiss control sub rate multimedia server i chen s cheng',122
+'studi self adjust qualiti servic control scheme i chen s cheng',122
+'architectur power optim case studi high level synthesi k kucukcakar',123
+'sourc level dynam analysi methodolog tool high level synthesi k kucukcakar',123
+'high level schedul model control synthesi broad rang design applic k kucukcakar',123
+'architectur rule check high level synthesi j gong k kucukcakar',123
+'complex proposit modal theor complex consistency proposit modal theor nan',125
+'comput complex satisfi tempor horn formula proposit linear time tempor logic i lin',125
+'comput complex satisfi modal horn claus modal proposit logic i lin',125
+'asymptot optim declust scheme dim rang queri r sinha r bhatia',126
+'nation clearinghous servic b b exchang telecommun industri a umar m moghadam t lin',126
+'from discrep declust near optim multidimension declust strategi rang queri nan',126
+'effici disk alloc scheme parallel retriev multidimension grid r sinha r bhatia',126
+'multidimension declust scheme golden ratio kroneck sequenc r sinha r bhatia',126
+'analysi comparison declust scheme interact navig queri r sinha',126
+'hierarch declust scheme rang queri r sinha r bhatia',126
+'hierarch techniqu construct effici declust scheme rang queri r sinha r bhatia',126
+'internet traffic warehous c petrone m pucci m mesiti m cochinwala p santa s samtani',126
+'deal slow evolv fact case studi inventori wareh e yueh m cochinwala',126
+'tree index effici search similar document d liu',126
+'framework person e catalog integr xml metadata user model agent d liu y huang y lin',126
+'telcordia lsi engin implement scalabl issu c basu c behrens d basu m post n stofel',126
+'sampl estim top k queri y ling',126
+'raster spatial declust revisit interact navig perspect r sinha',126
+'declust golden ratio sequenc r sinha r bhatia',126
+'asymptot optim declust scheme rang queri r sinha r bhatia',126
+'optim algorithm spiral floorplan design i tollis',127
+'fast parallel algorithm slice floorplan i tollis',127
+'new approach floorplan area optim slice not slice i tollis',127
+'toward automat support parallel spars comput java continu compil j lee r chang t chuang',128
+'build ontolog optim composit parallel javabean program j lee',128
+'runtim composit optim parallel javabean program cluster environ j lee',128
+'petri net approach workflow process autom s yang',129
+'build xml unifi user interfac j ee architectur c chu c lan i chen k shen s yang',129
+'fuzzi rule base verif high level petri net j tsai s yang',129
+'access analysi flow graph approach design testabl c wu d saab',130
+'behavior synthesi testabl d saab',130
+'beta behavior testabl analysi c wu d saab',130
+'web document personalizaiton user model y sun',131
+'pva self adapt person view agnet y sun',131
+'automat topic discoveri from hyperlink text k wu',131
+'automat topic discoveri from hyperlink document k wu y sun',131
+'life cycl model new event ag theori y chen y sun',131
+'pva self adapt person view agent y sun',131
+'branch merg effect exploit instruct level parallel c king y chen',132
+'design dynam two level branch predictor pattern local c king',132
+'walk time address adjust improv accuraci dynam branch predict c king',132
+'metagen comprehens sequenc analysi annot platform t j c chen d d w wang z z w wang t t',133
+'evalu maximum likelihood estim method determin hurst coeffici c kendziorski j bassingthwaighte p tonellato',133
+'autom construct high densiti compar map between rat human mous a black p tonellato d chen j handley y cheng s twigger t scheetz t casavant m stoll m nobrega m shiozawa m soares v sheffield h jacob',133
+'salt water transport unsatur soil non conserv d lomen a warrick t j',133
+'web rat radiat hybrid map server rat j lu a black h jacob p tonellato',133
+'mechanist map locat gene involv complex regulatori reflex k m c cowley a w g greene a s s stoll m m s salgado h c j jacob h j t j',133
+'assess chemo kinet behavior inflammatori lung macrophag linear agaros assai d nash p tonellato m swiersz a p',133
+'microcircul physiom project a popel a greene c ellis k ley t skalak p tonellato',133
+'mathemat analysi type i type iib muscl fiber forc gener renal hypertens m rieder d drobinak p tonellato a greene',133
+'high densiti intergr genet linkag radiat hybrid map laboratori rat r steen a black c glenn j handley w van o atkinson d appel s twigger m muir t mull m granados m kissebah k russo r crane m popp m peden t matise d brown j lu s kingsmore p tonellato s rozen d slonim p young m knoblauch a provoost d ganten s coleman j rothberg e lander h jacob',133
+'phylogenet rat inbr strain m thomas m seaman p tonellato s twigger',133
+'character blood pressur dynam rat model approach p tonellato c kendziorski a cowley',133
+'critic behavior ignit model chemic combust p tonellato',133
+'oxygen distribut microvascular p tonellato a greene',133
+'rat genom databas compar genom platform rat mous human s twigger j lu m shimoyama d pasko p long j ginster r nigam d chen z wang a black j eppig d maglott g schuler f stahl g levan h jacob p tonellato',133
+'soil moistur flow point line sourc comput program linear zed solut a warrick d lomen t j',133
+'high throughput scan rat genom interspers repetit sequenc pcr marker g c h l k t r m h b g u k m h h b mt k k t s t pj j hj s lc l k g d l h k m',133
+'chromosom pattern quantit trait loci brown norwai dahl s intercross a cowley r roman g j t a j p',133
+'genet defin risk salt sensit within popul f rat from brown norwai dahl s deriv intercross a cowley s stoll g m k s r l t j s p j j',133
+'physiom tool physiolog genom a cowley t j',133
+'microvascular rarefact tissu vascular resist hypertens total peripher resist hypertens a greene p tonellato j lui j lombard c w',133
+'contribut microvascular rarefact tissu oxygen deliveri hypertens a greene p tonellato j lombard a cowley',133
+'quantif contribut type type angiotensin ii receptor net tissu specif effect angiotensin ii n h t j g s',133
+'rat genom databas rgd map diseas onto genom s twigger j lu m shimoyama d chen d pasko h long j ginster r nigam a black j eppig l maltais d maglott g schuler h jacob p tonellato',133
+'error correct code byte error detect capabl nan',133
+'measur gener error correct code packag failur d bossen l chang',133
+'logic test pattern gener linear code d tang',133
+'result quasi cyclic code e weldon w peterson',134
+'shorten finit geometri code nan',134
+'further result polynomi code s lin',134
+'file alloc distribut databas interact between file c yu k lam m siu',135
+'adapt inform design on queri at time c yu',135
+'adapt file alloc star comput network c yu k lam m siu',135
+'new foreground extract scheme video stream z wu',136
+'research reliabl commun real time collabor design j bu x wang',136
+'achiev undo bitmap collabor graphic edit j bu x wang',136
+'model analysi visual left ventricl shape motion hierarch decomposit m arrott t huang',137
+'novel product code decod scheme wireless imag transmiss l cao',137
+'segment featur extract techniqu applic biomed imag e ashton j weisberg k parker l ketonen m berg',137
+'fec wireless video stream pre interleav j cai',137
+'product code recurr altern decod wireless imag transmiss l cao',137
+'fast effect block match error conceal scheme j wang',137
+'joint sourc channel optim block tcq layer transmiss rcpc h li',137
+'three dimension subband video analysi synthesi adapt cluster high frequenc subband j luo k parker t huang',137
+'adapt quantiz spatial constraint subband video compress wavelet j luo k parker t huang',137
+'knowledg approach volumetr medic imag segment j luo k parker t huang',137
+'improv approach cardiac dynam analysi constrain local forc model l fan',137
+'high perform vbr code algorithm fix size storag applic j zhou y wang y yu',137
+'face locat wavelet video compress high perceptu qualiti videoconferenc j luo k parker',137
+'ultrasound imag compress subband decomposit speckl synthesi h li j luo',137
+'architectur driven circuit partit c liu t hwang',138
+'low power fpga design re engin approach c liu t hwang',138
+'layout driven select chain partial scan k lin t hwang',138
+'d filter backproject reconstruct algorithm combin parallel cone beam spect c wu m wernick',139
+'analyt consider photon attenu respons function spect reconstruct j aarsvold w wong x pan',139
+'evalu parallel spars choleski factor w lin',140
+'minimum commun cost reorder parallel spars choleski factor w lin',140
+'fuzzi approach select locat distribut center nan',141
+'fuzzi credibl relat method multipl criteria decis make problem h hsu',141
+'vision robot inspect manipul m trivedi s marapane',142
+'sensor driven intellig robot m trivedi',142
+'optim parallel circl cover independ set algorithm circular arc graph m yu r lee',143
+'optim parallel algorithm minimum color interv m yu r lee',143
+'eco empir compil optim b liu j chame m hall n baradaran p diniz r lucas y lee',144
+'architectur diva process memori chip c kang c steele i gokhan j chame j shin j lacoss j draper j granacki m hall t barrett',144
+'mix level sequenti test gener nine valu relax algorithm j abraham',145
+'high qualiti test switch level circuit current logic test gener algorithm j abraham',145
+'adapt protect framework mpeg base layer video stream internet nan',146
+'error resili scheme mpeg fg video packet erasur channel that exhibit grace degrad c lin i ting w ho',146
+'error resili scheme mpeg fine granular scalabl video c lin i ting w ho',146
+'determinist load balanc techniqu vbr video server k tsai',146
+'fast algorithm video assign problem k tsai',146
+'multiresolut face recognit k tsai',146
+'two algorithm multi constrain optim multicast rout k tsai',146
+'exploit tempor diment qo awar multicast rout c tseng',146
+'perform qo awar multicast rout protocol c tseng',146
+'measur multimedia player nan',146
+'sot framework re examin c tseng j liu',146
+'redund nest invoc suppress mechan activ replic fault toler web servic c fang d liang p lin',146
+'fault toler object servic corba d liang c fang s yuan g jan',146
+'fault toler web servic d liang c fang f lin',146
+'adapt protect framework mpeg base layer video stream internet c lin w ho',146
+'perform qo awar ip multicast rout protocol c tseng',146
+'nest invoc suppress mechan activ replic fault toler corba c fang d liang f lin',146
+'nest invoc suppress mechan activ replic fault toler corba d liang c fang j tsai',146
+'pancycl mobiu cube w huang w chen',147
+'fault toler pancycl cross cube w huang w chen',147
+'optim properti disc modulo alloc method k ari multipl kei hash file h lin',148
+'optim linear hash file orthogon rang retriev d lin r lee',148
+'optim mmi file orthogon rang retriev c chang r lee',148
+'gdm alloc partial rang queri c chang',148
+'optim criteria disk modulo alloc method cartesian product file h lin',148
+'perform two disk partit alloc c chang',148
+'optim bucket alloc design k ari mkh file partial match retriev h lin r lee',148
+'tempor join mechan trie rank structur d lin r lee',148
+'orthogon rang retriev bucket address hash c chang',148
+'symbol grai code as alloc scheme two disc c chang h chen',148
+'design machin independ perfect hash scheme c chang j jan',148
+'perform analysi generalis disc modulo alloc method multipl kei hash file multi disc c chang',148
+'recurs perform formula disc modulo alloc method binari cartesian product file c chang',148
+'design multipl kei hash file concurr orthogon rang retriev between two disk c chang r lee',148
+'model develop verif high level analog block c visweswariah r chadha',149
+'accur effici gate level delai calcul mo circuit f chang p subramaniam',149
+'optic switch configur lightpath assign wavelength rout multihop lightwav network s banerjee',150
+'new model optim rout wavelength assign wavelength divis multiplex optic network s banerjee',150
+'empir evalu sever method select best k inoue s chick',151
+'simul budget alloc further enhanc effici ordin optim j lin e yucesan s chick',151
+'hybrid approach integ program combin genet algorithm linear program ordin optim y luo m spielberg',151
+'effici approach integr genet algorithm linear program ordin optim linear mix integ program problem y luo m spielberg',151
+'new algorithm stochast discret resourc alloc optim l shi',151
+'distribut web simul experi optim e yucesan i lee y luo',151
+'veri effici simul engin design problem nan',151
+'distribut web simul experi optim e yucesan y luo i lee',151
+'effici comput optim budget alloc discret event simul experi e yucesan l dai',151
+'comput effort alloc ordin optim discret event simul e yucesan',151
+'larg converg properti two stage stochast program l dai j birge',151
+'optim comput budget alloc mont carlo simul applic product design k donohue e yucesan j lin',151
+'ordin optim simul y ho c cassandras l dai',151
+'schedul semiconductor wafer fabric ordin optim simul b hsieh s chang',151
+'hybrid approach standard clock method event schedul approach gener discret event simul nan',151
+'comput budget alloc simul experi differ structur e yucesan l dai y yuan',151
+'distribut web simul optim e yucesan i lee y luo',151
+'effici approach mont carlo simul experi it applic circuit design e yucesa j lin k donohue',151
+'web simul experi e yucesan i lee',151
+'simultan simul experi nest partit discret resourc alloc suppli chain manag e yucesan l shi',151
+'gradient approach smartli alloc comput budget discret event simul l dai',151
+'dynam schedul rule select semiconductor wafer fabric b hsieh s chang',151
+'new develop optim comput budget alloc discret event simul e yucesan l dai',151
+'asymptot alloc simultan simul experi e yucesan j lin',151
+'effici erew pram algorithm parenthes match s das s prasad',152
+'comprehens perform evalu crossbar network h youn',152
+'parallel breadth first breadth depth travers gener tree s das',152
+'fast parallel algorithm parenthes match g lewis s das s prasad',152
+'breadth first travers tree integ sort parallel s das',152
+'effici parallel algorithm comput articul point bridg interv graph s das',152
+'new parallel algorithm breadth first search interv graph s das',152
+'cost optim parallel algorithm parenthes match problem erew pram s das',152
+'effici parallel algorithm interv graph s das',152
+'unifi approach parallel depth first travers gener tree s das s akl',152
+'breadth first travers tree integ sort parallel s das',152
+'ra design ibm eserv z b tolan f freie g wellwood i modi l alves m fair n weber p meaney w clarke',153
+'fault toler memori design ibm applic system l grosbach',153
+'fault align exclus memori address permut d bossen m hsiao',153
+'error correct code semiconductor memori applic state art review m hsiao',153
+'fault toler memori simul r rutledge',153
+'iter exhaust pattern gener logic test d tang',153
+'symbol error correctin code memori applic nan',153
+'error correct code semiconductor memori nan',153
+'symbol error correct code comput memori nan',153
+'byte orient error correct code semiconductor memori nan',153
+'presid s inform technolog advisori committe s februari digit librari report it impact d nagel j lightbourne s howe s griffin w warnick',154
+'workshop digit librari asian languag s chen',154
+'from educ multimedia global digit librari develop converg technolog content intern collabor nan',154
+'hypermedia multimedia technolog new opportun librari s nan',154
+'sharabl ontolog retriev histor imag c lee j yeh v soo',154
+'enhanc perspect histor cultur documentari informedia technolog h wactlar',154
+'potenti interact videodisc intern cooper as document project emperor i nan',154
+'us cd rom west german librari d raitt',154
+'autom semant annot retriev sharabl ontolog case learn techniqu c lee s chen v soo',154

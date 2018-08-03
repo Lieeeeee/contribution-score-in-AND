@@ -1,0 +1,24 @@
+@relation 'Dataset bdbcomp publish-venue_title rsantos'
+@attribute Text string
+@attribute class-att {174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190}
+@data
+'rede computador comunicacao pacot experiencia piloto rdsi',174
+'rede computador comutador pacot sistema compac',175
+'computacao grafica processamento imagen bias cluster method imag classif',176
+'rede computador algoritmo substituicao objeto cach internet baseado semantica',177
+'symposium microelectron technolog devic format character ni pt nisi mo devic applic',178
+'symposium microelectron technolog devic format stabil ni pt poli layer structur',178
+'inteligencia artifici litholog recognit neural network ensembl',179
+'bioinformatica semi automat methodolog local short mitochondri gene long sequenc',180
+'qualidad softwar dimensionando data mart adequacao metrica funcion',181
+'rede neurai aplicacao mineracao dado manutencao rede telefonia',182
+'banco dado extracao dado metadado texto semi estruturado usando hmm',183
+'journal comput scienc deteccao intruso abordagem usando rede neurai',184
+'biblioteca digitai assistent configuracao biblioteca digitai componentizada',185
+'xxxii seminario integrado softwar hardwar museum aplicacao m learn realidad virtual',186
+'geoinformatica desenvolvimento sig reconfiguracao rede energia eletrica interfac integrada',187
+'banco dado rdbm workflow support component digit librari',188
+'banco dado compon base digit librari servic find miss document',188
+'informatica publica materializacao conceito softwar publico iniciativa cacic',189
+'tempo real energi awar schedul real time heterogen multiprocessor system chip',190
+'banco dado utilizacao chave algoritmo diff xml',190

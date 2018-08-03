@@ -1,0 +1,34 @@
+230;125;jose neuman de souza;w albano,w araujo,f cavalcanti,r andrade;sigma entidad localizacao autenticacao dispositivo movei area micromobilidad;rede computador;0
+231;125;jose n de souza;j silva,m campos,p cunha;analis estocastica descart pacot rede tcp;rede computador;0
+232;125;jose neuman de souza;a diniz,m oliveira,j nogueira;integracao agent atm prototipo destinado estudo interoperabilidad sistema tmn;rede computador;0
+233;125;jose neuman de souza;c rocha,a braga;abordagem implantacao programavei rede comunicacao;rede computador;0
+234;125;jose neuman de souza;d gomes,n agolmine,n fonseca;neurocomputacao estimativa parametro hurst;rede computador;0
+235;125;jose neuman de souza;j monteiro;rede computador;rede computador;0
+236;125;j neuman de souza;a oliveira,m stanton;migrando solucao interoperabilidad sistema tmn baseada metodologia aid ambient osimi;rede computador;0
+237;126;jerffeson teixeira de souza;;desenvolvendo ambient distribuido auxilio avaliacao conceitu sistema tutor;informatica educacao;0
+238;127;joao n souza;s amo,f silva,m fernandes;mine tempor constraint databas us genet algorithm;banco dado;0
+239;128;joao nunes de souza;i silva,r moura,b ribeiro neto;informacao link modelo vetori usando estrutura funcion;banco dado;0
+240;128;joao nunes de souza;i silva,k santos;depend among term vector space model;banco dado;0
+241;128;joao nunes souza;m moreira,i silva;multi user kei data exchang protocol manag secur databas;banco dado;0
+242;129;jano moreira de souza;g zimbrao,r monteiro,l azevedo;raster approxim process polylin join;banco dado;0
+243;129;jano moreira de souza;g zimbrao,r miranda,m estolano,f neto;enforc busi rule relat databas us constraint;banco dado;0
+244;129;jano moreira de souza;l azevedo,r monteiro,g zimbrao;approxim spatial queri process us raster signatur;geoinformatica;0
+245;129;jano moreira de souza;g zimbrao,v almeida;processamento eficient junco espacotemporai;banco dado;0
+246;129;jano souza;l azevedo,g zimbrao;approxim queri process spatial databas us raster signatur;geoinformatica;0
+247;129;jano moreira de souza;g silva,v almeida,a sulaiman,f neto;athena sistema gerenciador regra negocio;engenharia softwar;0
+248;129;jano m de souza;g zimbrao,r miranda,f neto;falaocl ferramenta parafrasear ocl;engenharia softwar;0
+249;129;jano moreira de souza;m ramirez;processamento distribuido juncao espaci;geoinformatica;0
+250;129;jano souza;w meyer,m ramirez;spatial queri broker grid environ;geoinformatica;0
+251;129;jano souza;w meyer,m ramirez;secondo grid infrastructur studi spatial databas comput grid;geoinformatica;0
+252;129;jano moreira de souza;r rocha,l cardoso;improv approach data wareh etlm process detect chang sourc data;banco dado;0
+253;130;john kennedy schettino de souza;m campos;dispositivo automatico obtencao forma 3d objeto;computacao grafica processamento imagen;0
+254;131;jose edison gomes de souza;m barbosa,t ludermir,m santos,f santos,c melo;pattern recognit gase petroleum base rbf model;rede neurai;0
+255;132;joao souza;g silva;analis mecanismo seguranca rede locai fio proposta melhoria;seguranca sistema computacionai;0
+256;133;josemar souza;a reboucas,a furtado,e argollo,e luque,d rexachs;improv perform long distanc geograph distribut dedic cluster;xxxi seminario integrado softwar hardwar;0
+257;134;jemima coelho de souza;r cuattrin;sqa garantia qualidad fabrica softwar;internacion melhoria processo softwar;0
+258;135;julio souza;e meza,m filho,m schilling,j carvalho;alocacao otima utr medidor supervisao tempo real sistema distribuicao;rede neurai;0
+259;136;jose guilherme c de souza;e battistella,n lemke,j mombach;abordagem viabilizar processo data warehous dado biologico;escola region banco dado;0
+226;125;jose newman de souza;a patel,b bhushan;manag heterogen network integrador base approach;rede computador;0
+227;125;jose n souza;r correia,a lages,l pirmez,l granville,e duarte jr,r andrade;estrategia rerroteamento pro ativo rede optica utilizando infra estrutura gerencia p2p;test tolerancia falha;0
+228;125;jose neuman de souza;f martins,m maia,r andrade,a santos;desafio provisao integridad processamento grade computacionai;computacao grid aplicaco;0
+229;125;jose neuman de souza;r holanda,a santos;identifi anomal pattern network wide traffic us flow cluster;gerencia operacao rede servico;0

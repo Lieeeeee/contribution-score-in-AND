@@ -1,0 +1,207 @@
+@relation 'Dataset kitsi publish-venue_title jlee'
+@attribute Text string
+@attribute class-att {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66}
+@data
+'ijpp constant propag algorithm explicitli parallel program',1
+'icpp restructur program high speed comput polari',1
+'lcpc concurr static singl assign form constant propag explicitli parallel program',1
+'comput parallel program polari',1
+'tpd correl prefetch user level memori thread',1
+'concurr compil multipl memori model',1
+'ppopp basic compil algorithm parallel program',1
+'lcpc automat implement program languag consist model',1
+'tapsoft step stanford tempor prover',1
+'tc hide relax memori consist compil',1
+'lcpc adapt increas perform scalabl automat parallel program',1
+'ieeepact hide relax memori consist compil',1
+'isca us user level memori thread correl prefetch',1
+'hpca automat map code intellig memori architectur',1
+'gcc design vdsl network high speed internet servic',1
+'im adapt map code intellig memori architectur',1
+'tc automat code map intellig memori architectur',1
+'ictai algorithm detect local multi target wireless acoust sensor network',2
+'ieeecit track object d space us particl filter base sensor arrai',2
+'aaai structur circuit semant reactiv plan execut system',3
+'icma microeconom approach intellig resourc share multiag system',3
+'mswim impact locat inconsist geograph rout wireless network',4
+'sigmobil model analyz impact locat inconsist geograph rout wireless network',4
+'islp energi effici instruct set synthesi applic specif processor',5
+'dt compil approach coars grain reconfigur architectur',5
+'iccad effici instruct encod automat instruct set design configur asip',5
+'isorc tmo structur distribut locat inform system prototyp',6
+'word distribut scalabl locat data manag system base gali architectur',6
+'isorc long term locat data manag distribut move object databas',6
+'arscom isoperimetr number bisect width doubl cover complet graph',7
+'siamdm enumer regular graph cover finit abelian cover transform group',7
+'ejc distribut regular branch surfac cover',7
+'dm balanc regular cover sign graph regular branch orient surfac cover non orient surfac',7
+'arscom isomorph class bipartit cycl permut graph',7
+'siamdm isomorph class concret graph cover',7
+'dm isomorph class cycl permut graph',7
+'ejc bartholdi zeta function graph bundl regular fiber',7
+'3dim effici scatter data approxim us multilevel b spline base quasi interpol',8
+'iccsa quasi interpol base multilevel b spline surfac reconstruct scatter data',8
+'iciap 3d surfac reconstruct scatter data us move least squar method',8
+'pe perform analysi input queue atm switch two prioriti class',9
+'infocom util optim medium access control revers forward engin',9
+'ton downlink power alloc multi class wireless system',9
+'ton non convex optim rate control multi class servic internet',9
+'wiopt revers engin mac',9
+'infocom opportunist power schedul multi server wireless system minimum perform constraint',9
+'infocom downlink power alloc multi class cdma wireless network',9
+'infocom non convex issu internet rate control multi class servic stabil optim',9
+'ismir survei music inform need us seek behaviour preliminari find',10
+'ismir challeng cross cultur multilingu music inform seek',10
+'jcdl toward understand similar judgment music digit librari evalu',10
+'tcsv optim channel alloc unifi video demand system',11
+'tcsv monoton decreas rate schedul variabl bit rate video stream',11
+'tcsv design perform analysi implement super scalar video demand system',11
+'tmm unifi architectur video demand servic',11
+'tpd automat recoveri disk failur continu media server',11
+'ac secur polici',12
+'rcc effici method detect kei object video shot camera motion',12
+'kdd multimedia data mine framework raw video sequenc',12
+'comcom jikzi new framework secur polici trust publish electron commerc',12
+'mm scenario base dynam video abstract us graph match',12
+'spw jikzi new framework secur publish',12
+'mm automat measur qualiti metric colonoscopi video',12
+'pakdd real time video data mine surveil video stream',12
+'ism graph base approach model index video data',12
+'sigop new famili authent protocol',12
+'sac automat classif digest organ wireless capsul endoscopi video',12
+'sigmod strg index spatio tempor region graph index larg video databas',12
+'giscienc 3d gi geo code human activ micro scale urban environ',13
+'urban emerg respons potenti real time 3d gi quick emerg respons micro spatial environ',13
+'kbse bogor kiasan k bound symbol execut check strong heap properti open system',14
+'entc dynam revers code gener backward execut',14
+'sigpro adapt beamform multipl beam constraint presenc coher jammer',15
+'sc us high speed network enabl distribut parallel imag server system',16
+'hpdc monitor sensor manag system grid environ',16
+'hpdc enabl network awar applic',16
+'hpdc dynam monitor high perform distribut applic',16
+'cluster monitor sensor manag system grid environ',16
+'mm distribut parallel data storag system scalabl approach high speed imag server',16
+'fgc microscop examin tcp flow transatlant link',16
+'hpdc network awar distribut storag cach data intens environ',16
+'sc monitor data archiv grid environ',16
+'hicss perform evalu model buyer cart b2b ec',17
+'aaai case constraint base apart construct project plan system fastrak apt',17
+'aim intellig schedul system shipbuild',17
+'hicss enhanc knowledg manag extens rule markup languag',17
+'semweb extract structur rule web page mainten mutual consist xrml approach',17
+'comcom distribut energi effici target local track wireless sensor network',18
+'dasfaa effici encod label dynam xml data',19
+'dasfaa effici scalabl manag ontolog',19
+'ifip6 ad hoc rout earli unidirection detect avoid',20
+'sigmobil euda detect avoid unidirect link ad hoc network',20
+'asp addit fluent',21
+'ai loop formula circumscript',21
+'lpnmr nondefinit vs definit causal theori',21
+'ai nonmonoton causal theori',21
+'aaai loop formula circumscript',21
+'ai repres zoo world traffic world languag causal calcul',21
+'isci secur queri process encrypt xml data us queri awar decrypt',22
+'icd odysseu high perform ordbm tightli coupl spatial databas featur',22
+'dasfaa practition s approach normal xqueri express',22
+'sigmod continu queri process data stream us dualiti data queri',22
+'vldb n gram 2l space time effici two level n gram invert index structur',22
+'sigmod trajectori cluster partit group framework',22
+'icd odysseu high perform ordbm tightli coupl ir featur',22
+'sigpro novel direct find method cyclostationari signal',23
+'sigpro robust techniqu estim bear cyclostationari signal',23
+'europar virtual physic chip cach share memori multiprocessor',24
+'ispan scalabl cach coher architectur larg scale mesh connect multiprocessor',24
+'ccgrid effici lock protocol home base lazi releas consist',24
+'ccgrid adapt prefetch techniqu share virtual memori',24
+'isca synchron multiprocessor cach',24
+'icmc proport share schedul multimedia applic',24
+'case cflru replac algorithm flash memori',24
+'spaa architectur primit scalabl share memori multiprocessor',24
+'icppw design implement multi thread tmn agent system',24
+'cal specul coher scheme us decoupl synchron multiprocessor system',24
+'euc dynam repartit real time schedul multicor processor energi effici',24
+'jci design optimist oper peer peer replic',24
+'emsoft superblock base flash translat layer nand flash memori',24
+'ijpp two phase barrier synchron primit improv processor util',24
+'date distribut synchron control unit dataflow graph alloc telescop arithmet unit',25
+'arvlsi build distribut asynchron control unit automat deriv hierarch decompos afsm cdfg',25
+'async automat process orient control circuit gener asynchron high level synthesi',25
+'apcsac effici buffer alloc asynchron linear pipelin design space local',25
+'ieicet procedur constraint extend rbac colour petri net model',25
+'aspdac imprecis data comput high perform asynchron processor',25
+'jsa instruct level redund number comput fast data intens process asynchron processor',25
+'glvlsi high perform asynchron chip bu multipl issu order order complet',25
+'siggraph interact control avatar anim human motion data',26
+'tog interact control avatar anim human motion data',26
+'tog rfig lamp interact self describ world via photosens wireless tag projector',27
+'acmdi calder toolkit wire wireless compon rapidli prototyp interact devic',27
+'uist haptic pen tactil feedback stylu touch screen',27
+'tochi predict human interrupt sensor',27
+'uist kinet typographi engin extens system anim express text',27
+'chi kinedit system affect messag us dynam text',27
+'icccn adapt acknowledg scheme effici error control atm cluster system',28
+'futur knowledg base approach rank document boolean queri',29
+'infsof findit fast intellig subspac cluster algorithm us dimens vote',29
+'dasfaa enhanc fuzzi set model posit compensatori oper',29
+'ecweb acceler databas process commerc site',29
+'ipl analysi fuzzi oper high qualiti inform retriev',29
+'dasfaa predic base cach mobil client continu partial match queri',29
+'ipm rank document thesauru base boolean retriev system',29
+'ra dynam model kinemat analysi class stewart platform',30
+'rta delai lock techniqu improv real time perform embed linux predict timer interrupt',31
+'iscapdc resourc manag share file system san environ',31
+'aina ubiquit fashion comput throw devic locat base servic environ',31
+'cikm find similar question larg question answer archiv',32
+'sigir find semant similar question base answer',32
+'sigir analys multipl evid combin',32
+'sigir framework predict qualiti answer non textual featur',32
+'icmi resolv refer graphic object multimod queri constraint satisfact',33
+'prl imag code fit rbf surfac subimag',34
+'eswa quasi optim case select neural network model softwar effort estim',35
+'aim case constraint base project plan apart construct',35
+'dss case base modif optim agent agent opt',35
+'dss rule identif web page xrml approach',35
+'dss effect custom procedur configur standard model',35
+'ijmm automat rule gener transform expert s diagram lift',35
+'eswa least modif principl case base reason softwar project plan experi',35
+'orl optim proport perfect repair',36
+'icd similar search multidimension data sequenc',37
+'ipl distribut similar search algorithm distribut heterogen multimedia databas',37
+'dm bipartit cover graph',38
+'dm enumer graph embed',38
+'dam achromat number union cycl',38
+'dm enumer branch orient surfac cover non orient surfac',38
+'bib flux balanc analysi metabolom',39
+'wmash enhanc wlan base internet servic korea',40
+'monet enhanc wlan base internet servic',40
+'isbi fast spiral fourier transform iter mr imag reconstruct',41
+'isbi optim variabl densiti k space sampl mri',41
+'ijcpol guest editor s introduct',42
+'esa kei manag wireless sensor network',43
+'msn secur local locat verif sensor network',43
+'cvgip precomput avatar behavior human motion data',44
+'chi wizard oz interfac mix realiti applic',45
+'ijmm trust self confid oper adapt autom',46
+'eswa classif base collabor filter us market basket data',47
+'icra optim move window real time road imag process',48
+'chi embrac agil develop usabl softwar system',49
+'acms vtassist locat base feedback notif system disabl',49
+'acms imag everyth advanc hci knowledg interfac design us system imag',49
+'acms alumni campu tour captur fourth dimens locat base notif system',49
+'dss agent busi model',50
+'pr fast supervis learn normal mixtur model miss inform',51
+'vrst observ effect attent presenc fmri',52
+'ewcbr us case base reason domain build regul',53
+'psb identifi interact site recalcitr protein predict protein rna bind site rev protein hiv eiav agre experiment data',54
+'cj formal definit basic languag',55
+'ke comparison featur extract techniqu watermark synchron',56
+'ictai control salin potabl water suppli system us constraint program approach',57
+'npl effici speech featur extract base independ compon analysi',58
+'hicss evolut outsourc research next issu',59
+'jc effici algorithm approxim string match swap',60
+'vldb optim choic data restructur point',61
+'gi spatial analysi linguist data gi function',62
+'icic doubl optim design protein energi function',63
+'acmdi us kinet typographi convei emot text base interperson commun',64
+'sttt introductori paper',65
+'iva nonverb behavior gener embodi convers agent',66

@@ -1,0 +1,38 @@
+@relation 'Dataset bdbcomp publish-venue_title_co-authors jsouza'
+@attribute Text string
+@attribute class-att {128, 129, 130, 131, 132, 133, 134, 135, 136, 125, 126, 127}
+@data
+'rede computador sigma entidad localizacao autenticacao dispositivo movei area micromobilidad w albano w araujo f cavalcanti r andrade',125
+'rede computador analis estocastica descart pacot rede tcp j silva m campos p cunha',125
+'rede computador integracao agent atm prototipo destinado estudo interoperabilidad sistema tmn a diniz m oliveira j nogueira',125
+'rede computador abordagem implantacao programavei rede comunicacao c rocha a braga',125
+'rede computador neurocomputacao estimativa parametro hurst d gomes n agolmine n fonseca',125
+'rede computador rede computador j monteiro',125
+'rede computador migrando solucao interoperabilidad sistema tmn baseada metodologia aid ambient osimi a oliveira m stanton',125
+'informatica educacao desenvolvendo ambient distribuido auxilio avaliacao conceitu sistema tutor nan',126
+'banco dado mine tempor constraint databas us genet algorithm s amo f silva m fernandes',127
+'banco dado informacao link modelo vetori usando estrutura funcion i silva r moura b ribeiro neto',128
+'banco dado depend among term vector space model i silva k santos',128
+'banco dado multi user kei data exchang protocol manag secur databas m moreira i silva',128
+'banco dado raster approxim process polylin join g zimbrao r monteiro l azevedo',129
+'banco dado enforc busi rule relat databas us constraint g zimbrao r miranda m estolano f neto',129
+'geoinformatica approxim spatial queri process us raster signatur l azevedo r monteiro g zimbrao',129
+'banco dado processamento eficient junco espacotemporai g zimbrao v almeida',129
+'geoinformatica approxim queri process spatial databas us raster signatur l azevedo g zimbrao',129
+'engenharia softwar athena sistema gerenciador regra negocio g silva v almeida a sulaiman f neto',129
+'engenharia softwar falaocl ferramenta parafrasear ocl g zimbrao r miranda f neto',129
+'geoinformatica processamento distribuido juncao espaci m ramirez',129
+'geoinformatica spatial queri broker grid environ w meyer m ramirez',129
+'geoinformatica secondo grid infrastructur studi spatial databas comput grid w meyer m ramirez',129
+'banco dado improv approach data wareh etlm process detect chang sourc data r rocha l cardoso',129
+'computacao grafica processamento imagen dispositivo automatico obtencao forma 3d objeto m campos',130
+'rede neurai pattern recognit gase petroleum base rbf model m barbosa t ludermir m santos f santos c melo',131
+'seguranca sistema computacionai analis mecanismo seguranca rede locai fio proposta melhoria g silva',132
+'xxxi seminario integrado softwar hardwar improv perform long distanc geograph distribut dedic cluster a reboucas a furtado e argollo e luque d rexachs',133
+'internacion melhoria processo softwar sqa garantia qualidad fabrica softwar r cuattrin',134
+'rede neurai alocacao otima utr medidor supervisao tempo real sistema distribuicao e meza m filho m schilling j carvalho',135
+'escola region banco dado abordagem viabilizar processo data warehous dado biologico e battistella n lemke j mombach',136
+'rede computador manag heterogen network integrador base approach a patel b bhushan',125
+'test tolerancia falha estrategia rerroteamento pro ativo rede optica utilizando infra estrutura gerencia p2p r correia a lages l pirmez l granville e duarte jr r andrade',125
+'computacao grid aplicaco desafio provisao integridad processamento grade computacionai f martins m maia r andrade a santos',125
+'gerencia operacao rede servico identifi anomal pattern network wide traffic us flow cluster r holanda a santos',125

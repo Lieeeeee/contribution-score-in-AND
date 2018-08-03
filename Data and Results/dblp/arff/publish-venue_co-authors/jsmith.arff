@@ -1,0 +1,908 @@
+@relation 'Dataset dblp publish-venue_co-authors jsmith'
+@attribute Text string
+@attribute class-att {155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 182, 183, 184}
+@data
+'workshop proceed the intern genet evolutionari comput gecco editor s wu n kransnogor',155
+'spector l e goodman wu w b langdon h m voigt m gen s sen m dorigo s pezeshk m garzon e editor proceed the genet evolutionari comput gecco genet evolutionari comput san francisco comput anim morgan kaufmann publish n krasnogor',155
+'proceed genet evolutionari comput banzhaf daida eiben garzon honovar jakiela smith editor morgan kaufmann n krasnogor w hart d pelta',155
+'springer n krasnogor w hart',155
+'merelo adam beyer fgenandez villacan schwefel ed parallel problem solv from natur ppsn parallel problem solv from natur vii springer verlag lnc nan',155
+'parallel problem solv from natur iv ed voigt ebel rechenberg schwefel springer verlag nan',155
+'iee colloquium genet algorithm imag process vision london iee digest t fogarty',155
+'handbook global optim volum heurist approach ed romeijn pardalo kluwer academ publish isbn nan',155
+'hart krasnogor smith ed proceed the third intern workshop memet algorithm nan',155
+'proceed the ieee intern evolutionari comput ieee press m bartley',155
+'spector l e goodman wu w b langdon h m voigt m gen s sen m dorigo s pezeshk m garzon e editor proceed the genet evolutionari comput gecco genet evolutionari comput san francisco comput anim morgan kaufmann publish nan',155
+'foundat genet algorithm martin spear ed morgan kaufmann r smith',155
+'row poli dejong cotta ed foundat genet algorithm morgan kauffman nan',155
+'pp soft comput springer verlag nan',155
+'p journal comput inform technolog special issu evolutionari comput f vavak',155
+'i parme editor proceed acdm springer verlag p solly',155
+'proceed the of intern feder oper research societi a staggemeier a clarke u aickelin',155
+'proceed the intern neural network expert system medicin healthcar m steuer p smith',155
+'proceed the th european symposium artifici neural network bruge m steuer',155
+'pp langdon et ed proceed the genet evolutionari comput morgan kaufmann c stone',155
+'isbn springer heidelberg new a eiben',155
+'journal genet program evolv machin number nan',155
+'langdon et ed proceed the genet evolutionari comput morgan kaufmann b carr w hart n krasnogor j hirst e burke',155
+'ppsn parallel problem solv from natur nan',155
+'intern evolutionari comput t fogarty',155
+'gecco genet evolutionari comput n krasnogor',155
+'evolutionari comput ed fogarti t c springer verlag t fogarty',155
+'foundat genet algorithm v banzhaf reev editor morgan kaufmann r smith',155
+'proceed ieee intern evolutionari comput t fogarty',155
+'foundat genet algorithm v banzhaf reev editor morgan kaufmann f vavak',155
+'proceed ieee intern evolutionari comput ieee press t fogarty',155
+'gecco genet evolutionari comput c stone',155
+'foga foundat genet algorithm workshop f vavak',155
+'ppsn parallel problem solv from natur t fogarty',155
+'evolutionari comput aisb societi the studi artifici intellig the simul behaviour workshop t fogarty',155
+'evolutionari comput aisb societi the studi artifici intellig the simul behaviour workshop t fogarty',155
+'intern evolutionari comput t fogarty',155
+'grid grid comput a fernandes a gounaris n paton p watson r sakellariou',156
+'ooi object orient inform system n paton p watson s sampaio',156
+'dexa databas expert system applic workshop n paton p watson s sampaio',156
+'dexa databas expert system applic workshop n paton p watson s sampaio',156
+'euro par n paton p watson s sampaio',156
+'euro par n paton p watson s sampaio',156
+'euro par nan',156
+'cikm intern inform knowledg manag n paton p watson s sampaio',156
+'euro par i s shrivastava',156
+'ifip intern feder inform process congress a leiner r marimont w notz',157
+'j acm a weinberger a leiner w notz',157
+'australian comput journal r drake',157
+'australian comput journal d ryan h mackenzie',157
+'australian comput journal h mackenzie',157
+'australian comput journal nan',157
+'australian comput journal nan',157
+'australian comput journal d abel',157
+'australian comput journal d abel',157
+'winter simul g drake',158
+'icra intern robot autom b peters',158
+'winter simul b peters m snell s jordan',158
+'winter simul b peters m madsen m snell s jordan',158
+'winter simul a helton d helton e thompson f gonzalez g walterscheild',158
+'winter simul b peters g drake',158
+'winter simul b peters c lajimodiere g drake j curry',158
+'winter simul d sturrock g smith r wysk s joshi s ramaswamy',158
+'perform eval nan',159
+'att solut w li',159
+'journal combinatori optim w li',159
+'nan n chikhale',159
+'encyclopedia optim be publish kluwer publish compani nan',159
+'paper intern journal mathemat algorithm nan',159
+'nan r weiss m pate',159
+'nan w smith',159
+'handbook combinatori optim be publish kluwer publish compani nan',159
+'nan f cruz',159
+'discret appli mathemat b toppur',159
+'algorithmica j weng',159
+'network nan',159
+'algorithmica p winter',159
+'queue syst s yuhaski',159
+'kluwer publish compani d du h rubinstein',159
+'nan r jain',159
+'ejor l kerbache',159
+'paper ieee transact reliabl p kubat c yum',159
+'ejor p kubat',159
+'transport research seri d mitchell',159
+'icail intern artifici intellig law c deedman',160
+'icail intern artifici intellig law nan',160
+'icail intern artifici intellig law d gelbart',160
+'icail intern artifici intellig law d gelbart',160
+'artifici intellig law b atherton d gelbart j mcclean k maccrimmon l quintana m shinehoft',160
+'dexa databas expert system applic d gelbart',160
+'amino acid peptid protein specialist period report the royal societi chemistri d barlow j baum m drummond j finney j thornton',161
+'journal comput chemistri b roux j baudry s crouzy',161
+'nan s schwarzl t tschopp s fischer',161
+'faradai discuss c simon m aalouach',161
+'molecular simul g kneller',161
+'current topic biophys ed p frangopol iasi univers press a micu n foloppe',161
+'proc nato asi workshop novel approach structur dynam liquid rhode ed samio press z cournia a taly a tournier d mihailescu g ullmann',161
+'journal biomolecular structur dynam s cusack p poole j finney',161
+'nonlinear physic theori experi ed m alfini m boiti l martina f pempinelli world scientif j baudry s hery a lamy a micu m souaille',161
+'journal the american chemic societi m karplus',161
+'journal chemic inform comput scienc b roux j baudry s crouzy',161
+'physica b condens matter a lamy m kataoka j yunoki a petrescu v receveur p calmettes d durand',161
+'journal chemic physic s cusack u pezzeca b brooks m karplus',161
+'journal chemic physic s cusack b tidor m karplus',161
+'statist mechan protein structur protein substrat interact ed s doniach plenum press new p calmettes d durand m desmadril s corbin g kneller b roux',161
+'physica b s cusack k kuczera b tidor m karplus',161
+'journal molecular liquid f merzel c verma s fischer',161
+'jump lattic wave liquid like diffus comput approach supramolecular chemistri ed g wipff kluwer d durand m field s corbin g kneller b roux',161
+'proceed the nation academi scienc u s k kuczera m karplus',161
+'chapter comput simul biomolecul ed w f van gunsteren p k weiner j wilkinson kluwer escom leiden p nan',161
+'comput biochemistri biophys ed o becker d mackerel b roux m watanab marcel dekker new nan',161
+'journal the physic societi suppl proc int symp asr ed s katano n metoki y morii y ishii n bondar r daniel j finney s fischer m kataoka a petrescu',161
+'spectroscop techniqu biophys ed g m giacometti g giacometti io press nan',161
+'structur dynam biomolecul neutron synchrotron radiat condens matter studi volum iv univers press nan',161
+'current topic biophys nan',161
+'physic review letter press nan',161
+'quarterli review biophys nan',161
+'ph d thesi birkbeck univers london nan',161
+'biophys chemistri nan',161
+'european journal biochemistri j sopkova m delaforge h virelizier c jankowski',161
+'biochemistri j sopkova s fischer c guilbert a bentley',161
+'biochimica et biophysica acta j sopkova f oling s rety a brisson a bentley',161
+'journal molecular biologi p calmettes b roux d durand m desmadril',161
+'observ predict simul phase transit complex fluid ed m bau l f rull j p ryckaert nato asi seri m souaille a dianoux f guillaume',161
+'molecular physic m souaille',161
+'journal chemic physic m souaille f guillaume',161
+'journal chemic physic m souaille f guillaume',161
+'journal physic chemistri m souaille f guillaume',161
+'biochemistri b svensson c etchebest p tuffery p kan s a',161
+'proceed ix intern congress photo synthesi nagoya ed murata kluwer academ publish b svensson c etchebest p tuffery s a',161
+'biophys journal a taly p sebban g ullmann',161
+'protein engin c souaille',161
+'protein structur function genet c souaille',161
+'nan p calmettes d durand p minard m desmadril v receveur',161
+'biochem societi transact c tenette c topham',161
+'protein structur function genet c tenette f ducancel',161
+'biopolym a thomas b roux',161
+'journal chimi physiqu c topham',161
+'journal molecular biologi c topham',161
+'physchemcomm a tournier j xu',161
+'faradai discuss a tournier s schwarzl d huang s fischer',161
+'biophys journal a tournier j xu',161
+'journal the american chemic societi press a vaiana h neuweiler a schulz j wolfrum m sauer',161
+'journal comput chemistri a vaiana a schulz j wolfrum m sauer',161
+'nan p calmettes d durand m desmadril p minard',161
+'journal comput chemistri b velikson t garel j niel h orland',161
+'protein engin b velikson p cohen m rholam j rose',161
+'protein engin s justin l pillet f ducancel a thomas j boulain a menez',161
+'journal pure appli chemistri press z cournia a vaiana g ullmann',161
+'journal comput chemistri s crouzy j baudry b roux',161
+'biochemistri p cuniasse a thomas h thanh m leonetti a menez',161
+'structur dynam function biomolecul ed ehrenberg rigler graslund nilsson springer verlag s cusack m karplus j finney',161
+'biolog macromolecular dynam ed s cusack h buttner m ferrand p langan p timmin adenin press j baudry r hayward h middendorf',161
+'physica b s cusack j finney m karplus j trewhella',161
+'journal molecular biologi s cusack j finney b tidor m karplus',161
+'biophys journal r daniel m ferrand s hery r dunn j finney',161
+'biophys journal r daniel j finney v reat r dunn m ferrand',161
+'faradai discuss r daniel j finney',161
+'annual review biophys biomolecular structur r daniel r dunn j finney',161
+'physica b s dellerue a petrescu s longeville m funel',161
+'biophys journal s dellerue a petrescu m funel',161
+'aip proceed e c c c comput chemistri ed f bernardi j l rivail american institut physic new a dianoux g kneller j sauvajol',161
+'journal chemic physic a dianoux g kneller j sauvajol',161
+'genom proteom ed s suhai kluwer plenum j baudry s crouzy b roux',161
+'journal chemic physic a dianoux g kneller j sauvajol',161
+'journal noncrystallin solid a dianoux j sauvajol g kneller',161
+'biochem journal r dunn v reat j finney m ferrand r daniel',161
+'biopolym d durand m quilichini m field',161
+'compt rendu l academi de scienc iii scienc vie a kettani',161
+'natur structur biologi p faure a micu d perahia j doucet j benoit',161
+'nan m ferrand g zaccai m nina c etchebest b roux',161
+'journal physic chemistri b s fischer c verma',161
+'chemic physic letter n foloppe j breton',161
+'bacteri photosynthet reaction center ii structur spectroscopi dynam nato asi seri life scienc ed j breton a vermeglio n foloppe j breton',161
+'journal molecular structur theo chem chemistri j baudry',161
+'nan n foloppe m ferrand j breton',161
+'biopolym s corbin r lavery',161
+'protein structur function genet s corbin g kneller',161
+'jornad supercomputaci catalunya catsupercomp ed fundaci catalana per recerca s corbin g kneller',161
+'journal chimi physiqu t garel j niel h orland b velikson',161
+'journal chimi physiqu j garen m field g kneller m karplus',161
+'journal chemic inform comput scienc d genest s hery',161
+'proceed high perform comput scienc engin ed e kraus w j ger springer verlag a gruia s fischer',161
+'protein structur function genet a gruia s fischer',161
+'biopolym c guilbert f ricard',161
+'journal chemic inform comput scienc j baudry s crouzy b roux',161
+'journal chemic physic r hayward h middendorf u wanderlingh',161
+'biophys journal j hayward j finney r daniel',161
+'chemic physic j hayward j finney r daniel',161
+'biophys journal j hayward',161
+'biomolecular structur dynam ed g vergoten t theophanid kluwer s hery m souaille',161
+'physica b s hery d genest',161
+'journal chemic inform comput scienc s hery d genest',161
+'journal molecular biologi s hery d genest',161
+'theoret chemistri account t huynh g musat j neumann a sanson',161
+'biophys journal j baudry s crouzy b roux',161
+'biophys journal t huynh a sanson',161
+'hydrogen bond network ed j dore m c beliss funel kluwer d durand m field s corbin g kneller b roux',161
+'physica b m kataoka m ferrand a lamy h kamikubo j yunoki t oka',161
+'spectroscopi m kataoka h kamikubo h nakagawa s parker',161
+'journal chimi physiqu m klein m marchi',161
+'journal molecular biologi g kneller',161
+'journal chemic physic g kneller w doster m settles s cusack',161
+'journal the american chemic societi a lamy',161
+'journal the american chemic societi a lamy j yunoki s parker m kataoka',161
+'biopolym a lamy m souaille',161
+'physic review e t becker',161
+'journal physic chemistri b a mackerell d bashford m bellott r dunbrack j evenseck m field s fischer j gao h guo s ha d joseph l kuchni k kuczera f lau c mattos s michnick t ngo d nguyen b prodhom i reiher b roux m schlenkrich r stote j straub m watanabe j kuczera d yin m karplus',161
+'journal biolog chemistri p manivet b schneider d choi l maroteaux o kellermann j launay',161
+'cellular molecular biologi letter f merzel',161
+'acta crystallographica section d f merzel',161
+'s f merzel',161
+'journal physic chemistri a micu d durand m quilichini m field',161
+'comput physic commun a micu',161
+'ac proceed press d mihailescu',161
+'biopolym d mihailescu j reed',161
+'journal physic chemistri b d mihailescu',161
+'advanc solid state physic t becker s fischer f noe a tournier g ullmann',161
+'journal medicin chemistri d mihailescu j reed',161
+'biophys journal d mihailescu',161
+'biophys journal k moeller g williams c hirshmugl s steinhauser',161
+'journal chemic physic n morelon g kneller m ferrand a grand m bee',161
+'biochimi g musat j neumann a sanson',161
+'journal chemistri f nardi w doster b tidor m karplus s cusack',161
+'angewandt chemi intl ed h neuweiler a schulz a vaiana s kaul j wolfrum m sauer',161
+'journal molecular structur theochem m nina b roux',161
+'biophys journal m nina b roux',161
+'structur function retin protein ed j l rigaud inserm john libbei eurotext ltd m nina b roux',161
+'journal the american chemic societi m funel r daniel d durand m ferrand j finney s pouget',161
+'appli bioinformat press f noe s schwarzl s fischer',161
+'intern journal biolog macromolecul a north',161
+'protein scienc a petrescu p calmettes d durand v receveur',161
+'protein scienc a petrescu p calmettes v receveur',161
+'biophys journal a petrescu v receveur p calmettes d durand m desmadril b roux',161
+'journal biochem biophys method v reat j finney w steer m roberts r dunn m peterson r daniel',161
+'proceed the nation academi scienc u s v reat r dunn m ferrand j finney r daniel',161
+'protein structur function genet v receveur p calmettes m desmadril g coddens d durand',161
+'aip proceed e c c c comput chemistri ed f bernardi j l rivail american institut physic new e rittger g kneller a micu m souaille',161
+'biophys journal b roux m nina r pomes',161
+'journal comput chemistri s schwarzl s fischer t tschopp',161
+'silico biologi s schwarzl d huang s fischer',161
+'silico biologi d huang s schwarzl s fischer',161
+'ibm system journal nan',162
+'inform hide b comiskey',162
+'inform hide c dodge',162
+'chi human factor comput system d allport j paradiso n gershenfeld t zimmerman',162
+'icga intern comput game associ nan',162
+'softwar system model j letkowski k baclawski l hart m kokar p emery p kogut',163
+'iwsa intern workshop self adapt softwar k baclawski k passino m kokar',163
+'woodpeck workshop open distribut process comput knowledg engin realis j letkowski k baclawski m kokar',163
+'puml k baclawski m kokar',163
+'uml unifi model languag j letkowski k baclawski l hart m aronson m kokar p kogut w iii',163
+'uai uncertainti artifici intellig r settimi',164
+'uai uncertainti artifici intellig a gargoum r settimi',164
+'micai r puch',164
+'artif intel k papamichail',164
+'j parallel distrib comput a huang b wah d douglas d degroot h stone h jordan h siegel j jamp j dennis j goodman k batcher l snyder r tuck s abraham t casavant t feng w bain y patt',165
+'workshop memori perform issu gothenburg j cantin m lipasti',165
+'intern solid state circuit a dhodapkar',165
+'journal circuit system comput a dhodapkar g cai',165
+'workshop complex effect design gothenburg a dhodapkar',165
+'intern supercomput r espasa m valero',165
+'intern symposium memori manag t heil',165
+'ec tech report t heil',165
+'ieee comput nan',165
+'rd acm workshop feedback direct dynam optim s sastry r bodik',165
+'intern workshop innov architectur maui high perform comput center s sastry t heil t bezenek',165
+'ieee comput s vajapeyam',165
+'asplo architectur support program languag oper system b vanderwarn c rozewski d fowler g dermer j laudon k scidmore s klinger',165
+'ieee comput s weiss',165
+'commun acm nan',165
+'hipc nan',165
+'ishpc high perform comput nan',165
+'ieee comput nan',165
+'ieee tran comput nan',165
+'year isca intern symposium comput architectur retrospect reprint nan',165
+'year isca intern symposium comput architectur retrospect reprint nan',165
+'year isca intern symposium comput architectur retrospect reprint nan',165
+'isca intern symposium comput architectur nan',165
+'isca intern symposium comput architectur r bodik s sastry',165
+'rd int symp microarchitectur r canal a gonzalez',165
+'ieee tran comput nan',165
+'spaa acm symposium parallel algorithm architectur j cantin m lipasti',165
+'isca intern symposium comput architectur a dhodapkar',165
+'th int symp microarchitectur r espasa m valero',165
+'supercomput g faanes l kontothanassis m scott r sugumar',165
+'isca intern symposium comput architectur g faanes r sugumar',165
+'year isca intern symposium comput architectur retrospect reprint nan',165
+'ic intern supercomput a gonzalez j gonzalez j aragon',165
+'micro intern symposium microarchitectur a gonzalez r canal',165
+'ieee tran comput j goodman',165
+'isca intern symposium comput architectur j goodman',165
+'fourth int symp high perform comput architectur s gopal t vijaykumar g sohi',165
+'micro intern symposium microarchitectur t heil z smith',165
+'rd int symp microarchitectur t heil',165
+'ieee tran comput c holt',165
+'ieee tran comput nan',165
+'ieee tran comput c holt',165
+'supercomput c hsiung w hsu',165
+'isca intern symposium comput architectur w hsu',165
+'ieee tran comput w hsu',165
+'supercomput w hsu',165
+'th annual intern symposium microarchitectur e jacobsen e rotenberg',165
+'fifth int symp high perform comput architectur q jacobson',165
+'th int symp microarchitectur q jacobson e rotenberg',165
+'proceed the th annual intern symposium comput architectur q jacobson',165
+'isca intern symposium comput architectur n jouppi s palacharla',165
+'isca intern symposium comput architectur h kim',165
+'icpp intern parallel process s kunkel',165
+'isca intern symposium comput architectur s kunkel',165
+'ieee tran comput p lam',165
+'supercomput c lee',165
+'ieee tran comput g metze',165
+'pact parallel comput technolog intern parallel architectur compil techniqu barcelona s nussbaum',165
+'annual simul symposium s nussbaum',165
+'th int symp comput architectur s palacharla n jouppi',165
+'ieee tran comput nan',165
+'micro intern symposium microarchitectur s palacharla',165
+'ieee tran comput n pang s weiss',165
+'ieee tran comput a pleszkun',165
+'year isca intern symposium comput architectur retrospect reprint a pleszkun',165
+'isca intern symposium comput architectur a pleszkun',165
+'int symp microarchitectur e rotenberg',165
+'micro intern symposium microarchitectur e rotenberg q jacobson',165
+'micro intern symposium microarchitectur e rotenberg e jacobsen',165
+'proceed the th annual intern symposium high perform comput architectur e rotenberg q jacobson',165
+'annual intern symposium microarchitectur e rotenberg s bennett',165
+'ieee tran comput nan',165
+'ieee tran comput e rotenberg s bennett',165
+'ieee pact parallel comput technolog s nussbaum',165
+'acm program languag design implement s sastry s palacharla',165
+'th int symposium comput architectur s sastry r bodik',165
+'intern journal parallel program y sazeides',165
+'proceed the th intern symposium comput architectur y sazeides',165
+'th int symp microarchitectur y sazeides',165
+'hpca intern symposium high perform comput architectur n sharma q jacobson s bennett',165
+'ieee tran comput nan',165
+'proceed the th annual intern symposium comput architectur g faanes r sugumar',165
+'th intern high perform comput hipc bangalor nan',165
+'ic intern supercomput g sohi j goodman',165
+'hpca intern symposium high perform comput architectur g sohi s gopal t vijaykumar',165
+'ieee tran parallel distrib syst g sohi s gopal t vijaykumar',165
+'intern supercomput m valero r espasa',165
+'micro intern symposium microarchitectur m valero r espasa',165
+'ieee tran comput nan',165
+'micro intern symposium microarchitectur s vassiliadis y sazeides',165
+'isca intern symposium comput architectur s weiss',165
+'ieee tran comput s weiss',165
+'asplo architectur support program languag oper system s weiss',165
+'acm tran math softw s weiss',165
+'th int symp microarchitectur e rotenberg q jacobson y sazeides',165
+'icr c potts k ota k takahashi v kumar',166
+'idm interact distribut multimedia system telecommun servic k takahashi',166
+'re ieee int conf requir engin c potts k ota k takahashi',166
+'icmc intern multimedia comput system f cao k takahashi',166
+'gecco genet evolutionari comput e burke j hirst n krasnogor r carr w hart',167
+'acm journal experiment algorithm e burke',167
+'genet program evolv machin nan',167
+'iccad intern comput aid design g micheli',168
+'dac design autom g micheli',168
+'date design autom test europ g micheli',168
+'comput applic bioscienc nan',169
+'comput applic bioscienc d thomas',169
+'comput applic bioscienc nan',169
+'mathemat foundat program semant nan',170
+'eur j comb k johnson',170
+'superschem relat invari permut group eur j comb avail onlin nan',170
+'comm math univ carol avail onlin j phillips',170
+'semiot evolut energi develop page electron journal click here local copi paper nan',170
+'studi structur time ed r buccheri v di ge m saniga kluwer new nan',170
+'natur time geometri physic percept ed r buccheri m saniga w m stuckei kluwer dordrecht nan',170
+'acta univ carolina math et phy nan',170
+'j comb math comb comp j choi',170
+'eur j comb k johnson',170
+'alg univ avail onlin nan',170
+'group korea proceed the intern pusan nation univers pusan korea ed y g baik d l johnson c kim gruyter nan',170
+'comment math univ carol avail onlin nan',170
+'code theori design theori part i code theori ed d rai chaudhuri springer new nan',170
+'fund informatica a romanowska',170
+'inv math nan',170
+'algebra group geometri nan',170
+'math biosci avail onlin nan',170
+'arch math x shen',170
+'banach center public nan',170
+'discuss math prob stat onlin abstract k athreya',170
+'evolut compet speci the arrow time evolutionari system biolog epistemolog perspect select self organ ed g van vijver s n salth m delpo kluwer dordrecht nan',170
+'fiber automata a theorem multipl valu logic nan',170
+'math proc camb phil soc nan',170
+'contribut gener algebra ed d dorning g eigenthal h k kaiser w b m ller h lder pichler tempski a romanowska',170
+'discuss math gen alg appl onlin abstract k pszczola a romanowska',170
+'j pure appl algebra avail onlin a romanowska',170
+'math biosci avail onlin nan',170
+'gener relat non associ algebra j math a romanowska',170
+'alg univ a pilitowska a romanowska',170
+'eur j comb nan',170
+'math proc camb phil soc nan',170
+'contribut gener algebra ed h kautschitsch w b m ller w n bauer johann heyn klagenfurt nan',170
+'univers algebra lattic theori ed s d comer springer lectur note mathemat a romanowska',170
+'metric lexicod j comb math comb comp f hummer',170
+'proceed the fortieth annual allerton commun control comput univers nan',170
+'discret math avail onlin d choi',170
+'alg univ avail onlin nan',170
+'j algebra a romanowska',170
+'alg univ m hobart',170
+'occas hi th birthdai web quasigroup m akivis',170
+'occas hi th birthdai year scientif activ web quasigroup m akivis',170
+'j alg avail onlin nan',170
+'j comb math comb comp f hsu f hummer',170
+'comment math univ carol avail onlin nan',170
+'cubo invit expositori paper nan',170
+'j comb info system scienc nan',170
+'pseudoinvers linear represent southeast asia bulletin mathemat invit paper nan',170
+'j alg avail onlin nan',170
+'j math phy avail onlin a ungar',170
+'quasigroup relat system onlin abstract nan',170
+'associ scheme oper almost period function algebra extrem metric combinator ed m m deza p frankl i g univers press nan',170
+'discret math avail onlin nan',170
+'bull australian math soc j phillips',170
+'acta sci math r rossmanith',170
+'unsolv problem mathemat the st centuri tribut kiyoshi is ki s th birthdai ed j m ab s tanaka io press a romanowska',170
+'j math biol avail onlin nan',170
+'partial order digit geometri mathemat foundat program semant ed melton springer lectur note comput scienc nan',170
+'discuss math onlin abstract nan',170
+'arch math nan',170
+'eur j comb k johnson',170
+'discret math nan',170
+'arch math nan',170
+'eur j comb nan',170
+'math intelligenc nan',170
+'financ physic invit report entropi electron journal nan',170
+'ergod th dynam system nan',170
+'ar combinatoria j choi',170
+'beitr ge zur algebra und geometri avail onlin nan',170
+'semiot evolut energi ed e taborski shaker verlag aachen nan',170
+'colloq math soc j no bolyai finit algebra multipl valu logic szege g czedli',170
+'eur j comb k johnson s song',170
+'math proc camb phil soc nan',170
+'j math a romanowska',170
+'j alg a romanowska',170
+'czech j math a romanowska',170
+'eur j comb k johnson',170
+'charact theori central finit quasigroup math proc camb phil soc nan',170
+'biologi philosophi d brooks',170
+'three web the dimension space time noetic j m saniga',170
+'j alg avail onlin nan',170
+'eur j comb k johnson',170
+'discret math avail onlin nan',170
+'arch math avail onlin nan',170
+'j pure appl alg x shen',170
+'alg colloq b im',170
+'order l thur',170
+'j alg a romanowska',170
+'math proc camb phil soc nan',170
+'demonstr math nan',170
+'entropi electron journal nan',170
+'studia logica a romanowska',170
+'eur j comb k johnson',170
+'arch math x shen',170
+'alg colloq x shen',170
+'rectangular matric lie algebra j alg avail onlin x shen',170
+'comment math univ carol avail onlin t fuad',170
+'alg colloq b im',170
+'eur j comb avail onlin nan',170
+'comm alg a dharwadker',170
+'alg univ d choi',170
+'geom dedicata a romanowska',170
+'alg univ a romanowska',170
+'discret mathemat d choi',170
+'discret mathemat j choi',170
+'discret math avail onlin j choi',170
+'siam societi industri appli mathemat j comput c pomerance r tuler',171
+'dac design autom v bobba',171
+'crypto intern crytolog c pomerance s wagstaff',171
+'sigucc special interest group univers comput servic nan',172
+'sigucc special interest group univers comput servic nan',172
+'micro intern symposium microarchitectur e rotenberg q jacobson y sazeides',173
+'acm comput surv nan',173
+'converg journal research new mediatechnolog s penny p sengers',174
+'ninth intern artifici realiti telexist icat s penny a bernhardt',174
+'siggraph special interest group comput graph j hodgins i oppenheim a witkin',174
+'doctor dissert tech report cmu tr robot institut carnegi mellon univers nan',174
+'comput graphic forum a witkin d baraff',174
+'acm tran graph a witkin i oppenheim j hodgins',174
+'comput graph forum a witkin d baraff',174
+'nucleic acid research a kasprzyk a rust a stabenau a vidal c melsopp d barker e eyras e mongin e schmidt e stupka e birney g cameron g slater h lehvaslaiho i vastrik j gilbert j stalker j cuff l clark l huminiecki m hammond m pocock m clamp p lijnzaad r pettett r durbin s potter s searle t cox t down t hubbard v curwen w spooner y chen',175
+'nucleic acid research a kasprzyk a rust a stabenau a vidal c melsopp d andrews d barker d keefe e eyras e mongin e schmidt e stupka e birney g cameron g slater h lehvaslaiho i vastrik j gilbert j stalker j cuff l clark m clamp m hammond p bevan r pettett r durbin s potter s searle t cox t down t hubbard v curwen v iyer w spooner y chen',175
+'sigucc special interest group univers comput servic nan',176
+'sigucc special interest group univers comput servic g town j haskett s stager',176
+'micro intern symposium microarchitectur e rotenberg q jacobson y sazeides',165
+'acm comput surv nan',177
+'dc x aho s chang k mckeown d radev k zaman',178
+'proc european conf digit librari ecdl european digit librari a smeaton p over c costello a vries d doermann a hauptmann m rorvig l wu',178
+'encyclopedia librari inform scienc marcel dekker inc ed nan',178
+'imag databas john wilei son inc ed l d bergman v castelli nan',178
+'ieee workshop content base access imag video databas fort collin c li',178
+'ieee commun mag special issu next gener internet nan',178
+'proc is t spie intern societi optic engin symp electron imag scienc technolog storag retriev imag video databas vii san jose comput anim v castelli c li',178
+'mpeg multimedia content descript languag john wilei son inc ed p salembi b s manjunath t sikora a benitez',178
+'trec text retriev a amir b tseng c lin d ponceleon g iyengar m naphade s basu s srinivasan',178
+'nan v castelli a jhingran c li',178
+'proc ieee intl conf acoust speech signal process icassp s chang',178
+'proc ieee intl conf imag process s chang',178
+'handbook imag video databas design applic crc press ed b furht o marqu nan',178
+'proc spie intern societi optic engin photon east multimedia storag archiv system iii nan',178
+'proc ieee intl conf imag process icip intern imag process c lin m naphade',178
+'ieee multimedia mag s chang',178
+'proc spie intern societi optic engin photon east internet multimedia manag system b lugeon',178
+'proc iapr intern associ pattern recognit intl conf pattern recognit icpr intern pattern recognit s basu m naphade',178
+'proc ieee intl conf imag process icip intern imag process lausann ch s chang',178
+'proc acm intl conf multimedia s chang',178
+'journal the american societi inform scienc special issu perspect imag access bridg multipl need multipl perspect nan',178
+'tyrrhenian intern workshop digit commun capri c lin m naphade a natsev b tseng',178
+'proc is t spie intern societi optic engin storag retriev still imag video databas vii san jose comput anim nan',178
+'intellig multimedia inform retriev aaa press mit press ed m t mayburi s chang',178
+'journal comput vision pattern recognit c li',178
+'ieee workshop content base access imag video databas fort collin nan',178
+'proc ieee intl conf imag process icip intern imag process thesaloniki gr y chang c li',178
+'proc spie intern societi optic engin itcom internet multimedia manag system iii nan',178
+'ieee signal process mag special issu univers multimedia access p beek t ebrahimi t suzuki j askelof',178
+'ieee conf web ag inform manag xian cn nan',178
+'proc spie intern societi optic engin itcom internet multimedia manag system iv c lin b tseng',178
+'proc ieee intl conf multimedia expo icm ieee meta data m naphade a natsev',178
+'electr engin handbook academ press ed yih fang nan',178
+'proc fourth delo workshop pisa s chang',178
+'mpeg awar event sydnei au nan',178
+'ieee intl conf consum electron icc lo angel comput anim b manjunath n day',178
+'multimedia inform retriev manag springer ed d feng w c siu h zhang nan',178
+'proc ieee intl conf inform technolog commun code itcc la vega nan',178
+'ieee intl conf multimedia expo icm new a puri m tekalp',178
+'mpeg multimedia content descript languag john wilei son inc ed p salembi b s manjunath t sikora p beek',178
+'acm intl data manag acm sigmod intern manag data santa barbara comput anim nan',178
+'workshop multimedia signal process n j s chang',178
+'proc spie intern societi optic engin itcom multimedia network system nan',178
+'proc is t spie intern societi optic engin storag retriev still imag video databas v san jose comput anim s chang',178
+'proc spie intern societi optic engin photon east multimedia network system iv v reddy',178
+'graduat school art scienc univers new nan',178
+'nan s basu c lin m naphade b tseng',178
+'proc nist text retriev conf trec text retriev ieee meta data s srinivasan a amir s basu g iyengar c lin m naphade d ponceleon b tseng',178
+'imag commun journal icj invit paper special issu mpeg a benitez s paek s chang a puri q huang c li l bergman c judice',178
+'nan s basu c lin m naphade b tseng',178
+'proc ieee intl conf imag process icip intern imag process barcelona es a jaimes c lin m naphade a natsev b tseng',178
+'proc delo workshop inform seek search queri digit librari zurich ch s chang',178
+'workshop multimedia signal process n j s chang',178
+'proc is t spie intern societi optic engin symp electron imag imag video commun process san jose comput anim z miao c li',178
+'proc ieee intl conf imag process icip intern imag process dc s chang',178
+'proc is t spie intern societi optic engin symp electron imag still imag compress san jose comput anim s chang',178
+'proc ieee intl conf multimedia expo icm lausann ch a natsev',178
+'univers cu ctr tr s chang',178
+'dimac workshop video mine new n j c lin m naphade a natsev b tseng',178
+'ed rosenfeld d doermann d dementhon c lin m naphade a natsev b tseng',178
+'proc ieee intl conf acoust speech signal process icassp s chang',178
+'proc ieee intl symp circuit syst isca ieee intern symposium circuit system r mohan c li',178
+'iso iec first edit i standard',178
+'iso iec first edit i standard',178
+'proc ieee intl conf multimedia signal process mmsp st thoma b tseng c lin',178
+'proc spie intern societi optic engin itcom internet multimedia manag system iii b tseng c lin',178
+'proc ieee intl conf multimedia expo icm lausann ch b tseng c lin',178
+'proc is t spie intern societi optic engin symp electron imag scienc technolog storag retriev imag video databas x san jose comput anim b tseng c lin v video',178
+'ieee intl conf acoust speech signal process icassp hong kong cn h zhang d feng',178
+'proc spie intern societi optic engin photon east multimedia storag archiv system iv d zhong s chang',178
+'proc spie intern societi optic engin photon east internet multimedia manag system a benitez',178
+'jasist journal the american societi inform scienc nan',178
+'proc acm intl conf multimedia acm mm acm multimedia comput anim a benitez s chang',178
+'proc intl conf comput analysi imag pattern caip comput analysi imag pattern a benitez d zhong s chang',178
+'proc is t spie intern societi optic engin symp electron imag scienc technolog storag retriev imag video databas ix san jose comput anim a benitez',178
+'nan l bergman v castelli c li e achuthan y chang m hill b thompson s imagery',178
+'ieee tyrrhenian intl workshop digit comm ischia v castelli l bergman c li a thomasian',178
+'proc ieee visual signal process commun workshop new n j s chang d anastassiou a eleftheriadis j meng s paek s pejhan',178
+'proc spie intern societi optic engin photon east multimedia storag archiv system iv y chang l bergman c li',178
+'sigmod intern manag data nan',178
+'d lib magazin s chang h meng l wang d zhong',178
+'ieee multimedia s chang',178
+'proc spie intern societi optic engin photon east multimedia storag archiv system iv y chang l bergman c li',178
+'proc spie intern societi optic engin symp visual commun imag process vcip s chang',178
+'proc spie intern societi optic engin photon east internet multimedia manag system y chang m lo',178
+'proc acm intl conf multimedia acm mm acm multimedia comput anim r han c lin b tseng',178
+'multimedia commun direct innov academ press ed j gibson r han',178
+'proc spie intern societi optic engin photon east internet multimedia manag system x helal l lampath',178
+'nan r henderson b topol c li r mohan i computing n networking s jose c ca j jan',178
+'civr intern imag video retriev a jaimes b tseng',178
+'data driven construct multimedia ontolog a jaimes',178
+'proc is t spie intern societi optic engin symp electron imag scienc technolog storag retriev imag video databas vii san jose comput anim c li v castelli',178
+'proc is t spie intern societi optic engin symp electron imag scienc technolog storag retriev imag video databas vii san jose comput anim c li v castelli l bergman',178
+'proc is t spie intern societi optic engin symp electron imag scienc technolog storag retriev imag video databas san jose comput anim c li y chang l bergman',178
+'advanc biomed imag databas kluwer academ publish ed s wong c li l bergman v castelli a thomasian',178
+'proc nist text retriev conf trec text retriev ieee meta data w adams a amir c dorai s ghosal g iyengar a jaimes c lang c lin m naphade a natsev c neti h nock h permuter r singh s srinivasan b tseng a varadarajuand d zhang',178
+'proc ieee intl conf acoust speech signal process icassp c li r mohan',178
+'proc ieee intl conf multimedia expo icm ieee meta data c li c aggrarwal m campbell y chang g glass v iyengar m joshi c lin m naphade b tseng m wang k wu p yu',178
+'ieee intl conf imag process icip intern imag process barcelona es c lin b tseng m naphade a natsev',178
+'proc ieee intl conf multimedia expo icm ieee meta data c lin b tseng',178
+'proc globecom r mohan c li',178
+'proc spie intern societi optic engin photon east multimedia storag archiv system iii r mohan c li',178
+'proc ieee intl conf multimedia expo icm ieee meta data m naphade a jaimes c lin a natsev b tseng',178
+'proc ieee intl conf imag process icip intern imag process barcelona es m naphade',178
+'proc ieee intl conf imag process icip intern imag process barcelona es m naphade',178
+'proc ieee intl conf multimedia expo icm lausann ch m naphade c lin',178
+'proc is t spie intern societi optic engin symp electron imag scienc technolog storag retriev imag video databas x san jose comput anim m naphade c lin b tseng s basu',178
+'proc ieee intl conf imag process icip intern imag process m naphade s basu c lin b tseng',178
+'ieee intl conf multimedia expo icm ieee meta data m naphade e chang',178
+'proc ieee intl conf acoust speech signal process icassp salt lake citi m naphade s basu',178
+'proc is t spie intern societi optic engin symp electron imag scienc technolog storag retriev imag video databas ix san jose comput anim a natsev y chang c li j vitter',178
+'proc ieee intl conf multimedia expo a natsev',178
+'proc ieee intl conf imag process icip intern imag process barcelona es a natsev m naphade',178
+'proc ieee intl conf multimedia expo icm lausann ch a natsev',178
+'proc is t spie intern societi optic engin symp electron imag scienc technolog document recognit san jose comput anim s paek',178
+'nan r retrieval',178
+'proc is t spie intern societi optic engin symp electron imag human vision electron imag iii san jose comput anim e rogowitz t frese c bouman',178
+'mpeg multimedia content descript languag john wilei son inc ed p salembi b s manjunath t sikora p salembier',178
+'ieee tran circuit system video technolog p salembier',178
+'ieee transact multimedia nan',178
+'proc ieee intl conf multimedia expo icm new a benitez',178
+'proc ieee intl conf imag process r mohan c li',178
+'proc ieee intl conf multimedia expo icm new c li',178
+'ieee tran multimedia nan',178
+'proc acm intl conf multimedia s chang',178
+'proc acm int conf inform knowledg manag cikm intern inform knowledg manag citi c li',178
+'multimedia system springer verlag s chang',178
+'proc acm intl conf multimedia r mohan c li',178
+'ieee intern multimedia expo ii a benitez',178
+'proc is t spie intern societi optic engin storag retriev still imag video databas iv san jose comput anim s chang',178
+'proc th intl workshop vlbv veri low bitrat video code visual content process represent lnc springer madrid es nan',178
+'proc ieee intl conf imag process icip intern imag process s chang',178
+'acm multimedia b tseng c lin r han v ha',178
+'commun acm a benitez m beigi s chang',178
+'acm multimedia a benitez s chang',178
+'intl journal digit librari special issu l bergman c li',178
+'proc rd annual clinic librari applic data process digit imag access retriev s chang j meng',178
+'icip intern imag process s chang',178
+'commun acm s chang m beigi a benitez',178
+'acm multimedia s chang',178
+'storag retriev imag video databas spie intern societi optic engin s chang',178
+'proc ieee intl conf imag process icip intern imag process santa barbara comput anim s chang h meng',178
+'multimedia syst s chang',178
+'delo workshop inform seek search queri digit librari nan',178
+'proc acm intl conf manag data sigmod intern manag data y chang l bergman v castelli c li m lo',178
+'storag retriev imag video databas spie intern societi optic engin s chang',178
+'icip intern imag process s chang',178
+'vlbv veri low bitrat video code nan',178
+'pod symposium principl databas system a jhingran c li v castelli',178
+'icip intern imag process c li r mohan',178
+'ieee intern multimedia expo i c li',178
+'icmc intern multimedia comput system c li r mohan',178
+'ieee transact multimedia c li r mohan',178
+'icdc intern distribut comput system workshop knowledg discoveri data mine world wide web c li l bergman y chang',178
+'cikm intern inform knowledg manag c li',178
+'acm multimedia c li r mohan',178
+'jci joint inform scienc c li r han y chang',178
+'storag retriev imag video databas spie intern societi optic engin c li l bergman v castelli',178
+'int j digit librari c li l bergman v castelli',178
+'sigmod intern manag data c li l bergman v castelli',178
+'ecdl european digit librari c li l bergman v castelli',178
+'acm electron c li y chang',178
+'int j digit librari a aho d radev k mckeown k zaman s chang',178
+'proc is t spie intern societi optic engin symp electron imag scienc technolog storag retriev imag video databas san jose comput anim c li v castelli',178
+'sigmod intern manag data c li l bergman m lo v castelli y chang',178
+'data process clinic j meng s chang',178
+'icip intern imag process h meng s chang',178
+'proc ieee intl conf multimedia comp system r mohan c li',178
+'ieee tran multimedia r mohan c li',178
+'adl advanc digit librari a aho d radev k mckeown k zaman s chang',178
+'civr intern imag video retriev m naphade',178
+'intl journal digit librari ijodl x aho s chang k mckeown d radev k zaman',178
+'proc intl conf veri larg databas conf vldb veri larg data base it n natsev y chang j vitter',178
+'sigir research develop inform retriev a natsev b tseng c neti c lin h nock m naphade w adams',178
+'acm multimedia s chang',178
+'ieee commun magazin special issu activ programm code network d alexander w arbaugh a keromytis s muir',179
+'ieee comput nan',179
+'acm sigop oper system review nan',179
+'acm comput commun review nan',179
+'ieee commun d tennenhouse w sincoskie d wetherall g minden',179
+'proceed ieee workshop architectur implement high perform commun subsystem hpc intern symposium high perform comput system c traw',179
+'proceed second intern comput commun network san diego comput anim j veen c traw h pasch',179
+'ieee commun magazin d alexander w arbaugh a keromytis',179
+'journal commun network d alexander p menage a keromytis w arbaugh k anagnostakis',179
+'proceed acm sigplan special interest group program languag workshop ml ieee meta data d alexander m hicks p kakkar a keromytis m shaw j moore c gunter t jim s nettles',179
+'ieee network magazin special issu activ programm network d alexander w arbaugh m hicks p kakkar a keromytis j moore c gunter s nettles',179
+'proceed ieee nom it k anagnostakis s ioannidis s miltchev j ioannidis m greenwald',179
+'ieee globecom sydnei au w arbaugh a keromytis',179
+'ieee secur privaci comput anim w arbaugh d farber',179
+'ieee comput special issu broadband network secur cover featur w arbaugh j davin d farber',179
+'internet societi symposium network distribut system secur san diego comput anim w arbaugh a keromytis d farber',179
+'intern symposium robot manufactur maui r bajcsy d farber r paul',179
+'ieee network c brendan s traw',179
+'ieee comput nan',179
+'proceed high perform commun subsystem mystic j chung c traw',179
+'high perform commun ed ahm n tantawi kluwer academ publish b davie c traw',179
+'high perform commun ed ahm n tantawi kluwer academ publish b davie d clark d farber i gopal r guerin w sincoskie d tennenhouse',179
+'ieee network g delp d farber r minnich m tam',179
+'read distribut comput system ed thoma l casav mukesh singhal ieee cs press order number piscatawai revis version ieee network paper g delp d farber r minnich i tam',179
+'ieee comput d farber j davin w arbaugh',179
+'oper system review d farber m tam',179
+'ieee journal select area commun special issu protocol architectur st centuri applic d feldmeier a mcauley d bakin w marcus t raleigh',179
+'proceed th ieee decis control kobe f goktas r bajcsy',179
+'th ieee decis control san diego comput anim f goktas r bajcsy',179
+'field programm logic springer verlag edinburgh uk i hadzic s udani',179
+'ieee globecom sydnei au i hadzic w marcus',179
+'oper system review nan',179
+'springer verlag field programm logic i hadzic',179
+'proceed darpa activ network and exposit ieee comput societi press san francisco comput anim m hicks a keromytis',179
+'th sigop european workshop s ioannidis s bellovin',179
+'proceed winter usenix advanc comput system associ technic dc t johnson e wilson',179
+'proceed ieee globecom a keromytis j ioannidis',179
+'ci ci depart univers a keromytis s ioannidis m greenwald',179
+'sigplan special interest group program languag notic g maguire',179
+'proceed hipparch workshop uppsala earlier version avail upenn ci tr ci a mallet j chung',179
+'ieee commun w marcus i hadzic t mcauley',179
+'proceed the th sigop european workshop s muir',179
+'th intern workshop network oper system support digit audio video uk s muir',179
+'proceed st openarch san francisco comput anim s muir',179
+'ieee journal select area commun special issu multimedia system k nahrstedt',179
+'proceed workshop distribut multimedia applic qualiti servic verif montreal st k nahrstedt',179
+'proceed multimedia comput anim k nahrstedt',179
+'proceed th local comput network k nahrstedt',179
+'ieee multimedia k nahrstedt',179
+'usenix advanc comput system associ high speed network symposium comput anim d alexander c traw',179
+'ieee comput h orman k calvert l peterson s murphy',179
+'nan s personick d crawford r gallager j jaffe j kurose d leeper c manders b mccune a mclaughlin l streeter l wishart b zeigler c strategy n press w washington d dc',179
+'persist object system principl practic ed richard connor scott nettl morgan kaufmann present at th workshop persist object system j shapiro d farber',179
+'proceed the th intern workshop object orient oper system j shapiro d farber',179
+'proceed inet internet societi kobe inaugur of internet societi c traw d farber',179
+'proceed ieee hot interconnect workshop palo alto comput anim i hadzic w marcus',179
+'ieee comput k calvert s murphy h orman l peterson',179
+'commun handbook second edit ed jerri d gibson crc press isbn nan',179
+'ieee network magazin special issu activ programm network d alexander w arbaugh a keromytis',179
+'ieee network special issu end system support high speed network break through network i o bottleneck c traw',179
+'ieee journal select area commun special issu high speed comput network interfac e cooper b davie i leslie y ofek r watson',179
+'ieee technic committe oper system newslett invit paper j ioannidis',179
+'multipl world g maguire',179
+'acm sigarch comput architectur new g maguire',179
+'encyclopedia electr electron engin ed john wilei new j chung c traw',179
+'acm sigplan special interest group program languag notic g maguire',179
+'proceed th intern workshop distribut environ network tokyo invit paper nan',179
+'pdi parallel distribut inform system nan',179
+'softwar practic experi nan',179
+'comput system journal the usenix advanc comput system associ associ univers press nan',179
+'comput network isdn system d farber',179
+'proceed ninth intern distribut comput system beach comput anim g maguire',179
+'proceed sigcomm special interest group data commun zurich c traw',179
+'secur internet program secur issu and distribut object ed vitek christian jensen springer verlag d alexander w arbaugh a keromytis',179
+'proceed first intern work activ network ed covaci springer verlag d alexander',179
+'proceed intern work activ network ed i s nettl n wakamiya springer verlag k anagnostakis s ioannidis s miltchev',179
+'proceed second intern work activ network ed h yasuda springer verlag tokyo k anagnostakis m hicks s ioannidis a keromytis',179
+'crypto intern crytolog nan',179
+'ci ci depart univers s bellovin s ioannidis',179
+'sigcomm special interest group data commun c brendan s traw',179
+'ieee journal select area commun special issu high speed comput network interfac c brendan s traw',179
+'proceed crypto intern crytolog confer ed joan feigenbaum santa barbara comput anim a broscius',179
+'crypto intern crytolog a broscius',179
+'proceed infocom confer comput commun d clark b davie d farber i gopal b kadaba w sincoskie d tennenhouse',179
+'comput network isdn system north d clark b davie d farber i gopal b kadaba w sincoskie d tennenhouse',179
+'sosp symposium oper system principl d farber j shapiro',179
+'softw pract exper nan',179
+'po workshop persist object system d farber j shapiro',179
+'comput network isdn system d farber',179
+'proceed second intern work activ network ed h yasuda springer verlag tokyo a galis b plattner s denazis e moeller h guo c klein j serrat j laarhuis g karetsos c todd',179
+'fpl field programm logic applic i hadzic s udani',179
+'proceed acm comput commun secur s ioannidis a keromytis s bellovin',179
+'comput system g maguire',179
+'icpp intern parallel process g maguire',179
+'icdc intern distribut comput system g maguire',179
+'infocom confer comput commun b kadaba b davie d clark d farber d tennenhouse i gopal w sincoskie',179
+'comput network isdn system b kadaba b davie d clark d farber d tennenhouse i gopal w sincoskie',179
+'comput system nan',179
+'wetic workshop enabl technolog infrastructur collabor enterpris a keromytis j ioannidis s ioannidis s bellovin',179
+'acm comput commun secur a keromytis s ioannidis s bellovin',179
+'iwan intern work activ network a keromytis k anagnostakis m hicks s ioannidis',179
+'usenix advanc comput system associ annual technic freenix free open sourc softwar track a keromytis j ioannidis s ioannidis s miltchev v prevelakis',179
+'secur internet program a keromytis d alexander w arbaugh',179
+'sigcomm special interest group data commun d alexander m shaw s nettles',179
+'proc intern multimedia commun system k nahrstedt',179
+'proceed intern workshop advanc teleservic high speed commun architectur ed ralf steinmetz springer verlag heidelberg k nahrstedt',179
+'proceed th sosp symposium oper system principl kiawah island supercomput j shapiro d farber',179
+'comput system journal the usenix advanc comput system associ associ univers press g maguire',179
+'proceed parallel distribut inform system invit present paper nan',179
+'advanc cryptographi proceed crypto ed gill brassard springer verlag nan',179
+'ieee comput d smith',180
+'wissensbasiert system nan',180
+'vldb veri larg data base nan',180
+'vldb veri larg data base c lin d smith',180
+'vldb veri larg data base nan',180
+'data base design techniqu i d smith',180
+'data abstract definit structur d smith',180
+'sigmod intern manag data p chang',180
+'commun acm p chang',180
+'commun acm d smith',180
+'acm tran databas syst d smith',180
+'acm tran databas syst c lin d smith',180
+'expert databas workshop nan',180
+'vldb veri larg data base survei nan',180
+'vldb veri larg data base survei nan',180
+'foundat knowledg base manag xania nan',180
+'knowledg base manag system islamorada nan',180
+'knowledg base manag system islamorada u dayal',180
+'workshop data abstract databas conceptu model a borgida c rich j carbonell j king p hitchcock',180
+'workshop data abstract databas conceptu model d mcleod',180
+'artifici intellig medicin a bayazitoglu k johnson n amra t johnson',182
+'artifici intellig medicin a bayazitoglu',182
+'ieee expert d steier t johnson',182
+'ieee expert t johnson',182
+'ieee expert j josephson m tanner w iii',182
+'ieee intellig system j malin j zhang k johnson v patel',182
+'intern journal man machin studi d galdes d thomas j fraser j blazina j svirbely m kennedy s rudmann t miller',182
+'intern journal man machin studi j fraser',182
+'commun acm b chandrasekaran t johnson',182
+'ijcai intern joint artifici intellig b chandrasekaran s mittal',182
+'aifipp artifici intellig from inform process perspect b chandrasekaran t johnson',182
+'ai artifici intellig magazin b chandrasekaran',182
+'ai artifici intellig magazin b chandrasekaran',182
+'proceed riao mit revis version publish s gauch',183
+'acm transact inform system s gauch',183
+'hypertext g hill h ashman m bernstein p nurnberg v balasubramanian',183
+'report chapel hill depart comput scienc i jenkins m lansman',183
+'report chapel hill depart comput scienc m lansman i weber',183
+'comput composit m lansman i weber',183
+'shakespear quarterli bibliographi issu h meserole',183
+'bruce journal american folklor b rosenberg',183
+'report chapel hill depart comput scienc d shackelford f smith',183
+'report chapel hill depart comput scienc d shackelford f smith',183
+'report chapel hill depart comput scienc d shackelford',183
+'report chapel hill depart comput scienc d shackelford j boone b elledge',183
+'report chapel hill depart comput scienc m lansman',183
+'report chapel hill depart comput scienc p bush g ferguson s weiss j bolter',183
+'b k britton s m glynn ed comput write aid theori reserach practic hillsdal erlbaum m lansman',183
+'report chapel hill depart comput scienc m rooks g ferguson',183
+'report chapel hill depart comput scienc m lansman',183
+'hillsdal laurenc erlbaum associ nan',183
+'report chapel hill depart comput scienc nan',183
+'style fall also trend linguist studi mongraph comput languag research w sedelow w sedelow s y ed mouton nan',183
+'associ literari linguist comput bulletin nan',183
+'interdisciplinari essai iv nan',183
+'report chapel hill depart comput scienc d smith s b',183
+'commun the acm s weiss',183
+'report chapel hill depart comput scienc s weiss g ferguson',183
+'lewisburg bucknel univers press nan',183
+'report chapel hill depart comput scienc f smith p calingaert j hayes d holland k jeffay m lansman',183
+'proceed nation comput afip press s weiss g ferguson j bolter m lansman d beard',183
+'r zwaan d meutsch ed comput model technolog media research new elsevi scienc publish also poetic journal empir research literatur media the art special issu comput model technolog c smith',183
+'dc feder trade commiss d nash',183
+'comput studi human verbal behavior b rosenberg',183
+'siglash newslett nan',183
+'perspect comput summer fall nan',183
+'report chapel hill depart comput scienc nan',183
+'style fall nan',183
+'comput the human nan',183
+'comput studi human verbal behavior nan',183
+'report chapel hill depart comput scienc c smith',183
+'style winter nan',183
+'proceed annual ai artifici intellig system govern dc s gauch',183
+'human comput interact d smith e kupstas',183
+'report chapel hill depart comput scienc d smith e kupstas',183
+'style winter nan',183
+'perspect comput h meserole',183
+'report chapel hill depart comput scienc s southard s weiss g ferguson',183
+'report chapel hill depart comput scienc f young',183
+'comput graphic statist buja p tukei ed new springer verlag f young',183
+'journal the american societi inform scientist s gauch',183
+'jasi journal the american societi inform scienc s gauch',183
+'journal the american societi inform scientist s gauch',183
+'ifip intern feder inform process congress nan',183
+'proceed cscw comput support cooper work new acm press k jeffay j lin j menges f smith',183
+'report chapel hill depart comput scienc k jeffay j lin j menges f smith',183
+'chi human factor comput system m lansman',183
+'hypertext nan',183
+'hypertext e mylonas g landow m bernstein',183
+'proceed european hypertext univers press w schuler',183
+'hypertext d shackelford f smith',183
+'hypertext f smith',183
+'proceed ifip intern feder inform process congress hagu north publish nan',183
+'proceed chi human factor comput system new acm press m lansman',183
+'hypertext g ferguson s weiss',183
+'softwar practic experi s weiss',183
+'proceed acm intern research develop inform retriev revis version publish special issu inform process manag s weiss g ferguson',183
+'sigir research develop inform retriev g ferguson s weiss',183
+'cscw comput support cooper work f smith j lin j menges k jeffay',183
+'softw pract exper s weiss',183
+'commun acm s weiss',183
+'j symb log g sambin s sadocco t coquand',184
+'journal symbol logic nan',184
+'proceed confer logic it applic nan',184
+'g huet g plotkin ed univers press nan',184
+'journal symbol logic nan',184
+'notr dame journal formal logic nan',184
+'j symb log nan',184
+'bit b nordstrom',184
+'foundat comput theori volum lectur note comput scienc page springer verlag nan',184
+'journal symbol logic nan',184
+'notr dame journal formal logic nan',184
+'j symb log nan',184
+'bulletin the eatc european associ theoret comput scienc b nordstrom b sydow t coquand',184
+'csl comput scienc logic nan',184
+'lic logic comput scienc a salvesen',184
+'select paper from csl comput scienc logic e boerger et ed lnc springer verlag nan',184
+'proceed type proof program torino be publish lnc t coquand',184
+'comput languag k petersson',184
+'proceed type proof program torino be publish lnc t tammet',184
+'proceed lic logic comput scienc edinburgh ieee a salvesen',184
+'d bj rner editor select work baltic republ comput scientist lectur note comput scienc springer verlag g mints e tyugu',184
+'type t tammet',184
+'journal logic comput t tammet',184
+'baltic comput scienc e tyugu g mints',184
+'type t coquand',184
+'comput lang k petersson',184
+'fct fundament comput theori nan',184
+'bit b nordstrom',184

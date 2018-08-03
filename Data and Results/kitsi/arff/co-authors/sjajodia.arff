@@ -1,0 +1,222 @@
+@relation 'Dataset kitsi co-authors sjajodia'
+@attribute Text string
+@attribute class-att {1, 2}
+@data
+'c bettini x wang',1
+'s chapin d faatz',1
+'p ammann',1
+'y li p ning x wang',1
+'l wang c yao a singhal',1
+'c bettini x wang',1
+'d mutchler',1
+'s vimercati s foresti s paraboschi p samarati',1
+'l wang s noel',1
+'y li p ning x wang',1
+'d marks a motro',1
+'nan',1
+'s zhu c yao d liu s setia',1
+'c bettini x wang e bertino',1
+'s zhu s setia',1
+'e damiani s vimercati s foresti s paraboschi p samarati',1
+'e bertino p samarati',1
+'p ammann c mccollum',1
+'s zhu s setia s xu',1
+'r sandhu',1
+'g rumolo',1
+'p samarati m reiter',1
+'j lin x wang',1
+'h guo y li a liu',1
+'i ray e bertino l mancini',1
+'n johnson',1
+'v atluri e bertino',1
+'k sarda d wijesekera',1
+'a singhal',1
+'s chen d wijesekera',1
+'r sandhu',1
+'y li s zhu l wang',1
+'c bettini x wang',1
+'j yang p ning x wang',1
+'y wu x wang',1
+'e bertino p samarati',1
+'p ning x wang',1
+'l wang d wijesekera',1
+'p ammann p mavuluri',1
+'r mukkamala',1
+'y li v swarup',1
+'y li n wu x wang',1
+'r mukkamala',1
+'c meadows',1
+'y li l wang x wang',1
+'l zhang a brodsky',1
+'l wang d wijesekera',1
+'p ammann i ray',1
+'d barbara y li j lin j couto',1
+'p ammann i ray',1
+'l wang d wijesekera',1
+'c bettini x wang',1
+'c bettini x wang',1
+'x wang s mohavni',1
+'nan',1
+'p liu p ning',1
+'n johnson',1
+'e bertino p samarati',1
+'o wolfson',1
+'a fayad d faatz v doshi',1
+'v atluri e bertino',1
+'nan',1
+'i ray p ammann',1
+'d mutchler',1
+'p liu c mccollum',1
+'c bettini x wang',1
+'r mukkamala i ray',1
+'c jensen j clifford r elmasri s gadia p hayes',1
+'y li s zhu x wang',1
+'a brodsky c farkas',1
+'p ammann',1
+'b zhu s setia',1
+'r pietro l mancini',1
+'m calagna h guo l mancini',1
+'n zannone f massacci d wijesekera',1
+'p ning x wang',1
+'a ceselli e damiani s vimercati s paraboschi p samarati',1
+'s zhu s xu s setia',1
+'d mutchler',1
+'s noel e robertson',1
+'p samarati e bertino',1
+'l mancini s setia',1
+'r pietro l mancini',1
+'p samarati v subrahmanian',1
+'s zhu s setia s xu',1
+'p ning x wang',1
+'c bettini x wang d wijesekera',1
+'r sandhu',1
+'c bettini x wang',1
+'p liu',1
+'p ammann',1
+'d wijesekera',1
+'s zhu s setia',1
+'s gadia g bhargava e sibley',1
+'a fayad c mccollum',1
+'s zhu s xu s setia',1
+'d wijesekera',1
+'e damiani s vimercati s foresti s paraboschi p samarati',1
+'b kogan',1
+'c farkas',1
+'k smith v swarup d faatz t cornett j hoyt',1
+'p samarati p ammann',1
+'d mutchler',1
+'s mascetti c bettini x wang',1
+'l wang d wijesekera',1
+'r sandhu',1
+'c yao l wang x wang',1
+'d keppler v swarup',1
+'r sandhu',1
+'p samarati v subrahmanian e bertino',1
+'i ray p ammann',1
+'e bertino l mancini i ray',1
+'n johnson z duric',1
+'p liu p ning',1
+'k smith d faatz a fayad',1
+'h sengar d wijesekera h wang',1
+'s roy s setia',1
+'d barbara j couto n wu',1
+'g wiederhold w litwin',1
+'x wang s chen',1
+'p ammann c mccollum b blaustein',1
+'r sandhu',1
+'d wijesekera',1
+'c bettini x wang d wijesekera',1
+'r mukkamala',1
+'s chen d wijesekera',1
+'i ray p ammann',1
+'o wolfson',1
+'r sandhu',1
+'o hagstrom f parisi presicce d wijesekera',1
+'y li l wang',1
+'r sandhu r thomas',1
+'c bettini x wang',1
+'l wang d wijesekera',1
+'d liu p ning s zhu',1
+'s vimercati p samarati',1
+'c zhang k lam',1
+'s chapin d faatz a fayad',1
+'v atluri e bertino',1
+'nan',1
+'l mancini i ray e bertino',1
+'y li h guo',1
+'s setia s zhu',1
+'s noel',1
+'x wang s chen',1
+'s noel',1
+'e bertino',1
+'p ammann',1
+'d wijesekera',1
+'d barbara r goel',1
+'l mancini i ray',1
+'e damiani s vimercati s paraboschi p samarati',1
+'o wolfson',1
+'p samarati m sapino v subrahmanian',1
+'p liu c mccollum',1
+'a mei l mancini',1
+'l wang a liu',1
+'e ferrari p samarati e bertino',1
+'o wolfson y huang',1
+'v atluri t keefe c mccollum r mukkamala',1
+'b kogan',1
+'v doshi',1
+'x wang c bettini a brodsky',1
+'p ammann p frankl',1
+'k candan v subrahmanian',1
+'p liu p ammann',1
+'r sandhu t lunt',1
+'d wijesekera',1
+'e bertino p samarati',1
+'v swarup j pamula',1
+'p samarati p ammann',1
+'h guo y li',1
+'c bettini x wang',1
+'p liu c mccollum',1
+'n zannone d wijesekera',1
+'s vimercati s paraboschi p samarati',1
+'a motro d marks',1
+'p liu p ammann',1
+'e bertino p samarati',1
+'l wang a singhal',1
+'e damiani s vimercati m finetti s paraboschi p samarati',1
+'c bettini x wang d wijesekera',1
+'c bettini x wang',1
+'s noel b o berry m jacobs',1
+'v doshi a fayad r maclean',1
+'j yang d wijesekera',1
+'v atluri e bertino',1
+'d mutchler',1
+'s setia s koussih e harder',1
+'d barbara a brodsky l kerschberg a motro e sibley x wang',1
+'v atluri e bertino',1
+'s zhu s setia',1
+'p samarati e bertino a ciampichetti',1
+'c bettini x wang j lin',1
+'s zhu',1
+'y li v swarup',1
+'c mccollum p ammann',1
+'p ammann i ray',1
+'y li x wang',1
+'d barbara r goel',1
+'e bertino p samarati',1
+'p ning x wang',1
+'c mccollum b blaustein',1
+'y li v swarup',1
+'d wijesekera f parisi presicce o hagstrom',1
+'f springsteel',2
+'nan',2
+'h burgdorff f springsteel y zalcstein',2
+'p ng',2
+'s tripathi y huang',2
+'p ng f springsteel',2
+'j liu p ng',2
+'p ng f springsteel',2
+'nan',2
+'d mutchler',2
+'nan',2
+'c meadows',2
+'p ng',2

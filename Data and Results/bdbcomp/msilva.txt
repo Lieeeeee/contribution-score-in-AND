@@ -1,0 +1,21 @@
+293;157;marcos de s silva;b correa,h thiago;especificacao sistema supervisao gerencia equipamento comunicacao dado;rede computador;0
+294;158;marcos silva;a monteiro,j medeiros;visual geospati data compon plane u matrix;geoinformatica;0
+295;158;marcos aurelio da silva;a monteiro,j medeiros;semi automat geospati data cluster self organ map;rede neurai;0
+296;159;maria amelia pacheco e silva;m samso;past direct evalu dynam integr constraint tempor databas;banco dado;0
+297;160;mario e de souza e silva;e ferneda,h silva;system aid discoveri mechan knowledg gener;inteligencia artifici;0
+298;160;mario ernesto de souza e silva;a coelho,c lima,f zuben;hybrid train morpholog neural network appli function approxim;encontro nacion inteligencia artifici;0
+299;161;mario j silva;m costa;optim rank calcul web search engin case studi;banco dado;0
+300;161;mario j silva;m chaves,b martins;geograph knowledg base text process;banco dado;0
+301;162;marco antonio lucinda ribeiro da silva;c silva,o costa;implantacao melhoria processo engenharia requisito empresa formula informatica;internacion melhoria processo softwar;0
+302;163;marcelino silva;f feitosa,g camara,a monteiro,t koschitzki;spatial measur residenti segreg;geoinformatica;0
+303;163;marcelino pereira dos santos silva;j robin;skdql structur languag specifi knowledg discoveri process queri;inteligencia artifici;0
+304;164;magno silva;m gerken,m miranda;blind hybrid decis feedback equal;rede neurai;0
+305;165;marcelo silva;l pimenta,a braga;estudo comparativo bag rede mlp treinamento multi objetivo;rede neurai;0
+306;166;marcelino p s silva;r kawasaki,l oliveira,c frances,d cardoso,m teixeira,j costa,l augusto;par qo estrategia provimento computacao paralela ambient distribuido proposito geral;xxxii seminario integrado softwar hardwar;0
+307;167;monica f da silva;j camara,a abelem,m stanton;rede fio metropolitana baseada padrao 802 estudo caso belem pa;xxxii seminario integrado softwar hardwar;0
+308;168;marcel w r da silva;j rezende;mecanismo selecao dinamica canal rede ieee 802 infra estruturada;rede computador;0
+309;169;mauro j c silva;s fernandes,w silva,n rosa,p maciel,d sadok;perform analysi messag orient middlewar us stochast petri net;rede computador;0
+310;170;mario f silva;i gimenes,a garcia;monitoramento baseado aspecto contrato eletronico;latin american aspect orient softwar develop;0
+311;171;m i n silva;j gonzalez,l kuhn,d griffis,p russell;nano mechan properti silk low k dielectr materi;symposium microelectron technolog devic;0
+312;171;m i n silva;j gonzalez,d griffis,t miau,p russell;improv focus ion beam micro machin interconnect materi;symposium microelectron technolog devic;0
+313;172;m v da silva;v silva,l dornelles,p canazio,f santos,a mesquita;radiat toler cmo ap arrai;symposium microelectron technolog devic;0

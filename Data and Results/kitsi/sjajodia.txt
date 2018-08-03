@@ -1,0 +1,218 @@
+29160;1;sushil jajodia;c bettini,x wang;solv multi granular tempor constraint network;ai;2002
+29161;1;sushil jajodia;s chapin,d faatz;distribut polici data manag make polici mobil;dbsec;2000
+29162;1;sushil jajodia;p ammann;distribut timestamp gener planar lattic network;toc;1993
+29163;1;sushil jajodia;y li,p ning,x wang;discov calendar base tempor associ rule;dke;2003
+29164;1;sushil jajodia;l wang,c yao,a singhal;interact analysi attack graph us relat queri;dbsec;2006
+29165;1;sushil jajodia;c bettini,x wang;satisfi quantit tempor constraint multipl granular;cp;1997
+29166;1;sushil jajodia;d mutchler;integr static dynam vote protocol enhanc file avail;icd;1988
+29167;1;sushil jajodia;s vimercati,s foresti,s paraboschi,p samarati;encrypt manag access control evolut outsourc data;vldb;2007
+29168;1;sushil jajodia;l wang,s noel;minimum cost network harden us attack graph;comcom;2006
+29169;1;sushil jajodia;y li,p ning,x wang;discov calendar base tempor associ rule;time;2001
+29170;1;sushil jajodia;d marks,a motro;enhanc control disclosur sensit inform;esor;1996
+29171;1;sushil jajodia;;panel discuss polyinstanti problem posit paper;csfw;1991
+29172;1;sushil jajodia;s zhu,c yao,d liu,s setia;effici secur mechan overlai multicast base content distribut;acn;2005
+29173;1;sushil jajodia;c bettini,x wang,e bertino;semant assumpt queri evalu tempor databas;sigmod;1995
+29174;1;sushil jajodia;s zhu,s setia;ad reliabl self heal kei distribut subset differ group rekei method secur multicast;ngc;2003
+29175;1;sushil jajodia;e damiani,s vimercati,s foresti,s paraboschi,p samarati;select data encrypt outsourc dynam environ;entc;2007
+29176;1;sushil jajodia;e bertino,p samarati;high assur discretionari access control object base;cc;1993
+29177;1;sushil jajodia;p ammann,c mccollum;surviv inform warfar attack;comput;1999
+29178;1;sushil jajodia;s zhu,s setia,s xu;gkmpan effici group rekei scheme secur multicast ad hoc network;mobiquit;2004
+29179;1;sushil jajodia;r sandhu;elimin polyinstanti secur;compsec;1992
+29180;1;sushil jajodia;g rumolo;algebra databas explicit mark damag data;tc11;1998
+29181;1;sushil jajodia;p samarati,m reiter;author model public kei manag servic;tissec;2001
+29182;1;sushil jajodia;j lin,x wang;abstract base misus detect high level specif adapt strategi;csfw;1998
+29183;1;sushil jajodia;h guo,y li,a liu;fragil watermark scheme detect malici modif databas relat;isci;2006
+29184;1;sushil jajodia;i ray,e bertino,l mancini;advanc commit protocol ml distribut databas system;cc;1996
+29185;1;sushil jajodia;n johnson;explor steganographi see unseen;comput;1998
+29186;1;sushil jajodia;v atluri,e bertino;theoret formul degre isol databas;infsof;1997
+29187;1;sushil jajodia;k sarda,d wijesekera;implement consist check correl attack;icdcit;2004
+29188;1;sushil jajodia;a singhal;data wareh data mine techniqu intrus detect system;dpd;2006
+29189;1;sushil jajodia;s chen,d wijesekera;flexflow flexibl flow control polici specif framework;dbsec;2003
+29190;1;sushil jajodia;r sandhu;integr principl mechan databas manag system;compsec;1991
+29191;1;sushil jajodia;y li,s zhu,l wang;privaci enhanc microaggreg method;foik;2002
+29192;1;sushil jajodia;c bettini,x wang;identifi sensit associ databas releas control;sdmw;2004
+29193;1;sushil jajodia;j yang,p ning,x wang;card distribut system detect coordin attack;sec;2000
+29194;1;sushil jajodia;y wu,x wang;tempor databas bibliographi updat;dagstuhl;1997
+29195;1;sushil jajodia;e bertino,p samarati;enforc mandatori access control object base;oopsla;1993
+29196;1;sushil jajodia;p ning,x wang;design implement decentr prototyp system detect distribut attack;comcom;2002
+29197;1;sushil jajodia;l wang,d wijesekera;logic base framework attribut base access control;cc;2004
+29198;1;sushil jajodia;p ammann,p mavuluri;fly read entir databas;tkde;1995
+29199;1;sushil jajodia;r mukkamala;measur effect commut transact distribut databas perform;isci;1993
+29200;1;sushil jajodia;y li,v swarup;construct virtual primari kei fingerprint relat data;drm;2003
+29201;1;sushil jajodia;y li,n wu,x wang;enhanc profil anomali detect us time granular;jc;2002
+29202;1;sushil jajodia;r mukkamala;note estim cardin project databas relat;tod;1991
+29203;1;sushil jajodia;c meadows;integr versu secur multi level secur databas;dbsec;1987
+29204;1;sushil jajodia;y li,l wang,x wang;audit interv base infer;cais;2002
+29205;1;sushil jajodia;l zhang,a brodsky;toward inform share benefit risk access control barac;polici;2006
+29206;1;sushil jajodia;l wang,d wijesekera;cardin base infer control sum data cube;esor;2002
+29207;1;sushil jajodia;p ammann,i ray;ensur atom multilevel transact;sp;1996
+29208;1;sushil jajodia;d barbara,y li,j lin,j couto;bootstrap data mine intrus detect system;sac;2003
+29209;1;sushil jajodia;p ammann,i ray;appli formal method semant base decomposit transact;tod;1997
+29210;1;sushil jajodia;l wang,d wijesekera;secur olap data cube privaci breach;sp;2004
+29211;1;sushil jajodia;c bettini,x wang;tempor reason workflow system;dpd;2002
+29212;1;sushil jajodia;c bettini,x wang;architectur support interoper among tempor databas;dagstuhl;1997
+29213;1;sushil jajodia;x wang,s mohavni;tempor mediat support uniform access heterogen tempor inform;ijait;1998
+29214;1;sushil jajodia;;databas secur privaci;csur;1996
+29215;1;sushil jajodia;p liu,p ning;avoid loss fair ow process crash fair data exchang protocol;dsn;2000
+29216;1;sushil jajodia;n johnson;steganalysi imag creat us current steganographi softwar;ih;1998
+29217;1;sushil jajodia;e bertino,p samarati;flexibl author mechan relat data manag system;toi;1999
+29218;1;sushil jajodia;o wolfson;distribut algorithm dynam replic data;pod;1992
+29219;1;sushil jajodia;a fayad,d faatz,v doshi;go beyond mac dac us mobil polici;sec;2001
+29220;1;sushil jajodia;v atluri,e bertino;provid differ degre recenc option transact multilevel secur databas;dbsec;1995
+29221;1;sushil jajodia;;topolog analysi network attack vulner;cc;2007
+29222;1;sushil jajodia;i ray,p ammann;implement semant base decomposit transact;cais;1997
+29223;1;sushil jajodia;d mutchler;pessimist consist control algorithm replic file achiev high avail;tse;1989
+29224;1;sushil jajodia;p liu,c mccollum;intrus confin isol inform system;dbsec;1999
+29225;1;sushil jajodia;c bettini,x wang;free schedul free agent workflow system;time;2000
+29226;1;sushil jajodia;r mukkamala,i ray;two tier coars index scheme ml databas system;dbsec;1997
+29227;1;sushil jajodia;c jensen,j clifford,r elmasri,s gadia,p hayes;consensu glossari tempor databas concept;sigmod;1994
+29228;1;sushil jajodia;y li,s zhu,x wang;look seed time discov tempor pattern larg transact set;isci;2006
+29229;1;sushil jajodia;a brodsky,c farkas;secur databas constraint infer channel monitor disclosur;tkde;2000
+29230;1;sushil jajodia;p ammann;timestamp order algorithm secur singl version multi level databas;dbsec;1991
+29231;1;sushil jajodia;b zhu,s setia;provid wit anonym peer peer system;cc;2006
+29232;1;sushil jajodia;r pietro,l mancini;effici secur kei manag wireless mobil commun;pomc;2002
+29233;1;sushil jajodia;m calagna,h guo,l mancini;robust watermark system base svd compress;sac;2006
+29234;1;sushil jajodia;n zannone,f massacci,d wijesekera;maintain privaci deriv object;wpe;2005
+29235;1;sushil jajodia;p ning,x wang;algebra represent calendar;amai;2002
+29236;1;sushil jajodia;a ceselli,e damiani,s vimercati,s paraboschi,p samarati;model assess infer exposur encrypt databas;tissec;2005
+29237;1;sushil jajodia;s zhu,s xu,s setia;lhap lightweight network access control protocol ad hoc network;adhoc;2006
+29238;1;sushil jajodia;d mutchler;dynam vote;sigmod;1987
+29239;1;sushil jajodia;s noel,e robertson;correl intrus event build attack scenario attack graph distanc;acsac;2004
+29240;1;sushil jajodia;p samarati,e bertino;author model distribut hypertext system;tkde;1996
+29241;1;sushil jajodia;l mancini,s setia;fair lock protocol multilevel secur databas;csfw;1998
+29242;1;sushil jajodia;r pietro,l mancini;secur select exclus ad hoc wireless network;sec;2002
+29243;1;sushil jajodia;p samarati,v subrahmanian;logic languag express author;sp;1997
+29244;1;sushil jajodia;s zhu,s setia,s xu;gkmpan effici group rekei scheme secur multicast ad hoc network;jc;2006
+29245;1;sushil jajodia;p ning,x wang;model request among cooper intrus detect system;comcom;2000
+29246;1;sushil jajodia;c bettini,x wang,d wijesekera;oblig monitor polici manag;polici;2002
+29247;1;sushil jajodia;r sandhu;polyinstanti integr multilevel relat revisit;dbsec;1990
+29248;1;sushil jajodia;c bettini,x wang;inform releas control learn base architectur;jod;2005
+29249;1;sushil jajodia;p liu;multi phase damag confin databas system intrus toler;csfw;2001
+29250;1;sushil jajodia;p ammann;effici multivers algorithm secur servic transact read;cc;1994
+29251;1;sushil jajodia;d wijesekera;polici algebra access control proposit case;cc;2001
+29252;1;sushil jajodia;s zhu,s setia;leap effici secur mechan larg scale distribut sensor network;sensi;2003
+29253;1;sushil jajodia;s gadia,g bhargava,e sibley;audit trail organ relat databas;dbsec;1989
+29254;1;sushil jajodia;a fayad,c mccollum;applic level isol us data inconsist detect;acsac;1999
+29255;1;sushil jajodia;s zhu,s xu,s setia;lhap lightweight hop hop authent protocol ad hoc network;icdcsw;2003
+29256;1;sushil jajodia;d wijesekera;polici algebra access control predic case;cc;2002
+29257;1;sushil jajodia;e damiani,s vimercati,s foresti,s paraboschi,p samarati;metadata manag outsourc encrypt databas;sdmw;2005
+29258;1;sushil jajodia;b kogan;transact process multilevel secur databas us replic architectur;sp;1990
+29259;1;sushil jajodia;c farkas;infer problem survei;sigkdd;2002
+29260;1;sushil jajodia;k smith,v swarup,d faatz,t cornett,j hoyt;secur share neuroimageri;cikm;2003
+29261;1;sushil jajodia;p samarati,p ammann;propag author distribut databas system;cc;1994
+29262;1;sushil jajodia;d mutchler;hybrid replica control algorithm combin static dynam vote;tkde;1989
+29263;1;sushil jajodia;s mascetti,c bettini,x wang;k anonym databas timestamp data;time;2006
+29264;1;sushil jajodia;l wang,d wijesekera;cardin base infer control data cube;jc;2004
+29265;1;sushil jajodia;r sandhu;databas secur current statu kei issu;sigmod;1990
+29266;1;sushil jajodia;c yao,l wang,x wang;indistinguish aspect privaci;sdmw;2006
+29267;1;sushil jajodia;d keppler,v swarup;redirect polici mission base inform share;sacmat;2006
+29268;1;sushil jajodia;r sandhu;novel decomposit multilevel relat singl level relat;sp;1991
+29269;1;sushil jajodia;p samarati,v subrahmanian,e bertino;unifi framework enforc multipl access control polici;sigmod;1997
+29270;1;sushil jajodia;i ray,p ammann;us semant correct multidatabas achiev local autonomi distribut coordin maintain global integr;isci;2000
+29271;1;sushil jajodia;e bertino,l mancini,i ray;advanc transact process multilevel secur file store;tkde;1998
+29272;1;sushil jajodia;n johnson,z duric;fingerprint imag recognit;mi;1999
+29273;1;sushil jajodia;p liu,p ning;avoid loss fair ow failur fair data exchang system;dss;2001
+29274;1;sushil jajodia;k smith,d faatz,a fayad;propag modif mobil polici;sec;2002
+29275;1;sushil jajodia;h sengar,d wijesekera,h wang;voip intrus detect interact protocol state machin;dsn;2006
+29276;1;sushil jajodia;s roy,s setia;attack resili hierarch data aggreg sensor network;sasn;2006
+29277;1;sushil jajodia;d barbara,j couto,n wu;adam testb explor us data mine intrus detect;sigmod;2001
+29278;1;sushil jajodia;g wiederhold,w litwin;deal granular time tempor databas;cais;1991
+29279;1;sushil jajodia;x wang,s chen;network flow watermark attack low latenc anonym commun system;sp;2007
+29280;1;sushil jajodia;p ammann,c mccollum,b blaustein;surviv inform warfar attack databas;sp;1997
+29281;1;sushil jajodia;r sandhu;polyinstanti integr multilevel relat;sp;1990
+29282;1;sushil jajodia;d wijesekera;recent advanc access control model;dbsec;2001
+29283;1;sushil jajodia;c bettini,x wang,d wijesekera;reason advanc polici rule applic access control;jodl;2004
+29284;1;sushil jajodia;r mukkamala;novel approach certif revoc manag;dbsec;2001
+29285;1;sushil jajodia;s chen,d wijesekera;incorpor dynam constraint flexibl author framework;esor;2004
+29286;1;sushil jajodia;i ray,p ammann;semant base transact process model multilevel transact;jc;1998
+29287;1;sushil jajodia;o wolfson;algorithm dynam data alloc distribut system;ipl;1995
+29288;1;sushil jajodia;r sandhu;formal framework singl level decomposit multilevel relat;csfw;1990
+29289;1;sushil jajodia;o hagstrom,f parisi presicce,d wijesekera;revoc classif;csfw;2001
+29290;1;sushil jajodia;y li,l wang;prevent interv base infer random data perturb;pet;2002
+29291;1;sushil jajodia;r sandhu,r thomas;support time channel free comput multilevel secur object orient databas;dbsec;1991
+29292;1;sushil jajodia;c bettini,x wang;protect privaci locat base person identif;sdmw;2005
+29293;1;sushil jajodia;l wang,d wijesekera;toward secur xml feder;dbsec;2002
+29294;1;sushil jajodia;d liu,p ning,s zhu;practic broadcast authent sensor network;mobiquit;2005
+29295;1;sushil jajodia;s vimercati,p samarati;polici model languag access control;dni;2005
+29296;1;sushil jajodia;c zhang,k lam;scalabl threshold closur;tc;1999
+29297;1;sushil jajodia;s chapin,d faatz,a fayad;consist polici enforc distribut system us mobil polici;dke;2002
+29298;1;sushil jajodia;v atluri,e bertino;altern correct criteria concurr execut transact multilevel secur databas;tkde;1996
+29299;1;sushil jajodia;;recent advanc access control model;waim;2003
+29300;1;sushil jajodia;l mancini,i ray,e bertino;flexibl transact depend databas system;dpd;2000
+29301;1;sushil jajodia;y li,h guo;tamper detect local categor data us fragil watermark;drm;2004
+29302;1;sushil jajodia;s setia,s zhu;compar perform analysi reliabl group rekei transport protocol secur multicast;pe;2002
+29303;1;sushil jajodia;s noel;understand complex network attack graph cluster adjac matric;acsac;2005
+29304;1;sushil jajodia;x wang,s chen;track anonym peer peer voip call internet;cc;2005
+29305;1;sushil jajodia;s noel;manag attack graph complex visual hierarch aggreg;vizsec;2004
+29306;1;sushil jajodia;e bertino;model multilevel entiti us singl level object;dood;1993
+29307;1;sushil jajodia;p ammann;integr challeng;tc11;1999
+29308;1;sushil jajodia;d wijesekera;proposit polici algebra access control;tissec;2003
+29309;1;sushil jajodia;d barbara,r goel;us checksum detect data corrupt;edbt;2000
+29310;1;sushil jajodia;l mancini,i ray;secur lock protocol multilevel databas manag system;dbsec;1996
+29311;1;sushil jajodia;e damiani,s vimercati,s paraboschi,p samarati;balanc confidenti effici untrust relat dbmss;cc;2003
+29312;1;sushil jajodia;o wolfson;algorithm dynam data distribut;wmrd;1992
+29313;1;sushil jajodia;p samarati,m sapino,v subrahmanian;flexibl support multipl access control polici;tod;2001
+29314;1;sushil jajodia;p liu,c mccollum;applic level isol cope malici databas user;acsac;1998
+29315;1;sushil jajodia;a mei,l mancini;secur dynam fragment replica alloc larg scale distribut file system;tpd;2003
+29316;1;sushil jajodia;l wang,a liu;us attack graph correl hypothes predict intrus alert;comcom;2006
+29317;1;sushil jajodia;e ferrari,p samarati,e bertino;provid flexibl inform flow control object orient system;sp;1997
+29318;1;sushil jajodia;o wolfson,y huang;adapt data replic algorithm;tod;1997
+29319;1;sushil jajodia;v atluri,t keefe,c mccollum,r mukkamala;multilevel secur transact process statu prospect;dbsec;1996
+29320;1;sushil jajodia;b kogan;integr object orient data model multilevel secur;sp;1990
+29321;1;sushil jajodia;v doshi;referenti integr multilevel secur databas manag system;sec;1992
+29322;1;sushil jajodia;x wang,c bettini,a brodsky;logic design tempor databas multipl granular;tod;1997
+29323;1;sushil jajodia;p ammann,p frankl;global consist event order direct distribut environ;tpd;1996
+29324;1;sushil jajodia;k candan,v subrahmanian;secur mediat databas;icd;1996
+29325;1;sushil jajodia;p liu,p ammann;incorpor transact semant reduc reprocess overhead replic mobil data applic;icdc;1999
+29326;1;sushil jajodia;r sandhu,t lunt;new polyinstanti integr constraint multilevel relat;csfw;1990
+29327;1;sushil jajodia;d wijesekera;flexibl author framework commerc;icdcit;2004
+29328;1;sushil jajodia;e bertino,p samarati;databas secur research practic;;1995
+29329;1;sushil jajodia;v swarup,j pamula;rule base topolog vulner analysi;mmmacn;2005
+29330;1;sushil jajodia;p samarati,p ammann;maintain replic author distribut databas system;dke;1996
+29331;1;sushil jajodia;h guo,y li;chain watermark detect malici modif stream data;isci;2007
+29332;1;sushil jajodia;c bettini,x wang;test complex tempor relationship involv multipl granular applic data mine;pod;1996
+29333;1;sushil jajodia;p liu,c mccollum;intrus confin isol inform system;jc;2000
+29334;1;sushil jajodia;n zannone,d wijesekera;creat object flexibl author framework;dbsec;2006
+29335;1;sushil jajodia;s vimercati,s paraboschi,p samarati;trust manag servic relat databas;cc;2007
+29336;1;sushil jajodia;a motro,d marks;aggreg relat databas control disclosur sensit inform;esor;1994
+29337;1;sushil jajodia;p liu,p ammann;rewrit histori recov malici transact;dpd;2000
+29338;1;sushil jajodia;e bertino,p samarati;extend author model relat databas;tkde;1997
+29339;1;sushil jajodia;l wang,a singhal;measur overal secur network configur us attack graph;dbsec;2007
+29340;1;sushil jajodia;e damiani,s vimercati,m finetti,s paraboschi,p samarati;implement storag mechan untrust dbmss;sisw;2003
+29341;1;sushil jajodia;c bettini,x wang,d wijesekera;provis oblig polici rule manag;jnsm;2003
+29342;1;sushil jajodia;c bettini,x wang;gener framework time granular applic tempor reason;amai;1998
+29343;1;sushil jajodia;s noel,b o berry,m jacobs;effici minimum cost network harden via exploit depend graph;acsac;2003
+29344;1;sushil jajodia;v doshi,a fayad,r maclean;us attribut certif mobil polici electron commerc applic;acsac;2000
+29345;1;sushil jajodia;j yang,d wijesekera;subject switch algorithm access control feder databas;dbsec;2001
+29346;1;sushil jajodia;v atluri,e bertino;achiev stricter correct requir multilevel secur databas dynam case;dbsec;1993
+29347;1;sushil jajodia;d mutchler;dynam vote algorithm maintain consist replic databas;tod;1990
+29348;1;sushil jajodia;s setia,s koussih,e harder;krono scalabl group re kei approach secur multicast;sp;2000
+29349;1;sushil jajodia;d barbara,a brodsky,l kerschberg,a motro,e sibley,x wang;inform system research georg mason univers;sigmod;1997
+29350;1;sushil jajodia;v atluri,e bertino;degre isol concurr control protocol commit protocol;dbsec;1994
+29351;1;sushil jajodia;s zhu,s setia;leap effici secur mechan larg scale distribut sensor network;cc;2003
+29352;1;sushil jajodia;p samarati,e bertino,a ciampichetti;inform flow control object orient system;tkde;1997
+29353;1;sushil jajodia;c bettini,x wang,j lin;discov frequent event pattern multipl granular time sequenc;tkde;1998
+29354;1;sushil jajodia;s zhu;scalabl group rekei secur multicast survei;iwdc;2003
+29355;1;sushil jajodia;y li,v swarup;defend addit attack maxim error watermark relat databas;dbsec;2004
+29356;1;sushil jajodia;c mccollum,p ammann;trust recoveri;cacm;1999
+29357;1;sushil jajodia;p ammann,i ray;us formal method reason semant base decomposit transact;vldb;1995
+29358;1;sushil jajodia;y li,x wang;discov tempor pattern multipl granular;tsdm;2000
+29359;1;sushil jajodia;d barbara,r goel;protect file system corrupt us checksum;dbsec;2000
+29360;1;sushil jajodia;e bertino,p samarati;support multipl access control polici databas system;sp;1996
+29361;1;sushil jajodia;p ning,x wang;abstract base intrus detect distribut environ;tissec;2001
+29362;1;sushil jajodia;c mccollum,b blaustein;integr concurr control commit algorithm distribut multilevel secur databas;dbsec;1993
+29363;1;sushil jajodia;y li,v swarup;fingerprint relat databas scheme specialti;tdsc;2005
+29364;1;sushil jajodia;d wijesekera,f parisi presicce,o hagstrom;remov permiss flexibl author framework;tod;2003
+29365;2;sushil jajodia;f springsteel;construct univers instanc loop free network databas us join like oper;tse;1987
+29366;2;sushil jajodia;;manag replic file partit distribut databas system;icd;1987
+29367;2;sushil jajodia;h burgdorff,f springsteel,y zalcstein;altern method reconstruct tree travers;bit;1987
+29368;2;sushil jajodia;p ng;translat entiti relationship diagram relat structur;jss;1984
+29369;2;sushil jajodia;s tripathi,y huang;local area network softwar relat issu;tse;1987
+29370;2;sushil jajodia;p ng,f springsteel;problem equival entiti relationship diagram;tse;1983
+29371;2;sushil jajodia;j liu,p ng;scheme parallel process mimd system;tse;1983
+29372;2;sushil jajodia;p ng,f springsteel;univers repres instanc inconsist databas;er;1983
+29373;2;sushil jajodia;;univers repres instanc us unmark null;fsttc;1984
+29374;2;sushil jajodia;d mutchler;enhanc vote algorithm;vldb;1987
+29375;2;sushil jajodia;;extens repres instanc gamma acycl relat scheme;tse;1987
+29376;2;sushil jajodia;c meadows;mutual consist decentr distribut system;icd;1987
+29377;2;sushil jajodia;p ng;repres instanc gamma acycl relat scheme;tse;1984

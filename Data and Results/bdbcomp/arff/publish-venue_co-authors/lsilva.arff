@@ -1,0 +1,37 @@
+@relation 'Dataset bdbcomp publish-venue_co-authors lsilva'
+@attribute Text string
+@attribute class-att {138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155}
+@data
+'rede computador v mazzola',138
+'engenharia softwar v paula',139
+'engenharia softwar m sayao j leite k breitman',139
+'engenharia softwar j leite',139
+'engenharia requisito c felicissimo k breitman j leite',139
+'engenharia requisito j leite',139
+'engenharia softwar a medeiros t batista l minora',139
+'latin american aspect orient softwar develop a medeiros t batista l minora',139
+'computacao grafica processamento imagen a fabris a forrest',140
+'computacao grafica processamento imagen a fabris a forrest',140
+'computacao grafica processamento imagen d weingaertner o bellon',141
+'computacao grafica processamento imagen o bellon k boyer',141
+'algoritmo mineracao dado o bellon m cat e vieira a araujo',141
+'revista informatica teorica aplicada e vieira o bellon',141
+'seminario integrado softwar hardwar a cervieiri a nacul j neto l granville l ulbrich',142
+'linguagen programacao i augustin j lima a yamin r real c geyer',143
+'xxxii seminario integrado softwar hardwar m moraes a filho i augustin a yamin c geyer',143
+'rede neurai e costa e jr',144
+'encontro nacion inteligencia artifici a costa g bittencourt e goncalves',145
+'encontro nacion inteligencia artifici f gomide',146
+'xxx seminario integrado softwar hardwar m menezes a silva',147
+'xxxi seminario integrado softwar hardwar m carvalho k rezende n melo y lobao d mallerbi',147
+'qualidad softwar w chapetta g travassos',148
+'banco dado d pozo a laender m goncalves',149
+'informatica publica nan',149
+'symposium integr circuit system design j marques silva',150
+'realidad virtual s venturelli f anastacio j lira a rezende',151
+'engenharia requisito f pinheiro',152
+'informatica publica f pinheiro',152
+'geoinformatica f mello',153
+'informatica publica e albuquerque l barros l guerra',154
+'latin american aspect orient softwar develop m valente',155
+'latin american aspect orient softwar develop m malta t melo m valente',155

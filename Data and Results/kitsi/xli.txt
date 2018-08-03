@@ -1,0 +1,304 @@
+35744;1;xueliang li;l wang,c hoede;integr complet r partit graph;dm;2004
+35745;1;xueliang li;w chen,c wang,x zhang;minimum on problem tree;siamcomp;2004
+35746;1;xueliang li;l wang,h broersma,c hoede,g still;integr tree diamet;dam;2007
+35747;1;xueliang li;l wang,s zhang;famili integr tree diamet;dam;2004
+35748;1;xuhui li;j cao,y he;languag descript verif mobil agent algorithm;ieeecit;2004
+35749;1;xuhui li;j cao,y he;direct execut approach simul mobil agent algorithm;tj;2004
+35750;1;xuhui li;z peng,q li,l feng,j liu;us object deputi model prepar data data wareh;tkde;2005
+35751;1;xueliang li;j wu,j su;number remov edg connect graph;jct;2004
+35752;1;xueliang li;f zhang,h zhang;hexagon system fix bond;dam;1993
+35753;1;xueliang li;h broersma;approach conjectur short cycl digraph;dam;2002
+35754;1;xueliang li;;connect see graph aee graph connect span k edg subgraph graph;dm;1998
+35755;1;xuhui li;j cao,s king,y he;direct execut simul mobil agent algorithm;ispa;2003
+35756;1;xueliang li;h zhao,r liu;problem conjectur adjointli equival graph;dm;2005
+35757;1;xueliang li;z jin,m kano,b wei;partit edg color complet multipartit graph monochromat cycl path tree;jco;2006
+35758;1;xueliang li;f zhang;number span tree eulerian tour gener bruijn graph;dm;1991
+35759;1;xueliang li;l wang;integr tree diamet;dm;2005
+35760;1;xueliang li;w zang;combinatori algorithm minimum weight color claw free perfect graph;jco;2005
+35761;1;xueliang li;j wu,l wang;remov edg cycl connect graph;dm;2004
+35762;1;xueliang li;s zhang,x han;comput scatter number graph;ijcm;2002
+35763;1;xueliang li;y hu,y shi,t xu;connect n m graph minimum maximum zeroth order gener randic index;dam;2007
+35764;1;xueliang li;v neumann lara,e rivera campo;tree graph defin set cycl;dm;2003
+35765;1;xueliang li;y li,s zhang;ruptur degre graph;ijcm;2005
+35766;1;xuhui li;y he,z du,d cooley,j he;field base collabor strategi madc;sigop;2002
+35767;1;xueliang li;h broersma;connect leaf exchang span tree graph graph;arscom;1996
+35768;1;xueliang li;s zhang,h broersma,l wang;fan type condit heavi cycl weight graph;gc;2002
+35769;1;xueliang li;f zhang;hamilton type interchang graph;dam;1994
+35770;1;xueliang li;i gutman;unifi approach first deriv graph polynomi;dam;1995
+35771;1;xueliang li;h zhang;solut gutman s problem characterist polynomi bipartit graph;dm;1996
+35772;1;xueliang li;f zhang;hexagon system forc edg;dm;1995
+35773;1;xueliang li;c hoede;cliqu polynomi independ set polynomi graph;dm;1994
+35774;1;xueliang li;s zhang,h broersma;heavi path cycl weight graph;dm;2000
+35775;1;xueliang li;;hexagon system forc singl edg;dam;1997
+35776;1;xueliang li;h zhao,r liu,c ye;chromat certain complet multipartit graph;gc;2004
+35777;1;xueliang li;h galeana sanchez;kernel special class digraph;dm;1998
+35778;1;xueliang li;z jin;k path cover problem cacti;tc;2006
+35779;1;xueliang li;v neumann lara,e rivera campo;two approach gener leaf edg exchang graph span tree connect span k edg subgraph graph;arscom;2005
+35780;1;xueliang li;r li;binari construct quantum code minimum distanc three four;tit;2004
+35781;1;xueliang li;l wang,c hoede;two class integr regular graph;arscom;2005
+35782;1;xueliang li;;lower bound connect direct euler tour transform graph;dm;1997
+35783;1;xueliang li;h broersma;match polynomi polygraph;dam;1993
+35784;1;xueliang li;l xiong,h broersma,c hoede;degre sum subpancycl line graph;dm;2002
+35785;1;xuhui li;j cao,y he,y chen;mades simul environ mobil agent;ieeecit;2006
+35786;1;xueliang li;j wu;remov edg longest cycl connect graph;gc;2004
+35787;1;xueliang li;l xiong,h broersma,m li;hamiltonian index graph branch bond;dm;2004
+35788;2;xiang yang li;y wang;local construct bound degre planar spanner wireless ad hoc network;dialm;2003
+35789;2;xiang yang li;s teng,a ongor;simultan refin coarsen adapt mesh;ewc;1999
+35790;2;xiang yang li;p wan;construct minimum energi mobil wireless network;mobihoc;2001
+35791;2;xiang yang li;;space control sliver free delaunai mesh;imr;2000
+35792;2;xiang yang li;w wang;truth low cost unicast selfish wireless network;ipp;2004
+35793;2;xiang yang li;;gener well shape d dimension delaunai mesh;tc;2003
+35794;2;xiang yang li;w wang,z sun;share multicast payment fairli;cocoon;2005
+35795;2;xiang yang li;w wang,o frieder;k anycast game selfish network;icccn;2004
+35796;2;xiang yang li;k moaveninejad,w song;robust posit base rout wireless ad hoc network;adhoc;2005
+35797;2;xiang yang li;s roy,y hu,d peroulis;minimum energi broadcast us practic direct antenna wireless network;infocom;2006
+35798;2;xiang yang li;l liu,p wan,o frieder;practic traffic groom scheme singl hub sonet wdm ring;lcn;2000
+35799;2;xiang yang li;p wan;theoret good distribut cdma ovsf code assign wireless ad hoc network;cocoon;2005
+35800;2;xiang yang li;;algorithm geometr graph issu wireless network;wicomm;2003
+35801;2;xiang yang li;k moaveninejad,o frieder;region gossip rout wireless ad hoc network;monet;2005
+35802;2;xiang yang li;z sun,p yu;iter mine rule constrain anteced;sdm;2005
+35803;2;xiang yang li;s teng;dynam load balanc parallel adapt mesh refin;irregular;1998
+35804;2;xiang yang li;z sun,w wang,x chu;mechan design set cover game element agent;aaim;2005
+35805;2;xiang yang li;p wan,y wang,o frieder;spars power effici topolog wireless network;hicss;2002
+35806;2;xiang yang li;m kao,w wang;toward truth mechan binari demand game gener framework;sigecom;2005
+35807;2;xiang yang li;y wang;minimum power assign wireless ad hoc network spanner properti;jco;2006
+35808;2;xiang yang li;;approxim mst udg local;cocoon;2003
+35809;2;xiang yang li;y wang;local construct bound degre planar spanner wireless ad hoc network;monet;2006
+35810;2;xiang yang li;z sun,w wang;cost share strategyproof mechan set cover game;stac;2005
+35811;2;xiangyang li;p wan;construct minimum energi mobil wireless network;sigmobil;2001
+35812;2;xiangyang li;p wan,g calinescu,o frieder;minimum energi broadcast rout static ad hoc wireless network;infocom;2001
+35813;2;xiang yang li;p wan,o frieder;ovsf cdma code assign wireless ad hoc network;dialm;2004
+35814;2;xiang yang li;y wang;distribut spanner bound degre wireless ad hoc network;ipp;2002
+35815;2;xiang yang li;;gener well shape d dimension delaunai mesh;cocoon;2001
+35816;2;xiang yang li;s teng,a ongor;bite sphere 3d;imr;1999
+35817;2;xiang yang li;k moaveninejad,o frieder;region gossip rout wireless ad hoc network;lcn;2003
+35818;2;xiang yang li;s kapoor;proxim structur geometr graph;wad;2003
+35819;2;xiang yang li;y wang;good sink insert;cocoon;2001
+35820;2;xiang yang li;w wang,z sun,y wang;design multicast protocol non cooper network;infocom;2005
+35821;2;xiang yang li;s teng;practic human machin identif insecur channel;jco;1999
+35822;2;x y li;y cai,w lou,m li;target orient schedul direct sensor network;infocom;2007
+35823;2;xiang yang li;w wang;toward truth mechan binari demand game gener framework;aaai;2005
+35824;3;xiaoou li;w yu,f lara rosano;dynam knowledg infer learn adapt fuzzi petri net framework;tsmc;2000
+35825;3;xiaoou li;w yu;stabl fuzzi identif us recurr fuzzi neural network;nci;2003
+35826;3;xiaoou li;j marin,s chapa;structur model eca rule activ databas;micai;2002
+35827;3;xiaoou li;w yu;chemic process identif multipl neural network;ijc;2002
+35828;3;xiaoou li;w yu;fuzzi identif us fuzzi neural network stabl learn algorithm;tf;2004
+35829;4;xiaoyan li;a tjang,m pagliorola,h patel,r martin;activ tape bu base sensor network;lcn;2004
+35830;4;xiaoyan li;k nagaraja,r bianchini,r martin,t nguyen;us fault inject model evalu perform cluster base servic;usit;2003
+35831;4;xiaoyan li;e elnahrawy,r martin;limit local us rss;sensi;2004
+35832;5;xiaodong li;;adapt choos neighbourhood best us speci particl swarm optim multimod function optim;gecco;2004
+35833;5;xiaodong li;;connectionist learn comparison neural network optic thin film multilay model;connect;2002
+35834;5;xiaodong li;;visual parallel genet algorithm real time;amt;2001
+35835;5;xiaobo li;j mohr;cach genet algorithm spectral breakpoint match;gecco;2004
+35836;5;xiaodong li;d parrott;locat track multipl dynam optima particl swarm model us speciat;tec;2006
+35837;5;xiaodong li;;comparison neural network optic thin film multilay model connectionist learn;scai;2001
+35838;5;xiaodong li;a iorio;paramet control within co oper co evolutionari genet algorithm;ppsn;2002
+35839;5;xiaodong li;a iorio;solv rotat multi object optim problem us differenti evolut;ausai;2004
+35840;5;xiaodong li;m purvis;connectionist learn us optic thin film model;ann;1995
+35841;5;xiaodong li;y bernstein,v ciesielski,a song;improv generalis perform multiobject parsimoni enforc;gecco;2004
+35842;5;xiaodong li;;effici differenti evolut us speciat multimod function optim;gecco;2005
+35843;5;xiaodong li;a iorio;cooper coevolutionari multiobject algorithm us non domin sort;gecco;2004
+35844;5;xiaodong li;;non domin sort particl swarm optim multiobject optim;gecco;2003
+35845;5;xiaodong li;;real code predat prei genet algorithm multiobject optim;emo;2003
+35846;5;xiaodong li;j branke,t blackwell;particl swarm speciat adapt dynam environ;gecco;2006
+35847;5;xiaodong li;w magill;critic densiti fire spread model environment influenc;ijcia;2003
+35848;5;xiaodong li;;better spread converg particl swarm multiobject optim us maximin fit function;gecco;2004
+35849;6;xin li;l soh;integr multilevel learn approach multiag coalit format;ijcai;2003
+35850;6;xin li;l soh;learn base coalit format model multiag system;atal;2003
+35851;6;xin li;l soh;adapt confid base strateg negoti complex multiag environ;flair;2006
+35852;6;xin li;l soh;adapt confid base multiag negoti strategi;atal;2004
+35853;6;xin li;l soh;hybrid negoti resourc coordin multiag system;wia;2005
+35854;6;xin li;l soh;multiag coalit format distribut adapt resourc alloc;icai;2004
+35855;6;xin li;l soh;us hybrid negoti resourc coordin among agent;iat;2003
+35856;7;xining li;;new term represent method prolog;jlp;1998
+35857;7;xining li;q mahmoud,z xu;evalu recent research mobil agent platform mobil devic;icei;2004
+35858;7;xining li;y yao;comparison rough set interv set model uncertain reason;fuin;1996
+35859;7;xining li;g autran;practic approach agent migrat protocol;iat;2004
+35860;7;xining li;g autran;inter agent commun imago prolog;proma;2004
+35861;7;xining li;;explor singl stack architectur prolog;appinf;1999
+35862;7;xining li;l song;locat servic intellig mobil agent;cata;2004
+35863;7;xining li;;effici memori manag merg heap stack prolog machin;ppdp;2000
+35864;8;xiaolei li;h gonzalez,j han,d klabjan;wareh analyz massiv rfid data set;icd;2006
+35865;8;xiaolei li;h gonzalez,j han;mine compress commod workflow massiv rfid data set;cikm;2006
+35866;8;xiaolei li;d xin,j han,b wah;star cube comput iceberg cube top bottom integr;vldb;2003
+35867;8;xiaolei li;j han,x yin,d xin;mine evolv custom product relationship multi dimension space;icd;2005
+35868;8;xiaolei li;j han,j lee,h gonzalez;traffic densiti base discoveri hot rout road network;ssd;2007
+35869;8;xiaolei li;j han;mine approxim top k subspac anomali multi dimension time seri data;vldb;2007
+35870;8;xiaolei li;h gonzalez,j han;flowcub constructu rfid flowcub multi dimension analysi commod flow;vldb;2006
+35871;8;xiaolei li;j han,s kim;motion alert automat anomali detect massiv move object;isi;2006
+35872;8;xiaolei li;h yu,j yang,j han;make svm scalabl larg data set us hierarch cluster index;datamin;2005
+35873;8;xiaolei li;j han,h gonzalez;high dimension olap minim cube approach;vldb;2004
+35874;8;xiaolei li;d xin,j han,h cheng;answer top k queri multi dimension select rank cube approach;vldb;2006
+35875;9;xiaodong li;z li,p zhou,y zhou,s adve,s kumar;perform direct energi manag storag system;micro;2004
+35876;10;xiang yang li;y wang;geometr spanner wireless ad hoc network;icdc;2002
+35877;10;xiang yang li;w wang,s eidenbenz,y wang;our optim unicast rout system non cooper wireless network;mobicom;2006
+35878;10;xiang yang li;k alzoubi,y wang,p wan,o frieder;geometr spanner wireless ad hoc network;tpd;2003
+35879;10;xiang yang li;y wang,w song;applic k local mst topolog control broadcast wireless ad hoc network;tpd;2004
+35880;10;xiang yang li;c yi,p wan,o frieder;asymptot distribut number isol node wireless ad hoc network bernoulli node;tcom;2006
+35881;10;xiang yang li;y wang,w wang;effici distribut low cost backbon format wireless network;tpd;2006
+35882;10;xiang yang li;y wang,p wan,o frieder;local low weight graph applic wireless ad hoc network;infocom;2004
+35883;10;xiang yang li;w song,w wang;unifi energi effici topolog unicast broadcast;mobicom;2005
+35884;10;xiang yang li;w song,y wang,o frieder;local algorithm energi effici topolog wireless ad hoc network;monet;2005
+35885;10;xiang yang li;y wang;simpl approxim algorithm ptass variou problem wireless ad hoc network;jpdc;2006
+35886;10;xiang yang li;w wang;low cost rout selfish ration wireless ad hoc network;tmc;2006
+35887;10;xiang yang li;w wang,o frieder,y wang,w song;effici interfer awar tdma link schedul static wireless network;mobicom;2006
+35888;10;xiang yang li;w song,y wang;local algorithm energi effici topolog wireless ad hoc network;mobihoc;2004
+35889;11;xiang li;m wang,a zell;dribbl control omnidirect soccer robot;icra;2007
+35890;11;xiang li;a zell;motion control omnidirect mobil robot;icinco;2007
+35891;12;xue li;z tari,l liu;type safeti context method updat;jii;1999
+35892;12;xue li;;survei schema evolut object orient databas;tool;1999
+35893;12;xue li;z tari;evolut method object schema;informaticasi;1994
+35894;12;xue li;z tari;consist check evolv method;dexa;1994
+35895;12;xue li;w huang;counter infer intellig agent;tool;2000
+35896;13;xin li;j wang,l pileggi;parameter macromodel analog system level design explor;dac;2007
+35897;13;xin li;l pileggi;effici parametr yield extract multipl correl non normal perform distribut analog rf circuit;dac;2007
+35898;13;xin li;p gopalakrishnan,l pileggi;architectur awar fpga placement us metric embed;dac;2006
+35899;13;xin li;y zhan,a strojwas,l pileggi,d newmark,m sharma;correl awar statist time analysi non gaussian delai distribut;dac;2005
+35900;13;xin li;j le,p gopalakrishnan,l pileggi;asymptot probabl extract non normal distribut circuit perform;iccad;2004
+35901;13;xin li;x zeng,d zhou,x ling;wavelet method high speed clock tree simul;isca;2002
+35902;13;xin li;j le,m celik,l pileggi;defin statist sensit time optim logic circuit larg scale process environment variat;iccad;2005
+35903;13;xin li;y xu,p li,l pileggi;nois macromodel radio frequenc integr circuit;date;2003
+35904;13;xin li;j le,l pileggi,a strojwas;project base perform model inter intra die variat;iccad;2005
+35905;13;xin li;x zeng,d zhou,x ling;behavior model analog circuit wavelet colloc method;iccad;2001
+35906;13;xin li;j le,l pileggi;project base statist analysi full chip leakag power non log normal distribut;dac;2006
+35907;13;xin li;y xu,p li,p gopalakrishnan,l pileggi;frequenc relax approach analog rf system level simul;dac;2004
+35908;13;xin li;p li,y xu,l pileggi;analog rf circuit macromodel system level analysi;dac;2003
+35909;13;xin li;p gopalakrishnan,y xu,l pileggi;robust analog rf circuit design project base posynomi model;iccad;2004
+35910;13;xin li;j le,l pileggi;stac statist time analysi correl;dac;2004
+35911;13;xin li;j wang,l pileggi,t chen,w chiang;perform center optim system level analog design explor;iccad;2005
+35912;13;xin li;y xu,k hsiung,i nausieda,s boyd,l pileggi;opera optim ellipsoid uncertainti robust analog ic design;dac;2005
+35913;13;xin li;p li,f liu,l pileggi,s nassif;model interconnect variabl us effici parametr model order reduct;date;2005
+35914;13;xin li;p li,y xu,l pileggi;hybrid approach nonlinear macromodel gener time vari analog circuit;iccad;2003
+35915;14;xiaobo li;j knipe,h cheng;imag compress encrypt us tree structur;prl;1997
+35916;15;xiangwen li;b wei,z yu,y zhu;hamilton cycl tough triangl free graph;dm;2002
+35917;15;xiangwen li;h lai;group chromat number graph;gc;2005
+35918;15;xiangwen li;h lai;small cycl cover connect cubic graph;dm;2003
+35919;15;xiangwen li;b wei,f yang;degre condit factor bipartit graph;dam;2001
+35920;15;xiangwen li;b wei,f yang;independ cycl bipartit graph;arscom;2004
+35921;15;xiangwen li;h lai,h poon,y ou;span trail connect given edg;gc;2005
+35922;16;xiaoshan li;q long,z liu,j he;consist code gener uml model;aswec;2005
+35923;16;xiaoshan li;;specif simul concurr real time system;pdse;1999
+35924;16;xiaoshan li;z liu,j he;contract orient develop compon softwar;ifiptc;2004
+35925;16;xiaoshan li;j he,z liu,s qin;relat model object orient design;apla;2004
+35926;16;xiaoshan li;a cau,b moszkowski,n coleman,h zedan;prove correct interlock mechan processor design;charm;1997
+35927;16;xiaoshan li;z liu,j he;formal semant uml sequenc diagram;aswec;2004
+35928;16;xiaoshan li;w juan;specifi optim design steam boiler system;dagstuhl;1995
+35929;16;xiaoshan li;z liu,a ravn;unifi proof methodolog durat calculu time linear tempor logic;fac;2004
+35930;16;xiaoshan li;z liu,j he;consist check uml requir;icecc;2005
+35931;16;xiaoshan li;z liu,a ravn;verifi durat properti time transit system;procomet;1998
+35932;16;xiaoshan li;c zhou,d hung;durat calculu infinit interv;fct;1995
+35933;16;xiaoshan li;j yang,q long,z liu;predic semant model integr uml model;ictac;2004
+35934;16;xiaoshan li;j he,z liu;toward refin calculu object system;ieeeicci;2002
+35935;16;xiaoshan li;z liu,j he;formal us case driven requir analysi uml;compsac;2001
+35936;16;xiaoshan li;z liu,j he,q long;gener prototyp uml model system requir;icdcit;2004
+35937;16;xiaoshan li;z liu,z guo;formal object orient analysi design onlin ticket system;apsec;2001
+35938;17;xiang li;h lin;index network constrain trajectori connect base queri;gi;2006
+35939;18;xin li;;symmetr dispar estim distribut code stereo imag;icip;2006
+35940;18;xin li;;blind imag qualiti assess;icip;2002
+35941;18;xin li;;demosa success approxim;tip;2005
+35942;18;xin li;c dai,y zheng;subfram video synchron via 3d phase correl;icip;2006
+35943;18;xin li;m orchard;new edg direct interpol;tip;2001
+35944;18;xin li;l kerofsky,s lei;phase motion compens predict wavelet domain high perform video code;icip;2001
+35945;18;xin li;;new direct video code;vcip;2003
+35946;18;xin li;m orchard;edg direct predict lossless compress natur imag;tip;2001
+35947;18;xin li;a abaza,d nassar,h ammar;fast accur segment dental rai record;icb;2006
+35948;18;xin li;s lei;block base segment adapt code visual lossless compress scan document;icip;2001
+35949;18;xin li;s lei;studi lossless compress comput gener compound imag;icip;2001
+35950;18;xin li;s lei;effici motion field represent wavelet domain;icip;2002
+35951;18;xin li;m orchard;spatial adapt imag denois overcomplet expans;icip;2000
+35952;18;xin li;;low bit rate imag code scale space;dcc;2002
+35953;18;xin li;h yu;transpar robust audio data hide subband domain;itcc;2000
+35954;18;xin li;;improv wavelet decod via set theoret estim;tcsv;2005
+35955;18;xin li;h yu;transpar robust audio data hide cepstrum domain;icmc;2000
+35956;18;xin li;m orchard;edg direct predict lossless compress natur imag;icip;1999
+35957;18;xin li;m orchard;new edg direct interpol;icip;2000
+35958;19;xiuqi li;s chen,m shyu,b furht;effect content base visual imag retriev system;compsac;2002
+35959;19;xiuqi li;j wu;improv search reinforc learn unstructur p2p;icdcsw;2006
+35960;19;xiuqi li;j wu;hybrid search scheme unstructur p2p network;icpp;2005
+35961;19;xiuqi li;j wu;cluster base intellig search unstructur peer peer network;icdcsw;2005
+35962;19;xiuqi li;c haruechaiyasak,m shyu,s chen;web document classif base fuzzi associ;compsac;2002
+35963;19;xiuqi li;s chen,m shyu,s li,b furht;novel hierarch approach imag retriev us color spatial inform;pcm;2002
+35964;19;xiuqi li;b furht;design implement digit librari;imsa;1999
+35965;20;xiaoli li;s tan,s ng;protein interact predict us infer domain interact biolog signific neg dataset;iccsa;2005
+35966;20;xiaoli li;l yi,b liu;elimin noisi inform web page data mine;kdd;2003
+35967;20;xiaoli li;b liu,s ng;learn identifi unexpect instanc test set;ijcai;2007
+35968;20;xiaoli li;j liu,z shi;document classifi base word semant associ;pricai;2000
+35969;20;xiaoli li;b liu,w lee,p yu;partial supervis classif text document;icml;2002
+35970;20;xiaoli li;h wu,t phang,b liu;refin approach handl model misfit text categor;kdd;2002
+35971;20;xiaoli li;b liu;deal differ distribut learn;www;2004
+35972;20;xiaoli li;b liu;learn posit unlabel exampl differ data distribut;ecml;2005
+35973;20;xiaoli li;r joshi,s ramachandaran,t leong;classifi biomed citat without label train exampl;icdm;2004
+35974;20;xiaoli li;y tan,s ng;systemat gene function predict us fuzzi nearest cluster method gene express data;imscc;2006
+35975;20;xiaoli li;b liu,w lee,p yu;text classif label word;aaai;2004
+35976;20;xiaoli li;b liu,y dai,w lee,p yu;build text classifi us posit unlabel exampl;icdm;2003
+35977;20;xiaoli li;z shi;innov web page classif reduc nois;jcst;2002
+35978;21;xiaohua li;;content resolut random access wireless network base orthogon complementari code;tcom;2004
+35979;22;xiang li;n oertel,a kaup;adapt lagrang multipli select intra frame video code;isca;2007
+35980;23;xue li;d chen,z dong,x chen;effect document represent classif;dawak;2005
+35981;23;xue li;e pek,y liu;web wrapper valid;apweb;2003
+35982;23;xue li;x sun,m orlowska;introduc uncertainti pattern discoveri tempor event sequenc;icdm;2003
+35983;23;xue li;y ding;time weight collabor filter;cikm;2005
+35984;23;xue li;x sun,m orlowska;find tempor featur event orient pattern;pakdd;2005
+35985;23;xue li;x sun,m orlowska;find neg event orient pattern long tempor sequenc;pakdd;2004
+35986;23;xue li;z liu,z dong;direct fingerprint multicast compress video;mmm;2005
+35987;23;xue li;j natwichai;knowledg mainten data stream concept drift;ci;2004
+35988;23;xue li;x yan,d song;correl analysi lsa hal semant space model;ci;2004
+35989;23;xue li;;reflect web interfac agent;apweb;2004
+35990;23;xue li;y ding,m orlowska;recenc base collabor filter;adc;2006
+35991;23;xue li;j natwichai,m orlowska;reconstruct base algorithm classif rule hide;adc;2006
+35992;23;xue li;m ali,z dong;effici spatial cluster algorithm us binari tree;ideal;2005
+35993;24;xi li;w liu,n zheng;nonneg matrix factor eeg signal classif;isnn;2004
+35994;25;xiaotong li;k na,j simpson,k kim;uncertainti profil softwar project perform cross nation comparison;jss;2004
+35995;25;xiaotong li;;inform cascad adopt;cacm;2004
+35996;25;xiaotong li;j gupta,j koch;effect technolog breakthrough electron market;ecr;2006
+35997;26;xiaolong li;y zhao,r hu;speedup converg reduc nois enhanc speech separ recognit;taslp;2006
+35998;27;xiaoyan li;j allan,m connell,w croft,f feng,d fisher;inqueri trec;trec;2000
+35999;27;xiaoyan li;w croft;novelti detect base sentenc level pattern;cikm;2005
+36000;27;xiaoyan li;;syntact featur question answer;sigir;2003
+36001;27;xiaoyan li;w croft;time base languag model;cikm;2003
+36002;28;xuechao li;r luo;edg color embed graph larg girth;gc;2003
+36003;29;xiao lin li;s wang,h tang;hybrid data cluster base depend structur gibb sampl;ausai;2006
+36004;29;xiao lin li;s wang,h tang;learn bayesian network structur continu variabl;adma;2006
+36005;29;xiaolin li;x he,s yuan;new method learn bayesian network structur incomplet data;icann;2005
+36006;30;xin li;w cheung,j liu;decompos larg scale pomdp via belief state analysi;iat;2005
+36007;30;xin li;w cheung,j liu;integr valu direct compress belief space analysi pomdp decomposit;iat;2006
+36008;31;xiaobin li;j gaudiot;compil assist chip assign signatur control flow check;apcsac;2004
+36009;31;xiaobin li;j gaudiot;design trade off deadlock prevent transient fault toler smt processor;prdc;2006
+36010;32;xu li;n santoro;integr self deploy coverag mainten scheme mobil sensor network;msn;2006
+36011;32;xu li;a nayak,i ryl,d simplot,i stojmenovic;secur mobil ad hoc rout;aina;2007
+36012;32;xu li;n santoro,i stojmenovic;mesh base sensor reloc coverag mainten mobil sensor network;uic;2007
+36013;33;xiaohuan li;g schuster,a katsaggelos;shape error conceal us hermit spline;tip;2004
+36014;33;xiaohuan li;g schuster,a katsaggelos;spline base boundari loss conceal;icip;2003
+36015;34;xin li;s chang;person learn system base user profil construct us inform fusion;dm;2005
+36016;34;xin li;s chang;user profil chronobot virtual classroom system;seke;2006
+36017;34;xin li;c chang,s chang;face aliv icon;seke;2005
+36018;35;xin li;b liu,p yu;discov overlap commun name entiti;pkdd;2006
+36019;35;xin li;p yu,b liu;tempor dimens search;www;2004
+36020;35;xin li;p yu,b liu;ad tempor dimens search case studi public search;webi;2005
+36021;36;xuchun li;l wang,p xue,k chan;novel framework svm base imag retriev larg databas;mm;2005
+36022;36;xuchun li;l wang,e sung;multi label svm activ learn imag classif;icip;2004
+36023;37;xuelong li;d xu,j liu,z liu,x tang;insignific shadow detect video segment;tcsv;2005
+36024;37;xuelong li;d tao,w hu,s maybank,x wu;supervis tensor learn;icdm;2005
+36025;37;xuelong li;d xu,s yan,d tao,l zhang,h zhang;human gait recognit matrix represent;tcsv;2006
+36026;37;xuelong li;d tao,s maybank,x wu;human carri statu visual surveil;cvpr;2006
+36027;38;xiaomao li;y tang,a freyberg,g goch;automat segment papilla fundu imag base c model shape restraint;icpr;2006
+36028;39;xiao li;j malkin,j bilmes;high speed low resourc asr back end base custom arithmet;taslp;2006
+36029;39;xiao li;j bilmes,j malkin,k kilanski,r wright,k kirchhoff,a subramanya,s harada,j landay,p dowden,h chizeck;vocal joystick voic base human comput interfac individu motor impair;naacl;2005
+36030;40;xiaoping li;q wang;heurist permut flow shop minim total flowtim;cscwd;2006
+36031;41;xuechao li;;averag degre critic graph;arscom;2005
+36032;42;xiaoshan li;j he,z liu;compon base softwar engin;ictac;2005
+36033;43;xing li;l chen,s ye;templat detect larg scale search engin;sac;2006
+36034;44;xin li;j li,h su,h chen,d galbraith;framework integr gene relat heterogen data sourc experi arabidopsi thaliana;bioinformat;2006
+36035;44;xin li;z huang,h chen;link predict approach collabor filter;jcdl;2005
+36036;44;xin li;h chen,z zhang,j li;automat patent classif us citat network inform experiment studi nanotechnolog;jcdl;2007
+36037;45;xinxiao li;c li,s li,g chen;cryptanalysi multistag encrypt system;isca;2005
+36038;46;xiaohu li;j brown;strongli connect reliabl complet digraph;network;2005
+36039;47;xue quan li;b zhang,h li;comput effici solut fuzzi multipl object linear program problem;fss;2006
+36040;48;xin li;t khopkar,p resnick;self select slip salvag slack stone impact neg feedback ebai;sigecom;2005
+36041;48;xin li;f harper,y chen,j konstan;econom model user rate onlin recommend system;;2005
+36042;49;xiao li;w chen,j rong;sensor local obstruct environ;dcoss;2005
+36043;50;xirong li;l chen,l zhang,f lin,w ma;imag annot larg scale content base imag retriev;mm;2006
+36044;51;xiaoman li;l li,a cheng,v jin,h paik,m fan,w zhang,j robarge,c balch,r davuluri,s kim,t huang,k nephew;mixtur model base discrimin analysi identifi order transcript factor bind site pair gene promot directli regul estrogen receptor alpha;bioinformat;2006
+36045;52;xin li;;self emerg structur gene express program;aaai;2005
+36046;53;xiang yang li;o frieder,x jia,y shu;monet special issu non cooper wireless network comput;monet;2005
+36047;54;xuehui li;t kahveci;novel algorithm identifi low complex region protein sequenc;bioinformat;2006

@@ -1,0 +1,264 @@
+@relation 'Dataset dblp title_co-authors mjones'
+@attribute Text string
+@attribute class-att {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13}
+@data
+'multiview project object orient view technolog applic elke a rundensteiner harumi a kuno pedro jos eacute marr oacute n viviane crestana taube young gook ra',10
+'symbol intersect detect method improv spatial intersect join elke a rundensteiner yun wu huang',10
+'improv spatial intersect join us symbol intersect detect elke a rundensteiner yun wu huang',10
+'view materi techniqu complex hierarch object elke a rundensteiner',10
+'schema independ xml databas system chad berkley daniel higgins metacat jivka bojilova',11
+'manag heterogen ecolog data us morpho chad berkley daniel higgins metacat',11
+'manag scientif metadata chad berkley jivka bojilova mark schildhauer',11
+'appear base structur motion us linear class d model sing bing kang',12
+'mont carlo algorithm fast project cluster cecilia magdalena procopiuc pankaj k agarwal t m murali',12
+'toward ghdl eval framework deepli embed simpl hdl hol nan',13
+'brief introduct formal method paul e black kelly m hall michael d jones trent n larson phillip j windley',13
+'alexandria librari abstract verifi hardwar modul annette bunker michael d jones trent n larson phillip j windley',13
+'alexandria tool heirarch verif annette bunker trent larson phil windley',13
+'verifi transact order properti unbound bu network combin deduct algorithm method ganesh gopalakrishnan',13
+'verifi transact order properti unbound bu network combin deduct algorithm method m d jones g gopalakrishnan',13
+'pyramid broadcast fast forward rewind a s jones m d jones m clement q snell',13
+'restrict type hol michael d jones',13
+'toward autom abstract protocol branch network m d jones g gopalakrishnan',13
+'formal proof solut pci bu transact order problem abdel mokkedem ravi hosabettu michael d jones ganesh gopalakrishnan',13
+'increment proof produc consum properti pci protocol airy weinzoepflen dominique cansell dominique m eacute ry ganesh gopalakrishnan',13
+'simplifi improv qualifi type mark p jones',1
+'reactiv object andrew p black johan nordlander magnus carlsson richard b kieburtz',1
+'us parameter signatur express modular structur mark p jones',1
+'polymorph type system extens record variant benedict r gaster mark p jones',1
+'us type pars natur languag mark p jones paul hudak sebastian shaumyan',1
+'monad transform modular interpret paul hudak sheng liang',1
+'system constructor class overload implicit higher order polymorph mark p jones',1
+'us type pars natur languag paul hudak sebastian shaumyan',1
+'implement gofer function program system mark p jones',1
+'theori qualifi type mark p jones',1
+'type class explor design space simon peyton jones erik meijer',1
+'type class function depend mark p jones',1
+'comput lattic applic type class nan',1
+'dictionari free overload partial evalu nan',1
+'dictionari free overload partial evalu nan',1
+'function program overload higher order polymorph nan',1
+'first class polymorph type infer nan',1
+'ml type explicit polymorph qualifi type nan',1
+'integr program properti valid nan',1
+'program constructor class abstract nan',1
+'program constructor class preliminari summari nan',1
+'coher qualifi type mark p jones',1
+'compos monad mark p jones luc duponcheel',1
+'comput lattic applic type class mark p jones',1
+'dictionari free overload partial evalu mark p jones',1
+'type haskel haskel mark p jones',1
+'function program overload higher order polymorph mark p jones',1
+'function java bytecod mark p jones',1
+'hindlei milner type first class structur mark p jones',1
+'monad transform modular interpret sheng liang paul hudak mark p jones',1
+'first class polymorph type infer mark p jones',1
+'implement type class john peterson',1
+'hug haskel user s gofer system user manual mark p jones',1
+'implement type class john peterson mark p jones',1
+'lightweight extens record haskel mark p jones simon peyton jones',1
+'qualifi type theori practic mark p jones',1
+'simplifi improv qualifi type nan',1
+'us parameter signatur express modular structur nan',1
+'system constructor class overload implicit higher order polymorph nan',1
+'theori qualifi type nan',1
+'theori qualifi type nan',1
+'ml type explicit polymorph qualifi type mark p jones',1
+'type class function depend nan',1
+'implicit explicit parallel program haskel mark p jones paul hudak',1
+'oper system direct next millennium christopher w fraser richard draves richard f rashid robert p fitzgerald todd b knoblock william j bolosky',2
+'cpu reserv time constraint effici predict schedul independ activ michael b jones daniela rosu marcel catalin rosu',2
+'support user centric modular real time resourc manag rialto oper system paul j leach richard draves',2
+'cpu reserv time constraint implement experi window nt michael b jones john regehr',2
+'futur distribut embed real time applic will adapt mean challeng research paradigm panel aloysius k mok c douglas locke constance l heitmeyer kevin jeffay ragunathan rajkumar',2
+'modular real time resourc manag rialto oper system michael b jones paul j leach richard p draves joseph s barrera iii',2
+'mach matchmak kernel languag support object orient distribut system richard f rashid',2
+'overview rialto real time architectur michael b jones joseph s barrera iii alessandro forin paul j leach daniela rosu marcel catalin rosu',2
+'oper system support multimedia program model matter john regehr michael b jones john a stankovic',2
+'predict schedul digit audio michael b jones john regehr',2
+'problem re mai problem think re result latenc studi window nt john regehr',2
+'predict schedul soft modem michael b jones stefan saroiu',2
+'problem re mai problem think re result latenc studi window nt john regehr',2
+'predict requir soft modem michael b jones stefan saroiu',2
+'two case studi predict applic schedul us rialto nt john regehr stefan saroiu',2
+'cpu reserv time constraint effici predict schedul independ activ daniela rosu marcel catalin rosu',2
+'predict requir soft modem stefan saroiu',2
+'overlook scalabl name servic overlai network marvin theimer michael b jones',2
+'issu us commod oper system time depend task experi studi window nt michael b jones john regehr',2
+'problem re mai problem think re result latenc studi window nt michael b jones john regehr',2
+'two case studi predict applic schedul us rialto nt michael b jones john regehr stefan saroiu',2
+'bring c librari us multi thread futur michael b jones',2
+'matchmak interfac specif languag distribut process mary r thompson richard f rashid',2
+'consum real time system applic michael b jones',2
+'evalu scalabl applic level multicast built us peer peer overlai alec wolman anne marie kermarrec antony i t rowstron helenj wang marvin theimer miguel castro',2
+'adapt real time resourc manag support composit independ author time critic servic michael b jones',2
+'skipnet scalabl overlai network practic local properti alec wolman marvin theimer nicholas j a harvey stefan saroiu',2
+'inherit unlik place us object build deriv implement flat interfac michael b jones',2
+'interposit agent transpar interpos user code system interfac michael b jones',2
+'microsoft interact tv system experi report michael b jones',2
+'transpar interpos user code system interfac michael b jones',2
+'consum real time system nan',2
+'adapt real time resourc manag support composit independ author time critic servic nan',2
+'adapt real time resourc manag support modular composit digit multimedia servic nan',2
+'interposit agent transpar interpos user code system interfac nan',2
+'interposit agent transpar interpos user code system interfac nan',2
+'toolkit interpos user code system interfac abstract nan',2
+'simpl effici implement small databas andrew birrell edward wobber',2
+'oper system direct next millennium william j bolosky richard p draves robert p fitzgerald christopher w fraser michael b jones todd b knoblock rick rashid',2
+'tiger video fileserv william j bolosky joseph s barrera iii richard p draves robert p fitzgerald garth a gibson michael b jones steven p levi nathan p myhrvold richard f rashid',2
+'herald achiev global event notif servic luis felipe cabrera michael b jones marvin theimer',2
+'vassal loadabl schedul support multi polici schedul george m candea michael b jones',2
+'nan j hess d lee s harper p athanas',3
+'toward activ hardwar david c lee peter m athanas scott f midkiff',3
+'evalu rapid context switch csrc devic david a lehn kiran puttehowda jae h park p athanas',3
+'commun electron textil system tom martin zahi nakad',3
+'solut larg spars system linear equat massiv parallel applic paul e plassmann',3
+'servic backplan textil tom martin zahi nakad',3
+'implement api distribut adapt comput system l scharf j scott c twaddle m yaconis k yao p athanas b schott',3
+'task distribut sensor network shashank mehrotra jae park',3
+'two stage multisplit method overlap block daniel szyld',3
+'examin commun requir remot scientif visual jae park mukta nandwani paul e plassmann yanhua yi',3
+'model piezoelectr crystal intel delta michael tang paul e plassmann tom canfield',3
+'us configur comput scientif simul jae park paul e plassmann yanhua yi',3
+'factor indefinit matric high perform architectur merrell patrick',3
+'vector parallel vector implement lanczo s method gener eigenvalu problem merrell l patrick',3
+'nan nan',3
+'parallel adapt mesh refin techniqu plastic problem william barry paul plassmann',3
+'script base approach commerc applic eloise coupey',3
+'us piezoelectr materi wearabl electron textil joshua edmison tom martin zahi nakad',3
+'us piezoelectr materi wearabl electron textil j edmison z nakad t martin',3
+'parallel algorithm mesh smooth lori a freitag paul e plassmann',3
+'parallel algorithm mesh smooth lori freitag paul plassmann',3
+'scalabl mesh improv algorithm lori freitag paul plassmann',3
+'parallel heurist improv balanc graph color robert gjertsen paul plassmann',3
+'comput result parallel unstructur mesh comput paul plassmann',3
+'adapt refin unstructur finit element mesh paul plassmann',3
+'algorithm fortran subroutin comput improv incomplet choleski factor paul plassmann',3
+'improv incomplet choleski factor paul plassmann',3
+'unstructur mesh comput network workstat p plassmann',3
+'parallel heurist improv balanc graph color paul e plassmann robert k gjertsen',3
+'parallel algorithm adapt mesh refin paul plassmann',3
+'parallel solut unstructur spars system linear equat paul e plassmann',3
+'recent result model type superconductor massiv parallel comput paul e plassmann',3
+'scalabl iter solut spars linear system paul e plassmann',3
+'spatial hypertext reader tool digit librari g buchanan a blandford h thimbleby',4
+'sort search small screen devic george buchanan harold w thimbleby',4
+'hyperat hci web author c eacute cile rigny harold w thimbleby yin leng theng',4
+'m tool p curzon a blandford g marsden',4
+'us rel durat larg vocabulari speech recognit p c woodland',4
+'new user interfac metaphor mobil person technolog e delgaldo p gough r noble p stenton',4
+'search interfac handheld web browser g buchanan',4
+'digit librari convers express help profoundli disabl user commun h dunlop s j cunningham',4
+'sort search small screen devic g buchanan h thimbleby',4
+'chang pace search support background inform need p jain g buchanan',4
+'site base outlin small screen web access g marsden n mohd nasir g buchanon',4
+'convent art web exhibit new electron art form nan',4
+'hyperat hci web author y l theng c rigny h thimbleby',4
+'us acoust level prosod larg vocabulari speech recognit nan',4
+'larg small screen digest g marsden',4
+'lost hyperspac psycholog problem bad design y l theng h thimbleby',4
+'ubiquit comput cellular handset menu best wai forward g marsden',4
+'evalu webtwig site outlin handheld web access n mohd nasir g buchanon',4
+'improv conceptu design better hypertext y l theng c rigny h thimbleby',4
+'ubiquit comput cellular handset menu best wai forward g marsden',4
+'reduc inform overload compar studi hypertext system y l theng h thimbleby',4
+'data structur design interfac gary marsden harold w thimbleby paul gillary',4
+'nan h thimbleby a blandford p cairns p curzon m finlay jones d etienne eds j',4
+'explor small screen digit librari access greenston digit librari gary marsden george buchanan',4
+'obituari fax harold w thimbleby',4
+'improv mobil internet usabl gary marsden george buchanan harold w thimbleby michael j pazzani sarah farrant',4
+'empow consum usabl certif h thimbleby g marsden',4
+'usabl analysi markov model h thimbleby p cairns',4
+'lost hyperspac lost controversi h thimbleby y l theng',4
+'creativ digit librari i h witten d bainbridge s j cunningham',4
+'mobil interfac web access web mobil g buchanan g marsden',4
+'model syllabl characterist improv larg vocabulari speech recognis p c woodland',4
+'exploit variabl width featur larg vocabulari speech recognit p c woodland',4
+'improv web interact small screen displai g marsden n mohd nasir k boone',4
+'improv web interact small displai gary marsden george buchanan kevin boone norliza mohd nasir',4
+'improv web search small screen devic g buchanan h thimbleby',4
+'success user interfac design effici comput algorithm g marsden h thimbleby p gillary',4
+'unit author reader activ link world wide web nan',4
+'us mobil devic vari pace search gary marsden george buchanan preeti jain',4
+'natur languag knowledg base m phil nan',4
+'us algorithm interfac design g marsden p gillary h thimbleby',4
+'product paradox nan',4
+'special issu social issu bonnie nardi elizabeth mynatt',4
+'prepar new ubiquit comput g marsden',4
+'us auditori feedback call centr comput human human interact a steel m apperley',4
+'us mobil devic vari pace search p jain g buchanan g marsden',4
+'children design partner tester children s digit librari david bainbridge george buchanan harold w thimbleby noel cassidy norliza mohd nasir yin leng theng',4
+'cognit task graph execut user model better hypertext y l theng c rigny h thimbleby',4
+'ethic govern internet j berleur p duquenoy d whitehouse',4
+'children design partner tester children s digit librari y l theng n mohd nasir g buchanan d bainbridge h thimbleby',4
+'spatial hypertext reader tool digit librari ann blandford george buchanan harold w thimbleby',4
+'design children s digit librari children y l theng n mohd nasir h thimbleby g buchanan',4
+'special issu multimod interact mobil wearabl comput stephen brewster',4
+'nan g buchanan h thimbleby s farrant',4
+'design tool hypertext author y l theng h thimbleby',4
+'design children s digit librari children george buchanan harold w thimbleby norliza mohd nasir yin leng theng',4
+'explor small screen digit librari access greenston digit librari g buchanan g marsden',4
+'evalu webtwig site outlin handheld web access george buchanan norliza mohd nasir',4
+'spatial hypertext reader tool digtial librari g buchanan a blandford h thimbleby',4
+'nan nan',5
+'don t emancip exagger rhetor realiti reengin nan',5
+'groupwar social infrastructur commun s eacute amas kelly',5
+'limit knowabl organiz design knowledg system develop geoff walsham',5
+'structur develop structur analysi develop execut inform system joe nandhakumar',5
+'long wind road collabor organis chang helena karsten',5
+'import nearest nearshor softwar outsourc global discours pamela abbott',5
+'interorganiz system trust strateg allianc marios v karahannas',5
+'move finger us social theori wg confer paper nan',5
+'probabilist parser appli softwar test document jason eisner',6
+'conceptu depend montagu grammar step toward concili david scott warren',6
+'kitss knowledg base translat system test scenario van e kelly',6
+'flexibl list manag directori dimitra vista divesh srivastava h v jagadish',6
+'us descript logic kbse system experi report premkumar t devanbu',6
+'us descript logic kbse system premkumar t devanbu',6
+'activ base pars nan',6
+'feedback coindex mechan connectionist architectur nan',6
+'model base match line draw linear combin prototyp tomaso poggio',7
+'multidimension morphabl model tomaso poggio',7
+'robust real time face detect paul a viola',7
+'cluster base statist model object detect paul a viola thomas d rikert',7
+'fast robust classif us asymmetr adaboost detector cascad paul a viola',7
+'statist color model applic skin detect james m rehg',7
+'hierarch morphabl model tomaso poggio',7
+'statist color model applic skin detect james m rehg',7
+'extend hypertextur non geometr defin data r satherley m w jones',8
+'volum express artist model render dataset min chen richard satherley steve m f treavett',8
+'shape represent us space fill sub voxel distanc field richard satherley',8
+'method metamorphosi m chen m w jones p townsend',8
+'voxelis model graphic richard satherly',8
+'new approach construct surfac contour data m chen',8
+'theori practis comput graphic m w jones ed',8
+'th eurograph uk confer m w jones ed',8
+'acceler techniqu render m w jones',8
+'acceler techniqu render m w jones',8
+'direct surfac render gener genet bred implicit surfac m w jones',8
+'facial reconstruct us volumetr data m w jones',8
+'fast cut oper three dimension dataset m w jones m chen',8
+'space subdivis finit element mesh t simpson m w jones',8
+'glossari m w jones',8
+'volum express artist model render dataset s m f treavett m chen r satherley m w jones',8
+'voxelis polygon mesh m w jones',8
+'global illumin volumetr data set c whyley m w jones',8
+'voxelis model graphic m w jones r satherley',8
+'melt object m w jones',8
+'effici shadow detect algorithm direct surfac render visualis model m w jones',8
+'new approach construct surfac contour data m w jones m chen',8
+'shape represent us space fill sub voxel distanc field m w jones r satherley',8
+'us distanc field object represent render m w jones r satherley',8
+'product data triangular mesh us voxelis m w jones',8
+'hybrid distanc field comput r satherley m w jones',8
+'hypertextur complex object r satherley m w jones',8
+'hypertextur complex object r satherley m w jones',8
+'facial reconstruct us volumetr data nan',8
+'vector citi vector distanc transform r satherley m w jones',8
+'product data triangular mesh us voxelis nan',8
+'distort morph us disk field min chen peter townsend',8
+'enhanc instruct capabl intellig tutor system jim e greer permanand mohan',9
+'comput analog ken wellsch',9
+'ai approach educ editori nan',9
+'bring marketplac success experi minimalist design carl gutwin kim massie adolphe patrick brackett',9
+'student model genet graph approach barbara brecht',9

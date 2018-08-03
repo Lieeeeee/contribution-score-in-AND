@@ -1,0 +1,802 @@
+@relation 'Dataset dblp publish-venue_co-authors cchen'
+@attribute Text string
+@attribute class-att {128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 125, 126, 127}
+@data
+'ieee softwar d kung j samuel j gao p hsia y toyoshima',94
+'ieee comput d leung j gao y toyoshima',94
+'journal system softwar d kung j gao p hsia y toyoshima',94
+'commun acm d kung j gao p hsia y toyoshima y song y kim',94
+'hase d kung j gao p hsia y toyoshima',94
+'icsm intern softwar mainten d kung f wen j gao p hsia y toyoshima',94
+'compsac intern comput softwar applic d kung j gao p hsia y toyoshima',94
+'compsac intern comput softwar applic d leung j gao y toyoshima',94
+'compsac intern comput softwar applic d kung j gao p hsia y toyoshima',94
+'technic report univers t chen h kim',95
+'ieee transact comput aid design integr circuit system tcad pp t chen c luk',95
+'ieee acm intern comput aid design iccad intern comput aid design t chen c luk h kim',95
+'ieee acm design autom dac design autom d wong',95
+'ieee acm intern comput aid design iccad intern comput aid design t chen c luk',95
+'ieee intern symposium circuit system isca ieee intern symposium circuit system r jiang t chen',95
+'design autom test europ and exhibit date design autom test europ r jiang',95
+'design autom test europ and exhibit date design autom test europ r jiang',95
+'nan h kim',95
+'great lake symposium vlsi veri larg scale integr glsvlsi y lee',95
+'ieee transact circuit system i tca i pp y lee d wong',95
+'ieee acm intern comput aid design iccad intern comput aid design n murugesan t lee s hagness',95
+'asian south pacif design autom asp dac design autom y lee h lai',95
+'design autom test europ and exhibit date design autom test europ y lee',95
+'ieee transact comput aid design integr circuit system tcad pp y lee',95
+'nan c luk',95
+'twelfth intern vlsi veri larg scale integr design n menezes',95
+'ieee transact comput aid design integr circuit system tcad j tsai t chen',95
+'acm intern symposium physic design ispd intern symposium physic design j tsai t chen',95
+'ieee transact comput aid design integr circuit system tcad pp t wang',95
+'acm intern symposium physic design ispd intern symposium physic design best paper award t wang y lee',95
+'acm intern symposium physic design ispd intern symposium physic design t wang j tsai',95
+'th intern symposium qualiti electron design isq t wang',95
+'design autom test europ and exhibit date design autom test europ t wang j tsai',95
+'ieee intern symposium circuit system isca ieee intern symposium circuit system d wong',95
+'intern comput design iccd intern comput design s balakrishnan j park h kim y lee',95
+'isq e cheng',95
+'ieee acm design autom dac design autom y cao y lee t chen',95
+'intern comput design iccd intern comput design p ganesh',95
+'iccd intern comput design h kim j park s balakrishnan y lee',95
+'ieee acm intern comput aid design iccad intern comput aid design y lee',95
+'ieee transact comput aid design integr circuit system tcad pp y lee',95
+'iccad intern comput aid design n murugesan s hagness t lee',95
+'ieee acm design autom dac design autom t chen',95
+'rd intern symposium qualiti electron design isq t wang',95
+'acm intern symposium physic design ispd intern symposium physic design slide t wang',95
+'ieee transact veri larg scale integr system tvlsi pp t wang',95
+'dac design autom t chen y cao y lee',95
+'ieee acm design autom dac design autom n menezes',95
+'ieee acm intern comput aid design iccad intern comput aid design h zhou d wong',95
+'ieee acm design autom dac design autom y chen d wong',95
+'ieee acm design autom dac design autom d wong',95
+'ieee transact comput aid design integr circuit system tcad pp c chu d wong',95
+'ieee acm intern comput aid design iccad intern comput aid design c chu d wong',95
+'ieee acm design autom dac design autom y chang d wong',95
+'integr rule base neural network assembl plan nan',96
+'comput aid design volum number s xie',96
+'journal alloi compound y cao s leclair',96
+'nan s xie a system',96
+'neurocomput intern journal s leclair y pao',96
+'ieee tran system man cybernet smc y pao',96
+'engin design autom crc press nan',96
+'ieee tran system man cybernet j wan',96
+'ieee tran neural network nan',96
+'journal mathemat model scientif comput principia scientia s leclair y pao',96
+'nan nan',96
+'neural network design manufactur edit j wang yoshiyasu takefuji world scientif publish inc nan',96
+'artifici intellig engin design analysi manufactur c wichman',96
+'ieee tran system man cybernet smc nan',96
+'ieee transact robot autom ra c lee c mcgillem',96
+'asm press c dagli m akay b fernandez j ghosh',96
+'asm press c dagli m akay b fernandez j ghosh',96
+'ieee transact neural network p guo m lyu',96
+'journal modern optic p guo a awwal',96
+'journal smart engin system franci t guo d mattern l jaw',96
+'ieee tran system man cybernet part b p guo',96
+'nan nan',96
+'intern journal comput mathemat applic pergamon press q he h li e lee',96
+'neurocomput s leclair y pao',96
+'ieee tran system man cybernet smc c lee',96
+'fuzzi set system elsevi scienc h li',96
+'intern journal comput mathemat applic pergamon press h li e lee',96
+'intern journal comput mathemat applic pergamon press h li v yen e lee',96
+'crc press isbn page h li h huang',96
+'intern journal mathemat analysi applic h li e lee',96
+'intern journal mathemat analysi applic h li e lee',96
+'artifici intellig engin design analysi manufactur nan',96
+'ieee tran neural network h li',96
+'intern journal fuzzi system h li',96
+'ieee transact system man cybernet part b m lyu p guo',96
+'intern journal fuzzi system v schmidt',96
+'comput commun elsevi scienc y xiao b wang',96
+'multiaccess mobil teletraff wireless commun volum edit gordon l st ber bijan jabbari kluwer academ publish y xiao y wang',96
+'ieic transact commun special issu multimedia commun e b y xiao y wang',96
+'journal intellig manufactur h kamhawi s leclair',96
+'comput aid design q yan z tang',96
+'comput aid design q yan z tang',96
+'journal intellig manufactur t e westhoven c l p chen y h pao s r leclair nan',96
+'ieee tran system man cybernet smc c lee e hou',96
+'ieee tran system man cybernet b y lu',96
+'comput aid design s leclair',96
+'comput aid design s leclair',96
+'ic ai artifici intellig v schmidt',96
+'mascot intern symposium model analysi simul comput telecommun system y wang y xiao',96
+'mascot intern symposium model analysi simul comput telecommun system y xiao',96
+'comput aid design s xie',96
+'neural network comput intellig c bhumireddy',96
+'ph d dissert nan',97
+'bit r chang',97
+'journal combinatori optim nan',97
+'discret mathemat c chang g chang',97
+'discret mathemat f hwang j lee s shih',97
+'discret mathemat l hsu e jean',97
+'journal global optim v f hwang m liao',97
+'appear journal combinatori optim g chang y chen',97
+'network v f hwang',97
+'theor comput sci nan',97
+'theoret comput sciencec nan',97
+'ieee transact comput f hwang',97
+'journal interconnect network f hwang',97
+'journal combinatori optim nan',97
+'ieee tran comput f hwang',97
+'cccg canadian comput geometri s lin',97
+'theor comput sci k wu',97
+'discret appli mathemat r chan z hong',97
+'combinator comput scienc nan',97
+'bit r chang',97
+'theoret comput scienc k wu',97
+'journal interconnect network f hwang',97
+'mathemat comput model j wang j lee c mao',98
+'optic engin w chen',98
+'g mathemat comput model j lee',98
+'comput mathemat applic j guo j lee j tsai',98
+'signal process j kuo j lee',98
+'pattern recognit j lee y sun',98
+'g icemi beij g lee',98
+'ijprai intern journal pattern recognit artifici intellig j lee j lee y you',98
+'g tamkang journal scienc engin j lee m lin',98
+'mathemat comput model j lee j lee',98
+'g ieic tran inform system e c lin',98
+'g th ippr comput vision graphic imag process c lin j lin g g',98
+'ieic is e d w lin j lee y sun',98
+'signal process w lin j lee y sun',98
+'g th multimedia technolog applic symposium mta kaohsiung r o c w lin j lee g g',98
+'fifth symposium comput commun technolog b b c lin j lin g g',98
+'proceed the nation scienc council republ part physic scienc engin t tu',98
+'g ieee tran geoscienc remot sens t tu j wu c chang',98
+'g ieee tran geoscienc remot sens t tu c chang',98
+'ieee tran geoscienc remot sens t tu c chang',98
+'g ieic tran fundament ecc e c wang',98
+'g intern comput symposium workshop ippr c wang k wang g g',98
+'intern workshop wavelet statist north carolina u s j wang',98
+'ieic tran fundament ecc e j wang',98
+'g intern comput system technolog industri applic internet multimedia tsinchu roc c wang g g',98
+'g nation symposium commun p c wang c wong g g',98
+'g sci scalabl coher interfac caraca t tu g g',98
+'g optic engin c wang g glo',98
+'g electron letter c wang i chen',98
+'ieic tran inform system e d c wang c hsieh',98
+'g th multimedia technolog applic symposium mta kaohsiung c wang y tsai g g',98
+'g pattern recognit letter j wang w chien c tsai g gte',98
+'th nation fussi theori applic tainan r o c k wu j lee',98
+'g journal fuzzi system k wu j lee',98
+'g control intellig system vo c c chang i manousaka y r pu s m liang c h chen t j wu',98
+'g proceed the iast intern model identif control innsbruck j wu g g',98
+'g proceed ieee intern inform technolog code comput j wu g g',98
+'g journal urolog s chen c kuo f yu z chu',98
+'g ieee tran circuit system part c c chang s m liang y r pu c h chen i manousaka t j wu g g',98
+'mathemat comput model k wu j lee j ko',98
+'ieee intern smc u s k wu j lee',98
+'sci scalabl coher interfac caraca d yang',98
+'g ieee tran circuit system video technolog d yang g gda',98
+'caip comput analysi imag pattern c yu j guo y yu y sun',98
+'v simal anim experi g journal urolog s chen f yu w yang y tong c kuo',98
+'g cvgip graphic model imag process w chen g g',98
+'g th intern conf distribut multimedia system w chen g g',98
+'g optic engin t m chang y h lin c h chen y n sun n t chu j y w chen g g',98
+'g proceed th jci joint inform scienc w chen j lin g g',98
+'caip comput analysi imag pattern j guo r hsu y sun',98
+'infocom confer comput commun c laih j lee l harn',98
+'jci joint inform scienc j lin w chen',98
+'icpad intern parallel distribut system c lin r chen',98
+'pattern recognit letter c tsai j wang w chien',98
+'iciap g tseng j lee y sun',98
+'comput applic bioscienc r altman',99
+'bioinformat j singh r altman',99
+'ismb intellig system molecular biologi j schmidt j cooper r altman',99
+'supercomput j singh r altman w poland',99
+'ppsc siam parallel process scientif comput j singh r altman',99
+'recomb j singh r altman',99
+'journal comput biologi j singh r altman',99
+'uai uncertainti artifici intellig j singh r altman w poland',99
+'dcc data compress c tsai g tang w chang',100
+'icra intern robot autom w chang',100
+'iccv intern comput vision j cheng y hung',100
+'iccv intern comput vision c yu y hung',100
+'vrst virtual realiti softwar technolog c hsieh c tang c yu s shih y hung',100
+'mach vi appl c fuh k hung y hung y chen',100
+'journal visual comput anim s lin y hung y tsai',100
+'ieee transact pattern analysi machin intellig j cheng y hung',100
+'ftc symposium fault toler comput a somani',101
+'icpp intern parallel process a somani',101
+'ipp intern parallel process symposium a somani c wittenbrink j hwang k cooper l shapiro r johnson r haralick',101
+'isca intern symposium comput architectur a somani',101
+'ieee tran comput nan',101
+'ieee tran comput f lin',101
+'ieee tran comput a somani',101
+'ieee tran comput a somani',101
+'algorithmica a srivastava e bozorgzadeh m sarrafzadeh',102
+'iccd intern comput design m sarrafzadeh',102
+'iccad intern comput aid design m sarrafzadeh x yang',102
+'iccad intern comput aid design m sarrafzadeh',102
+'date design autom test europ m sarrafzadeh',102
+'ispd intern symposium physic design nan',102
+'vlsi veri larg scale integr design nan',102
+'proc isca ieee intern symposium circuit system d wong',103
+'ieee acm intern comput aid design c chu d wong',103
+'proc th ieee acm design autom d wong',103
+'vlsi veri larg scale integr n menezes',103
+'iccad intern comput aid design c chu d wong',103
+'dac design autom n menezes',103
+'dac design autom d wong y chang',103
+'iccad intern comput aid design d wong h zhou',103
+'dac design autom d wong',103
+'dac design autom d wong y chen',103
+'dac design autom d wong',103
+'proc th ieee acm design autom dac design autom y chang d wong',103
+'proc th ieee design autom n menezes',103
+'ieee acm intern comput aid design h zhou d wong',103
+'proc th ieee acm design autom y chen d wong',103
+'proc th ieee acm design autom d wong',103
+'nan s analysis',104
+'visual interfac digit librari k borner',104
+'jcdl acm ieee joint digit librari k borner',104
+'hypertext l carr',104
+'proceed the th acm hypertext hypertext m czerwinski',104
+'journal the american societi inform scienc technolog r paul b oaakeefe',104
+'proceed the st intern system scienc hicss intern system scienc ieee comput societi nan',104
+'ieee comput r paul',104
+'proceed the th intern human comput interact hci human comput interact intern t cribbin',104
+'proceed the th ifip intern feder inform process world comput congress intern softwar theori practic y yu',104
+'journal comput mediat commun r rada',104
+'journal human comput studi m czerwinski',104
+'journal the american societi inform scienc m czerwinski r macredie',104
+'journal the american societi inform scienc nan',104
+'proceed the intern system scienc hicss intern system scienc ieee comput societi j davies',104
+'human comput interact r rada',104
+'ieee multimedia l thomas j cole',104
+'proceed the th ifip intern feder inform process world comput congress g gagaudakis p rosin',104
+'proceed the th acm hypertext hypertext nan',104
+'proceed the th acm hypertext hypertext l carr',104
+'ieee multimedia j cole l thomas',104
+'proceed spie intern societi optic engin intern societi optic engin t cribbin',104
+'proceed the th ifip intern feder inform process tc human comput interact interact intern human comput interact hiros m ed tokyo ifip intern feder inform process t cribbin',104
+'proceed the th intern human comput interact hci human comput interact intern t cribbin',104
+'int j hum comput stud m czerwinski',104
+'jasi journal the american societi inform scienc m czerwinski r macredie',104
+'hicss intern system scienc j davies',104
+'nan i environment',104
+'nan v introduction',104
+'nan l jacobs',104
+'int j hum comput stud j kuljis r macredie t cribbin',104
+'jasist journal the american societi inform scienc j kuljis',104
+'jasist journal the american societi inform scienc r macredie s morar t cribbin',104
+'nan w modeling',104
+'jasist journal the american societi inform scienc b keefe r paul',104
+'ieee comput r paul',104
+'nan a reality',104
+'int j hum comput stud y yu',104
+'int j hum comput stud a zeb r rada',104
+'bc british comput societi hci human comput interact nan',104
+'inform visual nan',104
+'hci human comput interact nan',104
+'ai artifici intellig soc nan',104
+'jcdl acm ieee joint digit librari k borner',104
+'visual interfac digit librari k borner',104
+'ieee visual l carr',104
+'iv l carr',104
+'j vi lang comput nan',104
+'journal visual languag comput nan',104
+'interact comput nan',104
+'interact comput j newman r newman r rada',104
+'proceed ieee visual l carr',104
+'iv nan',104
+'inform process manag nan',104
+'interact comput nan',104
+'new review hypermedia multimedia m czerwinski',104
+'webnet j cole l thomas',104
+'hypertext m czerwinski',104
+'visual visual inform inform system nan',104
+'new review hypermedia multimedia m czerwinski',104
+'webnet m forsyth',104
+'iv g gagaudakis p rosin',104
+'icpr intern pattern recognit g gagaudakis p rosin',104
+'visual semant web v geroimenko',104
+'inf process manag nan',104
+'iv n lobo',104
+'interact comput j newman r newman r rada',104
+'nan i web',104
+'inform visual nan',104
+'hicss intern system scienc l wilcox',104
+'inform visual nan',104
+'inform visual nan',104
+'dac design autom nan',105
+'iccd intern comput design nan',105
+'iccd intern comput design j lee j yuen',105
+'iccd intern comput design j yuen',105
+'isss intern symposium system synthesi nan',105
+'ieee tran comput a kumar',105
+'iccad intern comput aid design nan',105
+'pattern recognit nan',106
+'pattern recognit nan',106
+'proceed spie intern societi optic engin applic digit imag process xv edit andrew g terscher san diego t tsai',106
+'ieee proceed confer comput vision pattern recognit san diego r dubes',106
+'pattern recognit letter c huang',106
+'imag vision comput new zealand palmerston north y wang',106
+'journal inform scienc engin r dubes',106
+'proceed the th ippr dah ban gern taipei counti nan',106
+'pattern recognit letter nan',106
+'ieee proceed the th int l pattern recognit brisban nan',106
+'proceed spie intern societi optic engin int l electron imag multimedia technolog iii shainhai nan',106
+'proceed intern comput symposium hsinchu nan',106
+'proceed the th chines imag process pattern recognit workshop wu lye taipei counti nan',106
+'ieee proceed data compress snowbird j hsieh',106
+'ieee workshop consum electron taipei h chu',106
+'proceed iast j luo',106
+'proceed the th chines imag process pattern recognit workshop guu guan taichung counti nan',106
+'journal inform scienc engin nan',106
+'pattern recognit t cheng c huang',106
+'journal inform scienc engin h chu',106
+'proceed the chines imag process pattern recognit workshop tainan c chang',106
+'proceed spie intern societi optic engin int l visual comminuc imag process perth h chu',106
+'present ieee intern workshop comsum electron taipei h chu',106
+'ieee proceed the int l imag process ta h chu',106
+'proceed the th chines ippr workshop wann li h chu',106
+'workshop the wce ieee consum electron societi hsinchu h chu',106
+'ieee proceed the th int l pattern recognit atalant citi new r dubes a jain s nadabar',106
+'imag process pattern recognit chines s wang y chen',106
+'ieee proceed the th int l pattern recognit a jain r dubes',106
+'ieee tran pattern anal machin intel pami c c chen r c dube a k jain letter the editor a jain r dubes',106
+'proceed spie intern societi optic engin applic digit imag process xvi edit andrew g terscher san diego j luo',106
+'proceed spie intern societi optic engin applic digit imag process xvi edit andrew g terscher san diego j luo',106
+'proceed the th chines ippr workshop kent ping dong y wang',106
+'pattern recognit j yang',106
+'ieee proceed int l system man cybernet woodhil r dubes',106
+'lectur note comput scienc lnc nan',106
+'proceed spie intern societi optic engin intern societi optic engin intellig robot comput vision xiii edit david p casas nan',106
+'proceed the th canadian imag process pattern recognit b c y chen',106
+'ieee pacif rim multimedia nan',106
+'proceed ieee intern pattern recognit barcelona h chu',106
+'comput amp graphic h chu',106
+'data compress h chu',106
+'icip intern imag process h chu',106
+'pattern recognit letter nan',106
+'pattern recognit letter nan',106
+'ieee tran parallel distrib syst s lee',107
+'ieee tran parallel distrib syst s lee',107
+'pattern recognit letter h lu y chen',107
+'icpp intern parallel process s lee',107
+'ipp intern parallel process symposium s lee',107
+'parallel comput nan',107
+'real time system intern journal time critic comput system s cheng',108
+'ijca intern journal comput their applic s cheng',108
+'proc the ieee intern comput commun s hwang a agrawala',108
+'int journal network manag c li s cheng',108
+'proc the ieee workshop fault toler parallel distribut system s tripathi s cheng',108
+'proc the intern societi comput their applic isca intern symposium comput architectur intern comput applic industri engin s tripathi',108
+'proc the intern associ scienc technolog develop iast intern appli model simul optim s tripathi',108
+'procc the isca intern symposium comput architectur intern parallel distribut comput s tripathi',108
+'int journal network manag c li s cheng',108
+'intern journal comput their applic ii s hwang s tripathi',108
+'comput process chines orient languag intern journal the chines languag comput societi w tsai',108
+'icpp intern parallel process a blackmore s tripathi',108
+'comput j s cheng',108
+'proc the st intern inform commun signal process icic intern inform commun signal process signapor s cheng j hwang',108
+'real time system j hwang s cheng',108
+'j comput syst sci s tripathi s cheng',108
+'proc the intern parallel process s tripathi a blackmore',108
+'intern parallel distribut process techniqu applic la vaga k hsieh',109
+'th intern workshop graph theoret concept comput scienc como lectur note comput scienc j chen',109
+'siam societi industri appli mathemat j comput j chen',109
+'siam societi industri appli mathemat journal comput j chen',109
+'first ieee intern algorithm architectur parallel process j chen',109
+'first ieee intern algorithm architectur parallel process j chen',109
+'tatung journal j chen',109
+'ieee transact parallel distribut system j chen',109
+'technic report j chen',109
+'ieee tran comput j chen',109
+'th intern parallel process symposium j chen',109
+'ieee tran parallel distrib syst j chen',109
+'wg workshop graph theoret concept comput scienc j chen',109
+'er intern conceptu model entiti relationship approach c zaniolo',110
+'icd intern data engin c zaniolo j kong',110
+'icd intern data engin c zaniolo',110
+'ddlp c zaniolo',110
+'web ag inform manag a malhotra',110
+'ieee tran parallel distrib syst d agrawal j burke',111
+'telecommun system d agrawal j burke',111
+'icoin intern inform network k li',111
+'ieee tran comput d agrawal j burke t lee',111
+'j parallel distrib comput d agrawal j burke',111
+'vldb veri larg data base n roussopoulos',112
+'sigmod intern manag data n roussopoulos',112
+'ieee data eng bull a delis n roussopoulos s kelley y papakonstantinou',112
+'edbt extend databas technolog n roussopoulos',112
+'icdc intern distribut comput system k salem m livny',112
+'iea industri engin applic aie artifici intellig expert system c hong h fan',113
+'iea industri engin applic aie artifici intellig expert system c hong h fan',113
+'iea industri engin applic aie artifici intellig expert system c hwang h lee',113
+'appl intel h lee',113
+'neurocomput h lee t huang',113
+'icpp intern parallel process w lin',114
+'ipdp intern parallel distribut process symposium w lin',114
+'isca intern symposium comput architectur c liao',114
+'inf process lett b wang g chen',114
+'hpcn european intern high perform comput network europ t kan',114
+'comput physic nan',115
+'keynot address at network system user group nexu xxiv d tolmie',115
+'spie intern societi optic engin high speed fiber network channel proceed d tolmie',115
+'broadband foc lan san francisco d tolmie',115
+'compcon san francisco d tolmie',115
+'proceed the silicon vallei network j toy',115
+'spie intern societi optic engin high speed fiber network channel proceed j toy p casper e al',115
+'electron l waller',115
+'electron engin time r weiss t costlow',115
+'ee time p a wolfe',115
+'computerworld iss p j ambrosio',115
+'siam societi industri appli mathemat j discret math b carlson d meliksetian',115
+'microprocess microprogram iss i chlamtac a ganz m kienzle',115
+'comput network isdn system iss i chlamtac m kienzle',115
+'ieee transact comput i chlamtac a ganz m kienzle',115
+'proceed the third high speed network i chlamtac a ganz m kienzle',115
+'scienc new p nan',115
+'technic report rc ibm i chlantac a ganz',115
+'electron engin time iss t costlow',115
+'present at interfac r cummings',115
+'network world iss p j duffy',115
+'comput technolog review iss p m ferelli',115
+'ieee network w franta j hughes',115
+'comput physic w franta j halpern j hughes',115
+'journal high speed network thi paper wa also includ proceed the annual workshop veri high speed network w franta j hughes',115
+'journal high speed network w franta j hughes',115
+'comput daili nan',115
+'busi commun review iss l gasman',115
+'santa fe crai user group d getchell',115
+'spie intern societi optic engin high speed fiber network channel proceed t gilbert',115
+'compcon san francisco k hardwick',115
+'network world iss p b hastings',115
+'datam iss k herbst',115
+'supercomput review k herbst',115
+'computerworld c hildebrand',115
+'risc world b homan c stoops',115
+'ieee tran parallel distrib syst s hsiao',115
+'proceed the third gigabit testb workshop w john d massey',115
+'lo alamo nation laboratori w john',115
+'supercomput proceed c jung d advani',115
+'telephoni iss r karpinski',115
+'univers comput scienc csd r katz p chen e al',115
+'supercomput proceed t kwan j terstriep',115
+'proceed the ieee th local comput network q ma p steenkiste',115
+'ieee intern parallel process symposium lo angel j mahdavi g huntoon m mathis',115
+'nan a mazyad',115
+'compcon san francisco w mcfarland e al',115
+'busi commun review iss thi articl wa also re publish proceed the th annual next gener network broadband network marriott gatewai d c j mcquillan',115
+'telecommun system d meliksetian m ayyaz',115
+'telecommun system d meliksetian m ayyaz',115
+'ieee tran parallel distrib syst d meliksetian',115
+'proceed the third gigabit testb workshop c n',115
+'comput technolog review iss e ohrenstein',115
+'comput technolog review iss e ohrenstein',115
+'proceed ieee local comput network j renwick',115
+'ieee leo summer topic meet digest gigabit network k al',115
+'spie intern societi optic engin high speed fiber network channel proceed p rupert',115
+'lightwav s scully',115
+'electron j shandle',115
+'supercomput proceed r singh e al',115
+'nan l sloan',115
+'supercomput review n smith',115
+'proceed the th ifip intern feder inform process high perform network lieg p steenkiste b zill h kung s schlick j hughes b kowalski j mullaney',115
+'proceed the ieee st annual intern symposium comput p steenkiste m hemy t mummert b zill',115
+'ieee comput p steenkiste',115
+'proceed the third gigabit testb workshop p steenkiste',115
+'lo alamo nation laboratori r thomsen',115
+'ieee lightwav telecommun system special issu gigabit network technic challeng applic d tolmie',115
+'proceed the dod fiber optic photon d tolmie',115
+'networld interop engin s d tolmie',115
+'comput high energi physic chep anneci d tolmie',115
+'silicon vallei network and exhibit d tolmie',115
+'ieee network magazin comput commun d tolmie j renwick',115
+'proceed the thirti seventh ieee comput societi intern compcon san francisco d tolmie m halvorson',115
+'th ieee symposium mass storag system d tolmie',115
+'dac design autom m aloqeely',115
+'dac design autom b carlson',115
+'discret appli mathemat b carlson d meliksetian',115
+'ieee data eng bull c chang p berra t little',115
+'icpp intern parallel process y chung',115
+'j parallel distrib comput a ghafoor',115
+'hpdc high perform distribut comput symposium a ghafoor p berra t little',115
+'dac design autom b halpin n sehgal',115
+'iccd intern comput design j acken q wu',115
+'iccad intern comput aid design c hou',115
+'dac design autom c hou',115
+'icpp intern parallel process c hsia',115
+'isca ieee intern symposium circuit system c hsia',115
+'ipp intern parallel process symposium s hsiao',115
+'isca ieee intern symposium circuit system j acken n seghal',115
+'acm great lake symposium vlsi veri larg scale integr b krishna n sehgal',115
+'ieee acm tran netw j luciani',115
+'proceed the ieee th local comput network a mazyad',115
+'iccad intern comput aid design i ahmad',115
+'icpp intern parallel process d meliksetian',115
+'multimedia syst d meliksetian l liu m chang',115
+'ieee acm tran netw d meliksetian g makhoul',115
+'sigmetr measur model comput system d meliksetian',115
+'ieee transact multimedia d meliksetian f yu',115
+'sigmetr measur model comput system d meliksetian',115
+'edac etc euroas i ahmad m dhodhi',115
+'icc intern commun d meliksetian t kiprulu',115
+'dac design autom m moricz',115
+'icpp intern parallel process m mudawwar',115
+'icci intern comput inform k nwosu p berra',115
+'j intel inf syst k nwosu p berra',115
+'dac design autom u singh',115
+'ieee acm tran netw a almazyad s hsiao',115
+'proceed the intern cooper inform system coopi new new c lee c ke j chang y chen',116
+'perform evalu c lee c ke',116
+'journal databas manag c lee c ke',116
+'proceed the intern databas expert system applic dexa databas expert system applic zurich c lee c ke y chen',116
+'proceed the first workshop comput c lee c ke',116
+'proceed the fifth workshop comput c ke c lee',116
+'proceed nation comput symposium nc taipei r o c c ke',116
+'proceed the sixth workshop comput c ke c lee',116
+'proceed the workshop distribut system technolog applic c ke c lee',116
+'proceed the third workshop comput c ke c lee',116
+'technic report c lee c ke',116
+'technic report c lee c ke',116
+'proceed the fourth intern data manag mdm ieee intern data manag melboun c lee c ke',116
+'aina advanc inform network applic c lee c ke',116
+'mda c lee',116
+'perform eval c lee c ke',116
+'proceed the intern databas expert system applic dexa databas expert system applic c lee c ke',116
+'data manag c lee c ke',116
+'icpad intern parallel distribut system c shann t huang',117
+'icpad intern parallel distribut system g lai',117
+'icpad intern parallel distribut system c wu d pean',117
+'icpad intern parallel distribut system d pean g lai',117
+'icpad intern parallel distribut system d pean j wu',117
+'journal visual commun imag represent sci scalabl coher interfac ei nsc e c hsu',118
+'state univers nan',118
+'proceed proceed intern comput symposium nan',118
+'ieee transact comput sci scalabl coher interfac ei nsc e r chen c yang',118
+'proceed proceed intern comput design c yang',118
+'ieee transact industri electron sci scalabl coher interfac y zheng',118
+'journal intellig robot system vo s stitt y zheng',118
+'nsc e t nan',118
+'proceed th vlsi veri larg scale integr design cad symposium y chen',118
+'journal robot system vol y zheng',118
+'comput aid geometr design y zheng',118
+'nsc e c chichyang',118
+'nsc e c chichyang',118
+'nsc e c chichyang',118
+'electron letter t stouraitis',118
+'ieee proceed e t stouraitis',118
+'proceed proceed cvgip comput vision graphic dimag process c wang',118
+'proceed proceed ieee intern robot autom y zheng',118
+'proceed proceed ieee intern robot autom y zheng r pei',118
+'journal the chines institut electr engin vo k cho',118
+'journal feng chia k cho s chiang',118
+'ieee proceed vision imag signal process ei s chiang',118
+'proceed proceed ic imag process charact recognit s chiang',118
+'state univers nan',118
+'proceed proceed ieee intl symposium consum electron t lin',118
+'proceed proceed cvgip comput vision graphic imag process c hsu',118
+'proceed proceed ieee intern robot autom y zheng',118
+'pattern recognit letter sci scalabl coher interfac nsc e c wang',118
+'pattern recognit letter c hsu t lin',118
+'pattern recognit letter c wang',118
+'ieee tran comput c yang r chen',118
+'icra intern robot autom y zheng',118
+'informatica k chang s liao',119
+'intern journal softwar engin knowledg engin k chang r chapman s liao',119
+'seke softwar engin knowledg engin k chang s liao s seidman',119
+'acm southeast region k chang r chapman',119
+'webnet k liao y hsu',120
+'webnet h wu y hsu',120
+'webnet d yarger j boysen y hsu',120
+'webnet d yarger r thomas y hsu',120
+'edac etc euroas s gupta',121
+'dac design autom s gupta',121
+'ieee tran comput s gupta',121
+'itc intern test s gupta',121
+'comput j i chen',122
+'perform eval i chen s cheng',122
+'multimedia syst i chen s cheng',122
+'winter simul i chen s cheng',122
+'iccd intern comput design k kucukcakar',123
+'isss intern symposium system synthesi k kucukcakar',123
+'iccad intern comput aid design k kucukcakar',123
+'date design autom test europ j gong k kucukcakar',123
+'lfc nan',125
+'inf process lett i lin',125
+'theor comput sci i lin',125
+'theor comput sci r sinha r bhatia',126
+'compsac intern comput softwar applic a umar m moghadam t lin',126
+'pod symposium principl databas system nan',126
+'ssdbm statist scientif databas manag r sinha r bhatia',126
+'ieee tran knowl data eng r sinha r bhatia',126
+'ieee tran knowl data eng r sinha',126
+'edbt extend databas technolog r sinha r bhatia',126
+'comput j r sinha r bhatia',126
+'sigmod intern manag data c petrone m pucci m mesiti m cochinwala p santa s samtani',126
+'dolap intern workshop data wareh olap e yueh m cochinwala',126
+'compsac intern comput softwar applic d liu',126
+'hicss intern system scienc d liu y huang y lin',126
+'ride research issu data engin dm c basu c behrens d basu m post n stofel',126
+'icd intern data engin y ling',126
+'icd intern data engin r sinha',126
+'icd intern data engin r sinha r bhatia',126
+'icdt intern databas theori r sinha r bhatia',126
+'iccd intern comput design i tollis',127
+'isca ieee intern symposium circuit system i tollis',127
+'isca ieee intern symposium circuit system i tollis',127
+'concurr practic experi j lee r chang t chuang',128
+'ispan j lee',128
+'pdpta parallel distribut process techniqu applic j lee',128
+'intern journal artifici intellig tool s yang',129
+'annal softwar engin c chu c lan i chen k shen s yang',129
+'ieee tran knowl data eng j tsai s yang',129
+'iccd intern comput design c wu d saab',130
+'iccad intern comput aid design d saab',130
+'iccad intern comput aid design c wu d saab',130
+'workshop machin learn inform retriev user model user model y sun',131
+'journal intellig inform system y sun',131
+'nation comput symposium k wu',131
+'journal inform process manag k wu y sun',131
+'th european machin learn ecml european machin learn y chen y sun',131
+'kdd knowledg discoveri data mine y sun',131
+'micro intern symposium microarchitectur c king y chen',132
+'euro par ii c king',132
+'ieee tran comput c king',132
+'bioinformat t j c chen d d w wang z z w wang t t',133
+'physica c kendziorski j bassingthwaighte p tonellato',133
+'genom research a black p tonellato d chen j handley y cheng s twigger t scheetz t casavant m stoll m nobrega m shiozawa m soares v sheffield h jacob',133
+'agricultur water manag d lomen a warrick t j',133
+'genom j lu a black h jacob p tonellato',133
+'natur genet k m c cowley a w g greene a s s stoll m m s salgado h c j jacob h j t j',133
+'journal leukocyt biologi d nash p tonellato m swiersz a p',133
+'annal biomed engin a popel a greene c ellis k ley t skalak p tonellato',133
+'annal biomed engin m rieder d drobinak p tonellato a greene',133
+'genom research ap ap r steen a black c glenn j handley w van o atkinson d appel s twigger m muir t mull m granados m kissebah k russo r crane m popp m peden t matise d brown j lu s kingsmore p tonellato s rozen d slonim p young m knoblauch a provoost d ganten s coleman j rothberg e lander h jacob',133
+'mammalian genom m thomas m seaman p tonellato s twigger',133
+'amer physiolog societi p tonellato c kendziorski a cowley',133
+'quarterli appli mathemat p tonellato',133
+'pixel magazin scientif visual p tonellato a greene',133
+'journal molecular medicin b s twigger j lu m shimoyama d pasko p long j ginster r nigam d chen z wang a black j eppig d maglott g schuler f stahl g levan h jacob p tonellato',133
+'technic report agricultur engin soil scienc depart soil water engin univers a warrick d lomen t j',133
+'genom g c h l k t r m h b g u k m h h b mt k k t s t pj j hj s lc l k g d l h k m',133
+'physiolog research p a cowley r roman g j t a j p',133
+'physiolog genom press a cowley s stoll g m k s r l t j s p j j',133
+'proceed design physiom project a cowley t j',133
+'american journal physiolog heart circulatori physiolog h h a greene p tonellato j lui j lombard c w',133
+'american journal physiolog heart circulatori physiolog h h a greene p tonellato j lombard a cowley',133
+'annal biomed engin n h t j g s',133
+'nucleic acid re s twigger j lu m shimoyama d chen d pasko h long j ginster r nigam a black j eppig l maltais d maglott g schuler h jacob p tonellato',133
+'ieee tran comput nan',133
+'ieee tran comput d bossen l chang',133
+'ieee tran comput d tang',133
+'inform control e weldon w peterson',134
+'inform control nan',134
+'inform control s lin',134
+'vldb veri larg data base c yu k lam m siu',135
+'sigmod intern manag data c yu',135
+'ieee tran softwar eng c yu k lam m siu',135
+'acm multimedia z wu',136
+'dcw j bu x wang',136
+'cscw comput support cooper work j bu x wang',136
+'ieee transact pattern analysi machin intellig m arrott t huang',137
+'icip intern imag process l cao',137
+'icip intern imag process e ashton j weisberg k parker l ketonen m berg',137
+'data compress j cai',137
+'data compress l cao',137
+'ieee pacif rim multimedia j wang',137
+'icip intern imag process h li',137
+'icip intern imag process j luo k parker t huang',137
+'icip intern imag process j luo k parker t huang',137
+'icip intern imag process j luo k parker t huang',137
+'icip intern imag process l fan',137
+'icip intern imag process j zhou y wang y yu',137
+'icip intern imag process j luo k parker',137
+'icip intern imag process h li j luo',137
+'iccad intern comput aid design c liu t hwang',138
+'dac design autom c liu t hwang',138
+'dac design autom k lin t hwang',138
+'ipmi inform process medic imag c wu m wernick',139
+'ipmi inform process medic imag j aarsvold w wong x pan',139
+'icpad intern parallel distribut system w lin',140
+'parallel comput w lin',140
+'fuzzi set system nan',141
+'inf sci h hsu',141
+'ieee comput m trivedi s marapane',142
+'advanc comput m trivedi',142
+'icpp intern parallel process m yu r lee',143
+'icpp intern parallel process m yu r lee',143
+'ipdp intern parallel distribut process symposium b liu j chame m hall n baradaran p diniz r lucas y lee',144
+'ic intern supercomput c kang c steele i gokhan j chame j shin j lacoss j draper j granacki m hall t barrett',144
+'iccad intern comput aid design j abraham',145
+'itc intern test j abraham',145
+'fourth intern inform commun signal process fourth pacif rim multimedia icic intern inform commun signal process pcm nan',146
+'ieee pacif rim multimedia c lin i ting w ho',146
+'third ieee pacif rim multimedia c lin i ting w ho',146
+'intern workshop advanc imag technolog k tsai',146
+'first intern workshop intellig multimedia comput network immcn k tsai',146
+'fifth artifici intellig applic k tsai',146
+'ijc k tsai',146
+'comput commun pp c tseng',146
+'ieee icoin intern inform network c tseng',146
+'icoin intern inform network nan',146
+'th intern distribut multimedia system c tseng j liu',146
+'ieee intern e technolog e e servic c fang d liang p lin',146
+'journal system softwar sci scalabl coher interfac elsevi scienc inc d liang c fang s yuan g jan',146
+'apsec d liang c fang f lin',146
+'poster present packet video c lin w ho',146
+'network sci scalabl coher interfac john wilei son inc c tseng',146
+'apsec c fang d liang f lin',146
+'ieee compsac intern comput softwar applic intern comput softwar applic d liang c fang j tsai',146
+'icpad intern parallel distribut system w huang w chen',147
+'icpad intern parallel distribut system w huang w chen',147
+'comput j h lin',148
+'compsac intern comput softwar applic d lin r lee',148
+'inf syst c chang r lee',148
+'inf syst c chang',148
+'bit h lin',148
+'bit c chang',148
+'ieee tran knowl data eng h lin r lee',148
+'coda second intern symposium cooper databas system advanc applic d lin r lee',148
+'ssdbm statist scientif databas manag c chang',148
+'comput j c chang h chen',148
+'comput j c chang j jan',148
+'comput j c chang',148
+'comput j c chang',148
+'inf syst c chang r lee',148
+'dac design autom c visweswariah r chadha',149
+'dac design autom f chang p subramaniam',149
+'infocom confer comput commun s banerjee',150
+'infocom confer comput commun s banerjee',150
+'acm transit model comput simul k inoue s chick',151
+'journal discret event dynam system theori applic j lin e yucesan s chick',151
+'journal intellig manufactur y luo m spielberg',151
+'intern journal smart engin system design y luo m spielberg',151
+'journal discret event dynam system theori applic l shi',151
+'simul theori e yucesan i lee y luo',151
+'model simul base life cycl engin k chong s saigal s thynel ed s spon press london nan',151
+'journal simul practic theori e yucesan y luo i lee',151
+'iie transact e yucesan l dai',151
+'ieee transact automat control e yucesan',151
+'journal optim theori applic l dai j birge',151
+'journal simul practic theori k donohue e yucesan j lin',151
+'journal oper research societi y ho c cassandras l dai',151
+'ieee transact robot autom b hsieh s chang',151
+'winter simul nan',151
+'winter simul e yucesan l dai y yuan',151
+'winter simul e yucesan i lee y luo',151
+'annual simul symposium e yucesa j lin k donohue',151
+'winter simul e yucesan i lee',151
+'winter simul e yucesan l shi',151
+'winter simul l dai',151
+'icra intern robot autom b hsieh s chang',151
+'winter simul e yucesan l dai',151
+'winter simul e yucesan j lin',151
+'ieee tran parallel distrib syst s das s prasad',152
+'ieee tran parallel distrib syst h youn',152
+'icci intern comput inform s das',152
+'icci intern comput inform g lewis s das s prasad',152
+'icpp intern parallel process s das',152
+'icpp intern parallel process s das',152
+'ipp intern parallel process symposium s das',152
+'ipp intern parallel process symposium s das',152
+'parl parallel architectur languag europ s das',152
+'inf process lett s das s akl',152
+'inf process lett s das',152
+'ibm journal research develop b tolan f freie g wellwood i modi l alves m fair n weber p meaney w clarke',153
+'ftc symposium fault toler comput l grosbach',153
+'ibm journal research develop d bossen m hsiao',153
+'ibm journal research develop m hsiao',153
+'ibm journal research develop r rutledge',153
+'ibm journal research develop d tang',153
+'ftc symposium fault toler comput nan',153
+'isca intern symposium comput architectur nan',153
+'ieee tran comput nan',153
+'ieee tran comput nan',153
+'jcdl acm ieee joint digit librari d nagel j lightbourne s howe s griffin w warnick',154
+'jcdl acm ieee joint digit librari s chen',154
+'webnet nan',154
+'essen symposium nan',154
+'jcdl acm ieee joint digit librari c lee j yeh v soo',154
+'jcdl acm ieee joint digit librari h wactlar',154
+'essen symposium nan',154
+'essen symposium d raitt',154
+'jcdl acm ieee joint digit librari c lee s chen v soo',154

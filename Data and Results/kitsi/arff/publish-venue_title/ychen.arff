@@ -1,0 +1,306 @@
+@relation 'Dataset kitsi publish-venue_title ychen'
+@attribute Text string
+@attribute class-att {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71}
+@data
+'sigcomm toward unbias end end network diagnosi',1
+'icdc resili flow level intrus detect approach high speed network',1
+'infocom end end infer router packet forward prioriti',1
+'icnp cluster web content effici replic',1
+'imc sketch base chang detect method evalu applic',1
+'pervas sahara model servic composit across multipl provid',1
+'sigmetr stabil network distanc estim',1
+'pervas scan dynam scalabl effici content distribut network',1
+'iptp dynam replica placement scalabl content deliveri',1
+'cga idgraph intrus detect analysi us stream composit',1
+'icic quantifi network denial servic locat servic case studi',1
+'asplo oceanstor architectur global scale persist storag',1
+'ca physic base anim volumetr object',1
+'infocom revers hash high speed network monitor algorithm evalu applic',1
+'imc tomographi base overlai network monitor',1
+'imc revers sketch effici accur chang detect network data stream',1
+'sigcomm algebra approach practic scalabl overlai network monitor',1
+'infocom suit scheme user level network diagnosi without infrastructur',1
+'vizsec idgraph intrus detect analysi us histograph',1
+'ijsek guest editor s introduct',2
+'webi concept learn text document',2
+'kb us object trajectori analysi facilit index retriev video',2
+'apbc analyz inconsist toward enhanc integr biolog molecular databas',2
+'acsc extens detect index highlight event broadcast sport video',2
+'apweb detect collus attack secur protocol',2
+'icmc classif self consum highlight soccer video summari',2
+'webi find short pattern classifi text document',2
+'ke similar search algorithm predict protein structur',2
+'ke multi level semant analysi sport video',2
+'mm content base video index sport applic us integr multi modal approach',2
+'ke yet anoth induct algorithm',2
+'pricai mine frequent itemset protein kinas regul',2
+'metmb side chain conform prefer protein structur',2
+'webi automat pattern taxonomi extract web mine',2
+'ideal surfac spatial index structur high dimension space',2
+'dasfaa new index method high dimension dataset',2
+'ausai analyz secur protocol us associ rule mine',2
+'compsac testabl softwar servic orient architectur',3
+'icdcsw vote multi dimension data deviat web servic group test',3
+'sose soa base pipelin system deal astronomi telescop data',3
+'isorc architectur classif soa base applic',3
+'icd effici xpath queri processor xml stream',3
+'icd vitex stream xpath process system',3
+'qsic stochast vote algorithm web servic group test',3
+'otm model store scientif protocol',3
+'infsof binari analysi autom hot patch web base applic',3
+'word specif base verif valid web servic servic orient oper system',3
+'cikm xkvalid constraint valid xml',3
+'wecwi global softwar enterpris new softwar construct architectur',3
+'compsac adapt web servic test',3
+'anss servic schedul trustworthi system',3
+'icd qpiad queri process incomplet autonom databas',3
+'compsac cooper group test verif dynam composit web servic',3
+'anss simul verif valid dynam polici enforc',3
+'iceb ucsoa user centric servic orient architectur',3
+'anss dynam collabor simul servic orient comput paradigm',3
+'iceb soa collabor model analysi simul psml c',3
+'sose rtsoa real time servic orient architectur',3
+'edbtw l tree dynam label structur order xml data',3
+'iceb distribut polici specif enforc servic orient busi system',3
+'icd design evalu xpath dialect linguist queri',3
+'sigmod bla effici xpath process system',3
+'sose perspect servic orient comput servic orient system engin',3
+'compsac autonom hot patch web base applic',3
+'awcc test web servic us progress group test',3
+'jss structur orient depend evalu fault toler protocol',3
+'simpra servic orient model simul framework rapid develop distribut applic',3
+'ftc model softwar oper reliabl via input domain base reliabl growth model',3
+'qsic verif framework dynam collabor servic servic orient architectur',3
+'ieeescc store discov critic workflow log scientif explor',3
+'sigmod identifi meaning return inform xml keyword search',3
+'anss simul highli depend applic distribut comput environ',3
+'iceb pi4soa polici infrastructur verif control servic collabor',3
+'word progress rank composit web servic us cover arrai',3
+'vldb queri process incomplet autonom databas',3
+'cikm expedit system encod xml process',3
+'sose infrastructur web servic migrat real time applic',3
+'compsac adapt test oracl gener test case rank web servic',3
+'ieeesp collabor internet worm contain',4
+'lcn filter shrew ddo attack frequenc domain',4
+'jpdc collabor detect filter shrew ddo attack us spectral analysi',4
+'icc gridsec trust grid comput secur bind self defens network worm ddo attack',4
+'icdcsw mafic adapt packet drop cut malici flow push back ddo attack',4
+'cikm local method estim pagerank valu',5
+'webdb design implement geograph search engin',5
+'cikm effici techniqu comput pagerank',5
+'vldb graph theoret model optim queri involv method',6
+'coopi minim resourc consumpt multidatabas queri optim',6
+'dasfaa graph theoret model optim larg join queri',6
+'dexaw object signatur support effici navig object orient databas',6
+'icpr qualiti base score level fusion multibiometr system',7
+'avbpa fingerprint qualiti indic predict authent perform',7
+'wacv fingerprint deform model us minutia locat orient',7
+'icb incorpor imag qualiti multi algorithm fingerprint verif',7
+'icpr pore ridg fingerprint match us level featur',7
+'islp cascad carri select adder c2sa new structur low power csa design',8
+'aspdac prioriti assign optim minim current surg high perform power effici clock gate microprocessor',8
+'jgt minimum vertex diamet critic graph',9
+'jct triangl free hamiltonian kneser graph',9
+'combinatorica hamiltonian kneser graph',9
+'acta weakest specifunct',10
+'ictac gener c code log specif',10
+'ifm integr tempor logic',10
+'utp hierarch organis predic semant model',10
+'csl fixpoint theori non monoton parallel',10
+'ppl top design bulk synchron parallel program',10
+'mpc composit reason pointer structur',10
+'icfem durat specif tla design time automata',10
+'topla logic global synchroni',10
+'tc fixpoint theori non monoton parallel',10
+'concur logic global synchroni',10
+'ppl weakest specifunct bsp',10
+'fac gener composit',10
+'corr flexibl camera calibr us new analyt radial undistort formula applic mobil robot local',11
+'sigpro robust control interv fraction order linear time invari system',11
+'corr ration radial distort model analyt undistort formula',11
+'corr analyt piecewis radial distort model precis camera calibr',11
+'sigpro new iir type digit fraction order differenti',11
+'icra visual servo omni direct mobil robot align park lot line',11
+'tsmc relai feedback tune robust pid control iso damp properti',11
+'corr famili simplifi geometr distort model camera calibr',11
+'corr blind detect compens camera len geometr distort',11
+'corr camera calibr usu implement',11
+'sigpro robust stabil check fraction order linear time invari system interv uncertainti',11
+'dac microarchitectur awar floorplan us statist design experi approach',12
+'ipp us incorrect specul prefetch data concurr multithread processor',12
+'tpd impact incorrectli specul memori oper multithread architectur',12
+'rsp state prune test vector gener multiprocessor cach coher protocol',12
+'aspdac effici gener test vector state prune',12
+'apcsac enhanc memori perform embed system flexibl sequenti random access memori',12
+'jcst novel memori structur embed system flexibl sequenti random access memori',12
+'ipp cost driven hybrid configur prefetch partial reconfigur coprocessor',12
+'hicss busi franchis research propos',13
+'ipm simon yule approach bibliometr model',13
+'jasi booth s law word frequenc',13
+'ipm analysi lotka s law simon yule approach',13
+'ipm analysi zipf s law index approach',13
+'hicss enhanc uml conceptu model us virtual realiti',13
+'icnc improv nearest neighbor classif simul gravit collaps',14
+'pr fuzzi aggreg connected imag segment',14
+'icip textur classif us statist geometr featur',14
+'paa classifi imag textur statist landscap featur',14
+'ijprai textur classif us fractal dimens',14
+'ijprai artifici life imag segment',14
+'fskd pattern classif us rectifi nearest featur line segment',14
+'icnc evolutionari system applic automat imag segment',14
+'npl associ cluster cluster arbitrari distribut shape',14
+'icnc genet algorithm chromosom repair techniqu polygon approxim digit curv',14
+'pr statist geometr featur textur classif',14
+'icpr statist landscap featur textur classif',14
+'rsfdgrc back propag random cost function train neural network',14
+'prl improv backpropag learn limit precis',14
+'tsmc us cluster skeleton prototyp data label',14
+'cg d if fractal real time graphic model',14
+'ijon mini max initi function approxim',14
+'pr improv nearest neighbor classif cam weight distanc',14
+'ijon rai guid global optim method train neural network',14
+'ictai subgoal order granular control increment plan',15
+'ijcai constraint partit solv plan problem trajectori constraint goal prefer',15
+'aip autom plan schedul us calculu variat discret space',15
+'tkde regress cube lossless compress aggreg',15
+'cp optim anytim constrain simul anneal constrain global optim',15
+'ijcia hybrid evolutionari anneal algorithm nonlinear discret constrain optim',15
+'iat novel ant cluster algorithm base cellular automata',15
+'aina partit optim algorithm multipl sequenc align',15
+'ictai constrain global optim constraint partit simul anneal',15
+'ictai partit tempor plan problem mix space us theori extend saddl point',15
+'ictai constrain genet algorithm applic nonlinear constrain optim',15
+'jair tempor plan us subgoal partit resolut sgplan',15
+'cp solv larg scale nonlinear program problem constraint partit',15
+'pakdd step step regress effici altern polynomi multipl linear regress stream cube',15
+'cj effici parallel algorithm euclidean distanc transform',15
+'ijcai long distanc mutual exclus proposit plan',15
+'tj fast effici parallel hough transform algorithm larpb',15
+'pami multicu hmm ukf real time contour track',16
+'icmi improv inform maxim base face facial featur detect real time video applic multi modal person identif system',16
+'accv hierarch segment represent dynam link architectur neural network',16
+'cvpr coupl bayesian framework dual energi imag registr',16
+'icip hierarch mrf model model base multi object track',16
+'iccv mutual inform regular bayesian framework multipl imag restor',16
+'icip class svm learn imag retriev',16
+'icip basi pursuit track',16
+'cvpr better propos distribut object track us unscent particl filter',16
+'icip optim radial contour track dynam program',16
+'fgr mode base multi hypothesi head track us parametr contour',16
+'icra multi agent base dynam schedul flexibl assembl system',17
+'tc constant time sort reconfigur mesh',18
+'ijnm enabl locat base servic wireless lan hotspot',18
+'icpp reduc time complex semigroup comput mesh connect comput multipl broadcast',18
+'gc degre sum path factor graph',19
+'dam new proof wojcicka s conjectur',19
+'dam note acycl domin number graph diamet two',19
+'ejc ramsei number star versu wheel',19
+'ejc or type condit cyclabl',19
+'icpp scalabl heterogen comput',20
+'isnn novel gener congruenc neural network',20
+'ccgrid qo orient resourc reserv share environ',20
+'ipp improv data access perform server push architectur',20
+'isnn novel exponenti stabil criteria fuzzi cellular neural network time vari delai',20
+'webnet proxi base person portal',21
+'tse c inform abstract system',21
+'icsm ciao graphic navig softwar document repositori',21
+'iwpc us automat cluster produc high level system organ sourc code',21
+'softwar visual analyz softwar infrastructur',21
+'wcre chava revers engin track java applet',21
+'metric softwar reus metric industri project',21
+'cn webguid queri navig chang web repositori',21
+'ics chime customiz hyperlink insert mainten engin softwar engin environ',21
+'gecco evolutionari model ordinari differenti equat dynam system',21
+'ec converg time linkag learn genet algorithm',22
+'gecco ftxi fault toler xc integ',22
+'gecco introduc recombin dynam linkag discoveri particl swarm optim',22
+'gecco enhanc innov fusion chanc discoveri evolutionari comput foster creativ process decis make',22
+'gecco evolutionari interact music composit',22
+'gecco adapt discret probabilist model build genet algorithm',22
+'gecco real code ecga econom dispatch',22
+'ep appli famili competit evolut strategi constrain optim',22
+'gecco analysi reorder oper tournament select ga hard problem',22
+'ppsn introduc start express gene linkag learn genet algorithm',22
+'soco stochast sketch new method global optim',22
+'gecco modifi linkag learn genet algorithm difficult non stationari problem',22
+'gecco induc sequenti us grammat genet code',22
+'gecco iecga integ extend compact genet algorithm',22
+'gecco tight time linkag learn genet algorithm',22
+'gecco modifi linkag learn genet algorithm difficult non stationari problem',22
+'gecco genet algorithm design inspir organiz theori pilot studi depend structur matrix driven genet algorithm',22
+'cisst reconstruct fusion multi modal spinal imag',23
+'jct rel differ set fix invers caylei graph',24
+'vlc biomed visual',25
+'rsctc rough set multipl criteria abc analysi',26
+'cor multipl criteria classif applic water resourc plan',26
+'infocom attack detect wireless local',27
+'dcoss robust local algorithm signal strength attack compar studi',27
+'tkde bayesian network knowledg base authent',28
+'pr parallel architectur probabilist relax oper imag',29
+'tsd explor corefer resolut ac entiti detect recognit task',30
+'cicl automat time express label english chines text',30
+'naacl detect entiti mention occur english chines text',30
+'icdcsw perform improv tcp vega heterogen network',31
+'ftdc distribut buffer manag approach support ipv6 mobil',31
+'icdcsw enhanc buffer manag scheme fast handov protocol',31
+'robvi comparison featur measur kinet studi human bodi',32
+'lisa specif enhanc polici autom manag chang system',33
+'dl prototyp implement archiv intermemori',33
+'im autom avail manag driven busi polici',33
+'im sml model base manag',33
+'ieeeam activ broker runtim deploy echo jecho distribut event system',33
+'nar epigenet regul human reelin promot',34
+'appml note domin minu domin number cubic graph',35
+'bmcbi optim cdna microarrai design us express sequenc tag organ limit genom inform',36
+'bmcbi multivari predict model microarrai cross hybrid',36
+'iccv fast algorithm nearest neighbor search base lower bound tree',37
+'ivc simpl effici method calibr motor zoom len',37
+'icpr camera calibr motor zoom len',37
+'icpr winner updat algorithm nearest neighbor search',37
+'cvpr ego motion estim us optic flow field observ multipl camera',37
+'tip fast block match algorithm base winner updat strategi',37
+'sopr softwar product line process simul',38
+'iwps us simul facilit studi softwar product line evolut',38
+'sigmod join cach stochast stream',39
+'infocom find disjoint path singl dual link cost network',40
+'mascot measur explain differ wireless simul model',40
+'nan econom model user rate onlin recommend system',41
+'jco vertex tree arbor graph',42
+'waim integr secur manag web base enterpris applic',43
+'chi system administr user design workspac manag internet scale system',44
+'podc partit approach failur detector k set agreement',45
+'compsac agent base metric qualiti servic wireless network',46
+'jss new object orient method integr jackson structur program method',47
+'infsof formal verif valid commerc theori best practic',48
+'cascon specif base regress test select risk analysi',48
+'cascon effect test metric test strategi evolut',48
+'aai intellig sensor fusion learn autonom robot navig',49
+'nar ensembl genom databas project',50
+'ispw evolv experi base softwar process research',51
+'infocom find self similar opportunist peopl network',52
+'msn improv bluetooth edr data throughput us fec interleav',52
+'mm yoda adapt soft classif model content base similar queri beyond',53
+'aaai theaterloc virtual applic',53
+'dni web inform person challeng approach',53
+'dpd adapt recommend system without explicit acquisit user relev feedback',53
+'tcom distribut function select combin output equal correl rayleigh rician nakagami m fade channel',54
+'pakdd mine frequent spatial pattern imag databas',55
+'isa measur depend web servic us scienc experi',56
+'acst effici search algorithm partial order set',57
+'adhoc maintain weakli connect domin set cluster ad hoc network',58
+'dac advanc techniqu rtl debug',59
+'tc systol algorithm k nearest neighbor problem',59
+'sttt verif arithmet circuit us binari moment diagram',59
+'dac verif arithmet circuit binari moment diagram',59
+'acms explor common hierarch cluster algorithm',60
+'imd induct food servic industri',61
+'network duplic address detect wireless ad hoc network us wireless natur',62
+'cor quickest path problem',63
+'vldb cach consciou frequent pattern mine modern processor',64
+'smc develop fulli autom cryosect imag registr system',65
+'agentcl us color petri net convers model',66
+'wise map dtd object orient schema',67
+'irma toward understand behavior intent us groupwar applic',68
+'ftdc approach isochron slot reus multimedia servic dqdb network',69
+'jodl machin annot retriev digit imageri histor materi',70
+'nan understand evolut nsaid knowledg domain visual approach evid base medicin',71

@@ -1,0 +1,1269 @@
+@relation 'Dataset dblp publish-venue ychen'
+@attribute Text string
+@attribute class-att {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71}
+@data
+'th design autom confer',10
+'ieee th intern logic synthesi',10
+'dac design autom confer',10
+'asp dac design autom confer',10
+'iccad intern confer comput aid design',10
+'design autom confer',10
+'dac design autom confer',10
+'proceed th intern confer comput aid verif',10
+'intern journal softwar tool technolog transfer',10
+'proceed formal method comput aid design',10
+'tech report cmu cs school comput scienc carnegi mellon univers',10
+'proceed asian pacif design autom confer aspdac',10
+'iccad intern confer comput aid design',10
+'proceed asian pacif design autom confer aspdac',10
+'ieee tran comput',10
+'ieee transact comput aid design integr circuit system',10
+'tech report cmu cs school comput scienc carnegi mellon univers',10
+'proceed intern symposium vlsi larg scale integr technolog system applic',10
+'proceed intern confer comput aid design',10
+'tech report cmu cs school comput scienc carnegi mellon univers',10
+'proceed intern confer comput aid design',10
+'ieee tran comput',10
+'fmcad formal method comput aid design',10
+'appli soft comput',11
+'proc ieee intern confer industri electroni control instrument nagoya',11
+'proc th int conf neural inform process shanghai',11
+'methodolog concept design applic soft comput ed t yamakawa g matsumoto world scientif',11
+'proc th int conf neural inform process shanghai',11
+'radiat c japanes',11
+'proc int tech conf circuit system comput commun tokushima',11
+'proc ieee int conf system man cybernet tokyo w',11
+'review scientif instrument press sci scalabl coher interfac',11
+'proc int tech conf circuit system comput commun ed z nakao y w chen',11
+'methodolog concept design applic soft comput ed t yamakawa g matsumoto world scientif',11
+'proc ieee int conf system man cybernet tokyo',11
+'imag process algorithm system spie intern societi optic engin press',11
+'seal simul evolut learn',11
+'proc int tech conf circuit system comput commun ed z nakao y w chen',11
+'proc spie intern societi optic engin',11
+'proc ieee int conf system man cybernet tokyo w',11
+'jpn j appl phy sci scalabl coher interfac',11
+'j opt soc b sci scalabl coher interfac',11
+'ieic tran fundament sci scalabl coher interfac',11
+'ieee tran sci scalabl coher interfac',11
+'proc int conf nonlinear scienc border millenium saint p',11
+'neural network signal process ed s usui et ieee press',11
+'proc th int conf pattern recognit w',11
+'proc ieee rd int conf evolutionari comput nagoya',11
+'rev sci instrum sci scalabl coher interfac',11
+'proc ieee intern confer industri electroni control instrument nagoya ei',11
+'rev sci instrum sci scalabl coher interfac',11
+'proc th int conf pattern recognit',11
+'proc joint technic confer circuit system comput commun kumamoto',11
+'lectur note artifici intellig ed yao j h kim t furuhashi springer',11
+'proc int fuzzi system intellig control conf hawai',11
+'j jpn soc fuzzi theo sy',11
+'fuzzi logic applic complex system edit w chiang j lee world scientif',11
+'appl opt',11
+'proc intern confer neural inform process beij',11
+'proc int tech conf circuit system comput commun ed z nakao y w chen',11
+'proc th iast intern confer appli informat innsbruck',11
+'intern journal opt electron',11
+'methodolog concept design applic intellig system edit t yamakawa g matsumoto world scientif',11
+'proc second int conf konwledg base intellig electron system adelaid editor l c jain r k jian',11
+'icpr intern confer pattern recognit',11
+'proc th int conf neural inform process shanghai',11
+'proc int tech conf circuit system comput commun tokushima',11
+'ieic tran inform system press sci scalabl coher interfac',11
+'ieic tran fundament sci scalabl coher interfac',11
+'proc int tech conf circuit system comput commun souel korea',11
+'proc spie intern societi optic engin ei',11
+'rev sci instrum sci scalabl coher interfac',11
+'proc int tech conf circuit system comput commun ed z nakao y w chen',11
+'proc ieee instrument measur confer budapest',11
+'jpn j appl phy sci scalabl coher interfac',11
+'knowledg base intellig inform engin system alli technolog ed n baba l c jain r j howlett io press',11
+'neural network signal process ed s usui et ieee press',11
+'ieee tran sci scalabl coher interfac',11
+'invit speech proc rd conf associ scienc technolog chines academ press',11
+'ieic tran fundament sci scalabl coher interfac',11
+'proc th separ phenomena liquid gass beijin',11
+'fuzzi set system sci scalabl coher interfac',11
+'proc ieee instrument measur technolog confer st paul',11
+'ieee tran instrument measur sci scalabl coher interfac',11
+'proc ieee instrument measur confer budapest',11
+'j appl phy',11
+'proc joint technic confer circuit system comput commun kumamoto',11
+'ieee tran sci scalabl coher interfac',11
+'intern confer evolutionari comput',11
+'opt commun sci scalabl coher interfac',11
+'proc int tech conf circuit system comput commun ed z nakao y w chen',11
+'proc ieee int conf system man cybernet nashvil',11
+'proc th inter symposium advanc nuclear energi research mito',11
+'proc int tech conf circuit system comput commun ed z nakao y w chen',11
+'journal nuclear scienc technolog sci scalabl coher interfac',11
+'laser interact relat plasma phenomera edit s nakai g h mieli aip press',11
+'j nucl sci technol sci scalabl coher interfac',11
+'proc th inter symposium advanc nuclear energi research mito',11
+'proc int tech conf circuit system comput commun ed z nakao y w chen',11
+'proc rd int l conf knowledg base intelligentinform engin system adelaid',11
+'intern confer evolutionari comput',11
+'ieic tran fundament sci scalabl coher interfac',11
+'journal robot mechatron',11
+'fuzzi set system sci scalabl coher interfac',11
+'proc rd int l conf knowledg base intelligentinform engin system adelaid',11
+'rew laser eng sci scalabl coher interfac',11
+'opsearech',11
+'intern confer evolutionari comput',11
+'proc joint technic confer circuit system comput commun kumamoto',11
+'proc int tech conf circuit system comput commun souel korea',11
+'optic review b',11
+'proc ieee intern intellig signal process budapest',11
+'ieic tran electron c sci scalabl coher interfac',11
+'proc ieee intern intellig signal process budapest',11
+'ieee tran instrument measur press sci scalabl coher interfac',11
+'ieic tran fundament sci scalabl coher interfac',11
+'proc second int conf konwledg base intellig electron system adelaid editor l c jain r k jian',11
+'proc ieee int conf system man cybernet tokyo w',11
+'proc fifth int conf neural network inform process kitakyushu',11
+'intern confer evolutionari comput',11
+'proc spie intern societi optic engin ei',11
+'proc second int conf konwledg base intellig electron system adelaid editor l c jain r k jian',11
+'methodolog concept design applic soft comput ed t yamakawa g matsumoto world scientif',11
+'proc int tech conf circuit system comput commun souel korea',11
+'proc int tech conf circuit system comput commun ed z nakao y w chen',11
+'proc int tech conf circuit system comput commun pusan korea',11
+'knowledg base intellig inform engin system alli technolog ed n baba l c jain r j howlett io press',11
+'proc ieee int conf system man cybernet san diego',11
+'proc asian confer comput vision',11
+'proc ieee rd int conf evolutionari comput nagoya',11
+'ieic tran electron c',11
+'invit talk proc symposium laser spectroscopi taejon korea',11
+'proc ieee instrument measur technolog confer st paul',11
+'opt commun sci scalabl coher interfac',11
+'applic artifici neural network imag process ed n m nasrabhadi spie intern societi optic engin press',11
+'proc int tech conf circuit system comput commun pusan korea',11
+'knowledg base intellig inform engin system alli technolog ed n baba l c jain r j howlett io press',11
+'ieee pacif rim confer multimedia',11
+'proc ieee intern confer neural network signal process nanj',11
+'proc int tech conf circuit system comput commun tokushima',11
+'iccad intern confer comput aid design',12
+'asian test symposium',12
+'asian test symposium',12
+'acm tran design autom electr syst',12
+'itc intern test confer',12
+'itc intern test confer',12
+'date design autom test europ',12
+'icdc intern confer distribut comput system workshop',13
+'icn intern competit network',13
+'compsac intern comput softwar applic confer',13
+'ftdc futur trend distribut comput system',13
+'ftdc futur trend distribut comput system',13
+'ftdc futur trend distribut comput system',13
+'infocom confer comput commun',13
+'evolutionari program',14
+'proceed genet evolutionari comput confer gecco genet evolutionari comput confer poster session',14
+'hart w krasnogor n smith j ed recent advanc memet algorithm relat search technolog chapter n n springer verlag press',14
+'lectur note comput scienc lnc sci scalabl coher interfac expand',14
+'gecco genet evolutionari comput confer',14
+'proceed artifici neural network engin anni',14
+'technic report genet algorithm laboratori depart gener engin univers',14
+'technic report n genet algorithm laboratori depart gener engin univers prepar',14
+'technic report n genet algorithm laboratori depart gener engin univers prepar',14
+'technic report genet algorithm laboratori depart gener engin univers',14
+'technic report genet algorithm laboratori depart gener engin univers',14
+'proceed genet evolutionari comput confer gecco genet evolutionari comput confer graduat student',14
+'technic report n genet algorithm laboratori depart gener engin univers prepar',14
+'soft comput kao',14
+'technic report genet algorithm laboratori depart gener engin univers',14
+'gecco genet evolutionari comput confer',14
+'gecco genet evolutionari comput confer',14
+'journal inform scienc engin jise sci scalabl coher interfac expand',14
+'ppsn parallel problem solv natur',14
+'proceed intern confer artifici intellig kaohsiung nation sun yat sen univers',14
+'protocol high speed network',15
+'compsac intern comput softwar applic confer',15
+'icpad intern confer parallel distribut system',15
+'icpad intern confer parallel distribut system',15
+'comput network',15
+'icc intern confer commun',15
+'perform eval',15
+'icra intern confer robot autom',16
+'icra intern confer robot autom',16
+'icra intern confer robot autom',16
+'comput aid design',16
+'comput aid design',16
+'comput aid geometr design',16
+'iccd intern confer comput design',17
+'iccd intern confer comput design',17
+'isca ieee intern symposium circuit system',17
+'isca ieee intern symposium circuit system',17
+'isca ieee intern symposium circuit system',17
+'dac design autom confer',17
+'nan',18
+'journal electron imag',18
+'proceed intern symposium commun',18
+'proc internet distribut system',18
+'proc intern confer imag process',18
+'signal process imag commun',18
+'nsc report',18
+'ieee intern confer multimedia expo',18
+'proc intern confer multimedia expo',18
+'proc nternat multimedia signal process',18
+'proc comput vision graphic imag process',18
+'proc ippr confer comput vision graphic imag process',18
+'gordon breach intern seri engin technolog appli scienc medic imag techniqu applic',18
+'pattern recognit',18
+'journal chines institut engin',18
+'proc ieee tencon hongkong',18
+'journal chines institut engin',18
+'graphic model imag process cvgip graphic model imag process',18
+'electron letter',18
+'ieee tran medic imag',18
+'ieee tran signal process',18
+'itri ccl constraint comput logic project report',18
+'intern symposium commun iscom',18
+'ieee transact antenna propag',18
+'intern symposium commun',18
+'intern symposium commun iscom',18
+'proceed',18
+'ippr confer comput vision graphic imag process',18
+'signal process hdtv elsevi scienc publish',18
+'proceed',18
+'signal process hdtv elsevi scienc publish',18
+'proceed ieee intern symposium circuit system',18
+'signal process hdtv elsevi scienc publish',18
+'signal process',18
+'proceed intern hdtv kawasaki',18
+'proc telecommun symposium',18
+'ieee visual signal process commun revis form also fourth intern wokrshop hdtv beyond',18
+'ieee intern confer multimedia expo',18
+'pattern recognit letter',18
+'itri ccl constraint comput logic project report',18
+'proc comput vision graphic imag process',18
+'proc hdtv b b',18
+'ieee journal select area commun',18
+'ippr confer comput vision graphic imag process',18
+'proc hd media technolog applic',18
+'iecon proceed spie intern societi optic engin',18
+'revis ieee tran medic imag',18
+'signal process hdtv elsevi scienc publish',18
+'proc joint latest develop telecommun research tjcom',18
+'st nat conf mech eng csme',18
+'ieee tran circuit system video technolog',18
+'proc nation symposium automat contril',18
+'proc hdtv',18
+'proc ic intern confer supercomput',18
+'proc consum electron',18
+'ieee icassp toronto',18
+'ieee transcat industri electron',18
+'nsc report',18
+'nsc report',18
+'proc telecommun symposium',18
+'nc',18
+'ieee transcat aerospac electron system ae',18
+'proc nation symposium automat control',18
+'intern journal system scienc int j system sci scalabl coher interfac',18
+'identif pattern recognit rai ipar',18
+'itri ccl constraint comput logic project report',18
+'proc icon',18
+'ic intern confer supercomput',18
+'pattern recognit',18
+'intern symposium remot sens precis measur',18
+'pattern recognit letter',18
+'twelfth annual ieee industri electron societi confer pp',18
+'cvgip graphic model imag process publish book progress comput vision imag understand ed azriel rosenfeld publish academ press',18
+'journal chines institut engin',18
+'pattern recognit',18
+'proc ippr confer comput vision graphic imag process',18
+'proceed int comput symp comput network internet multimedia',18
+'proc nation symposium automat control',18
+'allgemein elektrotechnik und datenverarbeitung system',18
+'erso itri report',18
+'proc first intern symposium polici analysi inform system',18
+'visual commun imag process',18
+'nsc report',18
+'proceed nation symposium automat control',18
+'journal chines institut engin',18
+'nan',18
+'proceed symposium electromagnet wave commun nation univ',18
+'st nat conf mech eng csme',18
+'ic intern confer supercomput',18
+'proc fourth asian confer comput vision taipei',18
+'nsc report',18
+'ieee intern symposium circuit system',18
+'ieee tran circuit system video technolog',18
+'ieic tran inform system',18
+'proceed spie intern societi optic engin symposium visual commun imag process u s',18
+'digit sens',18
+'pictur code symposium',18
+'advanc control ed d g lainioti n s tzann d reidel publish comp',18
+'signal process hdtv elsevi scienc publish',18
+'master thesi nation univers',18
+'ieee visual signal process commun',18
+'nsc report',18
+'intern comput symposium proceed imag process charact recognit',18
+'proceed nation symposium automat control',18
+'ieee tran consum electron',18
+'proceed th ippr confer comput vision graphic imag process',18
+'proceed consum electron',18
+'itri ccl constraint comput logic project report',18
+'nsc report',18
+'journal chines institut engin',18
+'proc intern confer imag process icip intern confer imag process',18
+'nsc report',18
+'ieee intern confer imag process',18
+'signal process hdtv elseiv scienc publish',18
+'nsc report',18
+'intern symposium consum electron',18
+'veteran gener hospit project report',18
+'proc hd media technolog applic',18
+'veteran gener hospit project report',18
+'proceed second ieee pacif rim confer multimedia ieee pcm',18
+'ieee pacif rim confer multimedia',18
+'proc th ippr confer comput vision graphic imag process',18
+'proceed nation scienc council part',18
+'ieee pacif rim confer multimedia',18
+'proc spie intern societi optic engin input output imag technolog spie intern societi optic engin',18
+'proc symposium intern societi photogrammetri remot sens commiss',18
+'ieee tran consum electron',18
+'proc',18
+'proceed ieee intern confer imag process',18
+'nsc report',18
+'tl nsc report',18
+'proc intern confer imag process',18
+'ibid',18
+'proceed int comput symp comput network internet multimedia',18
+'proc ieee int conf consum electron',18
+'proc comput vision graphic imag process',18
+'proceed ieee intern confer multimedia expo',18
+'proc third nation confer autom technolog',18
+'proceed intern hdtv kawasaki',18
+'ic intern confer supercomput',18
+'proc telecommun symposium',18
+'twelfth annual ieee industri electron societi confer',18
+'eurasip journal appli signal process',18
+'ic intern confer supercomput',18
+'proc intern symposium multimedia inform process',18
+'proceed intern symposium precis meaurement graviti experi',18
+'proc intern symposium multimedia inform process ismip',18
+'itri ccl constraint comput logic project report',18
+'proceed symposium nation automat control',18
+'nsc report',18
+'doctor dissert',18
+'pattern recognit',18
+'proceed ieee intern confer multimedia expo',18
+'ieee tran signal process',18
+'ieee tran circuit',18
+'nsc report',18
+'proc ieee intern symposium circuit system',18
+'nsc report',18
+'itri ccl constraint comput logic project report',18
+'pattern recognit',18
+'itri ccl constraint comput logic project report',18
+'pattern recognit',18
+'journal chines institut engin',18
+'proc telecommun symposium',18
+'nsc report',18
+'pattern recognit',18
+'nonlinear stochast problem nato asi seri',18
+'journal chines institut engin',18
+'technic report telecommun laboratori',18
+'proceed ippr confer comput vision graphic',18
+'processd nation symposium automat control',18
+'proc telecommun symposium',18
+'proc',18
+'nan',18
+'proc ic intern confer supercomput',18
+'nan',18
+'proc',18
+'electron letter',18
+'proc ippr confer comput vision graphic imag process',18
+'ieee intern symposium consum electron',18
+'proc ieee intern symposium consum electron',18
+'proc intern confer imag process',18
+'sixth iast interatin symposium robtic autom',18
+'proc th ippr confer comput vision graphic imag process',18
+'ieee tran consum electron',18
+'veteran gener hospit project report',18
+'ieic tran inform system d',18
+'ibid b b',18
+'nsc report',18
+'pattern recognit letter',18
+'signal process imag commun',18
+'ass',18
+'ieee tran broadcast',18
+'intern symposium commun iscom',18
+'proc intern symposium commun',18
+'nsc report',18
+'proc hd media technolog applic',18
+'nsc report',18
+'regelungstechnik heft',18
+'nsc nspo ecp report',18
+'supplement issu project rocsat terrestri atmospher ocean scienc tao journal',18
+'proceed ippr confer comput vision graphic imag process',18
+'proceed nation symposium automat control',18
+'journal chines institut engin',18
+'proc ieee tencon hongkong',18
+'ieee tran consum electron',18
+'optic engin',18
+'proc consum electron digit video multimedia',18
+'journal chines institut electr engin',18
+'proc proc ippr confer comput vision graphic imag process',18
+'electron letter',18
+'proc intern synthet natur hybrid code three dimension imag',18
+'proc nation symposium automat control',18
+'proc',18
+'proc intern symposium multimedia inform process',18
+'proceed consum electron',18
+'proc third nation confer autom technolog',18
+'proc consum electron',18
+'intern symposium remot sens precis measur',18
+'proc comput vision graphic imag process',18
+'signal process',18
+'proceed ippr confer comput vision graphicsand imag process',18
+'proc second intern symposium signal process applic isspa brisban queensland',18
+'nsc report',18
+'proc nation symposium',18
+'nsc report',18
+'proc ieee intern confer assp',18
+'nsc report',18
+'ic intern confer supercomput proc intern confer imag process charact recognit',18
+'progress electromagnet research symposium pier',18
+'itri ccl constraint comput logic project report',18
+'industri manag data system',19
+'intern journal polici inform',19
+'proceed first intern confer applic artifici intellig engin problem editor dr sriram r adei',19
+'comput aid engin applic american societi mechan engin th nation congress san diego',19
+'proceed america confer inform system',19
+'proceed america confer inform system',19
+'proceed america confer inform system',19
+'franchis chapter third edit r justi r judd dame',19
+'franchis chapter second edit r justi r judd dame',19
+'proceed fifth intern academi busi disciplin',19
+'proceed intern confer busi hong kong',19
+'mba program school manag fudan univers shanghai',19
+'proceed th annual intern societi franchis confer',19
+'proceed pan pacif confer',19
+'organiz data mine leverag data resourc optim perform edit hamid r nemati christoph d barko',19
+'proceed th annual intern societi franchis confer san diego',19
+'manag inform technolog small busi challeng solut edit s burgess idea group publish',19
+'school econom manag tsinghua univers beij',19
+'proceed rd european confer organiz knowledg learn capabl www alba edu gr oklc',19
+'human system manag',19
+'decis support system',19
+'ieee transact engin manag',19
+'proceed th annual intern societi franchis confer la vega',19
+'journal inform scienc',19
+'journal comput inform system xxxxi winter',19
+'journal privat abstract fifteenth annul confer associ privat educ',19
+'data resourc manag',19
+'journal inform technolog',19
+'journal microcomput applic',19
+'proceed intern confer inform resourc manag associ',19
+'industri manag data system',19
+'proceed th annual intern societi franchis confer san antonio',19
+'journal privat',19
+'jasi journal american societi inform scienc',19
+'hicss intern confer system scienc',19
+'ieee tran knowl data eng',19
+'jasi journal american societi inform scienc',19
+'inf process manag',19
+'winter simul confer',19
+'journal inform technolog case applic',19
+'proceed america confer inform system',19
+'cikm intern confer inform knowledg manag',1
+'ssdbm statist scientif databas manag',1
+'int journal logic program consider subject revis',1
+'int user interfac data intens system uidi user interfac data intens system edinburgh ieee',1
+'poster paper th int conf data engin sydnei ieee',1
+'uidi user interfac data intens system',1
+'ieee transact knowledeg data engin',1
+'proc second foederiert datenbanken dortmund',1
+'int journal intellig system john wilei son ltd',1
+'book effect databas text document manag ed s becker',1
+'th int conf inform knowledg manag u s acm',1
+'lectur note comput scienc',1
+'effect databas text amp document manag',1
+'proc first int symposium cooper databas system advanc applic coda second intern symposium cooper databas system advanc applic kyoto world scientif press',1
+'dexa databas expert system applic',1
+'proc th int dexa databas expert system applic conf databas expert system applic zurich ieee',1
+'proc int conf web informt system engin wise web inform system engin',1
+'adbi',1
+'ieee tran knowl data eng',1
+'inf process lett',1
+'inf process lett',1
+'proc th int knowledg represent databas int conf vldb larg data base',1
+'accepet iast int conf softwar engin applic sea',1
+'book effect databas text document manag ed s becker',1
+'proc th int conf data engin ieee',1
+'th int dexa databas expert system applic conf databas expert system applic springer verlag',1
+'brazilian symposium databas system fortaleza ce',1
+'journal comput scienc technolog allerton press',1
+'th int conf object orient inform system springer verlag',1
+'proc th int dexa databas expert system applic conf databas expert system applic toulous springer verlag',1
+'int journal sienc comput program',1
+'int journal inform scienc engin page',1
+'scienc sinica scienc press',1
+'proc th int dexa databas expert system applic conf databas expert system applic springer verlag',1
+'journal comput scienc technolog allerton press',1
+'journal technic institut changsha',1
+'proc th int conf comput inform winnipeg',1
+'ph d thesi comput scienc depart univers kaiserslautern',1
+'th intl multimedia network system applic mnsa',1
+'st int conf web informt system engin wise web inform system engin',1
+'int journal inform process letter',1
+'ieee transact knowledeg data engin page',1
+'zri report univers kaiserslautern',1
+'journal comput scienc technolog allerton press',1
+'proc th int deduct databas logic program unit kingdom',1
+'scienc sinica scienc press',1
+'proc icic second int conf data knowledg engin theori applic hongkong ieee',1
+'proc th int conf cooper inform system new ieee',1
+'th int joint confer inform scienc atlant citi ieee',1
+'journal comput research develop',1
+'th int conf inform knowledg manag u s acm',1
+'proc int confer young comput scientist beij',1
+'proc first nation confer comput technolog us medicin xiamen',1
+'proc first int symposium cooper databas system advanc applic coda second intern symposium cooper databas system advanc applic kyoto world scientif press',1
+'dexa databas expert system applic',1
+'proc int conf cooper inform system south carolina ieee',1
+'cikm intern confer inform knowledg manag',1
+'journal technic institut changsha',1
+'krdb knowledg represent meet databas',1
+'th symposium comput applic modern scienc technolog beij',1
+'zeitschrift datenbank rundbrief',1
+'symposium databas applic non tradit environ kyoto ieee',1
+'coopi',1
+'invit paper intl conf advanc infrastructur busi educ scienc medicin internet ieee',1
+'idea intern databas engin applic symposium',1
+'int journal inform process letter',1
+'proc first foederiert datenbanken magdeburg',1
+'icd intern confer data engin',1
+'proc first east european symposium advanc databas inform system st ptersburg acm sigmod intern confer manag data',1
+'dexa databas expert system applic',1
+'int journal intellig system john wilei son ltd',1
+'journal comput scienc technolog allerton press',1
+'proc th intern conf tool artifici intellig san jose comput anim ieee',1
+'proc ismm intern symposium memori manag first int conf inform knowledg manag acm',1
+'int journal inform scienc',1
+'proc th inform resourc manag associ intl confer',1
+'proc th inform resourc manag associ intl confer',1
+'int codat',1
+'technic report cs depart comput scienc chemnitz zwickau',1
+'proc cikm intern confer inform knowledg manag th int conf inform knowledg manag acm',1
+'ieic transact inform system world scientif press',1
+'zri report univers kaiserslautern',1
+'proc int databas applic symposium montreal ieee',1
+'cais short paper proceed',1
+'nan',1
+'icd',1
+'effect databas text amp document manag',1
+'cikm intern confer inform knowledg manag',1
+'dexa databas expert system applic',1
+'nan',1
+'dexa databas expert system applic',1
+'coopi',1
+'technic report csr comput scienc depart technic univers chemnitz zwickau',1
+'wise web inform system engin',1
+'th int conf scientif statist databas manag ieee',1
+'th int conf scientif statist databas manag ieee',1
+'ispd intern symposium physic design',20
+'iccad intern confer comput aid design',20
+'inform system busi challeng',20
+'dac design autom confer',20
+'dac design autom confer',20
+'date design autom test europ',20
+'isad intern symposium autonom decentr system',21
+'annual simul symposium',21
+'ftc',21
+'ftdc futur trend distribut comput system',21
+'fault toler comput system',21
+'ieee tran parallel distrib syst',21
+'proceed iast intern confer artifici intellig soft comput',22
+'acm springer multimedia system journal special issu content base retriev issu page',22
+'icd intern confer data engin',22
+'aaai nation confer artifici intellig iaai twelfth innov applic artifici intellig',22
+'intellig inform integr',22
+'proceed intern confer advanc infrastructur electron busi scienc educ internet',22
+'rd databas network inform system',22
+'distribut parallel databas journal page kluwer academ publish',22
+'proceed intern confer inform system',22
+'proceed spie intern societi optic engin internet imag ei',22
+'proceed sixth intern confer cooper inform system',22
+'proceed twelfth innov applic ai artifici intellig confer iaaai',22
+'ijcai intern joint confer artifici intellig intellig inform integr',22
+'proceed intern confer data engin icd intern confer data engin',22
+'neuroinformat',22
+'intellig method studi fuzzi soft comput',22
+'phd thesi univers southern',22
+'master thesi nation central univers',22
+'journal technolog',22
+'chines confer',22
+'proc seventh pacif asia confer knowledg discoveri data mine',23
+'journal system scienc system engin pp',23
+'proc nation confer oper research manag pp xu jicao editor yuhang press beij',23
+'ictai intern confer tool artifici intellig',23
+'proc th ieee int l conf tool artifici intellig',23
+'artifici intellig elsevi scienc pub',23
+'proc ieee congress evolutionari comput',23
+'intern journal comput intellig applic world scientif',23
+'vldb larg data base',23
+'dmkd research issu data mine knowledg discoveri',23
+'proc th ieee intern confer tool artifici intellig',23
+'proc principl practic constraint program springer verlag',23
+'proc th ieee intern confer tool artifici intellig',23
+'journal yangzhou univers pp',23
+'proc th int l distribut constraint reason',23
+'proc acm sigmod intern confer manag data dmkd research issu data mine knowledg discoveri',23
+'proc th int l confer larg data base vldb larg data base',23
+'research project propos full text',23
+'proc th nation confer parallel process pp shanxi scienc technolog press',23
+'journal yangzhou univers pp',23
+'master s thesi dept comput scienc uiuc',23
+'public',23
+'proc intern confer autom plan schedul',23
+'edcc',24
+'ieee tran comput',24
+'ieee tran comput',24
+'ieee tran comput',24
+'ieee tran comput',24
+'edcc european depend comput confer',24
+'icra intern confer robot autom',25
+'icra intern confer robot autom',25
+'icra intern confer robot autom',25
+'icra intern confer robot autom',25
+'icra intern confer robot autom',25
+'icra intern confer robot autom',25
+'journal biomed engin nation journal',26
+'intern confer neural inform process iconip pp publish hous electron ind',26
+'th confer mathemat foundat program semant mfp electron note theoret comput scienc',26
+'th annual confer european associ comput scienc logic csl comput scienc logic lnc pp springer',26
+'dphil thesi univers comput laboratori',26
+'formal aspect comput',26
+'proceed intern confer neural inform process iconip publish hous electron ind',26
+'proc ieee intern confer neural network icnn ieee press',26
+'intern confer integr formal method ifm',26
+'proc ieee intern confer neural network icnn pp ieee press',26
+'nan',26
+'acm transact program languag system',26
+'th intern confer concurr theori lnc springer',26
+'nan',26
+'parallel process letter',26
+'integr formal method',26
+'technic report',26
+'advanc comput theori practic nova scienc publish',26
+'th euromicro parallel distribut process pdp',26
+'parallel process letter',26
+'ifm',26
+'icdc intern confer distribut comput system workshop',26
+'icfem intern confer formal engin method',26
+'csl',26
+'theor comput sci',26
+'concur intern confer concurr theori',26
+'parallel process letter',26
+'biokdd data mine bioinformat',27
+'journal comput biologi',27
+'journal comput biologi',27
+'bioinformat',27
+'bioinformat',27
+'nucleic acid research',28
+'nucleic acid research',28
+'nucleic acid research',28
+'comput amp chemistri',28
+'bioinformat',28
+'iccv intern confer comput vision',29
+'icpr intern confer pattern recognit',29
+'icpr intern confer pattern recognit',29
+'mach vi appl',29
+'cvpr comput vision pattern recognit',29
+'icsm intern confer softwar mainten',2
+'wcre work confer revers engin',2
+'webnet',2
+'comput network',2
+'webnet',2
+'world wide web',2
+'esec european softwar engin confer',2
+'proceed',2
+'proceed',2
+'icsm intern confer softwar mainten',2
+'iwpc intern program comprehens',2
+'ieee internet comput',2
+'ieee tran softwar eng',2
+'witasi internet technolog applic social impact',2
+'first acm wireless internet wmi',2
+'middlewar symposium',2
+'oper system review',2
+'webnet',2
+'t technic journal',2
+'webnet',2
+'ieee softwar',2
+'ics intern confer softwar engin',2
+'ieee softwar',2
+'www world wide web confer seri poster',2
+'wireless internet',2
+'ieee transact softwar engin',2
+'intern confer softwar mainten page nice',2
+'usenix advanc comput system associ unix applic develop symposium page toronto',2
+'internet technolog applic societ impact witasi internet technolog applic social impact',2
+'acm journal wireless network issu',2
+'proceed webnet toronto',2
+'fifth european softwar engin confer barcelona',2
+'practic reusabl unix konzept und anwendungen softwar edit balachand krishnamurthi page john wilei son new',2
+'wireless commun network confer wcnc',2
+'practic reusabl unix konzept und anwendungen softwar edit balachand krishnamurthi page john wilei son new',2
+'ieee transact softwar engin page',2
+'summer usenix advanc comput system associ confer',2
+'summer usenix advanc comput system associ confer',2
+'proceed webnet confer san antonio',2
+'wireless network',2
+'th intern confer softwar engin page sorrento',2
+'proceed st intern confer softwar engin lo angel',2
+'proceed fifth intern www world wide web confer seri confer',2
+'world wide web journal baltzer scienc publish',2
+'webnet',2
+'fourth intern symposium softwar metric ieee metric',2
+'ics intern confer softwar engin',2
+'wcre work confer revers engin',2
+'c confer',2
+'proceed sixth work confer revers engin',2
+'ieee tran softwar eng',2
+'icmi advanc multimod interfac',30
+'j intel inf syst',30
+'mdm ieee intern confer data manag kdd knowledg discoveri data mine',30
+'ieee pacif rim confer multimedia',30
+'amfg analysi model face gestur',30
+'intern parallel distribut process symposium ipdp intern parallel distribut process symposium',31
+'acm usenix advanc comput system associ intern middlewar confer',31
+'fourth acm confer digit librari digit librari',31
+'acm dl digit librari',31
+'ipdp intern parallel distribut process symposium',31
+'activ middlewar servic',31
+'intern parallel distribut process symposium ipdp intern parallel distribut process symposium',31
+'ipdp intern parallel distribut process symposium',31
+'middlewar',31
+'proceed th ieee intern confer network sydnei nsw year',32
+'ieee transact comput',32
+'ieee tran parallel distrib syst',32
+'ieee transact parallel distribut system',32
+'journal parallel distribut comput',32
+'j parallel distrib comput',32
+'prepar',32
+'prepar',32
+'proceed st centuri digit life internet technolog',32
+'prepar',32
+'prepar',32
+'journal network system manag',32
+'proceed frontier ieee th symposium frontier massiv parallel comput',32
+'proceed icpp intern confer parallel process th intern confer parallel process st charl',32
+'icpp intern confer parallel process',32
+'prepar',32
+'inform process letter',32
+'proceed intern comput symposium',32
+'proceed icpp intern confer parallel process th intern confer parallel process st charl',32
+'icpp intern confer parallel process',32
+'proceed th icoin intern confer inform network',32
+'proceed th intern joint comput commun',32
+'iscom',32
+'ipp intern parallel process symposium',33
+'supercomput',33
+'parl parallel architectur languag europ',33
+'parallel process letter',33
+'intern journal parallel program',33
+'journal inform scienc engin',34
+'pattern recognit letter',34
+'icip intern confer imag process',34
+'fuzzi set system',34
+'ieee transact imag process',34
+'th ippr confer comput vision graphic imag process',34
+'nation comput symposium taipei c c',34
+'intern cryptograh techniqu crpotec hongkong',34
+'nation comput symposium taipei c c',34
+'intern confer pattern recognit',34
+'th ippr confer comput vision graphic imag process',34
+'color research applic',34
+'scia scandinavian confer imag analysi',34
+'journal chines institut engin',34
+'accv proceed fourth asian confer comput vision taipei',34
+'icdar',34
+'th ippr confer comput vision graphic imag process',34
+'color research applic',34
+'chines journal medic biolog engin',34
+'color research applic',34
+'ippr confer comput vision graphic imag process',34
+'rd imac inter multiconfer circuit system commun comput technic comput intellig applic',34
+'cvgip graphic model imag process graphic model imag process',34
+'scia',34
+'pattern recognit',34
+'intern confer wireless network',35
+'icw ieee intern confer web servic',35
+'dexa databas expert system applic workshop',35
+'data manag',35
+'data manag',35
+'ieee transact circuit system video technolog',36
+'ieee internet comput',36
+'journal vlsi larg scale integr signal process system',36
+'icip intern confer imag process',36
+'ieee pacif rim confer multimedia',36
+'ieee signal process magazin',36
+'proc spie intern societi optic engin visual commun imag process',36
+'programm digit signal processor architectur program design y h hu ed marcel dekker',36
+'journal vlsi larg scale integr signal process system',36
+'proc imag video commun process',36
+'iso iec jtc wg code move pictur audio m',36
+'journal vlsi larg scale integr signal process system',36
+'public spie intern societi optic engin secur watermark multimedia content confer san jose comput anim',36
+'icpad intern confer parallel distribut system',36
+'ipdp intern parallel distribut process symposium',36
+'iso iec jtc wg code move pictur audio m',36
+'multimedia tool applic',37
+'multimedia tool applic',37
+'lcn ieee confer local comput network',37
+'lcn ieee confer local comput network',37
+'design code cryptographi',38
+'design code cryptographi',38
+'design code cryptographi',38
+'design code cryptographi',38
+'parallel distribut simul',39
+'parallel distribut simul',39
+'parallel distribut simul',39
+'ieee comput',39
+'journal system architectur',3
+'nation comput symposium parallel distribut system tamkang univ r c',3
+'ieic transact fundament electron commun comput scienc',3
+'th int l conf applic high perform comput engin maui',3
+'will journal system architectur',3
+'journal inform scienc engin',3
+'proceed ieee second intern confer algorithm architectur parallel process ica pp',3
+'ic intern confer supercomput intern comput symposium nation dong hwa univers hualien',3
+'th intern confer inform network cheju island korea',3
+'journal system architectur paper jsa s sci scalabl coher interfac',3
+'intern confer commun',3
+'tamsui journal mathemat scienc',3
+'parallel comput',3
+'intern confer parallel distribut process techniqu applic pdpta parallel distribut process techniqu applic la vega',3
+'wmte wireless technolog educ',3
+'network',3
+'journal inform technolog societi',3
+'j parallel distrib comput',3
+'icoin intern confer inform network',3
+'icpp intern confer parallel process',3
+'icpad intern confer parallel distribut system',3
+'j parallel distrib comput',3
+'proceed ieee third intern confer algorithm architectur parallel process ica pp',3
+'nation comput symposium parallel distribut system tamkang univ r c',3
+'th int l conf applic high perform comput engin maui',3
+'proceed ipccc th ieee int l perform comput commun conf',3
+'journal internet technolog',3
+'intern comput symposium comput network internet multimedia nation chung cheng univers',3
+'intern confer parallel distribut system icpad intern confer parallel distribut system tainan r c',3
+'ic intern confer supercomput intern comput symposium nation dong hwa univers hualien',3
+'submit comput network',3
+'proceed ieee icon th ieee intern confer network',3
+'proceed nation scienc council r c part physic scienc engin',3
+'proceed ieee third intern confer algorithm architectur parallel process ica pp',3
+'will journal comput assist learn ssci journal',3
+'ieee intern wireless technolog educ',3
+'ishpc high perform comput',3
+'proceed th comput nation chiao tung univers r c',3
+'ieic transact fundament electron commun comput scienc',3
+'journal inform manag',3
+'iee proceed comput digit techniqu',3
+'proceed mobicom',3
+'journal parallel distribut comput',3
+'proced th intern confer parallel process icpp intern confer parallel process',3
+'icpad intern confer parallel distribut system',3
+'mobicom comput network',3
+'wireless network',3
+'euro par',3
+'parallel comput',3
+'icpp intern confer parallel process workshop group commun iwgc aizu',3
+'proceed ishpc k third intern symposium high perform comput yoyogi tokyo',3
+'icpp intern confer parallel process workshop',3
+'ieee seventh intern confer parallel distribut system iwat',3
+'submit journal data knowledg engin',3
+'intern confer internet comput',3
+'tamsui journal mathemat scienc',3
+'ieic transact commun b',3
+'proceed intern confer parallel process merg parl parallel architectur languag europ conpar confer algorithm hardwar parallel process vapp euro par stockholm',3
+'ieee ninth intern confer comput commun network la vega',3
+'network',3
+'proceed th comput univ tai chung',3
+'icpad intern confer parallel distribut system',3
+'acm wireless network',3
+'compter commun',3
+'proceed ew european wireless',3
+'regular paper proceed ieee icpad intern confer parallel distribut system ieee intern confer parallel distribut system nation central univers chung li',3
+'submit csse intern journal comput system scienc engin',3
+'proceed snpd aci first int l conf softwar engin appli network parallel distribut comput reim',3
+'journal parallel algorithm applic',3
+'intern symposium parallel architectur algorithm network ispan kanazawa',3
+'compter commun',3
+'proceed ieee icoin intern confer inform network th intern confer inform network beppu citi',3
+'ieic transact commun',3
+'icip intern confer imag process',40
+'icip intern confer imag process',40
+'icip intern confer imag process',40
+'ieee transact multimedia',40
+'icpp intern confer parallel process',41
+'supercomput',41
+'supercomput',41
+'ic intern confer supercomput',41
+'acm multimedia',42
+'ieee transact pattern analysi machin intellig',42
+'icra intern confer robot autom',42
+'icra intern confer robot autom',42
+'siggraph special interest group comput graph',43
+'journal visual comput anim issu',43
+'ieee transact visual comput graphic',43
+'acm tran graph',43
+'acm tran graph',43
+'siggraph special interest group comput graph',43
+'ieee transact visual comput graphic',43
+'siggraph special interest group comput graph',43
+'intern journal advanc manufactur technolog london uk springer verlag',44
+'comput aid design new elsevi',44
+'comput aid design new elsevi',44
+'rough machin intern journal advanc manufactur technolog london uk springer verlag',44
+'proceed intern confer manufactur autom hong kong',44
+'intern journal product research uk franci',44
+'proceed intern confer manufactur autom hong kong',44
+'intern journal comput industri engin',44
+'proceed th intern confer comput industri engin korea',44
+'comput applic product engin f plonka g oll ed chapman hall',44
+'proceed fourth intern confer cad cg comput game wuhan p r',44
+'london uk kluwer academ',44
+'intern journal advanc manufactur technolog',44
+'chines journal advanc softwar engin allerton press u s',44
+'proceed ieee intern confer robot autom new',44
+'intern confer industri autom manufactur robot',44
+'journal mechan engin chines',44
+'proceed intern confer manufactur autom hong kong',44
+'comput aid design new elsevi',44
+'proceed world congress intellig manufactur process system budapest',44
+'proceed intern confer manufactur autom hong kong',44
+'proceed world congress intellig manufactur process system budapest',44
+'journal engin design',44
+'finish machin intern journal advanc manufactur technolog london uk springer verlag',44
+'comput aid design',44
+'flair ai research societi confer confer',44
+'comput aid design',44
+'comput aid design',44
+'profession engin publish',44
+'intern journal comput integr manufactur uk franci',44
+'scienc public',44
+'intern journal manufactur technolog manag bradford u k mcb univers press',44
+'journal optic laser engin',44
+'proceed th ieee annual confer industri electron control instrument',44
+'comput applic product engin s c sun ed chapman hall',44
+'th intern confer product research osaka',44
+'intern journal comput integr manufactur london uk franci ltd',44
+'intern journal machin tool manufactur',44
+'proceed instn mech engr part b journal engin manufactur',44
+'proceed rd intern confer autom robot comput vision',44
+'proceed intern confer manufactur autom hong kong',44
+'ieee ifip intern feder inform process',45
+'intern confer advanc commun technolog korea',45
+'journal inform technolog societi',45
+'intern journal network manag',45
+'int journal network manag',45
+'aina advanc inform network applic',45
+'int journal network manag',45
+'ieee aina advanc inform network applic',45
+'isma',45
+'publish intern confer commun circuit system',45
+'pacrim',45
+'submit comput secur nsc',45
+'intern journal model simul',45
+'nom',45
+'intern journal network manag',45
+'icpp intern confer parallel process',46
+'ipdp intern parallel distribut process symposium workshop',46
+'pdpta parallel distribut process techniqu applic',46
+'as autom softwar engin',47
+'as autom softwar engin',47
+'ictai intern confer tool artifici intellig',47
+'nucleic acid research',48
+'nucleic acid research',48
+'nucleic acid research',48
+'icdar intern confer document analysi',49
+'accv asian confer comput vision',49
+'accv asian confer comput vision',49
+'iopad parallel distribut system',4
+'iopad parallel distribut system',4
+'ieee tran softwar eng',4
+'intern confer supercomput',4
+'intern confer supercomput',4
+'hpdc high perform distribut comput symposium',4
+'hpdc high perform distribut comput symposium',4
+'supercomput',4
+'ppsc siam confer parallel process scientif comput',4
+'spaa acm symposium parallel algorithm architectur',4
+'ssdbm statist scientif databas manag',4
+'ssdbm statist scientif databas manag',4
+'ssdbm statist scientif databas manag',4
+'iopad parallel distribut system',4
+'nucleic acid research',50
+'nucleic acid research',50
+'nucleic acid research',50
+'compsac intern comput softwar applic confer',51
+'internet draft',51
+'internet draft present',51
+'proceed rd confer local comput network ieee lcn ieee confer local comput network',51
+'infocom confer comput commun',51
+'network',51
+'confer inform scienc system ciss',51
+'interwork',51
+'interwork nara',51
+'fujitsu scientif technic journal',51
+'ph d dissert univers',51
+'fujitsu scientif technic journal',51
+'proceed intern symposium internet technolog isit taipei',51
+'proceed ieee infocom san francisco',51
+'proceed th annual confer inform scienc system ciss john univers',51
+'network',51
+'ieee networld interop engin confer la vega',51
+'proceed ieee globecom sydnei',51
+'st annual int l comput softwar applic confer compsac',51
+'parallel comput',52
+'australian comput journal',52
+'comput',52
+'emmcvpr energi minim method comput vision pattern recognit',53
+'miccai medic imag comput comput assist intervent',53
+'eccv european confer comput vision',53
+'symposium comput geometri',54
+'algorithmica',54
+'algorithmica',54
+'gecco genet evolutionari comput confer',55
+'genet program evolv machin',55
+'comput amp chemistri',55
+'cluster',56
+'icic intern confer inform commun signal process',56
+'pvm parallel virtual machin mpi messag pass interfac standard',56
+'nan',57
+'nan',57
+'nan',57
+'nan',57
+'nan',57
+'nan',57
+'csl comput scienc logic',57
+'csl comput scienc logic',57
+'math log q',57
+'cvpr comput vision pattern recognit',58
+'emmcvpr energi minim method comput vision pattern recognit',58
+'intern journal comput vision',58
+'icpp intern confer parallel process',59
+'icpp intern confer parallel process',59
+'ieee tran parallel distrib syst',59
+'tech report depart comput scienc electr engin univers queensland',5
+'intern journal knowledg inform system number',5
+'knowledg inform system revis',5
+'tech report depart comput scienc electr engin univers queensland',5
+'special issu intern journal softwar engin knowledg engin',5
+'proc second intern symposium cooper databas system advanc applic coda second intern symposium cooper databas system advanc applic',5
+'phd thesi school comput scienc electr engin univers queensland',5
+'present th intern confer intellig system molecular biologi ismb poster session brisban',5
+'proceed intern knowledg discoveri multimedia complex data kdmcd intern knowledg discoveri multimedia complex data conjunct sixth pacif asia confer knowledg discoveri data mine pakdd pacif asia confer knowledg discoveri data mine taipei',5
+'model word lectur note artifici intellig j lawri j shanahan ralescu ed springer verlag pp',5
+'proceed intern knowledg discoveri multimedia complex data kdmcd intern knowledg discoveri multimedia complex data conjunct sixth pacif asia confer knowledg discoveri data mine pakdd pacif asia confer knowledg discoveri data mine taipei',5
+'tech report depart comput scienc electr engin univers queensland',5
+'world wide web',5
+'data mine multimedia complex data c djeraba s j simoff r zaian ed springer verlag press',5
+'th intern acm multimedia inform retriev',5
+'present th intern confer intellig system molecular biologi ismb poster session brisban',5
+'j vi lang comput',5
+'fuzzi logic new millennium dimitrov korotkich ed univers western sydnei',5
+'proceed fourth intern symposium tool method competit engin wuhan hubei',5
+'proceed th intern ieee confer fuzzi system ieee cs press',5
+'th australian databas confer adc australasian databas confer',5
+'proceed th intern multimedia model confer ieee cs press',5
+'proceed th intern multi media model confer mmm multimedia model link',5
+'tech report depart comput scienc electr engin univers queensland',5
+'techtrain',5
+'biosystem journal biolog inform process scienc issu elsevi scienc',5
+'coda second intern symposium cooper databas system advanc applic',5
+'australasian databas confer',5
+'australian journal intellig inform process system',5
+'australian joint confer artifici intellig',5
+'control cybernet press',5
+'present th intern confer intellig system molecular biologi ismb poster session brisban',5
+'faculti inform technolog queensland univers technolog brisban austalia fit tr',5
+'proceed sixth ifip intern feder inform process work confer visual databas system brisban kluwer academ publish',5
+'fuzzi logic paradigm new millennium studi fuzzi soft comput dimitrov korotkich ed physica verlag',5
+'fuzzi logic paradigm new millennium studi fuzzi soft comput dimitrov korotkich ed physica verlag pp',5
+'present th intern confer intellig system molecular biologi ismb win australian best poster prize brisban',5
+'appli bioinformat',5
+'proceed th intern ieee confer fuzzi system ieee cs press',5
+'proceed apac apac confer exhibit advanc comput grid applic eresearch',5
+'present th intern confer intellig system molecular biologi ismb poster session brisban',5
+'proceed intern confer busi',5
+'genom scale gene identif annot technic report',5
+'present th intern confer intellig system molecular biologi ismb poster session brisban',5
+'gene function classif intra gene region recognit technic report',5
+'visual languag comput',5
+'intra gene eukaryot basal promot identif technic report',5
+'present th intern confer intellig system molecular biologi ismb poster session brisban',5
+'proceed second asia pacif bioinformat confer',5
+'fuzz ieee',5
+'special issu asia pacif biotech new publish world scientif',5
+'special issu asia pacif biotech new publish world scientif',5
+'proc fifth intern confer intern societi decis support system isdss',5
+'th intern confer scientif statist databas manag ssdbm statist scientif databas manag acm sigmod intern confer manag data vldb larg data base endow ieee press',5
+'ieee intern confer intellig process system icip gold coast',5
+'vdb visual databas system',5
+'th ifac symposium model control biomed system ifac elsevi scienc pp',5
+'present th intern confer intellig system molecular biologi ismb poster session brisban',5
+'ssdbm',5
+'proceed fifteenth intern confer industri engin applic artifici intellig expert system',5
+'proceed ausweb australian world wide web confer link',5
+'vdb visual databas system',5
+'proceed sixth ifip intern feder inform process work confer visual databas system vdb brisban kluwer academ publish',5
+'proceed ausweb australian world wide web confer link',5
+'mmm',5
+'vldb larg data base',60
+'webdb',60
+'cikm intern confer inform knowledg manag',60
+'www world wide web confer seri',61
+'www world wide web confer seri',61
+'ctr condit term rewrit system',62
+'ctr condit term rewrit system',62
+'control applic proceed ieee intern confer',63
+'int j intel syst',63
+'gener fuzzi logic control us evolutionari strategi',63
+'applic scienc comput intellig kevin l priddi paul peter j angelin editor proceed spie intern societi optic engin',63
+'evolutionari comput proceed congress',63
+'ieee world congress comput intellig',63
+'proc ann conf bme roc',63
+'ultrasoun symposium',63
+'proceed th annual intern confer ieee engin medicin biologi societi p',63
+'world congress medic physic biomed engin',63
+'physic medicin biologi',63
+'rd asian congress hypertherm oncolog',63
+'proc ann conf bme roc',63
+'proc th congr asian fed soc ultrasound med biol taipei',63
+'proc congr asian soc hypertherm oncolog tokyo',63
+'proc ann conf bme roc',63
+'proc th congr asian fed soc ultrasound med biol taipei',63
+'proc ann conf bme roc',63
+'proc th annual int l conf ieee eng med biol soc hong kong',63
+'proc congr asian soc hypertherm oncolog tokyo',63
+'biom eng appl basi comm ei',63
+'proc congr asian soc hypertherm oncolog tokyo',63
+'biomed engin appl basi comm',63
+'int journal intellig system',63
+'physic medicin biologi',63
+'medic physic',63
+'medic physic',63
+'medic physic',63
+'medic physic',63
+'asian journal control',63
+'proc ann conf bme roc',63
+'proc congr asian soc hypertherm oncolog tokyo',63
+'intern journal radiat oncolog biologi physic',63
+'physic medicin biologi cond sci scalabl coher interfac',63
+'intern journal radiat oncolog biologi physic sci scalabl coher interfac',63
+'proc th int congr hypertherm oncolog kyongju korea',63
+'medic physic',63
+'intern journal radiat oncolog biologi physic',63
+'intern journal radiat oncolog biologi physic sci scalabl coher interfac',63
+'proc congr asian soc hypertherm oncolog tokyo',63
+'proc ann conf bme roc',63
+'proc ann conf bme roc',63
+'proc ann conf bme roc',63
+'second congress asian societi hypertherm oncolog',63
+'proc ann conf bme roc',63
+'rd asian congress hypertherm oncolog',63
+'proc ann conf bme roc',63
+'rd asian congress hypertherm oncolog',63
+'world congress medic physic biomed engin',63
+'proc ann conf bme roc',63
+'proceed intern feder medic biolog engin',63
+'ieee tran ultrason ferroelectr frequenc control',63
+'impact factor',63
+'proc congr asian soc hypertherm oncolog tokyo',63
+'ieee engin medicin biologi sci scalabl coher interfac',63
+'ieee engin medicin biologi magazin',63
+'proc first joint bme emb confer',63
+'ieee world congress comput intellig',63
+'ieee tran control system technolog number',63
+'journal control system technolog',63
+'aiaa journal guidanc control',63
+'medic physic',63
+'chines j medic biolog engin',63
+'proc ann conf bme roc',63
+'ieee intern confer control applic ieee intern symposium comput aid control system design kohala coast island haiwaii',63
+'sac select area cryptographi',63
+'ifsa anuual confer taipei roc',63
+'icann int confer artifici neural network',64
+'nan',64
+'icdm ieee intern confer data mine',65
+'pattern recognit letter',65
+'hicss intern confer system scienc',66
+'inform system www world wide web confer seri environ',66
+'ieee tran knowl data eng',67
+'journal chemic inform comput scienc',67
+'inf syst',68
+'ieee tran knowl data eng',68
+'inf process lett',69
+'theor comput sci',69
+'asplo architectur support program languag oper system',6
+'appear proceed th annual intern symposium comput architectur isca intern symposium comput architectur page',6
+'appear proceed th intern inform hide noordwijkerhout',6
+'appear supercomput san jose',6
+'microsoft research technic report msr tr',6
+'appear proceed rd usenix window symposium',6
+'first ieee acm intern symposium cluster comput grid ccgrid',6
+'appear architectur support program languag oper system asplo architectur support program languag oper system san jose',6
+'appear ieee visual',6
+'appear intern parallel process symposium switzeland',6
+'isca intern symposium comput architectur',6
+'appear hot interconnect symposium comput anim',6
+'ipp intern parallel process symposium',6
+'ieee comput graphic applic',6
+'comput amp graphic',6
+'ieee visual',6
+'inform hide',6
+'softw pract exper',6
+'osdi oper system design implement',6
+'comput graphic applic page',6
+'th usenix advanc comput system associ symposium oper system design implement',6
+'appear softwar practic experi',6
+'ipdp intern parallel distribut process symposium',70
+'ipdp intern parallel distribut process symposium',70
+'euro par',71
+'euro par',71
+'pdi confer parallel distribut inform system',7
+'distribut parallel databas',7
+'j parallel distrib comput',7
+'dexa databas expert system applic',7
+'dexa databas expert system applic',7
+'dasfaa databas system advanc applic',7
+'coopi',7
+'ieee tran knowl data eng',7
+'vldb larg data base j',7
+'ieee tran circuit system',8
+'journal circuit system comput',8
+'ieee tran signal process',8
+'signal process',8
+'ijprai intern journal pattern recognit artifici intellig',8
+'electron letter',8
+'comput graphic',8
+'neural network',8
+'ieee transact circuit system',8
+'intern journal system scienc',8
+'intern journal pattern recognit artifici intellig',8
+'neural process letter',8
+'pattern recognit postscript version',8
+'pattern recognit letter',8
+'fskd fuzzi system knowledg discoveri',8
+'ijprai intern journal pattern recognit artifici intellig',8
+'icip intern confer imag process',8
+'neural parallel scientif comput',8
+'ieee signal process letter',8
+'neurocomput',8
+'neurocomput',8
+'pattern recognit letter',8
+'comput amp graphic',8
+'comput anim',9
+'comput graph forum',9
+'icnp intern confer network protocol',9
+'icic intern confer inform commun signal process',9
+'iptp intern peer peer system',9
+'asplo architectur support program languag oper system',9
+'pervas',9
+'pervas',9

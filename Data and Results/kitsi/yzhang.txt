@@ -1,0 +1,208 @@
+40086;1;yi zhang;m ellingham,x zha;span trail degre sum condit;jgt;2004
+40087;2;yu zhang;r cheng,e bertino,s prabhakar;preserv user locat privaci mobil data manag infrastructur;pet;2006
+40088;3;ying zhang;y zhang,c wen;new focu measur method us moment;ivc;2000
+40089;3;ying zhang;y zhang,c wen;neural network base classif us blur degrad affin deform invari featur;flair;2000
+40090;3;ying zhang;y zhang,c wen,y soh;neural network base classif us blur degrad affin deform invari featur;ijait;2001
+40091;3;ying zhang;y zhang,c wen;estim motion paramet blur imag;prl;2000
+40092;3;yani zhang;b pham,m eckstein;evalu jpeg 2000 encod option human model observ detect variabl signal rai coronari angiogram;tmi;2004
+40093;3;yani zhang;b pham,m eckstein;autom optim jpeg 2000 encod option base model observ perform detect variabl signal rai coronari angiogram;tmi;2004
+40094;3;ying zhang;y zhang,c wen;simultan recov affin motion defocu blur us moment;icpr;2000
+40095;3;yani zhang;c wen,y zhang;recognit symmetr imag us affin moment invari frequenc spatial domain;paa;2002
+40096;3;ying zhang;y zhang,c wen,y soh;choic consist canon form moment normal;prl;2003
+40097;4;yue zhang;t yu,k lin;model measur privaci risk qo web servic;wecwi;2006
+40098;4;yue zhang;k raman,m panahi,j colmenares,r klefstad;pattern tool achiev predict perform real time java;rtcsa;2005
+40099;4;yue zhang;t yu,k raman,k lin;strategi effici syntact semant web servic;wecwi;2006
+40100;4;yue zhang;k lin,t yu;account servic orient architectur comput reason reput;iceb;2006
+40101;4;yue zhang;k lin,r klefstad;direct robust distribut broker framework trust reput manag;wecwi;2006
+40102;4;yue zhang;k raman,m panahi,j colmenares,r klefstad,t harmon;rtzen highli predict real time java middlewar distribut embed system;middlewar;2005
+40103;5;yueping zhang;s kang,d loguinov;delai stabil perform distribut congest control;sigcomm;2004
+40104;5;yueping zhang;d loguinov;oscil buffer overflow video stream non neglig queu delai;nossdav;2004
+40105;5;yueping zhang;s kang,m dai,d loguinov;multi layer activ queue manag congest control scalabl video stream;icdc;2004
+40106;5;yueping zhang;x wang,x li,d loguinov;zone balanc peer peer network analysi random node join;sigmetr;2004
+40107;5;yueping zhang;d leonard,d loguinov;jetmax scalabl max min congest control high speed heterogen network;infocom;2006
+40108;6;yeliang zhang;s chandra,m parashar,j yang,s hariri;investig autonom runtim manag strategi samr applic;ijpp;2005
+40109;6;yeliang zhang;h chen,s hariri,b kim,m yousif;self deploy self configur pervas network servic;icp;2004
+40110;6;yeliang zhang;s hariri,b khargharia,h chen,j yang,m parashar,h liu;autonom comput paradigm;cluster;2006
+40111;6;yeliang zhang;j yang,s hariri,s chandra,m parashar;autonom proactiv runtim partit strategi samr applic;ipp;2004
+40112;7;yan zhang;d zhang;logic properti belief revis base bargain solut;ausai;2006
+40113;7;yan zhang;n foo,d zhang,s chopra,q vo;encod solut frame problem dynam logic;lpnmr;2001
+40114;7;yan zhang;d zhang;comput model logic base negoti;aaai;2006
+40115;8;youtao zhang;x zhang,r gupta;precis dynam slice algorithm;ics;2003
+40116;9;yi zhang;w xu,j callan;explor exploit adapt filter base bayesian activ learn;icml;2003
+40117;9;yi zhang;p zigoris,d eads;unsupervis learn tree align model inform extract;icdm;2006
+40118;9;yi zhang;b dom,i eiron,a cozzi;graph base rank algorithm mail expertis analysi;dmkd;2003
+40119;9;yi zhang;w xu;fast exact maximum likelihood estim mixtur languag model;sigir;2007
+40120;9;yi zhang;k collins thompson,p ogilvie,j callan;inform filter novelti detect name page find;trec;2002
+40121;10;yan zhang;y ding;model updat ctl system;ausai;2005
+40122;10;yan zhang;v crescini;logic base approach dynam access control;ausai;2004
+40123;10;yan zhang;;handl defeas action domain;tplp;2003
+40124;10;yan zhang;y bai;artifici intellig databas secur;ijprai;2004
+40125;10;yan zhang;;monoton rule base updat;iclp;1999
+40126;10;yan zhang;n foo;toward gener rule base updat;ijcai;1997
+40127;10;yan zhang;h wang,v varadharajan;toward gener logic analys network protocol;icdcsw;2000
+40128;10;yan zhang;;handl defeas action domain;corr;2002
+40129;10;yan zhang;;experiment comparison superquadr fit object function;prl;2003
+40130;10;yan zhang;c wu;implement priorit logic program;ismi;1999
+40131;10;yan zhang;y ding;algorithm ctl system modif;ke;2005
+40132;10;yan zhang;;semant consider knowledg base updat;ismi;1996
+40133;10;yan zhang;y bai;comput aspect rule base databas updat;ieaaie;2001
+40134;10;yan zhang;n foo;deriv invari constraint action theori;fuin;1997
+40135;10;yan zhang;w qu,a liu;automat perform tune j2ee applic server system;wise;2005
+40136;10;yan zhang;j chen;multi agent system mobil environ;ifip12;2004
+40137;10;yan zhang;c wu,y bai;implement priorit logic program;aicom;2001
+40138;10;yan zhang;w qu,a liu;adapt self configur architectur j2ee base middlewar system;hicss;2006
+40139;10;yan zhang;n foo,p peppas;induct properti state;ausai;1997
+40140;10;yan zhang;y ding;logic approach ltl system modif;ismi;2005
+40141;10;yan zhang;n foo;answer set priorit logic program;slp;1997
+40142;10;yan zhang;c ruan,v varadharajan;logic model tempor author deleg negat;isw;2003
+40143;10;yan zhang;n foo;updat logic program;ecai;1998
+40144;10;yan zhang;c ruan,v varadharajan;logic base reason delegat author;ismi;2002
+40145;10;yan zhang;;two result proirit logic program;corr;2002
+40146;10;yan zhang;r ding;dual space draw method cone;graphit;2004
+40147;10;yan zhang;w li,y meng,h chen,t wang;intellig mosaic algorithm overlap imag;icnc;2005
+40148;10;yan zhang;j feng;elimin variat face imag us face symmetri;avbpa;2003
+40149;10;yan zhang;;two result priorit logic program;tplp;2003
+40150;10;yan zhang;d parikh,k skadron,m barcella,m stan;power issu relat branch predict;hpca;2002
+40151;10;yan zhang;n foo;unifi framework repres logic program updat;aaai;2005
+40152;10;yan zhang;n foo;repres action dynam domain;pricai;2002
+40153;10;yan zhang;;repres defeas constraint observ action theori;ausai;1998
+40154;10;yan zhang;s wang;specifi distribut author deleg us logic program;ke;2005
+40155;10;yan zhang;s lakkaraju;rule base abduct;ismi;2000
+40156;10;yan zhang;;complex logic program updat;ausai;2001
+40157;11;yanyong zhang;z li,w trappe,b nath;robust statist method secur wireless local sensor network;ipsn;2005
+40158;11;yanyong zhang;a sivasubramaniam;schedul best effort real time pipelin applic time share cluster;spaa;2001
+40159;11;yanyong zhang;r sahoo,a sivasubramaniam,m squillante;failur data analysi larg scale heterogen server environ;dsn;2004
+40160;11;yanyong zhang;j zhang,a sivasubramaniam,c liu,h franke;decis support workload characterist cluster databas server perspect;icdc;2003
+40161;11;yanyong zhang;w xu,w trappe,t wood;feasibl launch detect jam attack wireless network;mobihoc;2005
+40162;11;yanyong zhang;p kamat,w trappe,c ozturk;enhanc sourc locat privaci sensor network rout;icdc;2005
+40163;11;yanyong zhang;h franke,j moreira,a sivasubramaniam;integr approach parallel schedul us gang schedul backfil migrat;jsspp;2001
+40164;11;yanyong zhang;a sivasubramaniam,j moreira,h franke;impact workload system paramet next gener cluster schedul mechan;tpd;2001
+40165;11;yanyong zhang;a yang,a sivasubramaniam,j moreira;gang schedul extens intens workload;jsspp;2003
+40166;11;yanyong zhang;y liang,a sivasubramaniam,r sahoo,j moreira,m gupta;filter failur log bluegen l prototyp;dsn;2005
+40167;11;yanyong zhang;a sivasubramaniam,h franke,j moreira;improv parallel job schedul combin gang schedul backfil techniqu;ipp;2000
+40168;11;yanyong zhang;h franke,j moreira,a sivasubramaniam;impact migrat parallel job schedul distribut system;europar;2000
+40169;11;yanyong zhang;w xu,t wood,w trappe;channel surf spatial retreat defens wireless denial servic;ws;2004
+40170;11;yanyong zhang;m squillante,a sivasubramaniam,r sahoo;perform implic failur larg scale cluster schedul;jsspp;2004
+40171;11;yanyong zhang;j zhang,a sivasubramaniam,h franke,n gautam,s nagar;synthes repres workload tpc h;hpca;2004
+40172;11;yanyong zhang;a sivasubramaniam,j moreira,h franke;simul base studi schedul mechan dynam cluster environ;ic;2000
+40173;11;yanyong zhang;m squillante,a sivasubramaniam,n gautam,h franke,j moreira;model analysi dynam coschedul parallel distribut environ;sigmetr;2002
+40174;11;yanyong zhang;c ozturk,w trappe;sourc locat privaci energi constrain sensor network rout;sasn;2004
+40175;11;yanyong zhang;h franke,j moreira,a sivasubramaniam;integr approach parallel schedul us gang schedul backfil migrat;tpd;2003
+40176;11;yanyong zhang;j kang,b nath;analysi resourc increas decreas algorithm wireless sensor network;iscc;2006
+40177;12;yongmian zhang;q ji;facial express understand imag sequenc us dynam activ visual inform fusion;iccv;2003
+40178;12;yongmian zhang;q ji;sensor select activ inform fusion;aaai;2005
+40179;12;yongmian zhang;s louis;empir comparison random algorithm larg join queri optim;flair;1998
+40180;12;yongmian zhang;q ji;camera calibr genet algorithm;tsmc;2001
+40181;12;yongmian zhang;q ji;camera calibr genet algorithm;icra;2001
+40182;12;yongmian zhang;m fadali,s louis;robust stabil analysi discret time system us genet algorithm;tsmc;1999
+40183;12;y zhang;q ji;activ dynam inform fusion multisensor system dynam bayesian network;tsmc;2006
+40184;13;yiheng zhang;d brooks,d boas;multi resolut admiss solut approach diffus optic tomographi;isbi;2002
+40185;13;yiheng zhang;d brooks,m franceschini,d boas;reduct physiolog interfer optic function neuroimag us eigenvector base spatial filter;isbi;2004
+40186;13;yiheng zhang;d brooks,d boas;spatio tempor reconstruct algorithm diffus optic tomographi base hemodynam respons function model;isbi;2006
+40187;13;yiheng zhang;a ghodrati,d brooks;analysi spatial tempor regular method linear invers problem common statist framework;isbi;2004
+40188;14;yanqing zhang;x hu,x zhang,i yoo;semant approach mine hidden link complementari non interact biomed literatur;sdm;2006
+40189;15;yixin zhang;q hu,x shen;rearrang graph;ipl;1999
+40190;15;yixin zhang;q hu,x shen;rearrang graph;cocoon;1997
+40191;16;yanchun zhang;c sun,y yang,d chen;distribut concurr control real time cooper edit system;asian;1996
+40192;17;yongjie zhang;c bajaj,b sohn;adapt qualiti 3d mesh imag data;sma;2003
+40193;17;yongjie zhang;j oden,k diller,c bajaj,j browne,j hazle,i babuska,j bass,l demkowicz,y feng,d fuentes,s prudhomme,m rylander,r stafford;develop comput paradigm laser treatment cancer;icc;2006
+40194;17;yongjie zhang;g xu,c bajaj;qualiti mesh implicit solvat model biomolecular structur;cagd;2006
+40195;18;ying zhang;a mackworth;specif verif hybrid dynam system time foral automata;hybrid;1995
+40196;18;ying zhang;k roufas,d duff,m yim;six degre freedom sens dock us ir led emitt receiv;iser;2000
+40197;18;ying zhang;q huang,j liu;sequenti local algorithm activ sensor network deploy;aina;2006
+40198;18;ying zhang;s gandham,q huang;distribut minim time convergecast schedul wireless sensor network;icdc;2006
+40199;18;ying zhang;a mackworth;constraint program constraint net;ppcp;1993
+40200;18;ying zhang;y shang,w ruml,m fromherz;local mere connect;mobihoc;2003
+40201;18;ying zhang;j liu,f zhao;robust distribut node local error manag;mobihoc;2006
+40202;18;ying zhang;c wu,w sheng;mobil sensor network self local base multi dimension scale;icra;2007
+40203;18;ying zhang;y shang,w ruml,m fromherz;local connect sensor network;tpd;2004
+40204;18;ying zhang;l kuhn,m fromherz;improv ant rout sensor network;antsw;2004
+40205;18;ying zhang;m fromherz;constrain flood robust effici rout framework wireless sensor network;aina;2006
+40206;18;ying zhang;a mackworth;constraint net semant model hybrid dynam system;tc;1995
+40207;18;ying zhang;x liu,q huang;comb needl haystack balanc push pull discoveri larg scale sensor network;sensi;2004
+40208;18;ying zhang;g xing,c lu,q huang,r pless;minimum power configur wireless sensor network;mobihoc;2005
+40209;18;ying zhang;g xing,c lu,q huang,r pless;minimum power configur wireless commun sensor network;tosn;2007
+40210;18;ying zhang;a mackworth;specif verif constraint base dynam system;ppcp;1994
+40211;18;ying zhang;m yim,k roufas,d duff,c eldershaw,s homans;modular reconfigur robot space applic;arobot;2003
+40212;18;ying zhang;m yim,j lamping,e mao;distribut control 3d metamorphosi;arobot;2001
+40213;18;ying zhang;a mackworth;synthesi hybrid constraint base control;hybrid;1994
+40214;19;yi zhang;j zhang,j sun,q han,z jin;parallel splat algorithm base pc cluster;iccsa;2004
+40215;20;ya qin zhang;q zhang,w zhu;resourc alloc multimedia stream internet;tmm;2001
+40216;20;ya qin zhang;z ji,q zhang,w zhu,j lu;video broadcast mimo ofdm system;isca;2003
+40217;20;ya qin zhang;k wong,s chan,w wong,q zhang,w zhu;later error recoveri applic level multicast;infocom;2004
+40218;20;ya qin zhang;z xiang,q zhang,w zhu,z zhang;peer peer base multimedia distribut servic;tmm;2004
+40219;20;ya qin zhang;q zhang,z ji,w zhu;power minim bit alloc video commun wireless channel;tcsv;2002
+40220;20;ya qin zhang;q zhang,w zhu,z ji;power optim joint sourc channel code scalabl video stream wireless channel;isca;2001
+40221;20;ya qin zhang;q zhang,w zhu;network adapt scalabl video stream 3g wireless network;icip;2001
+40222;20;ya qin zhang;f yu,q zhang,w zhu;network adapt cach manag scheme mix media;pcm;2001
+40223;20;ya qin zhang;g wang,q zhang,w zhu;channel adapt unequ error protect scalabl video transmiss wireless channel;vcip;2001
+40224;20;ya qin zhang;f yu,q zhang,w zhu;qo adapt proxi cach multimedia stream internet;tcsv;2003
+40225;20;ya qin zhang;q zhang,w zhu;network adapt rate control tcp friendli protocol multipl video object;icmc;2000
+40226;20;ya qin zhang;w yiu,k wong,s chan,w wong,q zhang,w zhu;later error recoveri media stream applic level multicast;tmm;2006
+40227;20;yongguang zhang;h wu,k tan,q zhang;proactiv scan fast handoff smart trigger 802 wireless lan;infocom;2007
+40228;21;yuecheng zhang;q ye,l cheng;studi optim time synchron accuraci wireless sensor network;cn;2005
+40229;22;yingying zhang;j fessler;fourier base forward back projector iter fan beam tomograph imag reconstruct;isbi;2004
+40230;23;yi zhang;b dasgupta,g enciso,e sontag;algorithm complex result decomposit biolog network monoton subsystem;wea;2006
+40231;23;yi zhang;p berman,b dasgupta,d mubayi,r sloan,g turan;invers protein fold problem 2d 3d lattic;dam;2007
+40232;23;yi zhang;b liu;semant text classif diseas report;sigir;2007
+40233;23;yi zhang;n maltsev,e glass,d sulakhe,a rodriguez,m syed,t bompada,m d souza;puma2 grid base high throughput analysi genom metabol pathwai;nar;2006
+40234;23;yi zhang;m d souza,e glass,m syed,a rodriguez,n maltsev,m galperin;sentra databas signal transduct protein compar genom analysi;nar;2007
+40235;23;yi zhang;p berman,b dasgupta,d mubayi,r sloan,g turan;protein sequenc design problem canon model 2d 3d lattic;cpm;2004
+40236;24;yuan zhang;v sreedhar,w zhu,v sarkar,g gao;optim lock assign alloc method exploit concurr among critic section;ppopp;2007
+40237;24;yuan zhang;e duesterwald;barrier match program textual unalign barrier;ppopp;2007
+40238;24;yuan zhang;w zhu,f chen,z hu,g gao;sequenti consist revisit suffici condit method reason consist model multiprocessor chip architectur;pdcn;2005
+40239;25;yin zhang;b krishnamurthy,c wills;preliminari measur effect server adapt web content deliveri;imc;2002
+40240;25;yin zhang;m roughan,m thorup;traffic engin estim traffic matric;imc;2003
+40241;25;yin zhang;b krishnamurthy,c wills;us perform content distribut network;imw;2001
+40242;26;yingqian zhang;;toward fault toler multiag system;atal;2005
+40243;26;yingqian zhang;j dix,t eiter,m fink,a polleres;monitor agent us declar plan;fuin;2003
+40244;26;yingqian zhang;v subrahmanian,s kraus;distribut algorithm dynam surviv multiag system;clima;2004
+40245;26;yingqian zhang;j dix,t eiter,m fink,a polleres;monitor agent us declar plan;ki;2003
+40246;27;yanchao zhang;w liu,w lou,y fang;secur mobil ad hoc network certificateless public kei;tdsc;2006
+40247;27;yanchao zhang;y zhou,y fang;access control wireless sensor network;adhoc;2007
+40248;27;yanchao zhang;k ren,w lou;led provid locat awar end end data secur wireless sensor network;infocom;2006
+40249;27;yanchao zhang;w liu,w lou;anonym commun mobil ad hoc network;infocom;2005
+40250;27;yanchao zhang;w liu,y fang,k lu;energi conserv resourc awar movement heterogen mobil ad hoc network;jco;2006
+40251;27;yanchao zhang;w liu,w lou,y fang;robust energi effici data dissemin framework wireless sensor network;winet;2006
+40252;28;yong tao zhang;h zhao,j qian;high order fast sweep method static hamilton jacobi equat;jscic;2006
+40253;29;y zhang;p harrison;delai analysi prioriti queue modul traffic;mascot;2005
+40254;30;ying jun zhang;k letaief;effici resourc alloc scheme spatial multius access mimo ofdm system;tcom;2005
+40255;31;yi zhang;a fu,c cai,p heng;cluster categor data;icd;2000
+40256;31;yi zhang;c cheng,a fu;entropi base subspac cluster mine numer data;kdd;1999
+40257;31;yi zhang;m ye;complet converg competit neural network differ time scale;npl;2005
+40258;32;yi zhang;z li,d pilch,m leibowitz;pentamidin inhibit catalyt activ group intron ca lsu alter rna fold;nar;2002
+40259;33;yifeng zhang;s bhattacharyya;genet program classifi larg scale data ensembl method;isci;2004
+40260;34;yun zhang;f abu khzam,n baldwin,e chesler,m langston,n samatova;genom scale comput approach memori intens applic system biologi;sc;2005
+40261;35;yan zhang;j cong,a jagannathan,y ma,g reinman,j wei;autom design flow 3d microarchitectur evalu;aspdac;2006
+40262;35;yan zhang;j cong,j fang,m xie;mar multilevel full chip gridless rout system;tcad;2005
+40263;35;yan zhang;j cong,m xie;enhanc multilevel rout system;iccad;2002
+40264;35;yan zhang;j cong,j wei;thermal driven floorplan algorithm 3d ic;iccad;2004
+40265;35;yan zhang;j cong;thermal driven multilevel rout d ic;aspdac;2005
+40266;36;yanchun zhang;x zhang,j fong,x jia;transform rdb schema well structur oodb schema;infsof;1999
+40267;37;yi zhang;y yu,j lu,j xue,w sun;local xml document xslt;appinf;2003
+40268;38;ying zhang;r kamalian,a agogino,c sequin;design synthesi microelectromechan system us genet algorithm compon base genotyp represent;gecco;2006
+40269;39;yongguang zhang;s gorinsky,s jain,h vin;robust inflat subscript multicast congest control;sigcomm;2003
+40270;40;ying zhang;x lin,j xu,f korn,w wang;space effici rel error order sketch data stream;icd;2006
+40271;40;ying zhang;x lin,y yuan,m kitsuregawa,x zhou,j yu;summar order statist data stream duplic;icd;2007
+40272;41;ying zhang;x lin,y yuan,q zhang;select star k repres skylin oper;icd;2007
+40273;42;yun zhang;m zhang,w smart;program simplif genet program object classif;ke;2005
+40274;43;yu jin zhang;f xu,l zhang,w ma;salient featur select visual concept learn;pcm;2005
+40275;44;yong zhang;s fenner;quantum algorithm set group theoret problem;ictc;2005
+40276;44;yong zhang;s fenner,f green,s homer;bound power constant depth quantum circuit;fct;2005
+40277;45;yu zhang;j goubault larrecq,s lasota,d nowak;complet lax logic relat cryptograph lambda calculi;csl;2004
+40278;45;yu zhang;d nowak;logic relat dynam name creation;csl;2003
+40279;46;yuanping zhang;x yong,m golin;number span tree circul graph;dm;2000
+40280;47;ying zhang;t fernando;3d sound feedback act task aid virtual assembl environ;tpcg;2003
+40281;47;ying zhang;t fernando,h xiao,a travis;evalu auditori visual feedback task perform virtual assembl environ;presenc;2006
+40282;48;yu zhang;k chu,l zhang,c tan;fast stabl approach restor warp document imag;icdar;2005
+40283;49;yang zhang;a mandal,h casanova,a chien,y kee,k kennedy,c koelbel;scalabl grid applic schedul via decoupl resourc select schedul;ccgrid;2006
+40284;49;yang zhang;c koelbel,k kennedy;rel perform schedul algorithm grid environ;ccgrid;2007
+40285;50;yi zhang;w street,s burer;share classifi among ensembl relat problem domain;icdm;2005
+40286;51;yuming zhang;y caro,y li,c rousseau;asymptot bound bipartit graph complet graph ramsei number;dm;2000
+40287;52;yang zhang;a arakaki,j skolnick;larg scale assess util low resolut protein structur biochem function assign;bioinformat;2004
+40288;53;yan zhang;j zheng,l zhang,y chen,m ma;model locat manag wireless network gener distribut paramet;comcom;2006
+40289;54;yunjun zhang;j xiao,m shah;adapt region base video registr;wacv;2005
+40290;54;yunjun zhang;j xiao,m shah;motion layer base object remov video;wacv;2005
+40291;55;yunqing zhang;y chen,k zhang;or type condit cyclabl;ejc;2001
+40292;55;yunqing zhang;y chen,k zhang;ramsei number star versu wheel;ejc;2004
+40293;56;y q zhang;j luo,y ji,t zhong,j wang,j liu,n niu,j han,x guo,g shen;ebsd measur elast strain field gan sapphir structur;mr;2006

@@ -1,0 +1,284 @@
+@relation 'Dataset dblp publish-venue_title ktanaka'
+@attribute Text string
+@attribute class-att {212, 213, 214, 215, 216, 217, 218, 219, 220, 221}
+@data
+'peer peer comput ubiquit servic orient network uson approach ubiquit world p p technolog',212
+'lcn ieee local comput network multimedia commun network architectur model high speed network',212
+'system comput access control author cg multipl detail level',213
+'fodo foundat data organ algorithm behavior analysi object orient databas method structur execut tree reachabl extend abstract',213
+'english tran ipsj schema design view incomplet inform object orient databas',213
+'world wide web special issu nd web inform engin confer wise',213
+'proc rd int conf foundat data organ algorithm lectur note comput scienc springer verlag behavior analysi object orient databas method structur execut tree reachabl extend abstract',213
+'tran ipsj design problem unnorm relat util semant constraint relat databas japanes',213
+'tran ipsj interfer problem between relat queri depend constraint japanes',213
+'springer verlag problem relat databas design lectur note comput scienc',213
+'tran iec e properti embed multivalu depend relat databas',213
+'proc th int conf system scienc u s represent relat databas output util depend',213
+'proc ieee rd int comput softwar applic conf us abstract characterist relat databas',213
+'proc ieee rd int comput softwar applic conf semant aspect depend their applic relat databas design',213
+'inform scienc elsevi scienc pub inc synthesi unnormal relat incorpor more mean',213
+'int j cooper inf syst infolod landmark spatial present attribut inform comput repres object spatial',213
+'tran the institut system control inform engin design implement orient medicin expert japanes',213
+'academ press proc conf consecut retriev properti tree structur organ consecut retriev properti base file organ',213
+'proc the th ieee annual int comput softwar applic conf visibl control orient medicin expert',213
+'springer verlag dood deduct object orient databas',213
+'proc int symp next gener databas system their applic nda fukuoka cpp obas object databas model toward more flexibl object orient databas',213
+'proc the jssst object orient comput workshop appear object orient comput i kindai kagakusha continu object model multi media databas japanes',213
+'databas system next gener applic advanc databas research develop seri world scientif publish design implement visual queri languag histor databas',213
+'proc int symp databas system advanc applic dasfaa databas system advanc applic historychart visual queri languag histor databas',213
+'tran ipsj propag view instanc inherit mechan parial order relationship object orient databas japanes',213
+'proc int symp advanc databas technolog thier integr adti nara japancpp navig instanc object databas dynam inherit capabl',213
+'proc int symp advanc databas technolog thier integr adti nara abstract inherit hyperlink object orient hypertext databas textlink gem',213
+'proc th annual int comput softwar applic conf compsac intern comput softwar applic ieee comput societi press ad method relat databas construct',213
+'system comput cost model copyright manag d digit content multilevel complex object',213
+'system comput tempor link mechan hypermedia broadcast',213
+'hypertext cut as queri unit www netnew e mail',213
+'nan object orient comput i japanes',213
+'inform process ipsj fundament concept object orient databas japanes',213
+'inform process ipsj select ipsj th anniversari paper histor databas model tupl sequenc it integr constraint japanes',213
+'proc int symp comput world integr hypermedia object orient databas technolog japanes',213
+'proc int symp interoper inform system intap tokyo store manipul multimedia databas object postscript relat databas',213
+'plenum press foundat organ',213
+'proc int symp comput world toward integr environ edit view publish multimedia databas object',213
+'int symp databas system advanc applic seoul korea tutori object orient databas',213
+'proc th int conf system scienc bibliograph inform process facil relat databas ari',213
+'dasfaa databas system advanc applic advanc applic futur research issu oodb',213
+'acm tran databas system comput tupl sequenc object histori',213
+'vldb veri larg data base relat languag simplifi binari relat handl capabl',213
+'proc the th ieee int conf data engin schema virtual object orient databas',213
+'proc int conf databas theori lectur note comput scienc springer verlag toward abstract complex databas object gener reduct unif set type object extend abstract',213
+'dexa databas expert system applic imag retriev web context fill gap between imag keyword usag keyword',213
+'amcp advanc multimedia content process semant structur video index',213
+'dexa databas expert system applic time stamp author graph video databas',213
+'proc int conf foundat data organ kyoto plenum press comput tupl sequenc object histori extend abstract',213
+'theor comput sci interv queri object histori',213
+'proc th int conf veri larg data base interv queri object histori extend abstract',213
+'dood deduct object orient databas next gener databas manag technolog panel',213
+'adbi advanc databas inform system dasfaa databas system advanc applic advanc process environ manag continu semistructur featur multimedia content',213
+'dasfaa databas system advanc applic interact classif web document self organ map search engin',213
+'dasfaa databas system advanc applic som inform organ text video',213
+'dasfaa databas system advanc applic queri multipl perspect video camera metaphor',213
+'fodo foundat data organ algorithm tree structur organ consecut retriev properti',213
+'er intern conceptu model entiti relationship approach model structur multipl perspect video brows',213
+'vdb visual databas system skim multipl perspect video tempo spatial import measur',213
+'icd intern data engin schema virtual object orient databas',213
+'proc th int conf veri larg data base cann logic integr local independ relat databas distribut databas',213
+'inform system pergamon press organ quasi consecut retriev file',213
+'c tea time museum croquet as brows search environ digit librari',213
+'proc rd int conf veri larg data base tokyo relat languag simplifi binari relat handl capabl',213
+'mfc mathemat foundat comput scienc test join depend preserv modifi chase method',213
+'digit citi dynam zone retriev landmark comput spatial',213
+'coda second intern symposium cooper databas system advanc applic infolod landmark brows retriev spatial',213
+'icsc intern comput scienc confer navig depend web view defin control semant unit web page',213
+'proc int conf databas expert system applic dexa springer verlag uncertainti manag object orient databas',213
+'dexa databas expert system applic workshop dynam gener virtual space increment queri formul spatial brows',213
+'dasfaa databas system advanc applic spatial present aggreg georeferenc',213
+'ds discoveri scienc discoveri semant relationship among web page web topic structur',213
+'apweb local filter search web page',213
+'dexa databas expert system applic web inform retriev local degre',213
+'ieee intern multimedia expo iii back tv inform visual interfac tv program metaphor',213
+'www world wide web seri compar web browser cwb brows compar web page',213
+'dexa databas expert system applic mwm retriev automat present manual mobil termin',213
+'dasfaa databas system advanc applic webcarrousel restructur web search result passiv view mobil environ',213
+'dexa databas expert system applic webcarousel automat present semant restructur web search result mobil environ',213
+'kyoto intern digit librari associ present metadata digit archiv object virtual space as synchron multimedia content',213
+'hicss intern system scienc tv program gener digest video scene script markup languag',213
+'icd intern data engin queri pair as hypertext link',213
+'proc the th int conf data engin ieee comput societi queri pair as hypertext link',213
+'dasfaa databas system advanc applic historychart visual languag histor databas',213
+'dasfaa databas system advanc applic increment organ ancient document databas',213
+'proc int symp databas system advanc applic dasfaa databas system advanc applic altern object object orient databas',213
+'wwca worldwid comput it applic spatial view lod access control vrml object databas',213
+'ieee tran knowledg data engin ovid design implement video object databas',213
+'handbook multimedia inform manag video databas recent trend research develop activ',213
+'futur databas two level schemata gener link hypertext databas model',213
+'proc st int conf deduct object orient databas dood elsevi scienc publish b v north natur join object orient databas',213
+'dexa databas expert system applic webscan discov notifi import chang web site',213
+'ijcai intern joint artifici intellig dynam theori incent multi agent',213
+'wise web inform system engin context depend web bookmark their usag as queri',213
+'dexa databas expert system applic hypermedia broadcast tempor link',213
+'new gener comput algebra retriev fragmentarili index video',213
+'icmc intern multimedia comput system queri model retriev relev interv within video stream',213
+'icsc intern comput scienc confer scoopcast dynam video product deliveri from index live video stream',213
+'ieee tran knowl data eng queri model synthes answer interv from index video unit',213
+'vdb visual databas system new algebra approach retriev meaning video interv from fragmentarili index video shot',213
+'dant deliveri advanc network technolog europ new techniqu discoveri logic document web',213
+'coda second intern symposium cooper databas system advanc applic util prototyp object powerdomain support public author video databas',213
+'saint symposium applic the internet web reconfigur spatio tempor page person rule access',213
+'dexa databas expert system applic encapsul multimedia content copyright protect mechan distribut object',213
+'mathemat studi inform process file organ suitabl relat databas oper',213
+'lectur note comput scienc springer verlag file organ suitabl relat databas oper',213
+'dant deliveri advanc network technolog europ similar retriev human motion as multi stream time seri',213
+'vdb visual databas system queri video spatio tempor relationship move object trace',213
+'data base design techniqu i problem relat databas design',213
+'inf syst organ quasi consecut retriev file',213
+'dbsec access control model object orient',214
+'icpp intern parallel process workshop protocol pseudo activ replic wide area network',214
+'icpp intern parallel process workshop checkpoint distribut object',214
+'icpp intern parallel process workshop quorum protocol group commun',214
+'icpp intern parallel process workshop qualiti lock mode multimedia object',214
+'isad intern symposium autonom decentr system quorum lock protocol replica object',214
+'isorc ieee intern symposium object orient real time distribut comput asynchron checkpoint protocol object',214
+'isorc ieee intern symposium object orient real time distribut comput group protocol object',214
+'icdc intern distribut comput system workshop group commun comput pseudo activ replic protocol reliabl replica group',214
+'icdc intern distribut comput system workshop group commun comput group protocol exchang multimedia object group',214
+'icdc intern distribut comput system workshop group commun comput group commun protocol object',214
+'dexa databas expert system applic workshop quorum replic object',214
+'icpad intern parallel distribut system inform flow control role model distribut object',214
+'icpad intern parallel distribut system checkpoint protocol object',214
+'icpad intern parallel distribut system optim nest invoc replica object',214
+'icpad intern parallel distribut system distribut checkpoint influenti messag',214
+'icpad intern parallel distribut system group protocol quorum replic',214
+'icpad intern parallel distribut system qo method compens multimedia object',214
+'icpad intern parallel distribut system causal preced relat among messag object',214
+'doa intern symposium distribut object applic reliabl nest invoc method distribut object',214
+'doa intern symposium distribut object applic pseudo activ replic distribut object wide area network',214
+'doa intern symposium distribut object applic quorum lock protocol replic object',214
+'dexa databas expert system applic workshop protocol pseudo activ replic wide area network',214
+'inf sci qualiti synchron method multimedia object',214
+'dexa databas expert system applic inform flow control among object role access control model',214
+'dexa databas expert system applic object order deliveri messag object',214
+'dexa databas expert system applic protocol take object checkpoint',214
+'dexa databas expert system applic quorum lock protocol nest invoc method',214
+'dexa databas expert system applic qualiti synchron method multimedia object',214
+'dexa databas expert system applic signific checkpoint distribut',214
+'icra intern robot autom remot rapid manufactur action media as advanc user interfac',214
+'dexa databas expert system applic workshop qo method compens multimedia object',214
+'icoin intern inform network author model object orient concept',214
+'icoin intern inform network replica manag object',214
+'icoin intern inform network group protocol deliv request replica',214
+'icoin intern inform network object causal order group protocol distribut multimedia',214
+'icoin intern inform network causal messag object',214
+'inform control properti fuzzi set type',215
+'inform control fuzzi set their oper',215
+'j comput syst sci relat graph properti them',215
+'j comput syst sci variou kind automata weight',215
+'vldb veri larg data base implement fuzzi set theoret structur abstract',215
+'j comput syst sci consider fuzzi automata',215
+'j comput syst sci interact languag',215
+'ann pure appl logic weak axiom determinaci subsystem analysi ii sigma game',216
+'notr dame journal formal logic formal model theoret proof godel s theorem',216
+'journal the physic societi diagrammat techniqu two dimension is model iii is model vertex model',216
+'physica determin paramet imag recoveri statist mechan mean',216
+'journal the korean physic societi supplementari issu proceed workshop statist physic s s korea univers krea gener heisenberg model spin s greater than equival those spin',216
+'journal the physic societi gener heisenberg model spin s greater than equival that spin',216
+'physic letter gener t j model gener half odd integr spin s',216
+'physic letter see also physic letter p lattic model flux line',216
+'molecular physic on dimens binari mixtur hard rod non addit distanc contact',216
+'physica numer studi d annni model cluster variat method',216
+'journal the physic societi coher anomali analysi cluster variat method spin pair correl function is model',216
+'progress theoret physic supplement coher anomali analysi cluster variat method two dimension is model nearest neighbor next nearest neighbor interact',216
+'inform scienc postscript compress postscript color imag compress algorithm self organ featur map interdisciplinari',216
+'proceed confer mareri mechan superconduct high temperatur superconductor iv mm htsc iv cluster variat method two dimension hubbard t j model physica c pt',216
+'physic letter cluster variat method imag restor problem',216
+'ieic transact d ii j d ii japanes translat system comput english coupl markov random field model phase as line field region field',216
+'edit m suzuki n kawashima world scientif publish copor press proceed intern symposium cofer approach fluctuat kyoto correl random field is model imag restor problem',216
+'progress theoret physic correl function on dimension lattic ga nearest neighbor next nearest neighbor interact',216
+'ann pure appl logic self embed theorem wkl non standard method',216
+'progress theoret physic supplement correl function on dimension lattic ga interact up third nearest neighbor',216
+'physic letter critic indic two dimension is model nearest neighbor next nearest neighbor interact',216
+'physica critic indic two dimension is model nearest neighbor next nearest neighbor interact ii strip cluster approxim',216
+'journal the physic societi free energi layer free fermion model',216
+'ieic transact j japanes translat electron commun part fundament electron scienc english quantum statist mechan iter method imag restor',216
+'neural network signal process xiii proceed the ieee signal process societi workshop toulous paper postscript present slide powerpoint loopi belief propag probabilist imag process',216
+'ieic transact d ii j d ii japanes imag restor compound gauss markov random field model quantum line field',216
+'ieic transact inform system e d maximum likelihood hyperparamet estim solvabl markov random field model imag restor',216
+'transact japanes societi artifici intellig maximum margin likelihood estim constrain optim imag restor',216
+'ieic transact j japanes maximum posterior margin estim statist method imag restor',216
+'physic review b critic behavior frustrat spin is model',216
+'theori applic the cluster variat path probabl method ed j l mor l opez j m sanchez plenum press new proceed the intern workshop theori applic the cluster variat path probabl method teotihuacan applic cluster variat method imag restor problem',216
+'journal the physic societi applic cluster variat method three dimension t j model',216
+'journal the korean physic societi supplementari issu proceed workshop statist physic s s korea univers krea applic culster variat method three dimension t j model ii',216
+'proceed intern workshop soft comput industri muroran institut technolog press muroran approxim optim algorithm markov random field model statist mechan techniqu',216
+'y suzuki s ovaska t furuhashi r y dote ed soft comput industri applic springer verlag press london proceed th line world soft comput industri applic probabilist comput method imag restor statist mechan texhniqu',216
+'journal physic mathemat gener probabilist imag process mean beth approxim q is model',216
+'ieic transact inform system e d probabilist infer mean cluster variat method linear respons theori',216
+'interdisciplinari inform scienc postscript probabilist iter quantum iter comput method grai level imag restrat',216
+'physic review e articl postscript solvabl markov random field model color imag restor',216
+'physica spin pair correl function is model brickwork lattic second neighbor interact',216
+'journal the physic societi coher anomali method wave number depend suscept',216
+'transact japanes societi artifici intellig staistic mechan iter algorithm mean cluster variat method compound gauss markov random field model',216
+'proceed the th intern pattern recognit ii track b pattern recognit signal analysi ieee comput societi press lo alamo carifornia file statist mechan algorithm mrf model variat principl',216
+'proceed intern workshop soft comput industori muroran institut technolog press muroran statist mechan studi imag restor markov random field model',216
+'ieic transact j japanes statist mechan iter algorithm imag restor grai level imag',216
+'ieic transact j japanes statist mechan iter method imag restor',216
+'progress theoret physic asymptot behavior spin pair correl function is model checkerboard lattic',216
+'journal the physic societi asymptot behavior spin pair correl function is model gener kagom lattic',216
+'progress theoret physic asymptot behavior modifi block toeplitz determin',216
+'progress thoeret physic asymptot form block toeplitz determin',216
+'proceed xx intern low temperatur physic univers three dimension t j model cluster variat method physica b',216
+'journal the physic societi low temperatur behavior antiferromagnet is model triangular lattic',216
+'ieic transact j japanes translat electron commun part fundament electron scienc english theoret studi hyperparamet estim maxim margin likelihood imag restor mean cluster variat method',216
+'ieic transact d ii j d ii be translat system comput automat hyperparamet estim probabilist imag restor algorithm gibb microcanon distribut',216
+'j symb log non standard construct haar measur weak konig s lemma',216
+'proceed the ieee signal process societi workshop dynam properti imag restor hyper paramet estim neural network signal process xi',216
+'physic review e articl postscript dynam maximum likelihood hyper paramet estim imag restor gradient descent versu expect maxim algorithm',216
+'journal physic mathemat gener mean field theori em algorithm bayesian grai scale imag restor',216
+'pattern recognit letter cluster ztp recoveri imag',216
+'math log q non standard analysi wklo',216
+'ann pure appl logic fix point theori weak second order arithmet',216
+'ann pure appl logic conserv result week konig s lemma',216
+'new gener comput quantum bit commit small storag quantum on wai permut',217
+'nan complex negat limit boolean network symposium theori comput page montreal quebec canada mai',217
+'ieic transact inform system e d negat limit circuit complex cliqu function',217
+'ieic transact inform system e d relationship between number negat circuit size',217
+'symposium oper research jena minim total complet time flow shop idl constraint',217
+'ieic transact fundament electron commun comput scienc densiti attack knapsack cryptosystem enum sourc encod',217
+'isaac th annual intern symposium algorithm comput kyoto limit negat bound depth circuit extens markov s theorem',217
+'dmtc cat discret mathemat theoret comput scienc and th australasian theori symposium page auckland new zealand lower bound negat limit invert',217
+'intern symposium mathemat program lausann singl machin schedul posit due releas date',217
+'annal oper research minim maximum absolut late rang late gener due date singl machin',217
+'inform system oper research minim rang late singl machin gener due date',217
+'proceed the second intern symposium oper research it applic page guilin improv algorithm singl machin schedul fuzzi due date',217
+'proceed the th intern fuzzi system associ world congress volum page pragu czech singl machin schedul fuzzi due date',217
+'symposium combinatori optim london singl machin schedul gener due date',217
+'intern optim optim control lambrecht singl machin schedul posit due date posit releas time',217
+'ieic transact fundament electron commun comput scienc e singl machin schedul minim maximum late both specif gener due date',217
+'proceed the second intern symposium oper research it applic page guilin singl machin schedul minim maximum late both specif gener due date',217
+'pkc th intern workshop practic theori public kei cryptographi rsa famili trap door permut common domain it applic',217
+'wisict winter intern symposium inform commun technolog cancun effici anonym group identif scheme human memoriz secret kei',217
+'ieic transact fundament electron commun comput scienc effici anonym group identif scheme short secret kei',217
+'inform process letter negat limit circuit complex symmetr function',217
+'stoc acm symposium theori comput complex negat limit boolean network',217
+'advanc cryptolog crypto lectur note comput scienc page santa barbara quantum public kei cryptosystem',217
+'erato workshop quantum inform scienc tokyo poster session refere quantum public kei cryptosystem',217
+'inf process lett exponenti gap remov on negat gate',217
+'proceed the th annual acm symposium theori comput page la vega more complex negat limit circuit',217
+'inform process letter exponenti gap remov on negat gate',217
+'crypto intern crytolog quantum public kei cryptosystem',217
+'inf process lett negat limit circuit complex symmetr function',217
+'siam societi industri appli mathemat journal comput complex negat limit boolean network',217
+'proceed the th intern symposium algorithm comput lectur note comput scienc page osaka approxim special case common subtre edit distanc',217
+'isaac intern symposium algorithm comput approxim special case common subtre edit distanc',217
+'ieic tran fundament e acceler imag halfton techniqu improv genet algorithm',218
+'proc technolog strategi protect intellectu properti network multimedia environ video steganographi how secretli emb d signatur pictur',218
+'ieic tran fundament e hide via steganograph ic imag transform',218
+'ieic tran inform system e d hide fractal imag gener via fourier filter method',218
+'ieic tran j d ii japanes color wat ermark color vision model',218
+'ieic tran fundament e multi level imag halftoni ng techniqu genet algorithm',218
+'ieic tran fundament e imag encrypt scheme truncat b aker transform',218
+'lectur note comput scienc springer genet algorithm nk landscap effec ts select drift mutat recombin',218
+'ip sj journal empir model coopera tive competit genet oper improv ga perform investig multipl knapsack problem',218
+'ieic tran fundament e perform studi di stribut genet algorithm parallel cooper competit genet oper',218
+'ieic tran fundament e simultan eou halfton imag gener improv multiobject genet algorithm',218
+'evoworkshop genet algorithm nk landscap effect select drift mutat recombin',218
+'emo evolutionari multi criterion optim halfton imag gener improv multiobject genet algorithm',218
+'ppsn parallel problem solv from natur parallel vari mutat determinist self adapt ga',218
+'gecco genet evolutionari comput web page color modif barrier free color vision genet algorithm',218
+'gecco genet evolutionari comput improv imag halfton techniqu ga concurr inter block evalu',218
+'lectur note comput scienc springer halfton imag gener improv multiobject genet algorithm',218
+'lectur note comput scienc springer parallel vari mutat determinist self adapt ga',218
+'gecco genet evolutionari comput cooper crossov mutat oper genet algorithm',218
+'system comput measur fragment mri relic restor virtual realiti technolog',219
+'system comput multipl visual featur identif integr d recoveri rotat object',219
+'icra intern robot autom understand mechan assembl instruct manual integr vision languag process simul',219
+'ichim intern hypermedia interact museum surfac model gener relic from slice imag approach automat restor',219
+'ismi intern syposium methodolog intellig system understand mechan assembl instruct manual virtual space',219
+'journal chemic inform comput scienc conveni notat organ structur basi connect stack',220
+'ecai european artifici intellig memori learner model it applic game coach',220
+'ictai intern tool artifici intellig advanc fuzzi control trailer type mobil robot stabil analysi model fuzzi control',220
+'fuzz ieee dual design problem via multipl lyapunov function',220
+'inf sci dynam parallel distribut compens takagi sugeno fuzzi lmi approach',220
+'uist user interfac softwar technolog provid visual rich resiz imag user interfac compon',221
+'acm symposium user interfac softwar technolog link messag from real paper paper pda',221
+'acm symposium user interfac softwar technolog inform percol ambient inform displai decor object',221

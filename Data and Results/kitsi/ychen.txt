@@ -1,0 +1,302 @@
+37248;1;yan chen;y zhao,d bindel;toward unbias end end network diagnosi;sigcomm;2006
+37249;1;yan chen;y gao,z li;resili flow level intrus detect approach high speed network;icdc;2006
+37250;1;y chen;g lu,s birrer,f bustamante,c cheung,x li;end end infer router packet forward prioriti;infocom;2007
+37251;1;yan chen;l qiu,w chen,l nguyen,r katz;cluster web content effici replic;icnp;2002
+37252;1;yan chen;b krishnamurthy,s sen,y zhang;sketch base chang detect method evalu applic;imc;2003
+37253;1;yan chen;b raman,s agarwal,m caesar,w cui,p johansson,k lai,t lavian,s machiraju,z mao,g porter,t roscoe,m seshadri,j shih,k sklower,l subramanian,t suzuki,s zhuang,a joseph,r katz,i stoica;sahara model servic composit across multipl provid;pervas;2002
+37254;1;yan chen;k lim,r katz,c overton;stabil network distanc estim;sigmetr;2002
+37255;1;yan chen;r katz,j kubiatowicz;scan dynam scalabl effici content distribut network;pervas;2002
+37256;1;yan chen;r katz,j kubiatowicz;dynam replica placement scalabl content deliveri;iptp;2002
+37257;1;yan chen;p ren,y gao,z li,b watson;idgraph intrus detect analysi us stream composit;cga;2006
+37258;1;yan chen;a bargteil,d bindel,r katz,j kubiatowicz;quantifi network denial servic locat servic case studi;icic;2001
+37259;1;yan chen;j kubiatowicz,d bindel,s czerwinski,p eaton,d geels,r gummadi,s rhea,h weatherspoon,w weimer,c wells,b zhao;oceanstor architectur global scale persist storag;asplo;2000
+37260;1;yan chen;q zhu,a kaufman,s muraki;physic base anim volumetr object;ca;1998
+37261;1;yan chen;r schweller,z li,y gao,a gupta,y zhang,p dinda,m kao,g memik;revers hash high speed network monitor algorithm evalu applic;infocom;2006
+37262;1;yan chen;d bindel,r katz;tomographi base overlai network monitor;imc;2003
+37263;1;yan chen;r schweller,a gupta,e parsons;revers sketch effici accur chang detect network data stream;imc;2004
+37264;1;yan chen;d bindel,h song,r katz;algebra approach practic scalabl overlai network monitor;sigcomm;2004
+37265;1;yan chen;y zhao;suit scheme user level network diagnosi without infrastructur;infocom;2007
+37266;1;yan chen;p ren,y gao,z li,b watson;idgraph intrus detect analysi us histograph;vizsec;2005
+37267;2;yi ping phoebe chen;;guest editor s introduct;ijsek;2003
+37268;2;yi ping phoebe chen;j an;concept learn text document;webi;2004
+37269;2;yi ping phoebe chen;c lopez;us object trajectori analysi facilit index retriev video;kb;2006
+37270;2;yi ping phoebe chen;q chen;analyz inconsist toward enhanc integr biolog molecular databas;apbc;2006
+37271;2;yi ping phoebe chen;d tjondronegoro,b pham;extens detect index highlight event broadcast sport video;acsc;2006
+37272;2;yi ping phoebe chen;q chen,s zhang,c zhang;detect collus attack secur protocol;apweb;2006
+37273;2;yi ping phoebe chen;d tjondronegoro,b pham;classif self consum highlight soccer video summari;icmc;2004
+37274;2;yi ping phoebe chen;j an;find short pattern classifi text document;webi;2006
+37275;2;yi ping phoebe chen;j an;similar search algorithm predict protein structur;ke;2006
+37276;2;yi ping phoebe chen;d tjondronegoro;multi level semant analysi sport video;ke;2005
+37277;2;yi ping phoebe chen;d tjondronegoro,b pham;content base video index sport applic us integr multi modal approach;mm;2005
+37278;2;yi ping phoebe chen;j an;yet anoth induct algorithm;ke;2005
+37279;2;yi ping phoebe chen;q chen,c zhang,l li;mine frequent itemset protein kinas regul;pricai;2006
+37280;2;yi ping phoebe chen;j an,c subramaniam;side chain conform prefer protein structur;metmb;2005
+37281;2;yi ping phoebe chen;s wu,y li,y xu,b pham;automat pattern taxonomi extract web mine;webi;2004
+37282;2;yi ping phoebe chen;j an,q xu;surfac spatial index structur high dimension space;ideal;2004
+37283;2;yi ping phoebe chen;j an,q xu,x zhou;new index method high dimension dataset;dasfaa;2005
+37284;2;yi ping phoebe chen;q chen;analyz secur protocol us associ rule mine;ausai;2005
+37285;3;yinong chen;w tsai,j gao,x wei;testabl softwar servic orient architectur;compsac;2006
+37286;3;yinong chen;w tsai,d zhang,h huang;vote multi dimension data deviat web servic group test;icdcsw;2005
+37287;3;yinong chen;m wang,z du,z cheng;soa base pipelin system deal astronomi telescop data;sose;2006
+37288;3;yinong chen;w tsai,c fan,r paul,j chung;architectur classif soa base applic;isorc;2006
+37289;3;yi chen;s davidson,y zheng;effici xpath queri processor xml stream;icd;2006
+37290;3;yi chen;s davidson,y zheng;vitex stream xpath process system;icd;2005
+37291;3;yinong chen;w tsai,d zhang,r paul;stochast vote algorithm web servic group test;qsic;2005
+37292;3;yi chen;n kwasnikowska,z lacroix;model store scientif protocol;otm;2006
+37293;3;yinong chen;h huang,w tsai;binari analysi autom hot patch web base applic;infsof;2006
+37294;3;yinong chen;w tsai,r paul;specif base verif valid web servic servic orient oper system;word;2005
+37295;3;yi chen;s davidson,y zheng;xkvalid constraint valid xml;cikm;2002
+37296;3;yinong chen;w tsai,b xiao,r paul,q huang;global softwar enterpris new softwar construct architectur;wecwi;2006
+37297;3;yinong chen;x bai,z shao;adapt web servic test;compsac;2007
+37298;3;yinong chen;;servic schedul trustworthi system;anss;2004
+37299;3;yi chen;h khatri,j fan,s kambhampati;qpiad queri process incomplet autonom databas;icd;2007
+37300;3;yinong chen;w tsai,r paul,n liao,h huang;cooper group test verif dynam composit web servic;compsac;2004
+37301;3;yinong chen;w tsai,x liu,r paul;simul verif valid dynam polici enforc;anss;2005
+37302;3;yinong chen;m chang,j he,w tsai,b xiao;ucsoa user centric servic orient architectur;iceb;2006
+37303;3;yinong chen;w tsai,q huang,x sun;dynam collabor simul servic orient comput paradigm;anss;2007
+37304;3;yinong chen;b xiao,w tsai,q huang,r paul;soa collabor model analysi simul psml c;iceb;2006
+37305;3;yinong chen;w tsai,y lee,z cao,b xiao;rtsoa real time servic orient architectur;sose;2006
+37306;3;yi chen;g mihaila,r bordawekar,s padmanabhan;l tree dynam label structur order xml data;edbtw;2004
+37307;3;yinong chen;w tsai,x liu;distribut polici specif enforc servic orient busi system;iceb;2005
+37308;3;yi chen;s bird,s davidson,h lee,y zheng;design evalu xpath dialect linguist queri;icd;2006
+37309;3;yi chen;s davidson,y zheng;bla effici xpath process system;sigmod;2004
+37310;3;yinong chen;w tsai,m malek,f bastani;perspect servic orient comput servic orient system engin;sose;2006
+37311;3;yinong chen;h huang,w tsai;autonom hot patch web base applic;compsac;2005
+37312;3;yinong chen;w tsai,z cao,x bai,h huang,r paul;test web servic us progress group test;awcc;2004
+37313;3;yinong chen;w gorke;structur orient depend evalu fault toler protocol;jss;1994
+37314;3;yinong chen;w tsai,c fan,r paul;servic orient model simul framework rapid develop distribut applic;simpra;2006
+37315;3;yinong chen;;model softwar oper reliabl via input domain base reliabl growth model;ftc;1998
+37316;3;yinong chen;w tsai,q huang,b xiao;verif framework dynam collabor servic servic orient architectur;qsic;2006
+37317;3;yi chen;q shao,m kinsy;store discov critic workflow log scientif explor;ieeescc;2007
+37318;3;yi chen;z liu;identifi meaning return inform xml keyword search;sigmod;2007
+37319;3;yinong chen;z he;simul highli depend applic distribut comput environ;anss;2003
+37320;3;yinong chen;x zhou,w tsai,x wei,b xiao;pi4soa polici infrastructur verif control servic collabor;iceb;2006
+37321;3;yinong chen;c colbourn,w tsai;progress rank composit web servic us cover arrai;word;2005
+37322;3;yi chen;g wolf,h kathri,b chokshi,j fan,s kambhampati;queri process incomplet autonom databas;vldb;2007
+37323;3;yi chen;g mihaila,s davidson,s padmanabhan;expedit system encod xml process;cikm;2004
+37324;3;yinong chen;w hao,t gao,i yen,r paul;infrastructur web servic migrat real time applic;sose;2006
+37325;3;yinong chen;w tsai,r paul,h huang,x zhou,x wei;adapt test oracl gener test case rank web servic;compsac;2005
+37326;4;yu chen;m cai,k hwang,y kwok,s song;collabor internet worm contain;ieeesp;2005
+37327;4;yu chen;k hwang,y kwok;filter shrew ddo attack frequenc domain;lcn;2005
+37328;4;yu chen;k hwang;collabor detect filter shrew ddo attack us spectral analysi;jpdc;2006
+37329;4;ying chen;k hwang,y kwok,s song,m chen,r zhou,x lou;gridsec trust grid comput secur bind self defens network worm ddo attack;icc;2005
+37330;4;yu chen;y kwok,k hwang;mafic adapt packet drop cut malici flow push back ddo attack;icdcsw;2005
+37331;5;yen yu chen;q gan,t suel;local method estim pagerank valu;cikm;2004
+37332;5;yen yu chen;a markowetz,t suel,x long,b seeger;design implement geograph search engin;webdb;2005
+37333;5;yen yu chen;q gan,t suel;effici techniqu comput pagerank;cikm;2002
+37334;6;yaw huei chen;c lee,c shih;graph theoret model optim queri involv method;vldb;2001
+37335;6;yaw huei chen;c lee,c ke,j chang;minim resourc consumpt multidatabas queri optim;coopi;1998
+37336;6;yaw huei chen;c lee,c shih;graph theoret model optim larg join queri;dasfaa;1997
+37337;6;yaw huei chen;a chang,c lee;object signatur support effici navig object orient databas;dexaw;1997
+37338;7;yi chen;k nandakumar,a jain,s dass;qualiti base score level fusion multibiometr system;icpr;2006
+37339;7;yi chen;s dass,a jain;fingerprint qualiti indic predict authent perform;avbpa;2005
+37340;7;yi chen;s dass,a ross,a jain;fingerprint deform model us minutia locat orient;wacv;2005
+37341;7;yi chen;j fierrez aguilar,j ortega garcia,a jain;incorpor imag qualiti multi algorithm fingerprint verif;icb;2006
+37342;7;yi chen;a jain,m demirkus;pore ridg fingerprint match us level featur;icpr;2006
+37343;8;yiran chen;h li,k roy,c koh;cascad carri select adder c2sa new structur low power csa design;islp;2005
+37344;8;yiran chen;k roy,c koh;prioriti assign optim minim current surg high perform power effici clock gate microprocessor;aspdac;2004
+37345;9;ya chen chen;z furedi;minimum vertex diamet critic graph;jgt;2005
+37346;9;ya chen chen;;triangl free hamiltonian kneser graph;jct;2003
+37347;9;ya chen chen;z furedi;hamiltonian kneser graph;combinatorica;2002
+37348;10;yifeng chen;j sanders;weakest specifunct;acta;2005
+37349;10;yifeng chen;j zhou;gener c code log specif;ictac;2005
+37350;10;yifeng chen;z liu;integr tempor logic;ifm;2004
+37351;10;yifeng chen;;hierarch organis predic semant model;utp;2006
+37352;10;yifeng chen;;fixpoint theori non monoton parallel;csl;2002
+37353;10;yifeng chen;j sanders;top design bulk synchron parallel program;ppl;2003
+37354;10;yifeng chen;j sanders;composit reason pointer structur;mpc;2006
+37355;10;yifeng chen;z liu;durat specif tla design time automata;icfem;2004
+37356;10;yifeng chen;j sanders;logic global synchroni;topla;2004
+37357;10;yifeng chen;;fixpoint theori non monoton parallel;tc;2003
+37358;10;yifeng chen;j sanders;logic global synchroni;concur;2001
+37359;10;yifeng chen;j sanders;weakest specifunct bsp;ppl;2001
+37360;10;yifeng chen;;gener composit;fac;2002
+37361;11;yangquan chen;l ma,k moore;flexibl camera calibr us new analyt radial undistort formula applic mobil robot local;corr;2003
+37362;11;yangquan chen;h ahn,d xue;robust control interv fraction order linear time invari system;sigpro;2006
+37363;11;yangquan chen;l ma,k moore;ration radial distort model analyt undistort formula;corr;2003
+37364;11;yangquan chen;l ma,k moore;analyt piecewis radial distort model precis camera calibr;corr;2003
+37365;11;yangquan chen;b vinagre;new iir type digit fraction order differenti;sigpro;2003
+37366;11;yangquan chen;m berkemeier,m davidson,v bahl,l ma;visual servo omni direct mobil robot align park lot line;icra;2002
+37367;11;yangquan chen;k moore;relai feedback tune robust pid control iso damp properti;tsmc;2005
+37368;11;yangquan chen;l ma,k moore;famili simplifi geometr distort model camera calibr;corr;2003
+37369;11;yangquan chen;l ma,k moore;blind detect compens camera len geometr distort;corr;2004
+37370;11;yangquan chen;l ma,k moore;camera calibr usu implement;corr;2003
+37371;11;yangquan chen;h ahn,i podlubny;robust stabil check fraction order linear time invari system interv uncertainti;sigpro;2006
+37372;12;ying chen;v nookala,d lilja,s sapatnekar;microarchitectur awar floorplan us statist design experi approach;dac;2005
+37373;12;ying chen;r sendag,d lilja;us incorrect specul prefetch data concurr multithread processor;ipp;2003
+37374;12;ying chen;r sendag,d lilja;impact incorrectli specul memori oper multithread architectur;tpd;2005
+37375;12;ying chen;d abts,d lilja;state prune test vector gener multiprocessor cach coher protocol;rsp;2004
+37376;12;ying chen;d abts,d lilja;effici gener test vector state prune;aspdac;2005
+37377;12;ying chen;k ranganathan,v pai,d lilja,k bazargan;enhanc memori perform embed system flexibl sequenti random access memori;apcsac;2004
+37378;12;ying chen;k ranganathan,v pai,d lilja,k bazargan;novel memori structur embed system flexibl sequenti random access memori;jcst;2005
+37379;12;ying chen;s chen;cost driven hybrid configur prefetch partial reconfigur coprocessor;ipp;2007
+37380;13;ye sho chen;c okoli,p chong;busi franchis research propos;hicss;2003
+37381;13;ye sho chen;p chong,m tong;simon yule approach bibliometr model;ipm;1994
+37382;13;ye sho chen;f leimkuhler;booth s law word frequenc;jasi;1990
+37383;13;ye sho chen;;analysi lotka s law simon yule approach;ipm;1989
+37384;13;ye sho chen;f leimkuhler;analysi zipf s law index approach;ipm;1987
+37385;13;ye sho chen;b zhang;enhanc uml conceptu model us virtual realiti;hicss;2005
+37386;14;yan qiu chen;c wang;improv nearest neighbor classif simul gravit collaps;icnc;2005
+37387;14;yan qiu chen;h he;fuzzi aggreg connected imag segment;pr;2001
+37388;14;yan qiu chen;m nixon,d thomas;textur classif us statist geometr featur;icip;1994
+37389;14;yan chen;c xu;classifi imag textur statist landscap featur;paa;2006
+37390;14;yan qiu chen;g bi;textur classif us fractal dimens;ijprai;1999
+37391;14;yan qiu chen;h he;artifici life imag segment;ijprai;2001
+37392;14;yan qiu chen;h du;pattern classif us rectifi nearest featur line segment;fskd;2005
+37393;14;yan qiu chen;y chen;evolutionari system applic automat imag segment;icnc;2005
+37394;14;yan qiu chen;y yao,l chen;associ cluster cluster arbitrari distribut shape;npl;2001
+37395;14;yan qiu chen;b wang;genet algorithm chromosom repair techniqu polygon approxim digit curv;icnc;2005
+37396;14;yan qiu chen;m nixon,d thomas;statist geometr featur textur classif;pr;1995
+37397;14;yan qiu chen;c xu;statist landscap featur textur classif;icpr;2004
+37398;14;yan qiu chen;h babri,k ahsan;back propag random cost function train neural network;rsfdgrc;2003
+37399;14;yan qiu chen;h babri,t yin;improv backpropag learn limit precis;prl;1998
+37400;14;yan qiu chen;y yao,l chen;us cluster skeleton prototyp data label;tsmc;2000
+37401;14;yan qiu chen;g bi;d if fractal real time graphic model;cg;1997
+37402;14;yan qiu chen;x zhang,n ansari,y shi;mini max initi function approxim;ijon;2004
+37403;14;yan qiu chen;c zhou;improv nearest neighbor classif cam weight distanc;pr;2006
+37404;14;yan qiu chen;x zhang;rai guid global optim method train neural network;ijon;2000
+37405;15;yixin chen;c hsu;subgoal order granular control increment plan;ictai;2005
+37406;15;yixin chen;c hsu,b wah,r huang;constraint partit solv plan problem trajectori constraint goal prefer;ijcai;2007
+37407;15;yixin chen;b wah;autom plan schedul us calculu variat discret space;aip;2003
+37408;15;yixin chen;g dong,j han,j pei,b wah,j wang;regress cube lossless compress aggreg;tkde;2006
+37409;15;yixin chen;b wah;optim anytim constrain simul anneal constrain global optim;cp;2000
+37410;15;yixin chen;b wah;hybrid evolutionari anneal algorithm nonlinear discret constrain optim;ijcia;2003
+37411;15;yixin chen;l chen,x xu,p he;novel ant cluster algorithm base cellular automata;iat;2004
+37412;15;yixin chen;y pan,j chen,w liu,l chen;partit optim algorithm multipl sequenc align;aina;2006
+37413;15;yixin chen;b wah,a wan;constrain global optim constraint partit simul anneal;ictai;2006
+37414;15;yixin chen;b wah;partit tempor plan problem mix space us theori extend saddl point;ictai;2003
+37415;15;yixin chen;b wah;constrain genet algorithm applic nonlinear constrain optim;ictai;2000
+37416;15;yixin chen;b wah,c hsu;tempor plan us subgoal partit resolut sgplan;jair;2006
+37417;15;yixin chen;b wah;solv larg scale nonlinear program problem constraint partit;cp;2005
+37418;15;yixin chen;c liu,m zhang,m zheng;step step regress effici altern polynomi multipl linear regress stream cube;pakdd;2003
+37419;15;yixin chen;l chen,y pan,x xu;effici parallel algorithm euclidean distanc transform;cj;2004
+37420;15;yixin chen;z xing,w zhang;long distanc mutual exclus proposit plan;ijcai;2007
+37421;15;yixin chen;l chen,h chen,y pan;fast effici parallel hough transform algorithm larpb;tj;2004
+37422;16;yunqiang chen;y rui,t huang;multicu hmm ukf real time contour track;pami;2006
+37423;16;yunqiang chen;z xiong,r wang,t huang;improv inform maxim base face facial featur detect real time video applic multi modal person identif system;icmi;2002
+37424;16;yunqiang chen;s ma;hierarch segment represent dynam link architectur neural network;accv;1998
+37425;16;yunqiang chen;h wu,t fang;coupl bayesian framework dual energi imag registr;cvpr;2006
+37426;16;yunqiang chen;t huang;hierarch mrf model model base multi object track;icip;2001
+37427;16;yunqiang chen;h wang,t fang,j tyan;mutual inform regular bayesian framework multipl imag restor;iccv;2005
+37428;16;yunqiang chen;x zhou,t huang;class svm learn imag retriev;icip;2001
+37429;16;yunqiang chen;r wang,t huang;basi pursuit track;icip;2001
+37430;16;yunqiang chen;y rui;better propos distribut object track us unscent particl filter;cvpr;2001
+37431;16;yunqiang chen;t huang,y rui;optim radial contour track dynam program;icip;2001
+37432;16;yunqiang chen;t huang,y rui;mode base multi hypothesi head track us parametr contour;fgr;2002
+37433;17;yu chien chen;y chen,l fu;multi agent base dynam schedul flexibl assembl system;icra;1998
+37434;18;yen cheng chen;w chen;constant time sort reconfigur mesh;tc;1994
+37435;18;yen cheng chen;y chan,c she;enabl locat base servic wireless lan hotspot;ijnm;2005
+37436;18;yen cheng chen;w chen,g chen,j sheu;reduc time complex semigroup comput mesh connect comput multipl broadcast;icpp;1989
+37437;19;yaojun chen;f tian,b wei;degre sum path factor graph;gc;2001
+37438;19;yaojun chen;f tian;new proof wojcicka s conjectur;dam;2003
+37439;19;yaojun chen;t cheng,c ng;note acycl domin number graph diamet two;dam;2006
+37440;19;yaojun chen;y zhang,k zhang;ramsei number star versu wheel;ejc;2004
+37441;19;yaojun chen;y zhang,k zhang;or type condit cyclabl;ejc;2001
+37442;20;yong chen;x sun,m wu;scalabl heterogen comput;icpp;2005
+37443;20;yong chen;g wang,f jin,t yan;novel gener congruenc neural network;isnn;2005
+37444;20;yong chen;m wu,x sun;qo orient resourc reserv share environ;ccgrid;2006
+37445;20;yong chen;x sun,s byna;improv data access perform server push architectur;ipp;2007
+37446;20;yong chen;x liao;novel exponenti stabil criteria fuzzi cellular neural network time vari delai;isnn;2004
+37447;21;yih farn chen;h rao,m chen,j chang;proxi base person portal;webnet;1999
+37448;21;yih farn chen;m nishimoto,c ramamoorthy;c inform abstract system;tse;1990
+37449;21;yih farn chen;g fowler,e koutsofios,r wallach;ciao graphic navig softwar document repositori;icsm;1995
+37450;21;yih farn chen;s mancoridis,b mitchell,c rorres,e gansner;us automat cluster produc high level system organ sourc code;iwpc;1998
+37451;21;yih farn chen;a buchsbaum,h huang,e koutsofios,j mocenigo,a rogers,m jankowsky,s mancoridis;visual analyz softwar infrastructur;softwar;2001
+37452;21;yih farn chen;j korn,e koutsofios;chava revers engin track java applet;wcre;1999
+37453;21;yih farn chen;r ferri,r pratiwadi,l rivera,m shakir,j snyder,d thomas,g fowler,b krishnamurthy,k vo;softwar reus metric industri project;metric;1997
+37454;21;yih farn chen;f douglis,t ball,e koutsofios;webguid queri navig chang web repositori;cn;1996
+37455;21;yih farn chen;p devanbu,e gansner,h muller,j martin;chime customiz hyperlink insert mainten engin softwar engin environ;ics;1999
+37456;21;yuping chen;h cao,l kang;evolutionari model ordinari differenti equat dynam system;gecco;1999
+37457;22;ying ping chen;d goldberg;converg time linkag learn genet algorithm;ec;2005
+37458;22;ying ping chen;h chen;ftxi fault toler xc integ;gecco;2006
+37459;22;ying ping chen;m jian;introduc recombin dynam linkag discoveri particl swarm optim;gecco;2006
+37460;22;ying ping chen;x llora,k ohnishi,d goldberg,m welge;enhanc innov fusion chanc discoveri evolutionari comput foster creativ process decis make;gecco;2004
+37461;22;ying ping chen;t fu,t wu,c chen,k wu;evolutionari interact music composit;gecco;2006
+37462;22;ying ping chen;c chen,w liu;adapt discret probabilist model build genet algorithm;gecco;2006
+37463;22;ying ping chen;c chen;real code ecga econom dispatch;gecco;2007
+37464;22;ying ping chen;j yang,j horng,c kao;appli famili competit evolut strategi constrain optim;ep;1997
+37465;22;ying ping chen;d goldberg;analysi reorder oper tournament select ga hard problem;gecco;2003
+37466;22;ying ping chen;d goldberg;introduc start express gene linkag learn genet algorithm;ppsn;2002
+37467;22;ying ping chen;j horng,c kao;stochast sketch new method global optim;soco;1999
+37468;22;ying ping chen;a singh,d goldberg;modifi linkag learn genet algorithm difficult non stationari problem;gecco;2002
+37469;22;ying ping chen;k ohnishi,k sastry,d goldberg;induc sequenti us grammat genet code;gecco;2004
+37470;22;ying ping chen;p hung;iecga integ extend compact genet algorithm;gecco;2006
+37471;22;ying ping chen;d goldberg;tight time linkag learn genet algorithm;gecco;2003
+37472;22;ying ping chen;a singh,d goldberg;modifi linkag learn genet algorithm difficult non stationari problem;gecco;2002
+37473;22;ying ping chen;t yu,d goldberg,a yassine;genet algorithm design inspir organiz theori pilot studi depend structur matrix driven genet algorithm;gecco;2003
+37474;23;yuan tsung chen;k chen,m wang;reconstruct fusion multi modal spinal imag;cisst;2004
+37475;24;yu qing chen;c li;rel differ set fix invers caylei graph;jct;2005
+37476;25;yi ping phoebe chen;;biomed visual;vlc;2003
+37477;26;ye chen;k li,j levy,k hipel,d kilgour;rough set multipl criteria abc analysi;rsctc;2006
+37478;26;ye chen;d kilgour,k hipel;multipl criteria classif applic water resourc plan;cor;2006
+37479;27;yingying chen;w trappe,r martin;attack detect wireless local;infocom;2007
+37480;27;yingying chen;k kleisouris,x li,w trappe,r martin;robust local algorithm signal strength attack compar studi;dcoss;2006
+37481;28;ye chen;d liginlal;bayesian network knowledg base authent;tkde;2007
+37482;29;yi yao chen;z chen,s lin;parallel architectur probabilist relax oper imag;pr;1990
+37483;30;ying chen;k hacioglu;explor corefer resolut ac entiti detect recognit task;tsd;2006
+37484;30;ying chen;k hacioglu,b douglas;automat time express label english chines text;cicl;2005
+37485;30;ying chen;k hacioglu,b douglas;detect entiti mention occur english chines text;naacl;2005
+37486;31;yaw chung chen;y chan,c chan;perform improv tcp vega heterogen network;icdcsw;2004
+37487;31;yaw chung chen;y liu;distribut buffer manag approach support ipv6 mobil;ftdc;2004
+37488;31;yaw chung chen;w yao;enhanc buffer manag scheme fast handov protocol;icdcsw;2004
+37489;32;yen chen;n austin,r klette,r marshall,y tsai,y zhang;comparison featur measur kinet studi human bodi;robvi;2001
+37490;33;yuan chen;c shankar,v talwar,s iyer,d milojicic,r campbell;specif enhanc polici autom manag chang system;lisa;2006
+37491;33;yuan chen;j edler,a goldberg,a gottlieb,s sobti,p yianilos;prototyp implement archiv intermemori;dl;1999
+37492;33;yuan chen;z cai,v kumar,d milojicic,k schwan;autom avail manag driven busi polici;im;2007
+37493;33;yuan chen;r rivaldo,g germoglio,f santos,d milojicic,r adams;sml model base manag;im;2007
+37494;33;yuan chen;d zhou,g eisenhauer,k schwan;activ broker runtim deploy echo jecho distribut event system;ieeeam;2001
+37495;34;ying chen;r sharma,r costa,e costa,d grayson;epigenet regul human reelin promot;nar;2002
+37496;35;yaojun chen;t cheng,c ng,e shan;note domin minu domin number cubic graph;appml;2005
+37497;36;yian a chen;d mckillen,s wu,m jenny,r chapman,p gross,g warr,j almeida;optim cdna microarrai design us express sequenc tag organ limit genom inform;bmcbi;2004
+37498;36;yian a chen;c chou,x lu,e slate,k peck,w xu,e voit,j almeida;multivari predict model microarrai cross hybrid;bmcbi;2006
+37499;37;yong sheng chen;y hung,c fuh;fast algorithm nearest neighbor search base lower bound tree;iccv;2001
+37500;37;yong sheng chen;s shih,y hung,c fuh;simpl effici method calibr motor zoom len;ivc;2001
+37501;37;yong sheng chen;y hung,c fuh,s shih;camera calibr motor zoom len;icpr;2000
+37502;37;yong sheng chen;y hung,c fuh;winner updat algorithm nearest neighbor search;icpr;2000
+37503;37;yong sheng chen;a tsao,c fuh,y hung;ego motion estim us optic flow field observ multipl camera;cvpr;1997
+37504;37;yong sheng chen;y hung,c fuh;fast block match algorithm base winner updat strategi;tip;2001
+37505;38;yu chen;g gannod,j collofello;softwar product line process simul;sopr;2006
+37506;38;yu chen;g gannod,j collofello,h sarjoughian;us simul facilit studi softwar product line evolut;iwps;2004
+37507;39;yuguo chen;j xie,j yang;join cach stochast stream;sigmod;2005
+37508;40;yang chen;d xu,y xiong,c qiao,x he;find disjoint path singl dual link cost network;infocom;2004
+37509;40;yang chen;d reddy,g riley,b larish;measur explain differ wireless simul model;mascot;2006
+37510;41;yan chen;f harper,x li,j konstan;econom model user rate onlin recommend system;;2005
+37511;42;yaping chen;g chang,c chen;vertex tree arbor graph;jco;2004
+37512;43;yang chen;c zhao,d xu,n heilili,z lin;integr secur manag web base enterpris applic;waim;2005
+37513;44;yen yang michael chen;r barrett,p maglio;system administr user design workspac manag internet scale system;chi;2003
+37514;45;yu chen;w chen,j zhang,x liu;partit approach failur detector k set agreement;podc;2007
+37515;46;yaw chung chen;w chen;agent base metric qualiti servic wireless network;compsac;2006
+37516;47;yao ting tim chen;j chen;new object orient method integr jackson structur program method;jss;1994
+37517;48;yanping chen;r probert,b ghazizadeh,d sims,m cappa;formal verif valid commerc theori best practic;infsof;2003
+37518;48;yanping chen;r probert,d sims;specif base regress test select risk analysi;cascon;2002
+37519;48;yanping chen;r probert,k robeson;effect test metric test strategi evolut;cascon;2004
+37520;49;y j chen;k tan,l wang,d liu;intellig sensor fusion learn autonom robot navig;aai;2005
+37521;50;yuan chen;t hubbard,d barker,e birney,g cameron,l clarke,t cox,j cuff,v curwen,t down,r durbin,e eyras,j gilbert,m hammond,l huminiecki,a kasprzyk,h lehvaslaiho,p lijnzaad,c melsopp,e mongin,r pettett,m pocock,s potter,a rust,e schmidt,s searle,g slater,j smith,w spooner,a stabenau,j stalker,e stupka,a ureta vidal,i vastrik,m clamp;ensembl genom databas project;nar;2002
+37522;51;yue chen;z chen,d port,b boehm;evolv experi base softwar process research;ispw;2005
+37523;52;yung chih chen;l chen,t sun,p sreedevi,k chen,c yu,h chu;find self similar opportunist peopl network;infocom;2007
+37524;52;yung chih chen;l chen,t sun;improv bluetooth edr data throughput us fec interleav;msn;2006
+37525;53;yi shin chen;c shahabi;yoda adapt soft classif model content base similar queri beyond;mm;2003
+37526;53;yi shin chen;g barish,c knoblock,s minton,a philpot,c shahabi;theaterloc virtual applic;aaai;2000
+37527;53;yi shin chen;c shahabi;web inform person challeng approach;dni;2003
+37528;53;yi shin chen;c shahabi;adapt recommend system without explicit acquisit user relev feedback;dpd;2003
+37529;54;yunxia chen;c tellambura;distribut function select combin output equal correl rayleigh rician nakagami m fade channel;tcom;2004
+37530;55;yi ling chen;w chen,m chen;mine frequent spatial pattern imag databas;pakdd;2006
+37531;56;yuhui chen;p li,a romanovsky;measur depend web servic us scienc experi;isa;2006
+37532;57;yan chen;;effici search algorithm partial order set;acst;2006
+37533;58;yuanzhu peter chen;a liestman;maintain weakli connect domin set cluster ad hoc network;adhoc;2005
+37534;59;yirng an chen;y hsu,b tabbara,f tsai;advanc techniqu rtl debug;dac;2003
+37535;59;yirng an chen;y lin,l chang;systol algorithm k nearest neighbor problem;tc;1992
+37536;59;yirng an chen;r bryant;verif arithmet circuit us binari moment diagram;sttt;2001
+37537;59;yirng an chen;r bryant;verif arithmet circuit binari moment diagram;dac;1995
+37538;60;yonghui chen;a sprague;explor common hierarch cluster algorithm;acms;2004
+37539;61;ye sho chen;p chong,j chen;induct food servic industri;imd;2001
+37540;62;yu chen;e fleury;duplic address detect wireless ad hoc network us wireless natur;network;2006
+37541;63;y l chen;y chin;quickest path problem;cor;1990
+37542;64;yen kuang chen;a ghoting,g buehrer,s parthasarathy,d kim,a nguyen,p dubey;cach consciou frequent pattern mine modern processor;vldb;2005
+37543;65;yi fung chen;h chen,j gao;develop fulli autom cryosect imag registr system;smc;2004
+37544;66;ye chen;r cost,t finin,y labrou,y peng;us color petri net convers model;agentcl;2000
+37545;67;yangjun chen;r mcfadyen,f chan;map dtd object orient schema;wise;2001
+37546;68;yining chen;h lou;toward understand behavior intent us groupwar applic;irma;2000
+37547;69;y c chen;t chen;approach isochron slot reus multimedia servic dqdb network;ftdc;1995
+37548;70;yixin chen;j wang,k grieb,y zhang,c chen,j li;machin annot retriev digit imageri histor materi;jodl;2006
+37549;71;yunan chen;c chen,r maulitz;understand evolut nsaid knowledg domain visual approach evid base medicin;;2005

@@ -1,0 +1,260 @@
+1;10;m jones;elke a rundensteiner,harumi a kuno,pedro jos eacute,marr oacute,n,viviane crestana taube,young gook ra;multiview project object orient view technolog applic;sigmod intern confer manag data confer;0
+2;10;m jones;elke a rundensteiner,yun wu huang;symbol intersect detect method improv spatial intersect join;geoinformatica;0
+3;10;m jones;elke a rundensteiner,yun wu huang;improv spatial intersect join us symbol intersect detect;ssd symposium larg spatial databas;0
+4;10;m jones;elke a rundensteiner;view materi techniqu complex hierarch object;cikm intern confer inform knowledg manag;0
+5;11;m jones;chad berkley,daniel higgins metacat,jivka bojilova;schema independ xml databas system;ssdbm statist scientif databas manag;0
+6;11;m jones;chad berkley,daniel higgins metacat;manag heterogen ecolog data us morpho;ssdbm statist scientif databas manag;0
+7;11;m jones;chad berkley,jivka bojilova,mark schildhauer;manag scientif metadata;ieee internet comput;0
+8;12;m jones;sing bing kang;appear base structur motion us linear class d model;intern journal comput vision;0
+9;12;m jones;cecilia magdalena procopiuc,pankaj k agarwal,t m murali;mont carlo algorithm fast project cluster;sigmod intern confer manag data confer;0
+10;13;m jones;;toward ghdl eval framework deepli embed simpl hdl hol;categori b tphol;0
+11;13;m jones;paul e black,kelly m hall,michael d jones,trent n larson,phillip j windley;brief introduct formal method;ieee custon integr circuit confer;0
+12;13;m jones;annette bunker,michael d jones,trent n larson,phillip j windley;alexandria librari abstract verifi hardwar modul;librari compon model qualiti assur;0
+13;13;mike jones;annette bunker,trent larson,phil windley;alexandria tool heirarch verif;tool paper fmcad lnc edit windlei gopalakrishnan;0
+14;13;m jones;ganesh gopalakrishnan;verifi transact order properti unbound bu network combin deduct algorithm method;fmcad formal method comput aid design;0
+15;13;m jones;m d jones,g gopalakrishnan;verifi transact order properti unbound bu network combin deduct algorithm method;formal method comput aid design fmcad formal method comput aid design springer lnc;0
+16;13;m jones;a s jones,m d jones,m clement,q snell;pyramid broadcast fast forward rewind;th intern confer telecommun system model analysi nashvil;0
+17;13;m jones;michael d jones;restrict type hol;categori b tphol;0
+18;13;m jones;m d jones,g gopalakrishnan;toward autom abstract protocol branch network;ieee intern high level design valid test hldvt;0
+19;13;m jones;abdel mokkedem,ravi hosabettu,michael d jones,ganesh gopalakrishnan;formal proof solut pci bu transact order problem;formal method system design;0
+20;13;m jones;airy weinzoepflen,dominique cansell,dominique m eacute,ry,ganesh gopalakrishnan;increment proof produc consum properti pci protocol;zb;0
+21;1;m jones;mark p jones;simplifi improv qualifi type;research report yaleu dc rr yale univers new haven shorter revis version without proof appear fpca function program languag comput architectur confer function program languag comput architectur jolla comput anim;0
+22;1;m jones;andrew p black,johan nordlander,magnus carlsson,richard b kieburtz;reactiv object;symposium object orient real time distribut comput;0
+23;1;m jones;mark p jones;us parameter signatur express modular structur;proceed twenti third annual acm sigplan special interest group program languag sigact symposium principl program languag st beach;0
+24;1;m jones;benedict r gaster,mark p jones;polymorph type system extens record variant;technic report nottc tr depart comput scienc univers nottingham univers park nottingham ng rd england;0
+25;1;m jones;mark p jones,paul hudak,sebastian shaumyan;us type pars natur languag;proceed function program ullapool scotland publish springer verlag workshop comput scienc seri;0
+26;1;m jones;paul hudak,sheng liang;monad transform modular interpret;popl symposium principl program languag;0
+27;1;m jones;mark p jones;system constructor class overload implicit higher order polymorph;fpca function program languag comput architectur confer function program languag comput architectur copenhagen appear extend form journal function program univers press;0
+28;1;m jones;paul hudak,sebastian shaumyan;us type pars natur languag;function program;0
+29;1;m jones;mark p jones;implement gofer function program system;research report yaleu dc rr yale univers new haven;0
+30;1;m jones;mark p jones;theori qualifi type;esop european symposium program european symposium program renn springer verlag lectur note comput scienc;0
+31;1;mark jones;simon peyton jones,erik meijer;type class explor design space;proceed haskel th;0
+32;1;m jones;mark p jones;type class function depend;proceed th european symposium program esop european symposium program springer verlag lnc;0
+33;1;m jones;;comput lattic applic type class;journal function program;0
+34;1;m jones;;dictionari free overload partial evalu;lisp symbol comput;0
+35;1;m jones;;dictionari free overload partial evalu;pepm partial evalu semant base program manipul;0
+36;1;m jones;;function program overload higher order polymorph;advanc function program;0
+37;1;m jones;;first class polymorph type infer;popl symposium principl program languag;0
+38;1;m jones;;ml type explicit polymorph qualifi type;tac theoret aspect comput softwar;0
+39;1;m jones;;integr program properti valid;mpc mathemat program construct;0
+40;1;m jones;;program constructor class abstract;plilp symposium program languag implement logic program;0
+41;1;m jones;;program constructor class preliminari summari;function program;0
+42;1;m jones;mark p jones;coher qualifi type;research report yaleu dc rr yale univers new haven;0
+43;1;m jones;mark p jones,luc duponcheel;compos monad;research report yaleu dc rr yale univers new haven;0
+44;1;m jones;mark p jones;comput lattic applic type class;journal function program univers press;0
+45;1;m jones;mark p jones;dictionari free overload partial evalu;acm sigplan special interest group program languag partial evalu semant base program manipul;0
+46;1;m jones;mark p jones;type haskel haskel;proceed haskel publish technic report uu cs depart comput scienc univers utrecht;0
+47;1;m jones;mark p jones;function program overload higher order polymorph;first intern school advanc function program techniqu b aa stad springer verlag lectur note comput scienc;0
+48;1;m jones;mark p jones;function java bytecod;proceed oopsla confer object orient program system languag applic formal underpin java;0
+49;1;m jones;mark p jones;hindlei milner type first class structur;proceed haskel jolla yale univers research report yaleu dc rr;0
+50;1;m jones;sheng liang,paul hudak,mark p jones;monad transform modular interpret;confer record popl symposium principl program languag acm sigplan special interest group program languag sigact symposium principl program languag san francisco comput anim;0
+51;1;m jones;mark p jones;first class polymorph type infer;proceed twenti fourth annual acm sigplan special interest group program languag sigact symposium principl program languag;0
+52;1;m jones;john peterson;implement type class;pldi special interest group program languag design implement;0
+53;1;m jones;mark p jones;hug haskel user s gofer system user manual;technic report nottc tr function program research group depart comput scienc univers nottingham nottingham ng rd england;0
+54;1;m jones;john peterson,mark p jones;implement type class;proceed acm sigplan special interest group program languag symposium program languag design implement acm sigplan special interest group program languag;0
+55;1;m jones;mark p jones,simon peyton jones;lightweight extens record haskel;proceed haskel publish technic report uu cs depart comput scienc univers utrecht;0
+56;1;m jones;mark p jones;qualifi type theori practic;univers press;0
+57;1;m jones;;simplifi improv qualifi type;fpca function program languag comput architectur;0
+58;1;m jones;;us parameter signatur express modular structur;popl symposium principl program languag;0
+59;1;m jones;;system constructor class overload implicit higher order polymorph;fpca function program languag comput architectur;0
+60;1;m jones;;theori qualifi type;sci comput program;0
+61;1;m jones;;theori qualifi type;esop european symposium program;0
+62;1;m jones;mark p jones;ml type explicit polymorph qualifi type;tac theoret aspect comput softwar confer theoret aspect comput softwar sendai springer verlag lectur note comput scienc;0
+63;1;m jones;;type class function depend;esop european symposium program;0
+64;1;m jones;mark p jones,paul hudak;implicit explicit parallel program haskel;research report yaleu dc rr yale univers new haven;0
+65;2;m jones;christopher w fraser,richard draves,richard f rashid,robert p fitzgerald,todd b knoblock,william j bolosky;oper system direct next millennium;hot topic oper system;0
+66;2;m jones;michael b jones,daniela rosu,marcel catalin rosu;cpu reserv time constraint effici predict schedul independ activ;proceed th acm symposium oper system principl saint malo page;0
+67;2;m jones;paul j leach,richard draves;support user centric modular real time resourc manag rialto oper system;nossdav network oper system support digit audio video;0
+68;2;m jones;michael b jones,john regehr;cpu reserv time constraint implement experi window nt;proceed third usenix advanc comput system associ window symposium page;0
+69;2;m jones;aloysius k mok,c douglas locke,constance l heitmeyer,kevin jeffay,ragunathan rajkumar;futur distribut embed real time applic will adapt mean challeng research paradigm panel;icdc intern confer distribut comput system;0
+70;2;m jones;michael b jones,paul j leach,richard p draves,joseph s barrera,iii;modular real time resourc manag rialto oper system;proceed fifth hot topic oper system hoto orca island page ieee comput societi;0
+71;2;m jones;richard f rashid;mach matchmak kernel languag support object orient distribut system;oopsla confer object orient program system languag applic;0
+72;2;m jones;michael b jones,joseph s barrera iii,alessandro forin,paul j leach,daniela rosu,marcel catalin rosu;overview rialto real time architectur;proceed seventh acm sigop european connemara page;0
+73;2;m jones;john regehr,michael b jones,john a stankovic;oper system support multimedia program model matter;microsoft research technic report msr tr;0
+74;2;m jones;michael b jones,john regehr;predict schedul digit audio;microsoft research technic report msr tr;0
+75;2;m jones;john regehr;problem re mai problem think re result latenc studi window nt;ieee real time technolog applic symposium;0
+76;2;m jones;michael b jones,stefan saroiu;predict schedul soft modem;microsoft research technic report msr tr;0
+77;2;m jones;john regehr;problem re mai problem think re result latenc studi window nt;hot topic oper system;0
+78;2;m jones;michael b jones,stefan saroiu;predict requir soft modem;proceed acm sigmetr measur model comput system confer measur model comput system;0
+79;2;m jones;john regehr,stefan saroiu;two case studi predict applic schedul us rialto nt;ieee real time technolog applic symposium;0
+80;2;m jones;daniela rosu,marcel catalin rosu;cpu reserv time constraint effici predict schedul independ activ;sosp symposium oper system principl;0
+81;2;m jones;stefan saroiu;predict requir soft modem;sigmetr measur model comput system perform;0
+82;2;m jones;marvin theimer,michael b jones;overlook scalabl name servic overlai network;proceed intern confer distribut comput system icdc intern confer distribut comput system ieee comput societi;0
+83;2;m jones;michael b jones,john regehr;issu us commod oper system time depend task experi studi window nt;proceed eighth intern network oper system support digit audio video nossdav network oper system support digit audio video england;0
+84;2;m jones;michael b jones,john regehr;problem re mai problem think re result latenc studi window nt;proceed seventh hot topic oper system hoto rio rico ieee comput societi;0
+85;2;m jones;michael b jones,john regehr,stefan saroiu;two case studi predict applic schedul us rialto nt;proceed seventh real time technolog applic symposium rta ieee real time technolog applic symposium taipei;0
+86;2;m jones;michael b jones;bring c librari us multi thread futur;proceed winter usenix confer page;0
+87;2;m jones;mary r thompson,richard f rashid;matchmak interfac specif languag distribut process;popl symposium principl program languag;0
+88;2;m jones;michael b jones;consum real time system applic;invit posit statement distribut system onlin real time embed system area special issu real time embed system research go issu ieee;0
+89;2;m jones;alec wolman,anne marie kermarrec,antony i t rowstron,helenj wang,marvin theimer,miguel castro;evalu scalabl applic level multicast built us peer peer overlai;infocom confer comput commun;0
+90;2;m jones;michael b jones;adapt real time resourc manag support composit independ author time critic servic;proceed fourth workstat oper system wwo workstat oper system now hoto comput anim page ieee comput societi;0
+91;2;m jones;alec wolman,marvin theimer,nicholas j a harvey,stefan saroiu;skipnet scalabl overlai network practic local properti;usenix advanc comput system associ symposium internet technolog system;0
+92;2;m jones;michael b jones;inherit unlik place us object build deriv implement flat interfac;proceed second intern object orient oper system iwooo page ieee comput societi;0
+93;2;m jones;michael b jones;interposit agent transpar interpos user code system interfac;proceed th acm symposium oper system principl icsc symposium neural comput page;0
+94;2;m jones;michael b jones;microsoft interact tv system experi report;microsoft research technic report msr tr;0
+95;2;m jones;michael b jones;transpar interpos user code system interfac;ph d thesi carnegi mellon univers school comput scienc avail technic report cmu cs;0
+96;2;m jones;;consum real time system;acm comput surv;0
+97;2;m jones;;adapt real time resourc manag support composit independ author time critic servic;workstat oper system;0
+98;2;m jones;;adapt real time resourc manag support modular composit digit multimedia servic;nossdav network oper system support digit audio video;0
+99;2;m jones;;interposit agent transpar interpos user code system interfac;sosp symposium oper system principl;0
+100;2;m jones;;interposit agent transpar interpos user code system interfac;secur internet program;0
+101;2;m jones;;toolkit interpos user code system interfac abstract;oper system review;0
+102;2;m jones;andrew birrell,edward wobber;simpl effici implement small databas;sosp symposium oper system principl;0
+103;2;m jones;william j bolosky,richard p draves,robert p fitzgerald,christopher w fraser,michael b jones,todd b knoblock,rick rashid;oper system direct next millennium;proceed sixth hot topic oper system hoto cape cod ieee comput societi;0
+104;2;m jones;william j bolosky,joseph s barrera,iii,richard p draves,robert p fitzgerald,garth a gibson,michael b jones,steven p levi,nathan p myhrvold,richard f rashid;tiger video fileserv;proceed sixth intern network oper system support digit audio video nossdav network oper system support digit audio video zushi ieee comput societi;0
+105;2;m jones;luis felipe cabrera,michael b jones,marvin theimer;herald achiev global event notif servic;proceed eighth hot topic oper system hoto elmau ieee comput societi;0
+106;2;m jones;george m candea,michael b jones;vassal loadabl schedul support multi polici schedul;proceed second usenix advanc comput system associ window symposium page given best student paper award;0
+107;3;m jones;j hess,d lee,s harper,p athanas;;proceed ieee symposium field programmalb custom comput machin napa ca april;0
+108;3;m jones;david c lee,peter m athanas,scott f midkiff;toward activ hardwar;iwan intern work confer activ network;0
+109;3;m jones;david a lehn,kiran puttehowda,jae h park,p athanas;evalu rapid context switch csrc devic;ersa;0
+110;3;m jones;tom martin,zahi nakad;commun electron textil system;commun comput;0
+111;3;m jones;paul e plassmann;solut larg spars system linear equat massiv parallel applic;supercomput;0
+112;3;m jones;tom martin,zahi nakad;servic backplan textil;mamset proc model analysi middlewar support electron textil;0
+113;3;m jones;l scharf,j scott,c twaddle,m yaconis,k yao,p athanas,b schott;implement api distribut adapt comput system;proceed ieee symposium field programm custom comput machin comput anim;0
+114;3;m jones;shashank mehrotra,jae park;task distribut sensor network;int j supercomput applic;0
+115;3;m jones;daniel szyld;two stage multisplit method overlap block;numer linear algebra applic;0
+116;3;m jones;jae park,mukta nandwani,paul e plassmann,yanhua yi;examin commun requir remot scientif visual;commun comput;0
+117;3;m jones;michael tang,paul e plassmann,tom canfield;model piezoelectr crystal intel delta;ppsc siam confer parallel process scientif comput;0
+118;3;m jones;jae park,paul e plassmann,yanhua yi;us configur comput scientif simul;pdpta parallel distribut process techniqu applic;0
+119;3;m jones;merrell patrick;factor indefinit matric high perform architectur;siam societi industri appli mathemat journal matrix analysi applic;0
+120;3;m jones;merrell l patrick;vector parallel vector implement lanczo s method gener eigenvalu problem;ppsc siam confer parallel process scientif comput;0
+121;3;m jones;;;iswc proceed sixth intern symposium;0
+122;3;m jones;william barry,paul plassmann;parallel adapt mesh refin techniqu plastic problem;advanc engin softwar;0
+123;3;m jones;eloise coupey;script base approach commerc applic;quarterli journal electron;0
+124;3;m jones;joshua edmison,tom martin,zahi nakad;us piezoelectr materi wearabl electron textil;iswc intern symposium wearabl comput;0
+125;3;m jones;j edmison,z nakad,t martin;us piezoelectr materi wearabl electron textil;wearabl comput;0
+126;3;m jones;lori a freitag,paul e plassmann;parallel algorithm mesh smooth;ppsc siam confer parallel process scientif comput;0
+127;3;m jones;lori freitag,paul plassmann;parallel algorithm mesh smooth;siam societi industri appli mathemat journal scientif comput;0
+128;3;m jones;lori freitag,paul plassmann;scalabl mesh improv algorithm;ima journal appli mathemat volum mathemat applic;0
+129;3;m jones;robert gjertsen,paul plassmann;parallel heurist improv balanc graph color;journal parallel distribut comput;0
+130;3;m jones;paul plassmann;comput result parallel unstructur mesh comput;comput system engin;0
+131;3;m jones;paul plassmann;adapt refin unstructur finit element mesh;journal finit element analysi design;0
+132;3;m jones;paul plassmann;algorithm fortran subroutin comput improv incomplet choleski factor;acm tran mathemat softwar;0
+133;3;m jones;paul plassmann;improv incomplet choleski factor;acm tran mathemat softwar;0
+134;3;m jones;p plassmann;unstructur mesh comput network workstat;comput aid civil infrastructur engin;0
+135;3;m jones;paul e plassmann,robert k gjertsen;parallel heurist improv balanc graph color;j parallel distrib comput;0
+136;3;m jones;paul plassmann;parallel algorithm adapt mesh refin;siam societi industri appli mathemat journal scientif comput;0
+137;3;m jones;paul e plassmann;parallel solut unstructur spars system linear equat;ppsc siam confer parallel process scientif comput;0
+138;3;m jones;paul e plassmann;recent result model type superconductor massiv parallel comput;ppsc siam confer parallel process scientif comput;0
+139;3;m jones;paul e plassmann;scalabl iter solut spars linear system;parallel comput;0
+140;4;m jones;g buchanan,a blandford,h thimbleby;spatial hypertext reader tool digit librari;acm ieee joint confer digit librari visual interfac digit librari;0
+141;4;m jones;george buchanan,harold w thimbleby;sort search small screen devic;hci human comput interact;0
+142;4;m jones;c eacute,cile rigny,harold w thimbleby,yin leng theng;hyperat hci web author;bc british comput societi hci human comput interact;0
+143;4;m jones;p curzon,a blandford,g marsden;m tool;proceed th annual confer teach comput smith august ctc dublin univers;0
+144;4;m jones;p c woodland;us rel durat larg vocabulari speech recognit;proceed eurospeech;0
+145;4;m jones;e delgaldo,p gough,r noble,p stenton;new user interfac metaphor mobil person technolog;j siddiqi wilkinson j ed companion proceed peopl comput uk;0
+146;4;m jones;g buchanan;search interfac handheld web browser;poster proceed th intern confer world wide web;0
+147;4;m jones;h dunlop,s j cunningham;digit librari convers express help profoundli disabl user commun;proceed second acm ieee cs joint confer digit librari;0
+148;4;m jones;g buchanan,h thimbleby;sort search small screen devic;paterno f ed proceed th intern symposium hci human comput interact pisa lnc springer;0
+149;4;m jones;p jain,g buchanan;chang pace search support background inform need;chi confer human factor comput system search;0
+150;4;m jones;g marsden,n mohd nasir,g buchanon;site base outlin small screen web access;poster proceed th intern confer world wide web toronto;0
+151;4;m jones;;convent art web exhibit new electron art form;proc intern symposium electron art;0
+152;4;m jones;y l theng,c rigny,h thimbleby;hyperat hci web author;conail thoma p j pp;0
+153;4;m jones;;us acoust level prosod larg vocabulari speech recognit;ph d thesi univers engin depart;0
+154;4;m jones;g marsden;larg small screen digest;colloquium issu network interperson commun london u k iee savoi place london;0
+155;4;m jones;y l theng,h thimbleby;lost hyperspac psycholog problem bad design;proceed first asia pacif confer comput human interact inform technolog institut;0
+156;4;m jones;g marsden;ubiquit comput cellular handset menu best wai forward;south african comput journal comput societi south africa;0
+157;4;m jones;n mohd nasir,g buchanon;evalu webtwig site outlin handheld web access;gellerson h w ubiquit comput karlsrhu lnc springer;0
+158;4;m jones;y l theng,c rigny,h thimbleby;improv conceptu design better hypertext;adjunct proceed bc british comput societi hci human comput interact u k;0
+159;4;m jones;g marsden;ubiquit comput cellular handset menu best wai forward;proceed saicsit best paper confer winner;0
+160;4;m jones;y l theng,h thimbleby;reduc inform overload compar studi hypertext system;iee digest colloquium inform overload london u k iee;0
+161;4;m jones;gary marsden,harold w thimbleby,paul gillary;data structur design interfac;person ubiquit comput;0
+162;4;m jones;h thimbleby,a blandford,p cairns,p curzon,m finlay jones,d etienne eds j;;comput memor yet invis proceed peopl septemb london;0
+163;4;m jones;gary marsden,george buchanan;explor small screen digit librari access greenston digit librari;ecdl european confer digit librari;0
+164;4;m jones;harold w thimbleby;obituari fax;person ubiquit comput;0
+165;4;m jones;gary marsden,george buchanan,harold w thimbleby,michael j pazzani,sarah farrant;improv mobil internet usabl;www world wide web confer seri;0
+166;4;m jones;h thimbleby,g marsden;empow consum usabl certif;turner s turner p ed proceed peopl comput sunderland pp;0
+167;4;m jones;h thimbleby,p cairns;usabl analysi markov model;acm transact comput human interact tochi comput human interact acm press;0
+168;4;m jones;h thimbleby,y l theng;lost hyperspac lost controversi;poster proceed acm hypertext southampton uk;0
+169;4;m jones;i h witten,d bainbridge,s j cunningham;creativ digit librari;journal digit creativ press;0
+170;4;m jones;g buchanan,g marsden;mobil interfac web access web mobil;th world wide web confer;0
+171;4;m jones;p c woodland;model syllabl characterist improv larg vocabulari speech recognis;proc icslp yokohama;0
+172;4;m jones;p c woodland;exploit variabl width featur larg vocabulari speech recognit;proc ieee icassp;0
+173;4;m jones;g marsden,n mohd nasir,k boone;improv web interact small screen displai;comput network;0
+174;4;m jones;gary marsden,george buchanan,kevin boone,norliza mohd nasir;improv web interact small displai;comput network;0
+175;4;m jones;g buchanan,h thimbleby;improv web search small screen devic;interact comput;0
+176;4;m jones;g marsden,h thimbleby,p gillary;success user interfac design effici comput algorithm;confer extend abstract human factor comput system acm chi confer human factor comput system hagu pp;0
+177;4;m jones;;unit author reader activ link world wide web;confer companion proceed first asia pacif confer comput human interact;0
+178;4;m jones;gary marsden,george buchanan,preeti jain;us mobil devic vari pace search;hci human comput interact;0
+179;4;m jones;;natur languag knowledg base m phil;thesi univers engin depart;0
+180;4;m jones;g marsden,p gillary,h thimbleby;us algorithm interfac design;intern journal person ubiquit technolog springer;0
+181;4;m jones;;product paradox;encyclopaedia comput comput histori fitzroydearborn publish;0
+182;4;m jones;bonnie nardi,elizabeth mynatt;special issu social issu;acm transact human comput interact;0
+183;4;m jones;g marsden;prepar new ubiquit comput;proceed ed media telcom confer calgari;0
+184;4;m jones;a steel,m apperley;us auditori feedback call centr comput human human interact;confer extend abstract human factor comput system;0
+185;4;m jones;p jain,g buchanan,g marsden;us mobil devic vari pace search;intern symposium hci human comput interact udin relat tech report;0
+186;4;m jones;david bainbridge,george buchanan,harold w thimbleby,noel cassidy,norliza mohd nasir,yin leng theng;children design partner tester children s digit librari;ecdl european confer digit librari;0
+187;4;m jones;y l theng,c rigny,h thimbleby;cognit task graph execut user model better hypertext;proceed first asia pacif confer comput human interact inform technolog institut;0
+188;4;m jones;j berleur,p duquenoy,d whitehouse;ethic govern internet;ifip intern feder inform process isbn;0
+189;4;m jones;y l theng,n mohd nasir,g buchanan,d bainbridge,h thimbleby;children design partner tester children s digit librari;borbinha j t ed proceed fourth european confer;0
+190;4;m jones;ann blandford,george buchanan,harold w thimbleby;spatial hypertext reader tool digit librari;visual interfac digit librari;0
+191;4;m jones;y l theng,n mohd nasir,h thimbleby,g buchanan;design children s digit librari children;proceed th acm confer digit librari san antonio;0
+192;4;m jones;stephen brewster;special issu multimod interact mobil wearabl comput;intern journal person ubiquit comput;0
+193;4;m jones;g buchanan,h thimbleby,s farrant;;m th intern confer world wide web pazzani mai hong kong;0
+194;4;m jones;y l theng,h thimbleby;design tool hypertext author;iee digest colloquium author applic hypermedia base user interfac london u k iee savoi place london;0
+195;4;m jones;george buchanan,harold w thimbleby,norliza mohd nasir,yin leng theng;design children s digit librari children;acm dl digit librari;0
+196;4;m jones;g buchanan,g marsden;explor small screen digit librari access greenston digit librari;agosti m costantino t ed proceed th european confer research advanc technolog digit librari lnc springer;0
+197;4;m jones;george buchanan,norliza mohd nasir;evalu webtwig site outlin handheld web access;huc handheld ubiquit comput;0
+198;4;m jones;g buchanan,a blandford,h thimbleby;spatial hypertext reader tool digtial librari;springer book seri inform visual;0
+199;5;m jones;;;;0
+200;5;m jones;;don t emancip exagger rhetor realiti reengin;transform organ inform technolog;0
+201;5;m jones;s eacute,amas kelly;groupwar social infrastructur commun;commun acm;0
+202;5;m jones;geoff walsham;limit knowabl organiz design knowledg system develop;impact comput support technolog inform system develop;0
+203;5;m jones;joe nandhakumar;structur develop structur analysi develop execut inform system;human organiz social dimens inform system develop;0
+204;5;m jones;helena karsten;long wind road collabor organis chang;cscw confer comput support cooper work;0
+205;5;m jones;pamela abbott;import nearest nearshor softwar outsourc global discours;global organiz discours inform technolog;0
+206;5;m jones;marios v karahannas;interorganiz system trust strateg allianc;ici intern confer inform system;0
+207;5;m jones;;move finger us social theori wg confer paper;organiz social perspect;0
+208;6;m jones;jason eisner;probabilist parser appli softwar test document;aaai nation confer artifici intellig;0
+209;6;m jones;david scott warren;conceptu depend montagu grammar step toward concili;aaai nation confer artifici intellig;0
+210;6;m jones;van e kelly;kitss knowledg base translat system test scenario;aaai nation confer artifici intellig;0
+211;6;m jones;dimitra vista,divesh srivastava,h v jagadish;flexibl list manag directori;cikm intern confer inform knowledg manag;0
+212;6;m jones;premkumar t devanbu;us descript logic kbse system experi report;ics intern confer softwar engin;0
+213;6;m jones;premkumar t devanbu;us descript logic kbse system;acm tran softw eng methodol;0
+214;6;m jones;;activ base pars;ijcai intern joint confer artifici intellig;0
+215;6;m jones;;feedback coindex mechan connectionist architectur;ijcai intern joint confer artifici intellig;0
+216;7;m jones;tomaso poggio;model base match line draw linear combin prototyp;iccv intern confer comput vision;0
+217;7;m jones;tomaso poggio;multidimension morphabl model;iccv intern confer comput vision;0
+218;7;m jones;paul a viola;robust real time face detect;iccv intern confer comput vision;0
+219;7;m jones;paul a viola,thomas d rikert;cluster base statist model object detect;iccv intern confer comput vision;0
+220;7;m jones;paul a viola;fast robust classif us asymmetr adaboost detector cascad;nip neural inform process system;0
+221;7;m jones;james m rehg;statist color model applic skin detect;intern journal comput vision;0
+222;7;m jones;tomaso poggio;hierarch morphabl model;cvpr comput vision pattern recognit;0
+223;7;m jones;james m rehg;statist color model applic skin detect;cvpr comput vision pattern recognit;0
+224;8;m jones;r satherley,m w jones;extend hypertextur non geometr defin data;chen kaufman yagel ed graphic springer isbn;0
+225;8;m jones;min chen,richard satherley,steve m f treavett;volum express artist model render dataset;comput graphic intern;0
+226;8;m jones;richard satherley;shape represent us space fill sub voxel distanc field;shape model intern;0
+227;8;m jones;m chen,m w jones,p townsend;method metamorphosi;y s wilbur ed imag process broadcast video product springer verlag;0
+228;8;m jones;richard satherly;voxelis model graphic;vmv vision model visual;0
+229;8;m jones;m chen;new approach construct surfac contour data;comput graph forum;0
+230;8;m jones;m w jones ed;theori practis comput graphic;ieee comput societi press isbn;0
+231;8;m jones;m w jones ed;th eurograph uk confer;ieee comput societi press isbn;0
+232;8;m jones;m w jones;acceler techniqu render;earnshaw jone vinc ed visual model;0
+233;8;m jones;m w jones;acceler techniqu render;proc bc british comput societi displai group visualis model univers leed;0
+234;8;m jones;m w jones;direct surfac render gener genet bred implicit surfac;proc th ann conf eurograph uk chapter isbn;0
+235;8;m jones;m w jones;facial reconstruct us volumetr data;t ertl b girod g greiner h niemann h p seidel ed vision model visual io press isbn;0
+236;8;m jones;m w jones,m chen;fast cut oper three dimension dataset;m goebel hueller b urban isbn issn;0
+237;8;m jones;t simpson,m w jones;space subdivis finit element mesh;proc th ann conf eurograph uk chapter isbn;0
+238;8;m jones;m w jones;glossari;m chen p townsend j vinc visualis springer isbn;0
+239;8;m jones;s m f treavett,m chen,r satherley,m w jones;volum express artist model render dataset;proc comput graphic intern ieee comput societi press issn;0
+240;8;m jones;m w jones;voxelis polygon mesh;proc th ann conf eurograph uk chapter loughborough;0
+241;8;m jones;c whyley,m w jones;global illumin volumetr data set;proc th ann conf eurograph uk chapter london isbn;0
+242;8;m jones;m w jones,r satherley;voxelis model graphic;b girod g greiner h niemann h p seidel ed vision model visual io press isbn;0
+243;8;m jones;m w jones;melt object;journal wscg intern confer central europ comput graphic visual issn;0
+244;8;m jones;m w jones;effici shadow detect algorithm direct surfac render visualis model;proc th ann conf eurograph uk chapter;0
+245;8;m jones;m w jones,m chen;new approach construct surfac contour data;comput graphic forum issn improv chapter ph d thesi pleas us journal refer refer work;0
+246;8;m jones;m w jones,r satherley;shape represent us space fill sub voxel distanc field;intern confer shape model applic ieee comput societi press isbn;0
+247;8;m jones;m w jones,r satherley;us distanc field object represent render;proc th ann conf eurograph uk chapter london isbn;0
+248;8;m jones;m w jones;product data triangular mesh us voxelis;comput graphic forum issn;0
+249;8;m jones;r satherley,m w jones;hybrid distanc field comput;k mueller kaufman ed graphic springer wien new issn;0
+250;8;m jones;r satherley,m w jones;hypertextur complex object;visual comput issn;0
+251;8;m jones;r satherley,m w jones;hypertextur complex object;th intern confer central europ comput graphic visual comput vision isbn;0
+252;8;m jones;;facial reconstruct us volumetr data;vmv vision model visual;0
+253;8;m jones;r satherley,m w jones;vector citi vector distanc transform;comput vision imag understand issn;0
+254;8;m jones;;product data triangular mesh us voxelis;comput graph forum;0
+255;8;m jones;min chen,peter townsend;distort morph us disk field;comput amp graphic;0
+256;9;m jones;jim e greer,permanand mohan;enhanc instruct capabl intellig tutor system;intellig tutor system;0
+257;9;m jones;ken wellsch;comput analog;ecai european confer artifici intellig;0
+258;9;m jones;;ai approach educ editori;comput intellig;0
+259;9;m jones;carl gutwin,kim massie adolphe,patrick brackett;bring marketplac success experi minimalist design;j uc univers comput scienc;0
+260;9;m jones;barbara brecht;student model genet graph approach;intern journal man machin studi;0

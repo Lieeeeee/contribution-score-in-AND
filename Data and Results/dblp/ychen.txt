@@ -1,0 +1,1265 @@
+1;10;yirng an chen;yu chin hsu,bassam tabbara,furshing tsai;advanc techniqu rtl debug;th design autom confer;0
+2;10;yirng an chen;chien pang lu,wen chien liu;high probabl high densiti state travers;ieee th intern logic synthesi;0
+3;10;y chen;bassam tabbara,furshing tsai,yu chin hsu;advanc techniqu rtl debug;dac design autom confer;0
+4;10;y chen;bwolen yang,david r o hallaron,randal e bryant;space time effici bdd construct via work set control;asp dac design autom confer;0
+5;10;y chen;randal e bryant;acv arithmet circuit verifi;iccad intern confer comput aid design;0
+6;10;yirng an chen;randal e bryant;verif arithmet circuit binari moment diagram;design autom confer;0
+7;10;y chen;randal e bryant;verif arithmet circuit binari moment diagram;dac design autom confer;0
+8;10;yirng an chen;randal e bryant;verif float point adder;proceed th intern confer comput aid verif;0
+9;10;yirng an chen;randal e bryant;verif arithmet circuit us binari moment diagram;intern journal softwar tool technolog transfer;0
+10;10;yirng an chen;p h ho,e clark,t kam,y hoskote,j o leary,m khaira;verif circuit float point unit us word level model check;proceed formal method comput aid design;0
+11;10;yirng an chen;randal e bryant;verif arithmet function binari moment diagram;tech report cmu cs school comput scienc carnegi mellon univers;0
+12;10;yirng an chen;fang sung chen;algorithm compact error trace;proceed asian pacif design autom confer aspdac;0
+13;10;y chen;randal e bryant;phdd effici graph represent float point circuit verif;iccad intern confer comput aid design;0
+14;10;yirng an chen;jiunn chern chen;equival check integ multipli;proceed asian pacif design autom confer aspdac;0
+15;10;y chen;long wen chang,youn long lin;systol algorithm k nearest neighbor problem;ieee tran comput;0
+16;10;yirng an chen;randal e bryant;effici graph represent arithmet circuit verif;ieee transact comput aid design integr circuit system;0
+17;10;yirng an chen;bwolen yang,randal e bryant;breadth first depth first bdd construct hybrid approach;tech report cmu cs school comput scienc carnegi mellon univers;0
+18;10;yirng an chen;young long lin;new global router asic design base simul evolut;proceed intern symposium vlsi larg scale integr technolog system applic;0
+19;10;yirng an chen;randal e bryant;acv arithmet circuit verifi;proceed intern confer comput aid design;0
+20;10;yirng an chen;randal e bryant;pbhd effici graph represent float point circuit verif;tech report cmu cs school comput scienc carnegi mellon univers;0
+21;10;yirng an chen;randal e bryant;phdd effici graph represent float point circuit verifica tion;proceed intern confer comput aid design;0
+22;10;yirng an chen;young long lin,long wen chang;systol algorithm k nearest neighbor problem;ieee tran comput;0
+23;10;y chen;edmund m clarke,john w o leary,manpreet khaira,pei hsin ho,timothy kam,xudong zhao,yatin vasant hoskote;verif circuit float point unit us word level model check;fmcad formal method comput aid design;0
+24;11;yen wei chen;noel mendoza,zensho nakao,tatsuhiro adachi;hybrid optim method us real code multi parent ea simplex simul anneal applic resolut overlap signal;appli soft comput;0
+25;11;y chen;noel mendoza,y w chen,z nakao;hybrid optim method us real code multi parent ea simplex simul anneal applic resolut overlap signal;proc ieee intern confer industri electroni control instrument nagoya;0
+26;11;yen wei chen;noel mendoza,jeng shyang pan;systemat sc base methodolog super resolut video sequenc;proc th int conf neural inform process shanghai;0
+27;11;y chen;t miyagi,z nakao,y w chen;studi adapt complex system simpl condit;methodolog concept design applic soft comput ed t yamakawa g matsumoto world scientif;0
+28;11;yen wei chen;shinya nozaki,zensho nakao;ct reconstruct base princip compon analysi;proc th int conf neural inform process shanghai;0
+29;11;y chen;n miyanaga,y w chen et al;ghigh resolut penumbr imag;radiat c japanes;0
+30;11;yen wei chen;shinya nozaki,tetsuya kohatsu,zensho nakao;fourier seri base method ct imag reconstruct;proc int tech conf circuit system comput commun tokushima;0
+31;11;yen wei chen;hiroaki monma,zensho nakao;comput tomographi base self organ neural network;proc ieee int conf system man cybernet tokyo w;0
+32;11;yen wei chen;shinya nozaki,zensho nakao,shinsuke fujioka,hiroyuki shiraga;heurist penumbr imag techniqu measur laser produc plasma densiti profil;review scientif instrument press sci scalabl coher interfac;0
+33;11;y chen;h nagamoto,f ali,z nakao,y w chen;evolutionari ct imag reconstruct variant chromosom size;proc int tech conf circuit system comput commun ed z nakao y w chen;0
+34;11;y chen;s nozaki,y w chen,z nakao;adapt simul anneal optim phase distribut kinoform;methodolog concept design applic soft comput ed t yamakawa g matsumoto world scientif;0
+35;11;yen wei chen;shinya nozaki,zensho nakao;new optim algorithm kinoform base simul anneal;proc ieee int conf system man cybernet tokyo;0
+36;11;yen wei chen;shinya nozaki,zensho nakao,hiroyuki shiraga;reconstruct rai penumbr imag base heurist method;imag process algorithm system spie intern societi optic engin press;0
+37;11;y chen;midori takashibu,zensho nakao;evolutionari ct imag reconstruct imag partit;seal simul evolut learn;0
+38;11;y chen;s tobaru,f ali,z nakao,y w chen;grai imag reconstruct new back propag neural network;proc int tech conf circuit system comput commun ed z nakao y w chen;0
+39;11;y chen;n wang,y w chen,z nakao;coupl lattic neural network blind deconvolut;proc spie intern societi optic engin;0
+40;11;yen wei chen;ning wang,zensho nakao,shinichi tamura;evolutionari self organ neural network blind deconvolut;proc ieee int conf system man cybernet tokyo w;0
+41;11;y chen;y w chen,y izawa,s nakai,c yamanaka;analysi laser beam propag effect atom laser isotop separ;jpn j appl phy sci scalabl coher interfac;0
+42;11;y chen;y w chen,h niki,s adachi,y izawa,s nakai,c yamanaka;numer studi propag laser puls multilevel photoion system;j opt soc b sci scalabl coher interfac;0
+43;11;y chen;y w chen,h arakawa,z nakao,k yamashita,r kodama;nois smooth filter base adapt window appli penumbr imag;ieic tran fundament sci scalabl coher interfac;0
+44;11;y chen;y w chen,r kodama,z nakao;penumbr imag laser implod target blind reconstruct;ieee tran sci scalabl coher interfac;0
+45;11;yen wei chen;ning wang;parallel distribut blind deconvolut base self organ neural network two step learn method;proc int conf nonlinear scienc border millenium saint p;0
+46;11;y chen;y w chen,z nakao,x fang;parallel genet algorithm base island model imag restor;neural network signal process ed s usui et ieee press;0
+47;11;y chen;y w chen,z nakao,x fang,s tamura;parallel genet algorithm imag restor;proc th int conf pattern recognit w;0
+48;11;y chen;y w chen,z nakao,x fang;parallel genet algorithm imag restor perform analysi;proc ieee rd int conf evolutionari comput nagoya;0
+49;11;y chen;m nakai,s shinohara,m katayama,y w chen,s kobayashi,n miyanaga,k tanaka,k nishihara,m yamanaka,t yamanaka,s nakai;develop rai emiss comput tomographi icf research;rev sci instrum sci scalabl coher interfac;0
+50;11;y chen;y w chen,t enokura,n mendoza,z nakao;pyramid model blind deconvolut base simul anneal;proc ieee intern confer industri electroni control instrument nagoya ei;0
+51;11;y chen;m nakai,m yamanaka,h azechi,y w chen,t jitsuno,m katayama,k mima,n miyanaga,h nakaishi,m nakatsuka,a nishiguchi,p a norreys,y setsuhara,m takagi,t norimatsu,t yamanaka,s nakai;rai particl diagnost high densiti plasma laser implos;rev sci instrum sci scalabl coher interfac;0
+52;11;y chen;y w chen,z nakao,k arakaki,i nakamura,s tamura;reconstruct neutron penumbr imag constraint genet algorithm;proc th int conf pattern recognit;0
+53;11;y chen;z nakao,y w chen,t tengan,m kinjo;ada base support packag fuzzi expert system construct gui;proc joint technic confer circuit system comput commun kumamoto;0
+54;11;y chen;z nakao,m takashibu,y w chen;evolutionari ct imag reconstruct imag partit;lectur note artifici intellig ed yao j h kim t furuhashi springer;0
+55;11;y chen;z nakao,y w chen,m takashibu,y kina;evolutionari reconstruct grai imag;proc int fuzzi system intellig control conf hawai;0
+56;11;y chen;z nakao,y w chen,f ali;evolutionari reconstruct plane binari imag project;j jpn soc fuzzi theo sy;0
+57;11;y chen;z nakao,y w chen,m takashibu,y kina;evolutionari reconstruct plane color imag project;fuzzi logic applic complex system edit w chiang j lee world scientif;0
+58;11;y chen;n wang,y w chen,z nakao,s tamura;parallel distribut blind deconvolut base self organ neural network;appl opt;0
+59;11;y chen;z nakao,y w chen,f ali;evolutionari reconstruct techniqu plane uniform imag;proc intern confer neural inform process beij;0
+60;11;y chen;n wang,l liu,y w chen;pattern recognit base artifici immun neural network;proc int tech conf circuit system comput commun ed z nakao y w chen;0
+61;11;y chen;z nakao,y w chen,t tengan;neuro genet reconstruct ternari grai imag project;proc th iast intern confer appli informat innsbruck;0
+62;11;y chen;n wang,y w chen,z nakao,s tamura,h aritome;synthesi binari comput gener hologram base code frequenc domain optim algorithm;intern journal opt electron;0
+63;11;y chen;z nakao,y w chen,m noborikawa,s tobaru,t tengan;reconstruct grai imag neural network;methodolog concept design applic intellig system edit t yamakawa g matsumoto world scientif;0
+64;11;y chen;s yamauchi,y w chen,z nakao;optim comput gener hologram artifici neural network;proc second int conf konwledg base intellig electron system adelaid editor l c jain r k jian;0
+65;11;y chen;xiang yan zeng,zensho nakao;blind separ base evolutionari neural network;icpr intern confer pattern recognit;0
+66;11;yen wei chen;xiang yan zeng,zensho nakao,hanqing lu;h textur segment base pattern map obtain independ compon analysi;proc th int conf neural inform process shanghai;0
+67;11;yen wei chen;xiang yan zeng,zensho nakao,hanqing lu;h textur segment base pattern map obtain princip compon analysi;proc int tech conf circuit system comput commun tokushima;0
+68;11;yen wei chen;xiang yan zeng,zensho nakao,hanqing lu;new textur featur base pca pattern map applic imag retriev;ieic tran inform system press sci scalabl coher interfac;0
+69;11;y chen;y w chen,z nakao,k arakaki,s tamura;blind deconvolut base genet algorithm;ieic tran fundament sci scalabl coher interfac;0
+70;11;y chen;y w chen,z nakao,k arakaki,s tamura;blind deconvolut base genet algorithm;proc int tech conf circuit system comput commun souel korea;0
+71;11;y chen;y w chen,z nakao,m iguchi,s tamura;blind deconvolut genet algorithm;proc spie intern societi optic engin ei;0
+72;11;y chen;y w chen,k otsuki,z nakao,r kodama;blind dconvolut rai penumbr imag;rev sci instrum sci scalabl coher interfac;0
+73;11;y chen;y w chen,k otsuki,z nakao,r kodama;blind dconvolut spatial encod penumbr imag;proc int tech conf circuit system comput commun ed z nakao y w chen;0
+74;11;yen wei chen;shusuke narieda,katsumi yamashita;blind nonlinear channel identif base constrain genet algorithm;proc ieee instrument measur confer budapest;0
+75;11;y chen;y w chen,n miyanaga,m yamanaka,h azechi,k nishihara,t yamanaka,s nakai,c yamanaka;observ burn pusher region laser driven larg high aspect ratio target particl imag;jpn j appl phy sci scalabl coher interfac;0
+76;11;t y chen;t c yang,y w chen,b y liao;channel nois reduct m r vq index assign;knowledg base intellig inform engin system alli technolog ed n baba l c jain r j howlett io press;0
+77;11;y chen;y w chen,z nakao,k arakaki,s tamura;reconstruct neutron penumbr imag genet algorithm laplacian constraint;neural network signal process ed s usui et ieee press;0
+78;11;y chen;y w chen,z nakao,k arakaki,s tamura;distort free reconstruct neutron penumbr imag genet algorithm;ieee tran sci scalabl coher interfac;0
+79;11;y chen;y w chen;review imag techniqu burn region observ laser fusion research;invit speech proc rd conf associ scienc technolog chines academ press;0
+80;11;y chen;y w chen,s yamauchi,n wang,z nakao;fast kinoform optim algorithm base simul anneal;ieic tran fundament sci scalabl coher interfac;0
+81;11;y chen;y w chen,k nomaru,k kou,y izawa,s nakai,c yamanaka;research activ atom laser isotop separ ilt il osaka univers;proc th separ phenomena liquid gass beijin;0
+82;11;y w chen;z nakao,k arakaki,x fang,s tamura;restor grai imag base genet algorithm laplacian constraint;fuzzi set system sci scalabl coher interfac;0
+83;11;y chen;y w chen;simultan measur time resolv d temperatur distribut evapor surfac heat electron beam sweep mode;proc ieee instrument measur technolog confer st paul;0
+84;11;y chen;y w chen;simultan measur time resolv d temperatur distribut evapor surfac heat swept electron beam;ieee tran instrument measur sci scalabl coher interfac;0
+85;11;yen wei chen;noel mendoza,shinyu uehara,zensho nakao,tatsuhiro adachi,yoshihisa masuda;estim wind speed lower atmospher wind profil base genet algorithm;proc ieee instrument measur confer budapest;0
+86;11;y chen;y w chen,n miyanaga,m yamanaka,m nakai,k a tanaka,k nishihara,t yamanaka,s nakai;three dimension imag laser implod target;j appl phy;0
+87;11;y chen;z nakao,y w chen,y kina;art estim color imag project;proc joint technic confer circuit system comput commun kumamoto;0
+88;11;y chen;y w chen,n miyanaga,m yamanaka,m nakai,t yamanaka,s nakai;three dimension imag laser implod target us rai comput tomographi techniqu;ieee tran sci scalabl coher interfac;0
+89;11;y chen;makoto nakasone,midori takashibu,yasuyuki kina,zensho nakao;evolutionari reconstruct grai imag;intern confer evolutionari comput;0
+90;11;y chen;y w chen,m yamanaka,n miyanaga,t yamanaka,s nakai,c yamanaka,s tamura;three dimension reconstruct laser irradi target us ura code apertur camera;opt commun sci scalabl coher interfac;0
+91;11;y chen;m nakasone,f ali,z nakao,y w chen;parallel evolutionari reconstruct grai imag exponenti grai level growth;proc int tech conf circuit system comput commun ed z nakao y w chen;0
+92;11;y chen;s narieda,y w chen,k yamashita;blind nonlinear channel identif base higher order statist us hybrid genet algorithm;proc ieee int conf system man cybernet nashvil;0
+93;11;y chen;h niki,n e s aly,k kou,k nomaru,y w chen,y izawa,s nakai,c yamanaka;laser isotop separ gadolinium;proc th inter symposium advanc nuclear energi research mito;0
+94;11;y chen;m noborikawa,f ali,z nakao,y w chen;grai imag reconstruct parallel simul anneal;proc int tech conf circuit system comput commun ed z nakao y w chen;0
+95;11;y chen;k nomaru,y izawa,y w chen;growth spatial nonuniform laser beam propag near reson atom vapor;journal nuclear scienc technolog sci scalabl coher interfac;0
+96;11;y chen;k nomaru,y w chen,y izawa,s nakai,c yamanaka;spatial tempor behavi laser beam propag atom vapor;laser interact relat plasma phenomera edit s nakai g h mieli aip press;0
+97;11;y chen;k noumaru,y w chen,y izawa,s nakai,c yamanaka;near reson effect propag frequenc swept laser puls atom vapor laser isotop separ;j nucl sci technol sci scalabl coher interfac;0
+98;11;y chen;k noumaru,y w chen,y izawa,s nakai,c yamanaka;propag laser puls near reson medium;proc th inter symposium advanc nuclear energi research mito;0
+99;11;y chen;f ali,m nakasone,h nagamoto,s tobaru,m noborikawa,z nakao,y w chen;compar evalu three new soft comput approach imag reconstruct project;proc int tech conf circuit system comput commun ed z nakao y w chen;0
+100;11;y chen;f f ali,s yokegawa,z nakao,y w chen;ct imag reconstruct stochast relax;proc rd int l conf knowledg base intelligentinform engin system adelaid;0
+101;11;y chen;fath el alem f ali,zensho nakao;ga base reconstruct plane binari imag;intern confer evolutionari comput;0
+102;11;y chen;f f ali,z nakao,y w chen;adapt backpropag limit angl ct imag reconstruct;ieic tran fundament sci scalabl coher interfac;0
+103;11;y chen;f f ali,k matsuo,z nakao,y w chen;evolutionari algorithm ct imag reconstruct;journal robot mechatron;0
+104;11;y chen;f ali,z nakao,y w chen;two new neural network approach two dimension ct imag reconstruct;fuzzi set system sci scalabl coher interfac;0
+105;11;y chen;y w chen,t enokura,z nakao;fast imag restor algorithm base simul anneal;proc rd int l conf knowledg base intelligentinform engin system adelaid;0
+106;11;y chen;n s aly,k noumaru,y w chen,h niki,y izawa,s nakai;select photoion scheme atom gadolinium laser isotop separ;rew laser eng sci scalabl coher interfac;0
+107;11;y chen;yen wei chen,xiang yan zeng,zensho nakao;geograph inform system construct us high resolut satellit imagesh;opsearech;0
+108;11;y chen;kouichi arakaki,shinichi tamura,zensho nakano;evolutionari reconstruct neutron penumbr imag;intern confer evolutionari comput;0
+109;11;y chen;y w chen,z nakao,m iguchi,s tamura;genet algorithm code apertur imag;proc joint technic confer circuit system comput commun kumamoto;0
+110;11;y chen;h arakawa,y w chen,z nakao,k yamashita,i nakamura,s tamura;nois smooth filter base adapt window penumbr imag;proc int tech conf circuit system comput commun souel korea;0
+111;11;y chen;y w chen,z nakao,k arakaki;genet algorithm appli neutron penumbr imag;optic review b;0
+112;11;yen wei chen;xiang yan zeng,zensho nakao,hanqing lu;hedg detect learn princip compon imag;proc ieee intern intellig signal process budapest;0
+113;11;y chen;y w chen,n miyanaga,m yamanaka,t yamanaka,s nakai,t iguchi,m nakazawa,t iida,s tamura;high resolut penumbr imag mev neutron;ieic tran electron c sci scalabl coher interfac;0
+114;11;yen wei chen;noel mendoza;heurist approach imag superresolut;proc ieee intern intellig signal process budapest;0
+115;11;yen wei chen;noel mendoza,zensho nakao,tatsuhiro adachi;h estim wind speed lower atmospher wind profil base genet algorithm;ieee tran instrument measur press sci scalabl coher interfac;0
+116;11;y chen;y w chen,z nakao,s tamura;attenu correct rai emiss comput tomographi laser produc plasma;ieic tran fundament sci scalabl coher interfac;0
+117;11;y chen;y w chen,t enokura,z nakao;hybrid ga sa approach blind deconvolut;proc second int conf konwledg base intellig electron system adelaid editor l c jain r k jian;0
+118;11;yen wei chen;tatsuro enokura,zensho nakao;fast algorithm imag restor base hybrid ga sa;proc ieee int conf system man cybernet tokyo w;0
+119;11;y chen;y w chen,x y zang,z nakao;hybrid neural network train approach backpropag genet algorithm classif remot sens imag;proc fifth int conf neural network inform process kitakyushu;0
+120;11;y chen;xue fang,zensho nakao;parallel genet algorithm imag restor perform analysi;intern confer evolutionari comput;0
+121;11;y chen;y izawa,y w chen,k noumaru,n s aly,k kou,h niki,s nakai,c yamanaka;near reson effect laser puls propag atom laser isotop separ;proc spie intern societi optic engin ei;0
+122;11;y chen;y kawano,z nakao,y w chen;applic automaton neural network artifici agent;proc second int conf konwledg base intellig electron system adelaid editor l c jain r k jian;0
+123;11;y chen;y kawano,z nakao,y w chen;automaton neural network artifici agent simul;methodolog concept design applic soft comput ed t yamakawa g matsumoto world scientif;0
+124;11;y chen;k kishimoto,y w chen,z nakao,i nakamura,s tamura;quantit evalu ura code apertur imag;proc int tech conf circuit system comput commun souel korea;0
+125;11;y chen;k kishimoto,y w chen,z nakao;tomograph resolut ura code apertur imag enhans;proc int tech conf circuit system comput commun ed z nakao y w chen;0
+126;11;y w chen;n kitabatake,z nakao;improv tomograph imag code apertur system base simul anneal;proc int tech conf circuit system comput commun pusan korea;0
+127;11;yen wei chen;tetsuya kohatsu,shinya nozaki;ct imag reconstruct base heurist method limit number project;knowledg base intellig inform engin system alli technolog ed n baba l c jain r j howlett io press;0
+128;11;y chen;y w chen,t enokura,z nakao;hybrid approach blind deconvolut us genet algorithm simul anneal;proc ieee int conf system man cybernet san diego;0
+129;11;y chen;y w chen,z nakao,m iguchi;evolutionari reconstruct code imag;proc asian confer comput vision;0
+130;11;y chen;y w chen,z nakao,k arakaki,s tamura;evolutionari reconstruct neutron penumbr imag;proc ieee rd int conf evolutionari comput nagoya;0
+131;11;y chen;y w chen,z nakao,i nakamura;quantit evalu neutron penumbr imag toroid segment apertur;ieic tran electron c;0
+132;11;y chen;y w chen,k nomaru,k kou,y izawa,s nakai,c yamanaka;laser spectroscopi laser isotop separ atom gadolinium;invit talk proc symposium laser spectroscopi taejon korea;0
+133;11;y chen;y w chen,r kodama,t matsushita;imag laser implod target rai ccd camera;proc ieee instrument measur technolog confer st paul;0
+134;11;y chen;y w chen,m yamanaka,n miyanaga,h azechi,s ishikawa,t yamanaka,s naka,s tamura;measur d d burn region us proton prnumbral code apertur imag;opt commun sci scalabl coher interfac;0
+135;11;yen wei chen;xiang yan zeng,zensho nakao;independ compon analysi evolutionari neural network;applic artifici neural network imag process ed n m nasrabhadi spie intern societi optic engin press;0
+136;11;y chen;r lin,y w chen,k teruya,i nakamura,h higa,z nakao;us gp geograph inform system construct;proc int tech conf circuit system comput commun pusan korea;0
+137;11;yen wei chen;;independ compon analysi applic pattern recognit;knowledg base intellig inform engin system alli technolog ed n baba l c jain r j howlett io press;0
+138;11;y chen;hanqing lu,xiang yan zeng,zensho nakao;ica base illumin free textur model applic imag retriev;ieee pacif rim confer multimedia;0
+139;11;y chen;y w chen,z nakao,m iguchi,s tamura;evolutionari algorithm imag restor;proc ieee intern confer neural network signal process nanj;0
+140;11;yen wei chen;noel mendoza,zensho nakao;hybrid ea approach multisensor imag super resolut;proc int tech conf circuit system comput commun tokushima;0
+141;12;y chen;chauchin su,shyh jye jou,yuan tzu ting;metrolog analog modul test us analog testabl bu;iccad intern confer comput aid design;0
+142;12;y chen;chauchin su,chung len lee;analog metrolog stimulu select noisi environ;asian test symposium;0
+143;12;yi ren cheng;chauchin su,shing tenchen;analog signal metrolog mix signal ic;asian test symposium;0
+144;12;y chen;chauchin su,shyh jye jou;intrins respons analog modul test us analog testabl bu;acm tran design autom electr syst;0
+145;12;y chen;chauchin su,shyh jye jou;parasit effect remov analog measur p environ;itc intern test confer;0
+146;12;y chen;chauchin su,shung won jeng;boundari scan bist methodolog reconfigur system;itc intern test confer;0
+147;12;y chen;chauchin su,chung len lee,gen nan chen,mu jeng huang;digit built delai crosstalk measur chip buse;date design autom test europ;0
+148;13;y chen;c l lee,j r chen;scalabl architectur differenti servic;icdc intern confer distribut comput system workshop;0
+149;13;y chen;c l lee,h y liao;effici tcp flow control fast recoveri scheme lossi network;icn intern competit network;0
+150;13;y chen;h c hong;design implement web base bulletin system offici document;compsac intern comput softwar applic confer;0
+151;13;y chen;h c hong;design implement web base real time interact collabor environ;ftdc futur trend distribut comput system;0
+152;13;y chen;h c hong;design practic dispatch server architectur;ftdc futur trend distribut comput system;0
+153;13;y chen;t i chen;approach isochron slot reus multimedia servic dqdb network;ftdc futur trend distribut comput system;0
+154;13;y chen;tsau young lin;congest control approach lan man interconnect via atm;infocom confer comput commun;0
+155;14;y chen;cheng yan kao,jinn moon yang,jorng tzong horng;appli famili competit evolut strategi constrain optim;evolutionari program;0
+156;14;y chen;a singh,d e goldberg,y p chen;modifi linkag learn genet algorithm difficult non stationari problem;proceed genet evolutionari comput confer gecco genet evolutionari comput confer poster session;0
+157;14;y chen;a sinha,y p chen,d e goldberg;design effici genet evolutionari algorithm hybrid;hart w krasnogor n smith j ed recent advanc memet algorithm relat search technolog chapter n n springer verlag press;0
+158;14;y chen;j m yang,y p chen,j t horng,c y kao;appli famili competit evolut strategi constrain optim;lectur note comput scienc lnc sci scalabl coher interfac expand;0
+159;14;y chen;ali yassine,david e goldberg,tian li yu;genet algorithm design inspir organiz theori pilot studi depend structur matrix driven genet algorithm;gecco genet evolutionari comput confer;0
+160;14;y chen;t l yu,d e goldberg,a a yassine,y p chen;genet algorithm design inspir organiz theori pilot studi depend structur matrix driven genet algorithm;proceed artifici neural network engin anni;0
+161;14;y chen;t l yu,d e goldberg,a a yassine,y p chen;genet algorithm design inspir organiz theori pilot studi depend structur matrix driven genet algorithm;technic report genet algorithm laboratori depart gener engin univers;0
+162;14;y chen;t l yu,y p chen,d e goldberg;adapt sampl scheme genet algorithm sampl onemax problem;technic report n genet algorithm laboratori depart gener engin univers prepar;0
+163;14;y chen;y p chen,d e goldberg;converg time linkag learn genet algorithm;technic report n genet algorithm laboratori depart gener engin univers prepar;0
+164;14;y chen;y p chen,d e goldberg;analysi reorder oper tournament select ga hard problem;technic report genet algorithm laboratori depart gener engin univers;0
+165;14;y chen;y p chen,d e goldberg;introduc start express gene linkag learn genet algorithm;technic report genet algorithm laboratori depart gener engin univers;0
+166;14;y chen;y p chen;us start express gene build block separ linkag learn genet algorithm;proceed genet evolutionari comput confer gecco genet evolutionari comput confer graduat student;0
+167;14;y chen;y p chen,d e goldberg;survei genet linkag learn techniqu;technic report n genet algorithm laboratori depart gener engin univers prepar;0
+168;14;y chen;y p chen,j t horng,c y;stochast sketch new method global optim;soft comput kao;0
+169;14;y chen;y p chen,d e goldberg;tight time linkag learn genet algorithm;technic report genet algorithm laboratori depart gener engin univers;0
+170;14;y chen;david e goldberg;tight time linkag learn genet algorithm;gecco genet evolutionari comput confer;0
+171;14;y chen;david e goldberg;analysi reorder oper tournament select ga hard problem;gecco genet evolutionari comput confer;0
+172;14;y chen;j t horng,y p chen,c y kao;theoret aspect stochast sketch method global optim;journal inform scienc engin jise sci scalabl coher interfac expand;0
+173;14;y chen;david e goldberg;introduc start express gene linkag learn genet algorithm;ppsn parallel problem solv natur;0
+174;14;y chen;w r jih,y p chen,j hsu;compar studi genet algorithm vehicl rout time constraint;proceed intern confer artifici intellig kaohsiung nation sun yat sen univers;0
+175;15;y chen;chia tai chan,pi chung wang,wei chun tseng;fast packet classif us enhanc tupl prune;protocol high speed network;0
+176;15;y chen;chia tai chan,pi chung wang,wei chun tseng;gigabit packet classif us lookahead cach;compsac intern comput softwar applic confer;0
+177;15;y chen;chia tai chan,pi chung wang,shuo cheng hu,yu chen shin;hardwar base ip rout lookup increment updat;icpad intern confer parallel distribut system;0
+178;15;y chen;chia tai chan,pi chung wang;fast tabl updat scheme high perform ip forward;icpad intern confer parallel distribut system;0
+179;15;y chen;chia tai chan,pi chung wang;effici traffic control scheme tcp atm gfr servic;comput network;0
+180;15;y chen;chia tai chan,pi chung wang;fast ip rout lookup scheme;icc intern confer commun;0
+181;15;y chen;jin ru chen;improv data transport perform sscop rate base flow control;perform eval;0
+182;16;y chen;mumin song,ning xi,weihua sheng;graph base surfac merg cad guid dimension inspect automot part;icra intern confer robot autom;0
+183;16;y chen;james s rankin iii,mumin song,ning xi,weihua sheng;autom cad guid automobil part dimension inspect;icra intern confer robot autom;0
+184;16;y chen;heping chen,mumin song,ning xi,weihua sheng;autom robot trajectori plan sprai paint free form surfac automot manufactur;icra intern confer robot autom;0
+185;16;y chen;klaus peter beier;highlight line algorithm realtim surfac qualiti assess;comput aid design;0
+186;16;y chen;fuhua cheng,jun hai yong,kenjiro t miura,paul stewart;dynam highlight line gener local deform nurb surfac;comput aid design;0
+187;16;y chen;dimitris papageorgiou,klaus peter beier;direct highlight line modif nurb surfac;comput aid geometr design;0
+188;17;y chen;d f wong;retim fpga logic modul minim;iccd intern confer comput design;0
+189;17;y chen;ashih d mehta,d f wong,lawrence t pileggi,noel menezes;cluster load balanc buffer clock tree synthesi;iccd intern confer comput design;0
+190;17;y chen;d f wong;graph theoret approach feed pin assign;isca ieee intern symposium circuit system;0
+191;17;y chen;d f wong,ting chi wang;graph partit problem multipl chip design;isca ieee intern symposium circuit system;0
+192;17;y chen;d f wong;optim approxim orthogon polygon;isca ieee intern symposium circuit system;0
+193;17;y chen;chung ping chen,d f wong;optim wire size formular elmor delai model;dac design autom confer;0
+194;18;y chen;;;;0
+195;18;y chen;g w chang,y c chen;colorimetr model vision system;journal electron imag;0
+196;18;y chen;y j chang,y c chen;develop video realist virtual conferenc system;proceed intern symposium commun;0
+197;18;y chen;y j chang,c c chen,j c chou,y c chen;develop multi user virtual confer system us layer audio visual integr;proc internet distribut system;0
+198;18;y chen;g w chang,y c chen,k l huang;adapt color control imag scan print devic;proc intern confer imag process;0
+199;18;y chen;y j chang,y c chen;facial model adapt monocular imag sequenc us textur polygon model;signal process imag commun;0
+200;18;y chen;s chang,y c chen;vibrat control industri robot;nsc report;0
+201;18;y chen;y j chang,c c chien,y c chen;video realist avatar virtual face face conferenc;ieee intern confer multimedia expo;0
+202;18;y chen;y j chang,c c chen,j c chou,y c chen;virtual talk model base virtual phone us layer audio visual integr;proc intern confer multimedia expo;0
+203;18;y chen;y j chang,c c chen,j c chou,y c chen;implement virtual chat room multimedia commun;proc nternat multimedia signal process;0
+204;18;y chen;c m wu,y c chen,k s hsieh;ultrason liver imag classif multiresolut fractal featur;proc comput vision graphic imag process;0
+205;18;y chen;c m wu,y c chen;ultrason liver tissu classif fractal geometri;proc ippr confer comput vision graphic imag process;0
+206;18;y chen;c m wu,y c chen,k s hsieh;imag process techniqu classif liver imag;gordon breach intern seri engin technolog appli scienc medic imag techniqu applic;0
+207;18;y chen;c m wu,y c chen;multi theshold dimens vector textur analysi applic liver tissu classif;pattern recognit;0
+208;18;y chen;j k hwang,y c chen;analysi automat sinusoid detector fft cell averag processor;journal chines institut engin;0
+209;18;y chen;j k hwang,y c chen;perform altern maximum likelihood notch algorithm;proc ieee tencon hongkong;0
+210;18;y chen;c m wu,w s chou,y c chen,k s hsieh;stage liver tissu classif fractal geometri;journal chines institut engin;0
+211;18;y chen;c m wu,y c chen;statist featur matrix textur analysi;graphic model imag process cvgip graphic model imag process;0
+212;18;y chen;j k hwang,y c chen;real time comput maximum likelihood criterion superimpos signal problem;electron letter;0
+213;18;y chen;c m wu,y c chen,k s hsieh;textur featur classif ultrason liver imag;ieee tran medic imag;0
+214;18;y chen;j k hwang,y c chen;superresolut frequenc estim altern notch periodogram;ieee tran signal process;0
+215;18;y chen;y c chen;vlsi circuit design high speed motion estim;itri ccl constraint comput logic project report;0
+216;18;y chen;t f yang,j k hwang,y c chen;d doa estim polynomi approach;intern symposium commun iscom;0
+217;18;y chen;y c chen j f kiang,l g shi;ka band channel simul leo satellit;ieee transact antenna propag;0
+218;18;y chen;c m chen,y c chen,h h shen;vlsi architectur design high speed motion estim hdtv applic;intern symposium commun;0
+219;18;y chen;t f yang,j k hwang,y c chen;doa estim polynomi approach;intern symposium commun iscom;0
+220;18;y chen;m f lan,y c chen,y c chuang,e hsi;dct base wavelet base video transcod algorithm architectur design;proceed;0
+221;18;y chen;y c chen,c m chen;vlsi architectur high speed motion estim us hierach block match algorithm;ippr confer comput vision graphic imag process;0
+222;18;y chen;y r yang,y c chen;mpeg base code algorithm dtv;signal process hdtv elsevi scienc publish;0
+223;18;y chen;w l lee,y c chen,k s hsieh;ultrason liver tissu classif fractal featur vector base m band wavelet transform;proceed;0
+224;18;y chen;y c chen,c h chou;vlsi architectur real time interfram code hdtv applic;signal process hdtv elsevi scienc publish;0
+225;18;y chen;w l lee,y c chen,k s hsieh;robust calcul fractal dimens imag applic classifl ultrason liver imag textur imag;proceed ieee intern symposium circuit system;0
+226;18;y chen;y c chen,h h shen;vlsi architectur high speed motion estim;signal process hdtv elsevi scienc publish;0
+227;18;y chen;f c leou,y c chen;contour base imag code techniqu textur inform reconstruct polylin represent;signal process;0
+228;18;y chen;y c chen,h h shen;vlsi architectur high speed motion estim;proceed intern hdtv kawasaki;0
+229;18;y chen;f j leou,y c chen;encod arbitrari curv base segment chain code sequenc;proc telecommun symposium;0
+230;18;y chen;y c chen,c h chou;vlsi architectur real time interfram code hdtv applic;ieee visual signal process commun revis form also fourth intern wokrshop hdtv beyond;0
+231;18;y chen;chih chung chen,jen chung chou,yao jen chang;virtual talk model base virtual phone us layer audio visual integr;ieee intern confer multimedia expo;0
+232;18;y chen;h l pang and y c chen;liver tissu classif artifici neural network;pattern recognit letter;0
+233;18;y chen;y c chen;lap orthogon transform base video code algorithm;itri ccl constraint comput logic project report;0
+234;18;y chen;w s cho j w yu,w n lie,y c chen;mechan draw recognit system cnc flame cut;proc comput vision graphic imag process;0
+235;18;y chen;y c li,t h wu,y c chen;hybrid video coder base lap orthogon transform scene adapt quantiz;proc hdtv b b;0
+236;18;y chen;y c li,t h wu,y c chen;hybrid model base imag code system low bit rate code;ieee journal select area commun;0
+237;18;y chen;y c li,y c huang,y c chen;lipread video sequenc;ippr confer comput vision graphic imag process;0
+238;18;y chen;y c li,y c huang,y c chen;lip synchron talk head sequenc;proc hd media technolog applic;0
+239;18;y chen;y c chen,c w yang,c f chen;ultrason imag system d object recognit;iecon proceed spie intern societi optic engin;0
+240;18;y chen;w l li,y c chen,k s hsieh;ultrason liver tissu classif fractal featur vector base m band wavelet transform;revis ieee tran medic imag;0
+241;18;y chen;y c chen,c h li;layer subband video code us diamond shape filter;signal process hdtv elsevi scienc publish;0
+242;18;y chen;y c li,y j chang,y c chen;automat face model algorithm imag sequenc;proc joint latest develop telecommun research tjcom;0
+243;18;y chen;y c chen,t i liu;microcomput aid automat program tool system;st nat conf mech eng csme;0
+244;18;y chen;y c li,y c chen;scene adapt hybrid video code scheme base lot;ieee tran circuit system video technolog;0
+245;18;y chen;y c chen,c f chen;microprocessor implen electron balabc feedback control loop;proc nation symposium automat contril;0
+246;18;y chen;y c li,y c chen;estim facial motion paramet form imag sequenc model base video code;proc hdtv;0
+247;18;w y chen;w n lie,y c chen;model base d polyhedra recognit posit us imag guid rang sens;proc ic intern confer supercomput;0
+248;18;y chen;t j liao,y c chen;face assist video transcod multipoint video conferenc;proc consum electron;0
+249;18;y chen;c w chen,t s hwang,y c chen;model base estim left ventricl motion;ieee icassp toronto;0
+250;18;y chen;c m liaw,y c chen;design implement adapt control current fed induct motor;ieee transcat industri electron;0
+251;18;y chen;y c chen;imag match shift rotat scale invari;nsc report;0
+252;18;y chen;y c chen;imag analysi segment us textur characterist;nsc report;0
+253;18;y chen;y c chen,c h chou,l k liu;moment preserv code grayscal imag us quadtre;proc telecommun symposium;0
+254;18;y chen;y c chen,c h chou,l k liu;mathemat model quadtre code binari imag;nc;0
+255;18;y chen;c w liaw,y c chen;adapt control currentf induct motor;ieee transcat aerospac electron system ae;0
+256;18;y chen;c m liaw,c t pan,y c chen;adapt speed regul current sourc induct motor drive;proc nation symposium automat control;0
+257;18;y chen;c m liaw,y c chen;reduct transfer function us dispers analysi continu fraction method;intern journal system scienc int j system sci scalabl coher interfac;0
+258;18;y chen;c j lie,y c chen;knowledg base syntact analysi ecg waveform;identif pattern recognit rai ipar;0
+259;18;y chen;y c chen;waveform model base imag codec low bit rate code;itri ccl constraint comput logic project report;0
+260;18;y chen;w n lie,y c chen;line draw extract pllyhedron us polar hough transform;proc icon;0
+261;18;y chen;y c chen,c h chou;algorithm hardwar architectur real time d imag convolut;ic intern confer supercomput;0
+262;18;y chen;w n lie,y c chen;model base recognit posit polyhedra us intens guid rang sens interpret dimension space;pattern recognit;0
+263;18;y chen;y c chen,th gast;line measur product engin;intern symposium remot sens precis measur;0
+264;18;y chen;w n lie,y c chen;move object detect inspect count us imag stripe analysi;pattern recognit letter;0
+265;18;y chen;y c chen,c f chen;enviro recoginit method robot guidanc;twelfth annual ieee industri electron societi confer pp;0
+266;18;y chen;w n lie,y c chen;integr intens rang sens construct d polyhedra represent;cvgip graphic model imag process publish book progress comput vision imag understand ed azriel rosenfeld publish academ press;0
+267;18;y chen;y c chen;new algorithm interpol comput numer control system;journal chines institut engin;0
+268;18;y chen;w n lie,y c chen;robust line draw extract polyhedra us weight polar hough transform;pattern recognit;0
+269;18;y chen;c f chen,w s chou,y c chen;new mark base method camera calibr;proc ippr confer comput vision graphic imag process;0
+270;18;y chen;c w lin,y c chen,m t sun;dynam region interest transcod multipoint video conferenc;proceed int comput symp comput network internet multimedia;0
+271;18;y chen;y c chen,h l wang;new method paramet estim linear system;proc nation symposium automat control;0
+272;18;y chen;y c chen;untersuchung ueber fehlerverhalten bei integr und den rung kutta verfahren und ordnung unter verwendung de simul program csmp;allgemein elektrotechnik und datenverarbeitung system;0
+273;18;y chen;y c chen;applic microprocessor signal analysi;erso itri report;0
+274;18;y chen;y c chen;applic modern system theori measur engin;proc first intern symposium polici analysi inform system;0
+275;18;y chen;c d chen,c h chou,y c chen;systol arrai architectur motion estim imag sequenc code;visual commun imag process;0
+276;18;y chen;y c chen;d convolut subject data spread algorithm;nsc report;0
+277;18;y chen;y c chen,c c lin;design autom guidanc vehicl;proceed nation symposium automat control;0
+278;18;y chen;c f chen,w s chou,y c chen;mark base approach motion estim d point set;journal chines institut engin;0
+279;18;y chen;y c chen,c c lin;speed control three phase induct automat control;;0
+280;18;y chen;y c chen;structur programm digit filter;proceed symposium electromagnet wave commun nation univ;0
+281;18;y chen;y c chen,t i liu;automat program tool graphic input;st nat conf mech eng csme;0
+282;18;y chen;j s chen,w n lie,y c chen;automat threshold edg detect base human visual percept;ic intern confer supercomput;0
+283;18;y chen;y c chen,w l lee;textur classif us multi resolut fractal featur vector;proc fourth asian confer comput vision taipei;0
+284;18;y chen;y c chen;textur analysi classif fractal geometri;nsc report;0
+285;18;y chen;c w lin,t j liou,y c chen;dynam rate control multipoint video transcod;ieee intern symposium circuit system;0
+286;18;y chen;c w lin,y c chen,m t sun;dynam sub window skip multipoint video conferenc;ieee tran circuit system video technolog;0
+287;18;y chen;c w lin,y j chang,y c chen;face assist video code video telephoni applic;ieic tran inform system;0
+288;18;y chen;j w lin,y c chen,c l wang;effici bit level systol arrai qmf bank;proceed spie intern societi optic engin symposium visual commun imag process u s;0
+289;18;y chen;y c chen;proceed nation symposium automat control;digit sens;0
+290;18;y chen;c w lin,eryin fei,y c chen;effici video code r d constrain quadtre segment;pictur code symposium;0
+291;18;y chen;y c chen;practic experiment techniqu identifi natur frequenc second order system;advanc control ed d g lainioti n s tzann d reidel publish comp;0
+292;18;y chen;j w lin,y c chen,c l wang;effici vlsi architectur hdtv subband filter bank;signal process hdtv elsevi scienc publish;0
+293;18;y chen;y c chen;optim filter control system;master thesi nation univers;0
+294;18;y chen;c w lin,y c chen,c l wang;effici vlsi architectur multir system subband filter;ieee visual signal process commun;0
+295;18;y chen;y c chen;robust adapt signal process fast comput;nsc report;0
+296;18;y chen;c w lin,y j chang,y c chen;hierach motion estim algorithm base pyramid sucess elimin;intern comput symposium proceed imag process charact recognit;0
+297;18;y chen;y c chen;robot seam track us tactil sensor;proceed nation symposium automat control;0
+298;18;y chen;c w lin,e y fei,y c chen;hierarch dispar estim us spatial correl;ieee tran consum electron;0
+299;18;y chen;y c chen,s h huang;reconstruct d object scatter volumetr data;proceed th ippr confer comput vision graphic imag process;0
+300;18;y chen;w x lin,c w lin,y j chang,y c chen;video process object base video conferenc;proceed consum electron;0
+301;18;y chen;y c chen;research color displai print;itri ccl constraint comput logic project report;0
+302;18;y chen;y c chen;scalabl compat design high definit video encod;nsc report;0
+303;18;y chen;y c chen,m f tsai;scan laser rang finder dual receiv;journal chines institut engin;0
+304;18;w y chen;w n lie,y c chen;segment descript d object rang intens data;proc intern confer imag process icip intern confer imag process;0
+305;18;y chen;y c chen;textur analysi system applic;nsc report;0
+306;18;y chen;y c chen,y c chen,a s chiang;two level model averag techniqu drosophila brain imag;ieee intern confer imag process;0
+307;18;y chen;y c chen,s w jeng;two layer code atm base video transmiss system;signal process hdtv elseiv scienc publish;0
+308;18;y chen;y c chen;transform paramet estim match satellit imag;nsc report;0
+309;18;y chen;y j chang,y c li,y c chen;mpeg snhc compat implement virtual chat room;intern symposium consum electron;0
+310;18;y chen;y c chen;tissu character artifici neural netwoork continu;veteran gener hospit project report;0
+311;18;y chen;g w chang,y c chen;neural fuzzi process architectur color separ mix system;proc hd media technolog applic;0
+312;18;y chen;y c chen;tissu classif artifici neural network;veteran gener hospit project report;0
+313;18;y chen;y j chang,y c chen;robust head pose estim us textur polygon model local correl measur;proceed second ieee pacif rim confer multimedia ieee pcm;0
+314;18;y chen;yao jen chang;robust head pose estim us textur polygon model local correl measur;ieee pacif rim confer multimedia;0
+315;18;y chen;c h cheng,y j chang,y c chen;human face featur track head pose estim aid kalman filter;proc th ippr confer comput vision graphic imag process;0
+316;18;y chen;g w chang,y c chen;spectral respons estim color vision system filter select nois effect;proceed nation scienc council part;0
+317;18;y chen;chien chia chien,yao jen chang;facial express analysi variou head pose;ieee pacif rim confer multimedia;0
+318;18;y chen;g w chang,y c chen;spectral estim color ccd camera;proc spie intern societi optic engin input output imag technolog spie intern societi optic engin;0
+319;18;y chen;c h chou,y c chen;build d workspac mobil robot stereo vision registr mark;proc symposium intern societi photogrammetri remot sens commiss;0
+320;18;y chen;g w chang,y c chen;automat spectral measur system color video camera;ieee tran consum electron;0
+321;18;y chen;w s chou,y c chen,k s hsieh;comput assist analysi motion heart evalu optic flow;proc;0
+322;18;y chen;y j chang,y c chen;textur polygon model assist facial model estim imag sequenc;proceed ieee intern confer imag process;0
+323;18;y chen;y c chen;adapt code scheme vlsi architectur real time codec move imag;nsc report;0
+324;18;y chen;y c chen;adapt code scheme vlsi architectur realtim codec move imag;tl nsc report;0
+325;18;y chen;c w lin,y j chang,y c chen;low complex face assist video code;proc intern confer imag process;0
+326;18;y chen;j j lin,y c chen;imag registr principl compon analysi featur point set;ibid;0
+327;18;y chen;c w lin,w x lin,y c chen,m t sun;implement h compliant virtual meet system;proceed int comput symp comput network internet multimedia;0
+328;18;y chen;c w lin,w h wang,y c chen,m t sun,jenq neng hwang;implement h video confer system person presenc control;proc ieee int conf consum electron;0
+329;18;w y chen;w n lie,y c chen;segment descript industri part rang imag;proc comput vision graphic imag process;0
+330;18;y chen;c w lin,y j chang,y c chen,m t sun;implement real time object base virtual meet system;proceed ieee intern confer multimedia expo;0
+331;18;w y chen;w n lie,y c chen;segment descript industri part rang intens data;proc third nation confer autom technolog;0
+332;18;y chen;j w lin,y c chen,c l wang;effici architectur hdtv subband filter bank;proceed intern hdtv kawasaki;0
+333;18;y chen;y c chen,w n lie;shape represent match us polar signatru;ic intern confer supercomput;0
+334;18;y chen;f l lin,y c chen;improv tuft kurmaresan method direct arriv estim;proc telecommun symposium;0
+335;18;y chen;y c chen,w n lie;solid model base d vision system;twelfth annual ieee industri electron societi confer;0
+336;18;y chen;c w lin,y j chang,c m wang,y c chen,m t sun;realtim standard compliant virtual meet system;eurasip journal appli signal process;0
+337;18;y chen;y c chen,w n lie;solid model three dimension object recognit system;ic intern confer supercomput;0
+338;18;y chen;c w lin,eryin fei,y c chen;rate distort constrain quadtre segment stereoscop video code;proc intern symposium multimedia inform process;0
+339;18;y chen;y c chen,th gast;sensit measur displac mass;proceed intern symposium precis meaurement graviti experi;0
+340;18;y chen;c w lin,eryin fei,y c chen;rate distort optim quadtre code video;proc intern symposium multimedia inform process ismip;0
+341;18;y chen;y c chen;studi multipoint video transcod techniqu;itri ccl constraint comput logic project report;0
+342;18;y chen;y c chen,h b yu;studi implenent effect dsp processor;proceed symposium nation automat control;0
+343;18;y chen;y c chen;studi neural fuzzi process architectur color appear base model human vision;nsc report;0
+344;18;y chen;y c chen;stoermomentkompens bei einer schwebewaag mit hilf adaptiv regelung;doctor dissert;0
+345;18;y chen;w s chou,c m wu,y c chen,k s hsieh;detect myocardi boundari left ventricl singl frame imag;pattern recognit;0
+346;18;y chen;j c chou,y j chang,y c chen;facial featur point track express analysi virtual conferenc system;proceed ieee intern confer multimedia expo;0
+347;18;y chen;c h chou,y c chen;vlsi architectur high speed flexibl d digit filter;ieee tran signal process;0
+348;18;y chen;c h chou,y c chen;vlsi architectur real time flexibl imag templat match;ieee tran circuit;0
+349;18;y chen;y c chen;robust adapt signal process fast comput;nsc report;0
+350;18;y chen;c h chou,y c chen;modular architectur high speed flexibl two dimension digit filter;proc ieee intern symposium circuit system;0
+351;18;y chen;y c chen;textur differenti classif artifici neural net;nsc report;0
+352;18;y chen;y c chen;object base virtual conferenc system base mpeg;itri ccl constraint comput logic project report;0
+353;18;y chen;c h chou,y c chen;moment preserv pattern match;pattern recognit;0
+354;18;y chen;y c chen;object orient waveform base high compress codec design;itri ccl constraint comput logic project report;0
+355;18;y chen;w s chou,y c chen;new fast algorithm effect train neural classifi;pattern recognit;0
+356;18;y chen;y c chen,n c lin;bit slice design programm digit filter;journal chines institut engin;0
+357;18;y chen;c h chou,y c chen;parallel motion estim algorithm interfram imag code;proc telecommun symposium;0
+358;18;y chen;y c chen;code method error handl techniqu low bit rate video signal;nsc report;0
+359;18;y chen;w s chou,y c chen;estim veloc field d deform motion;pattern recognit;0
+360;18;y chen;y c chen;converg studi two real time paramet estim scheme nonlinear system;nonlinear stochast problem nato asi seri;0
+361;18;y chen;w s chou,c m wu,y c chen,k s hsieh;automat detect endocardium epicardium left ventricl digit imag process two dimension echocardiographi;journal chines institut engin;0
+362;18;y chen;y c chen;circuit design multifrequ signal system;technic report telecommun laboratori;0
+363;18;y chen;y s chen,y c chen;correspond analysi surfac reconstruct serial planar contour;proceed ippr confer comput vision graphic;0
+364;18;y chen;y c chen,c f rau;cross coupl contour control system;processd nation symposium automat control;0
+365;18;y chen;c m lin,y c chen;object subject improv discret cosin transform imag code;proc telecommun symposium;0
+366;18;y chen;t c liu,y c li,y c chen;hierach motion base segment select refin algorithm warp deform mesh;proc;0
+367;18;y chen;;imag process;;0
+368;18;y chen;h c ting,c h chou,y c chen;motion compenst adapt coder us buffer control strategi;proc ic intern confer supercomput;0
+369;18;y chen;;automat control;;0
+370;18;y chen;y t wang,c k hwang,y c chen;adapt coher signal subspac algorithm direct estim track;proc;0
+371;18;y chen;y f hs u an d y c ch en;r ation interpol extend invers discret cosin transform;electron letter;0
+372;18;y chen;w h wang,y c chen;affin transform base search strategi invari recognit scant templat;proc ippr confer comput vision graphic imag process;0
+373;18;y chen;y f hsu,y c chen;digit tv broadcast us ka band satellit;ieee intern symposium consum electron;0
+374;18;y chen;y f hsu,y c chen;digit tv format convers extend dct;proc ieee intern symposium consum electron;0
+375;18;y chen;w h wang,w n lie,y c chen;fuzzi comput method rotat invari imag track;proc intern confer imag process;0
+376;18;y chen;y c chen,c f chen;d object recognit method us ultrason sensor tv camera;sixth iast interatin symposium robtic autom;0
+377;18;y chen;y wang,y c chen;fast d displai system medic ultrasound imag;proc th ippr confer comput vision graphic imag process;0
+378;18;y chen;y f hsu,y c chen;digit tv video format convers extend invers dct recurs algorithm vlsi implement;ieee tran consum electron;0
+379;18;y chen;y c chen;digit process d recognit echocardiograph imag;veteran gener hospit project report;0
+380;18;y chen;w h wang,y c chen;histogram match moment normal;ieic tran inform system d;0
+381;18;y chen;y f hsu,c j huang,y c chen;video codec design mpeg spatial scalabl;ibid b b;0
+382;18;y chen;y c chen;d vision system us solid model laser aid stereo rang;nsc report;0
+383;18;y chen;wen hao wang;imag registr control point pair us invari properti line segment;pattern recognit letter;0
+384;18;y chen;y f hsu,c h hsieh,y c chen;embed snr scalabl mpeg video encod associ error resili decod procedur;signal process imag commun;0
+385;18;y chen;y c chen;identif system contain multi valu nonlinear;ass;0
+386;18;y chen;y f hsu,y c chen,c j huang,m j sun;mpeg spatial scalabl code transport stream error conceal satellit tv broadcast us ka band;ieee tran broadcast;0
+387;18;y chen;w t chen,y c chen;adapt block match imag sequenc code;intern symposium commun iscom;0
+388;18;y chen;y f hsu,y c chen;extend invers dct transform applic digit imag interpol;proc intern symposium commun;0
+389;18;y chen;y c chen;adapt code hardwar architectur high definit video encod;nsc report;0
+390;18;y chen;y f hsu,c h hsieh,y c chen;improv architectur mpeg snr scalabl video system;proc hd media technolog applic;0
+391;18;y chen;y c chen;adapt code hardwar architectur hdtv;nsc report;0
+392;18;y chen;y c chen;adapt regelung fuer ein schwebewaag;regelungstechnik heft;0
+393;18;y chen;y c chen;direct broadcast experi digit tv signal;nsc nspo ecp report;0
+394;18;y chen;y c chen,h c wang,j f kiang,m k tsai;direct broadcast experi digit tv signal rocsat ecp payload;supplement issu project rocsat terrestri atmospher ocean scienc tao journal;0
+395;18;y chen;c m wang,y j chang,y c chen;move object extract us mosaic techniqu track activ camera;proceed ippr confer comput vision graphic imag process;0
+396;18;y chen;j w wang,y c chen;indoor navig autonom land vehicl;proceed nation symposium automat control;0
+397;18;y chen;w h wang,y c chen;invari imag match compact moment normal;journal chines institut engin;0
+398;18;y chen;y t wang,j k hwang,y c chen;analysi decorrel effect spatial smooth techniqu;proc ieee tencon hongkong;0
+399;18;y chen;y f hsu,y c chen;new adapt separ median filter remov block effect;ieee tran consum electron;0
+400;18;y chen;w h wang,y c chen;new approach scale rotat translat invari pattern recognit;optic engin;0
+401;18;y chen;y f hsu,m j sun,y c chen;error conceal mpeg transport stream satellit commun;proc consum electron digit video multimedia;0
+402;18;y chen;c h huang,y c chen;buffer control us fuzzi classif adapt perceptu quantiz;journal chines institut electr engin;0
+403;18;y chen;w h wang,y c chen,w n lie;phase circular harmouic correl rotat invari imag track;proc proc ippr confer comput vision graphic imag process;0
+404;18;y chen;w h wang,y c chen;point pattern match line segment label;electron letter;0
+405;18;y chen;m y huang,c w lin,y c chen;d object base code algorithm stereo imag sequenc;proc intern synthet natur hybrid code three dimension imag;0
+406;18;y chen;y c chen;disturb reject adapt control magnet suspens balanc;proc nation symposium automat control;0
+407;18;y chen;w h wang,y c chen,w n lie;architectur circular harmon correl rotat invari imag track;proc;0
+408;18;y chen;m y huang,c w lin,y c chen,e y fei;d object code algorithm stereo imag sequenc;proc intern symposium multimedia inform process;0
+409;18;y chen;c c chen,y j chang,y c chen;audio visual convers us gaussian mixtur model;proceed consum electron;0
+410;18;y chen;w z wu,w n lie,y c chen;build map occupi space mobil robot stereo vision registr mark;proc third nation confer autom technolog;0
+411;18;y chen;h y huang,y c chen;error resil error conceal techniqu mpeg video code;proc consum electron;0
+412;18;y chen;y c chen,th gast;feedback principl measur;intern symposium remot sens precis measur;0
+413;18;y chen;c m wu,w s chou,y c chen;d displai inner outer surfac left ventricl;proc comput vision graphic imag process;0
+414;18;y chen;j k hwang,y c chen;combin detect estim algorithm harmon retriev problem;signal process;0
+415;18;y chen;y c chen;video conferenc virtual presenc;proceed ippr confer comput vision graphicsand imag process;0
+416;18;y chen;j k hwang,y c chen;d extens altern maximum likelihood notch algorithm;proc second intern symposium signal process applic isspa brisban queensland;0
+417;18;y chen;y c chen;fast imag process us ultrason sensor tv camera;nsc report;0
+418;18;y chen;j k hwang,y c chen;final estim noisi observ transient period;proc nation symposium;0
+419;18;y chen;y c chen;fast imag process us ultrason sensor tv camera;nsc report;0
+420;18;y chen;j k hwang,y c chen;effici algorithm pipelin vlsi architectur maximum likelihood estim direct arriv;proc ieee intern confer assp;0
+421;18;y chen;y c chen;fast maximum likehood estim superimpos signal model;nsc report;0
+422;18;y chen;y c chen,w h wang;histogram match moment normal;ic intern confer supercomput proc intern confer imag process charact recognit;0
+423;18;y chen;y c chen,j f kiang,m k tsai,l g shi,p k liaw;ka band channel simul commun experi rocsat;progress electromagnet research symposium pier;0
+424;18;y chen;y c chen;video transcod architectur multi point video conferenc;itri ccl constraint comput logic project report;0
+425;19;y chen;s gabriela,p p chong;visual busi rule corpor databas;industri manag data system;0
+426;19;y chen;;qualiti control inform system entiti relationship approach;intern journal polici inform;0
+427;19;y chen;;expert system line qualiti control;proceed first intern confer applic artifici intellig engin problem editor dr sriram r adei;0
+428;19;y chen;j m pruett;expert system oper integr;comput aid engin applic american societi mechan engin th nation congress san diego;0
+429;19;y chen;r t justis;web base teach train frequenc base approach;proceed america confer inform system;0
+430;19;y chen;c r mount,t w liao;influenti role frequenc base work center analysi;proceed america confer inform system;0
+431;19;y chen;d leleux,b ives;inform system knowledg repositori structur electron scholarship;proceed america confer inform system;0
+432;19;y chen;;inform system busi franchis;franchis chapter third edit r justi r judd dame;0
+433;19;y chen;;inform system franchis;franchis chapter second edit r justi r judd dame;0
+434;19;y chen;p p chong,y tong;enhanc qualiti distribut databas design function entiti relationship approach;proceed fifth intern academi busi disciplin;0
+435;19;y chen;a chatranon,j chen,p p chong;custom relationship manag commerc;proceed intern confer busi hong kong;0
+436;19;y chen;;busi franchis knowledg capit;mba program school manag fudan univers shanghai;0
+437;19;y chen;p p chong,r t justis;busi strategi franchis custom servic life cycl approach;proceed th annual intern societi franchis confer;0
+438;19;y chen;r l burford;decis support expert system market qualiti assur;proceed pan pacif confer;0
+439;19;y chen;r t justis,p p chong;data mine franchis organ;organiz data mine leverag data resourc optim perform edit hamid r nemati christoph d barko;0
+440;19;y chen;p p chong,r t justis;franchis knowledg repositori structur learn organ;proceed th annual intern societi franchis confer san diego;0
+441;19;y chen;r t justis,p p chong;franchis inform technolog framework;manag inform technolog small busi challeng solut edit s burgess idea group publish;0
+442;19;y chen;;global busi franchis knowledg capit;school econom manag tsinghua univers beij;0
+443;19;y chen;s hammerstein,r t justis;knowledg learn capabl franchis organ;proceed rd european confer organiz knowledg learn capabl www alba edu gr oklc;0
+444;19;y chen;p p chong,r t justis;intranet base knowledg repositori structur learn organ franchis;human system manag;0
+445;19;y chen;;entiti relationship approach decis support expert system;decis support system;0
+446;19;y chen;k tang;pictori approach poor qualiti cost manag;ieee transact engin manag;0
+447;19;y chen;c ford,r t justis,p p chong;applic servic provid asp franchis opportun issu;proceed th annual intern societi franchis confer la vega;0
+448;19;y chen;;organiz strategi decis support expert system;journal inform scienc;0
+449;19;y chen;p p chong,j chen;small busi manag base approach;journal comput inform system xxxxi winter;0
+450;19;y chen;p p chong,r t justis;databas design ventur capitalist entrepreneur match servic entiti relationship approach;journal privat abstract fifteenth annul confer associ privat educ;0
+451;19;y chen;p p chong,r t justis;ventur capit data model us case;data resourc manag;0
+452;19;y chen;p p chong,j m pruett;inform technolog transfer econometr forecast pictori approach;journal inform technolog;0
+453;19;y chen;p p chong,r t justis;pc base decis support expert system labor market analysi;journal microcomput applic;0
+454;19;y chen;p p chong,a m m jamal;pictori approach inform manag econometr forecast model;proceed intern confer inform resourc manag associ;0
+455;19;y chen;p p chong,j chen;induct food servic industri;industri manag data system;0
+456;19;y chen;r t justis,m tuunanen,g castrogiovanni;disclos activ franchisor;proceed th annual intern societi franchis confer san antonio;0
+457;19;y chen;r t justis,p p chong;franchis educ methodolog;journal privat;0
+458;19;y chen;ferdinand f leimkuhler;booth s law word frequenc;jasi journal american societi inform scienc;0
+459;19;y chen;chitu okoli,p pete chong;busi franchis research propos;hicss intern confer system scienc;0
+460;19;y chen;mysore ramaswamy,sumit sarkar;us direct hypergraph veriti rule base expert system;ieee tran knowl data eng;0
+461;19;y chen;morgan y tong,p pete chong;dynam behavior bradford s law;jasi journal american societi inform scienc;0
+462;19;y chen;morgan y tong,p pete chong;simon yule approach bibliometr model;inf process manag;0
+463;19;y chen;edward watson,ying shi;model driven simul world wide web cach polici;winter simul confer;0
+464;19;y chen;y yao,m wohl,e watson;custom decis adopt applic servic provid applic servic provid busi strategi hospit industri research framework;journal inform technolog case applic;0
+465;19;y chen;b zhang;onlin data mine franchis suppli chain manag case studi apparel industri;proceed america confer inform system;0
+466;1;y chen;duren che,karl aberer;effici evalu relax queri biolog databas;cikm intern confer inform knowledg manag;0
+467;1;y chen;dunren che,hannelore eisner,karl aberer;advanc web queri system gpcrdb;ssdbm statist scientif databas manag;0
+468;1;y chen;;integr graph travers top evalu recurs queri;int journal logic program consider subject revis;0
+469;1;y chen;d che,k aberer;design queri interfac gpcrdb;int user interfac data intens system uidi user interfac data intens system edinburgh ieee;0
+470;1;y chen;w benn;integr heterogen oo schema;poster paper th int conf data engin sydnei ieee;0
+471;1;y chen;dunren che,karl aberer;design queri interfac gpcrdb biolog databas;uidi user interfac data intens system;0
+472;1;y chen;w benn;integr heterogen oo schema;ieee transact knowledeg data engin;0
+473;1;y chen;w benn;integr constraint translat problem feder relat databas;proc second foederiert datenbanken dortmund;0
+474;1;y chen;;bottom evalu recurs queri;int journal intellig system john wilei son ltd;0
+475;1;y chen;;comput recurs relat databas;book effect databas text document manag ed s becker;0
+476;1;y chen;d che,k aberer;effici evalu relax queri biolog databas;th int conf inform knowledg manag u s acm;0
+477;1;y chen;g huck;evalu path orient queri document databas;lectur note comput scienc;0
+478;1;y chen;gerald huck;build signatur tree path signatur document databas;effect databas text amp document manag;0
+479;1;y chen;w benn;queri optim multidatabas;proc first int symposium cooper databas system advanc applic coda second intern symposium cooper databas system advanc applic kyoto world scientif press;0
+480;1;y chen;gerald huck;evalu path orient queri document databas;dexa databas expert system applic;0
+481;1;y chen;w benn;queri transal feder relat databas;proc th int dexa databas expert system applic conf databas expert system applic zurich ieee;0
+482;1;y chen ron mcfadyen;f chan;map dtd object orient schema;proc int conf web informt system engin wise web inform system engin;0
+483;1;y chen;;speed count method comput heritag function topolog order;adbi;0
+484;1;y chen;;graph travers linear binari chain program;ieee tran knowl data eng;0
+485;1;y chen;;arc consist revisit;inf process lett;0
+486;1;y chen;;signatur file signatur tree;inf process lett;0
+487;1;y chen;w benn;build dd support queri process feder databas;proc th int knowledg represent databas int conf vldb larg data base;0
+488;1;y chen;;build signatur file hierarchi object orient databas;accepet iast int conf softwar engin applic sea;0
+489;1;y chen;g huck;build signatur tree path signatur document databas;book effect databas text document manag ed s becker;0
+490;1;y chen;;bottom queri evalu method stratifi databas;proc th int conf data engin ieee;0
+491;1;y chen;k aberer;combin pat tree signatur file queri evalu document databas;th int dexa databas expert system applic conf databas expert system applic springer verlag;0
+492;1;y chen;w benn;construct deduct like object orient global schema;brazilian symposium databas system fortaleza ce;0
+493;1;y chen;;count topolog order;journal comput scienc technolog allerton press;0
+494;1;y chen;w benn;defin rule schema transform;th int conf object orient inform system springer verlag;0
+495;1;y chen;w benn;queri treatment feder system;proc th int dexa databas expert system applic conf databas expert system applic toulous springer verlag;0
+496;1;y chen;;graph travers method evalu logic program;int journal sienc comput program;0
+497;1;y chen;;integer heterogen oo schema;int journal inform scienc engin page;0
+498;1;y chen;;graph travers method evalu linear binari chain program;scienc sinica scienc press;0
+499;1;y chen;t hrder;optim top evalu recurs queri;proc th int dexa databas expert system applic conf databas expert system applic springer verlag;0
+500;1;y chen;;arc consist problem;journal comput scienc technolog allerton press;0
+501;1;y chen;;applic fuzzi logic comput base medic diagnosi system;journal technic institut changsha;0
+502;1;y chen;;appli tarjan s algorithm evalu logic program;proc th int conf comput inform winnipeg;0
+503;1;y chen;;process recurs rule knowledg base system algorithm handl recurs rule neg inform perform measur;ph d thesi comput scienc depart univers kaiserslautern;0
+504;1;y chen;t liu;person web space;th intl multimedia network system applic mnsa;0
+505;1;y chen;g huck;path signatur wai speed evalu path orient queri document datbas;st int conf web informt system engin wise web inform system engin;0
+506;1;y chen;;arc consist revisit;int journal inform process letter;0
+507;1;y chen;;graph travers binari chain program;ieee transact knowledeg data engin page;0
+508;1;y chen;t hrder;graph travers linear binari chain program;zri report univers kaiserslautern;0
+509;1;y chen;;graph travers top evalu logic queri;journal comput scienc technolog allerton press;0
+510;1;y chen;;evalu linear binari program travers automaton hierarchi;proc th int deduct databas logic program unit kingdom;0
+511;1;y chen;;oldtnf base evalu method handl recurs queri;scienc sinica scienc press;0
+512;1;y chen;t hrder;elimin redund comput rqa fqi;proc icic second int conf data knowledg engin theori applic hongkong ieee;0
+513;1;y chen;w benn;queri evalu distribut heterogen relat databas;proc th int conf cooper inform system new ieee;0
+514;1;y chen;d che,k aberer;queri relax evalu optim biolog databas;th int joint confer inform scienc atlant citi ieee;0
+515;1;y chen;;recurs infer reason algorithm;journal comput research develop;0
+516;1;y chen;k aberer;layer index structur document databas;th int conf inform knowledg manag u s acm;0
+517;1;y chen;;order conjuct queri;proc int confer young comput scientist beij;0
+518;1;y chen;;medic expert system;proc first nation confer comput technolog us medicin xiamen;0
+519;1;y chen;w benn;rule base strategi translat relat schema oo schema;proc first int symposium cooper databas system advanc applic coda second intern symposium cooper databas system advanc applic kyoto world scientif press;0
+520;1;y chen;karl aberer;combin pat tree signatur file queri evalu document databas;dexa databas expert system applic;0
+521;1;y chen;w benn;rule base technolog schema transformatioin;proc int conf cooper inform system south carolina ieee;0
+522;1;y chen;karl aberer;layer index structur document databas system;cikm intern confer inform knowledg manag;0
+523;1;y chen;;reason method comput base medic diognosi system;journal technic institut changsha;0
+524;1;y chen;wolfgang benn;build dd support queri process feder system;krdb knowledg represent meet databas;0
+525;1;y chen;;research non linear recurs queri;th symposium comput applic modern scienc technolog beij;0
+526;1;y chen;w benn,i gringer;fsm feder system manag;zeitschrift datenbank rundbrief;0
+527;1;y chen;k aberer;sgml datablad document databas system int;symposium databas applic non tradit environ kyoto ieee;0
+528;1;y chen;wolfgang benn;queri evalu distribut heterogen relat databas;coopi;0
+529;1;y chen;;signatur base index method object orient databas;invit paper intl conf advanc infrastructur busi educ scienc medicin internet ieee;0
+530;1;y chen;wolfgang benn;multidatabas queri optim tree balanc node alloc;idea intern databas engin applic symposium;0
+531;1;y chen;;signatur file signatur tree;int journal inform process letter;0
+532;1;y chen;w benn,i gringer;new strategi integr heterogen oo schema;proc first foederiert datenbanken magdeburg;0
+533;1;y chen;wolfgang benn;integr heterogen oo schema;icd intern confer data engin;0
+534;1;y chen;;speed count method comput heritag function topolog order;proc first east european symposium advanc databas inform system st ptersburg acm sigmod intern confer manag data;0
+535;1;y chen;wolfgang benn;queri translat feder relat databas;dexa databas expert system applic;0
+536;1;y chen;;magic set stratifi databas;int journal intellig system john wilei son ltd;0
+537;1;y chen;;magic set revisit;journal comput scienc technolog allerton press;0
+538;1;y chen;;improv han lee s path consist algorithm;proc th intern conf tool artifici intellig san jose comput anim ieee;0
+539;1;y chen;t hrder;improv rqa fqi recurs queri algorithm;proc ismm intern symposium memori manag first int conf inform knowledg manag acm;0
+540;1;y chen;;improv comput complex arc consist algorithm;int journal inform scienc;0
+541;1;y chen;g huck;document storag queri evalu optim;proc th inform resourc manag associ intl confer;0
+542;1;y chen;;new wai speed recurs relat databas;proc th inform resourc manag associ intl confer;0
+543;1;y chen;w benn;new assert integr oo schema;int codat;0
+544;1;y chen;w benn;systemat method evalu queri feder databas system;technic report cs depart comput scienc chemnitz zwickau;0
+545;1;y chen;t hrder;optim graph travers algorithm evalu linear binari chain program;proc cikm intern confer inform knowledg manag th int conf inform knowledg manag acm;0
+546;1;y chen;;systemat method queri evalu distribut heterogen relat databas;ieic transact inform system world scientif press;0
+547;1;y chen;t hrder;optim top evalu algorithm recurs queri;zri report univers kaiserslautern;0
+548;1;y chen;w benn;tree balanc node alla new assert integr oo schema ocat;proc int databas applic symposium montreal ieee;0
+549;1;y chen;;graph decomposit recurs closur;cais short paper proceed;0
+550;1;y chen;;new algorithm transit closur comput recurs relat databas;;0
+551;1;y chen;;bottom queri evalu method stratifi databas;icd;0
+552;1;y chen;;comput recurs relat databas;effect databas text amp document manag;0
+553;1;y chen;theo h auml,rder;optim graph travers algorithm evalu linear binari chain program;cikm intern confer inform knowledg manag;0
+554;1;y chen;theo h auml,rder;optim top evalu recurs queri;dexa databas expert system applic;0
+555;1;y chen;evaluating linear binary programs by traversing automaton hierarchy;ddlp;;0
+556;1;y chen;wolfgang benn;queri treatment feder system;dexa databas expert system applic;0
+557;1;y chen;wolfgang benn;poster rule base technolog schema transform;coopi;0
+558;1;y chen;w benn,i gringer;rule base strategi schema integr heterogen inform environ;technic report csr comput scienc depart technic univers chemnitz zwickau;0
+559;1;y chen;fung yee chan,ron mcfadyen;map dtd object orient schema;wise web inform system engin;0
+560;1;y chen;d che,k aberer;queri system biolog databas;th int conf scientif statist databas manag ieee;0
+561;1;y chen;d che,k aberer;advanc web queri system gpcrdb;th int conf scientif statist databas manag ieee;0
+562;20;y chen;alexander zelikovsky,andrew b kahng,gabriel robins;close smooth uniform gap area fill synthesi;ispd intern symposium physic design;0
+563;20;y chen;alexander zelikovsky,andrew b kahng,gang qu;associ skew clock rout problem;iccad intern confer comput aid design;0
+564;20;y chen;alexander zelikovsky,andrew b kahng,c bandela,ion i mandoiu;auction buyer prefer;inform system busi challeng;0
+565;20;y chen;andrew b kahng,puneet gupta;perform impact limit area fill synthesi;dac design autom confer;0
+566;20;y chen;alexander zelikovsky,andrew b kahng,gabriel robins;practic iter fill synthesi cmp uniform;dac design autom confer;0
+567;20;y chen;alexander zelikovsky,andrew b kahng,gabriel robins,yuhong zheng;area fill gener inher data reduct;date design autom test europ;0
+568;21;y chen;zhongshi he;depend model homogen heterogen distribut system;isad intern symposium autonom decentr system;0
+569;21;y chen;zhongshi he;simul highli depend applic distribut comput environ;annual simul symposium;0
+570;21;y chen;;model softwar oper reliabl via input domain base reliabl growth model;ftc;0
+571;21;y chen;conrad mueller,roger mateer,scott hazelhurst,vashti galpin;develop decentr virtual servic redirector internet applic;ftdc futur trend distribut comput system;0
+572;21;y chen;klaus echtle,winfried g ouml,rke;test fault toler protocol herist fault inject;fault toler comput system;0
+573;21;y chen;klaus echtle,winfried b uuml,cken;effici algorithm system diagnosi processor compar fault;ieee tran parallel distrib syst;0
+574;22;yi shin chen;cyrus shahabi;automat improv accuraci user profil genet algorithm;proceed iast intern confer artifici intellig soft comput;0
+575;22;yi shin chen;cyrus shahabi;yoda adapt soft classif model content base similar queri beyond;acm springer multimedia system journal special issu content base retriev issu page;0
+576;22;y chen;craig a knoblock,cyrus shahabi,dan dipasquo,greg barish,ion muslea,steven minton;theaterloc us inform integr technolog rapidli build virtual applic;icd intern confer data engin;0
+577;22;y chen;andrew philpot,craig a knoblock,cyrus shahabi,greg barish,steven minton;theaterloc virtual applic;aaai nation confer artifici intellig iaai twelfth innov applic artifici intellig;0
+578;22;y chen;andrew philpot,craig a knoblock,cyrus shahabi,greg barish,steven minton;theaterloc case studi build inform integr system;intellig inform integr;0
+579;22;yi shin chen;cyrus shahabi;effici support soft queri imag retriev system;proceed intern confer advanc infrastructur electron busi scienc educ internet;0
+580;22;yi shin chen;cyrus shahabi;web inform person challeng approach;rd databas network inform system;0
+581;22;yi shin chen;cyrus shahabi;adapt recommend system without explicit acquisit user relev feedback;distribut parallel databas journal page kluwer academ publish;0
+582;22;yi shin chen;cyrus shahabi;unifi framework incorpor soft queri imag retriev system;proceed intern confer inform system;0
+583;22;yi shin chen;cyrus shahabi;soft queri imag retriev system;proceed spie intern societi optic engin internet imag ei;0
+584;22;yi shin chen;cyrus shahabi,farnoush banaei kashani,dennis mcleod;yoda accur scalabl web base recommend system;proceed sixth intern confer cooper inform system;0
+585;22;yi shin chen;greg barish,craig a knoblock,steven minton,andrew philpot;theaterloc virtual applic;proceed twelfth innov applic ai artifici intellig confer iaaai;0
+586;22;y chen;greg barish,c knoblock,s minton,a philpot,c shahabi;theaterloc case studi build inform integr applic;ijcai intern joint confer artifici intellig intellig inform integr;0
+587;22;yi shin chen;greg barish,d dipasquo,craig a knoblock,steven minton,i muslea,cyrus shahabi;theaterloc us inform integr technolog build virtual applic;proceed intern confer data engin icd intern confer data engin;0
+588;22;yi shin chen;gully burns,arshad khan,shahram gandeharizadeh,mark oneil;tool approach construct knowledg model neuroscientif literatur;neuroinformat;0
+589;22;yi shin chen;cyrus shahabi;improv user profil commerc genet algorithm;intellig method studi fuzzi soft comput;0
+590;22;yi shin chen;;adapt soft classif model content base similar queri beyond;phd thesi univers southern;0
+591;22;yi shin chen;;natur genet algorithm job shop problem;master thesi nation central univers;0
+592;22;yi shin chen;jiah shing chen,fang cheng hsu;applic genet algorithm job shop problem;journal technolog;0
+593;22;yi shin chen;jiah shing chen,ya wen chen,gun yi wu;neural network applic classifi chines articl network;chines confer;0
+594;23;y chen;c liu,m zhang,m zheng;step step regress effici altern polynomi multipl linear regress stream cube;proc seventh pacif asia confer knowledg discoveri data mine;0
+595;23;y chen;j sheng,j cheng;solv appli class block diagon structur larg linear program;journal system scienc system engin pp;0
+596;23;y chen;j sheng,j cheng;solv appli class block diagon structur larg linear program;proc nation confer oper research manag pp xu jicao editor yuhang press beij;0
+597;23;y chen;benjamin w wah;calculu variat discret space constrain nonlinear dynam optim;ictai intern confer tool artifici intellig;0
+598;23;y chen;b w wah;constrain genet algorithm applic nonlinear constrain optim;proc th ieee int l conf tool artifici intellig;0
+599;23;y chen;b w wah;fast tempor plan us theori extend saddl point mix nonlinear optim;artifici intellig elsevi scienc pub;0
+600;23;y chen;b w wah;hybrid constrain simul anneal genet algorithm nonlinar constrain optim;proc ieee congress evolutionari comput;0
+601;23;y chen;b w wah;hybrid evolutionari anneal algorithm nonlinear discret constrain optim;intern journal comput intellig applic world scientif;0
+602;23;y chen;benjamin w wah,guozhu dong,jianyong wang,jiawei han;multi dimension regress analysi time seri data stream;vldb larg data base;0
+603;23;y chen;benjamin w wah,guozhu dong,jian pei,jianyong wang,jiawei han;onlin analyt process stream data feasibl;dmkd research issu data mine knowledg discoveri;0
+604;23;y chen;b w wah;partit tempor plan problem mix space us theori extend saddl point;proc th ieee intern confer tool artifici intellig;0
+605;23;y chen;b w wah;optim anytim constrain simul anneal constrain global optim;proc principl practic constraint program springer verlag;0
+606;23;y chen;b w wah;calculu variat discret space constrain nonlinear dynam optim;proc th ieee intern confer tool artifici intellig;0
+607;23;y chen;;captur replai vga imag onlin;journal yangzhou univers pp;0
+608;23;y chen;b w wah;discret space lagrangian optim multi object tempor plan;proc th int l distribut constraint reason;0
+609;23;y chen;g dong,j han,j pei,b w wah,j wang;olap stream data feasibl;proc acm sigmod intern confer manag data dmkd research issu data mine knowledg discoveri;0
+610;23;y chen;g dong,j han,b w wah,j wang;multi dimension regress analysi time seri data stream;proc th int l confer larg data base vldb larg data base;0
+611;23;y chen;b w wah,j han;intellig predict plan larg scale market data warehous;research project propos full text;0
+612;23;y chen;l chen;partit comput differ data arrai onto multiprocessor;proc th nation confer parallel process pp shanxi scienc technolog press;0
+613;23;y chen;l chen;partit nest loop structur onto multiprocessor;journal yangzhou univers pp;0
+614;23;y chen;;optim anytim search constrain nonlinear program;master s thesi dept comput scienc uiuc;0
+615;23;y chen;g dong,j han,j pei,b w wah,j wang;stream cube architectur multi dimension analysi data stream;public;0
+616;23;y chen;b w wah;autom plan schedul us calculu variat discret space;proc intern confer autom plan schedul;0
+617;24;y chen;;concurr detect processor control error hybrid signatur monitor;edcc;0
+618;24;y chen;shambhu j upadhyaya;yield analysi reconfigur arrai processor base multipl level redund;ieee tran comput;0
+619;24;y chen;ching hwa cheng,shambhu j upadhyaya;comprehens reconfigur scheme fault toler vlsi wsi arrai processor;ieee tran comput;0
+620;24;y chen;shambhu j upadhyaya;reliabl reconfigur spare alloc issu binari tree architectur base multipl level redund;ieee tran comput;0
+621;24;y chen;shambhu j upadhyaya;model reliabl class fault toler vlsi wsi system base multipl level redund;ieee tran comput;0
+622;24;y chen;ching hwa cheng,yung ci chou;effect reconfigur process fault toler vlsi wsi arrai processor;edcc european depend comput confer;0
+623;25;y chen;ian d walker;consist null space base approach invers kinemat redund robot;icra intern confer robot autom;0
+624;25;y chen;jeffrey c trinkle;form closur polygon object friction frictionless contact model;icra intern confer robot autom;0
+625;25;y chen;ian d walker;analysi squeez twist multi finger grasp;icra intern confer robot autom;0
+626;25;y chen;ian d walker;consist approach instantan kinemat redund non redund parallel manipul;icra intern confer robot autom;0
+627;25;y chen;kevin a o neil;instabl pseudoinvers acceler control redund mechan;icra intern confer robot autom;0
+628;25;y chen;kevin a o neil;us redund reduc acceler near kinemat singular;icra intern confer robot autom;0
+629;26;yifeng chen;yuanda cao;hybrid neural network spatio tempor pattern recognit;journal biomed engin nation journal;0
+630;26;yifeng chen;yuanda cao;neural spatio tempor featur detector;intern confer neural inform process iconip pp publish hous electron ind;0
+631;26;yifeng chen;;cumul comput;th confer mathemat foundat program semant mfp electron note theoret comput scienc;0
+632;26;yifeng chen;;fixpoint theori non monoton parallel;th annual confer european associ comput scienc logic csl comput scienc logic lnc pp springer;0
+633;26;yifeng chen;;formal method global synchroni;dphil thesi univers comput laboratori;0
+634;26;yifeng chen;;gener composit;formal aspect comput;0
+635;26;yifeng chen;;high dimension sofm vector quantiz;proceed intern confer neural inform process iconip publish hous electron ind;0
+636;26;yifeng chen;zhuoqun xu;high dimension sofm vector quantiz weightless neural predictor;proc ieee intern confer neural network icnn ieee press;0
+637;26;yifeng chen;;write healthi condit;intern confer integr formal method ifm;0
+638;26;yifeng chen;yuanda cao;hybrid neural network spatio tempor pattern recognit;proc ieee intern confer neural network icnn pp ieee press;0
+639;26;yifeng chen;;algebra represent non knowledg;;0
+640;26;yifeng chen;j w sanders;logic global synchroni;acm transact program languag system;0
+641;26;yifeng chen;j w sanders;logic global synchroni;th intern confer concurr theori lnc springer;0
+642;26;yifeng chen;zhiming liu;link durat calculu tla;;0
+643;26;yifeng chen;j w sanders;weakest specifunct bsp;parallel process letter;0
+644;26;yifeng chen;zhiming liu;integr tempor logic;integr formal method;0
+645;26;yifeng chen;;predic semant object refer;technic report;0
+646;26;yifeng chen;;parallel composit via medium cmpp;advanc comput theori practic nova scienc publish;0
+647;26;yifeng chen;;specif reactiv bulk synchron program;th euromicro parallel distribut process pdp;0
+648;26;yifeng chen;j w sanders;top design bulk synchron parallel program;parallel process letter;0
+649;26;y chen;;write healthi condit;ifm;0
+650;26;y chen;yanxiang he;ga base solut migrat problem mobil agent distribut inform retriev system;icdc intern confer distribut comput system workshop;0
+651;26;y chen;z liu,j he,x li;relat model formal object orient requir analysi uml;icfem intern confer formal engin method;0
+652;26;y chen;;ixpoint theori non monoton parallel;csl;0
+653;26;y chen;;fixpoint theori non monoton parallel;theor comput sci;0
+654;26;y chen;jeff w sanders;logic global synchroni;concur intern confer concurr theori;0
+655;26;y chen;jeff w sanders;weakest specifunct bsp;parallel process letter;0
+656;27;y chen;abdel g elkahloun,abdelghani bellaachia,david portnoy;cast data mine algorithm gene express data;biokdd data mine bioinformat;0
+657;27;y chen;edward r dougherty,jeffrey m trent,junior barrera,marcel brun,michael l bittner,roberto marcondes cesar junior,seungchan kim;infer cluster applic gene express microarrai;journal comput biologi;0
+658;27;y chen;edward r dougherty,jeffrey m trent,junior barrera,michael l bittner,seungchan kim;strong featur set small sampl;journal comput biologi;0
+659;27;y chen;edward r dougherty,jeffery m trent,michael l bittner,paul s meltzer,vishnu kamat;ratio statist gene express level applic microarrai data analysi;bioinformat;0
+660;27;y chen;gregory t klus,mattias wahde,michael l bittner,zoltan szallasi;assess signific consist mi regul gene cancer associ gene express matric;bioinformat;0
+661;28;y chen;x chen,z l ji;ttd therapeut target databas;nucleic acid research;0
+662;28;y chen;a muhammad,c j zhen,h s puy,l x yao,l y han,p c chung,w k yeo,x chen,y t tay,z l ji;kdbi kinet data bio molecular interact databas;nucleic acid research;0
+663;28;y chen;c z cai,l y han,x chen,z l ji;svm prot web base support vector machin softwar function classif protein primari sequenc;nucleic acid research;0
+664;28;y chen;d g zhi,x chen,z l ji;clibe databas comput ligand bind energi ligand receptor complex;comput amp chemistri;0
+665;28;y chen;j f wang,l z sun,x chen,z l ji;adm ap databas adm associ protein;bioinformat;0
+666;29;y chen;chiou shann fuh,yi ping hung;fast algorithm nearest neighbor search base lower bound tree;iccv intern confer comput vision;0
+667;29;y chen;chiou shann fuh,yi ping hung;winner updat algorithm nearest neighbor search;icpr intern confer pattern recognit;0
+668;29;y chen;chiou shann fuh,sheng wen shih,yi ping hung;camera calibr motor zoom len;icpr intern confer pattern recognit;0
+669;29;y chen;chiou shann fuh,chu song chen,kuan chung hung,yi ping hung;multipass hierarch stereo match gener digit terrain model aerial imag;mach vi appl;0
+670;29;y chen;an ting tsao,chiou shann fuh,yi ping hung;ego motion estim us optic flow field observ multipl camera;cvpr comput vision pattern recognit;0
+671;2;y chen;eleftherios koutsofios,glenn s fowler,ryan s wallach;ciao graphic navig softwar document repositori;icsm intern confer softwar mainten;0
+672;2;y chen;eleftherios koutsofios,jeffrey l korn;chava revers engin track java applet;wcre work confer revers engin;0
+673;2;y chen;eleftherios koutsofios;webciao websit visual track system;webnet;0
+674;2;y chen;eleftherios koutsofios,fred douglis,thomas ball;webguid queri navig chang web repositori;comput network;0
+675;2;y chen;eleftherios koutsofios;websit new websit track visual servic;webnet;0
+676;2;y chen;eleftherios koutsofios,fred douglis,thomas ball;amp t internet differ engin track view chang web;world wide web;0
+677;2;y chen;balachander krishnamurthy,kiem phong vo;object reus metric model metholog;esec european softwar engin confer;0
+678;2;y chen;s mancoridis,b s mitchell,e gansner;bunch cluster tool increment mainten structur softwar system;proceed;0
+679;2;y f chen;s mancoridis,b s mitchell,c rorres,e gansner;us automat cluster produc high level system organ sourc code;proceed;0
+680;2;y chen;brian s mitchell,emden r gansner,spiros mancoridis;bunch cluster tool recoveri mainten softwar system structur;icsm intern confer softwar mainten;0
+681;2;y chen;brian s mitchell,c rorres,emden r gansner,spiros mancoridis;us automat cluster produc high level system organ sourc code;iwpc intern program comprehens;0
+682;2;y chen;charles j petrie;guest editor introduct ubiquit mobil comput;ieee internet comput;0
+683;2;y chen;c v ramamoorthy,michael y nishimoto;c inform abstract system;ieee tran softwar eng;0
+684;2;y chen;herman chung hwa rao,huale huang,ming feng chen;imobil weight mobil servic platform peer peer mobil comput invit paper;witasi internet technolog applic social impact;0
+685;2;y chen;h rao,d chang,m chen;imobil proxi base platform mobil servic;first acm wireless internet wmi;0
+686;2;y chen;h rao,m chen;proxi base web archiv servic;middlewar symposium;0
+687;2;y chen;herman chung hwa rao,ming feng chen;proxi base person web archiv servic;oper system review;0
+688;2;y chen;herman chung hwa rao,josie chang,ming feng chen;proxi base person portal;webnet;0
+689;2;yih farn chen;david g belanger,n fildes,balachander krishnamurthy,paul h rank,k p vo;architectur style servic experi involv signal oper platform provis oper system;t technic journal;0
+690;2;y chen;herman chung hwa rao,josie chang,ming feng chen;iproxi programm proxi server;webnet;0
+691;2;y chen;adam l buchsbaum,anne rogers,eleftherios koutsofios,huale huang,john mocenigo,michael jankowsky,spiros mancoridis;visual analyz softwar infrastructur;ieee softwar;0
+692;2;y chen;david s rosenblum,kiem phong vo;testtub system select regress test;ics intern confer softwar engin;0
+693;2;y chen;a buchsbaum,h huang,e koutsofios,j mocenigo,a rogers,m jankowsky,s mancoridis;visual analyz softwar infrastructur;ieee softwar;0
+694;2;y chen;di fa chang,herman chung hwa rao,ming feng chen;imobil agent base platform mobil servic;www world wide web confer seri poster;0
+695;2;y chen;di fa chang,herman chung hwa rao,ming feng chen;imobil proxi base platform mobil servic;wireless internet;0
+696;2;yih farn chen;emden gansner,eleftherios koutsofios;c++ data model support reachabl analysi dead code detect;ieee transact softwar engin;0
+697;2;yih farn chen;glenn s fowler,eleftherios koutsofios,ryan s wallach;ciao graphic navig softwar document repositori;intern confer softwar mainten page nice;0
+698;2;yih farn chen;;dagger tool gener program graph;usenix advanc comput system associ unix applic develop symposium page toronto;0
+699;2;yih farn chen;huale huang,bin wei,ming feng chen,herman rao;imobil light weight mobil servic platform peer peer mobil comput;internet technolog applic societ impact witasi internet technolog applic social impact;0
+700;2;yih farn chen;huale huang,rittwik jana,trevor jim,matti hiltunen,radhakrishnan muthumanickam,sam john,serban jora,bin wei;imobil ee enterpris mobil servic platform;acm journal wireless network issu;0
+701;2;yih farn chen;eleftherios koutsofios;webciao websit visual track system;proceed webnet toronto;0
+702;2;yih farn chen;balachander krishnamurthy,kiem phong vo;object reus metric model methodolog;fifth european softwar engin confer barcelona;0
+703;2;yih farn chen;glenn fowler,david korn,eleftherios koutsofios,stephen north,david rosenblum,kiem phong vo;intertool connect;practic reusabl unix konzept und anwendungen softwar edit balachand krishnamurthi page john wilei son new;0
+704;2;yih farn chen;huale huang,rittwik jana,sam john,serban jora,amy reibman,bin wei;person multimedia servic us mobil servic platform;wireless commun network confer wcnc;0
+705;2;yih farn chen;;revers engin;practic reusabl unix konzept und anwendungen softwar edit balachand krishnamurthi page john wilei son new;0
+706;2;y chen;y f chen,m nishimoto,c ramamoorthy;c inform abstract system;ieee transact softwar engin page;0
+707;2;yih farn chen;;c program databas applic;summer usenix advanc comput system associ confer;0
+708;2;yih farn chen;kiem phong vo;incl tool analyz includ file;summer usenix advanc comput system associ confer;0
+709;2;y chen;f douglis,h huang,k vo;topblend effici implent htmldiff java;proceed webnet confer san antonio;0
+710;2;y chen;bin wei,huale huang,matti a hiltunen,radhakrishnan muthumanickam,rittwik jana,sam john,serban jora,trevor jim;imobil ee enterpris mobil servic platform;wireless network;0
+711;2;yih farn chen;david rosenblum,kiem phong vo;testtub system select regress test;th intern confer softwar engin page sorrento;0
+712;2;y f chen;p devanbu,e gansner,h muller,j martin;chime customiz hyperlink insert mainten engin softwar engin environ;proceed st intern confer softwar engin lo angel;0
+713;2;yih farn chen;fred douglis,tom ball,eleftherios koutsofios;webguid queri navig chang web repositori;proceed fifth intern www world wide web confer seri confer;0
+714;2;yih farn chen;fred douglis,thomas ball,eleftherios koutsofios;t internet differ engin track view chang web;world wide web journal baltzer scienc publish;0
+715;2;y chen;fred douglis,huale huang,kiem pong vo;topblend effici implement htmldiff java;webnet;0
+716;2;yih farn chen;richard n ferri,raghavan n pratiwadi,lynn m rivera,mohammed shakir,john j snyder,d w thomas,glenn s fowler,balachander krishnamurthy,kiem phong vo;softwar reus metric industri project;fourth intern symposium softwar metric ieee metric;0
+717;2;y chen;emden r gansner,hausi a m uuml,ller,johannes martin,premkumar t devanbu;chime customiz hyperlink insert mainten engin softwar engin environ;ics intern confer softwar engin;0
+718;2;y chen;emden r gansner,jeffrey l korn,spiros mancoridis,timothy s souder;report web base portal site revers engin;wcre work confer revers engin;0
+719;2;y chen;judith e grass;c++ inform abstractor;c confer;0
+720;2;y chen;j korn,e koutsofios;chava revers engin track java applet;proceed sixth work confer revers engin;0
+721;2;y chen;eleftherios koutsofios,emden r gansner;ac++ data model support reachabl analysi dead code detect;ieee tran softwar eng;0
+722;30;y chen;jie lu,jun miao,wen gao;graviti center templat base human face featur detect;icmi advanc multimod interfac;0
+723;30;y chen;charles ling,tingshao zhu,wen gao;learn prosod pattern mandarin speech synthesi;j intel inf syst;0
+724;30;y chen;tingshao zhu,wen gao;learn prosod pattern mandarin speech synthesi;mdm ieee intern confer data manag kdd knowledg discoveri data mine;0
+725;30;y chen;li zuo,wen gao,zhaoqi wang;speech driven mpeg base face anim via neural network;ieee pacif rim confer multimedia;0
+726;30;y chen;changshui yang,gaolin fang,wen gao,zhaoqi wang;csld chines sign languag dialog system;amfg analysi model face gestur;0
+727;31;yuan chen;karsten schwan,david rosen;java mirror build block remot interact;intern parallel distribut process symposium ipdp intern parallel distribut process symposium;0
+728;31;yuan chen;karsten schwan,dong zhou;opportunist channel mobil awar event deliveri;acm usenix advanc comput system associ intern middlewar confer;0
+729;31;yuan chen;jan edler,andrew v goldberg,allan gottlieb,sumeet sobti,peter n yianilos;prototyp implement archiv intermemori;fourth acm confer digit librari digit librari;0
+730;31;y chen;allan gottlieb,andrew v goldberg,jan edler,peter n yianilos,sumeet sobti;prototyp implement archiv intermemori;acm dl digit librari;0
+731;31;y chen;david w rosen,karsten schwan;java mirror build block remot interact;ipdp intern parallel distribut process symposium;0
+732;31;y chen;dong zhou,greg eisenhauer,karsten schwan;activ broker runtim deploy echo jecho distribut event system;activ middlewar servic;0
+733;31;yuan chen;dong zhou,karsten schwan,greg eisenhauer;jecho interact high perform comput java event channel;intern parallel distribut process symposium ipdp intern parallel distribut process symposium;0
+734;31;y chen;dong zhou,greg eisenhauer,karsten schwan;jecho support distribut high perform applic java event channel;ipdp intern parallel distribut process symposium;0
+735;31;y chen;dong zhou,karsten schwan;opportunist channel mobil awar event deliveri;middlewar;0
+736;32;y chen;;locat base servic wireless lan;proceed th ieee intern confer network sydnei nsw year;0
+737;32;yen cheng chen;w t chen;constant time sort reconfigur mesh;ieee transact comput;0
+738;32;y chen;gen huey chen,jang ping sheu,wen tsuen chen;design effici parallel algorithm mech connect comput multipl broadcast;ieee tran parallel distrib syst;0
+739;32;y chen;y c chen,w t chen,g h chen,j p sheu;design effici parallel algorithm mesh connect comput multipl broadcast;ieee transact parallel distribut system;0
+740;32;yen cheng chen;w t chen,gen huey chen;effici median find applic two variabl linear program mesh connect comput multipl broadcast;journal parallel distribut comput;0
+741;32;y chen;gen huey chen,wen tsuen chen;effici medain find applic two variabl linear program mesh connect comput multipl broadcast;j parallel distrib comput;0
+742;32;yen cheng chen;yao jung chan;locat base peer peer comput wireless lan;prepar;0
+743;32;yen cheng chen;yao jung chan,kan ming fan;locat base servic wireless lan;prepar;0
+744;32;yen cheng chen;;enabl uniform push servic wap www;proceed st centuri digit life internet technolog;0
+745;32;yen cheng chen;shun chi chen;unifi push servci wireless lan gpr cellular data network;prepar;0
+746;32;yen cheng chen;po wei huang;wireless lan authent author accounitng associ servic monitor;prepar;0
+747;32;yen cheng chen;gang ming fan;intern symposium commerc nantou taiwan dec;journal network system manag;0
+748;32;yen cheng chen;w t chen;reconfigur mesh algorithm sum binari valu applic;proceed frontier ieee th symposium frontier massiv parallel comput;0
+749;32;y chen;y c chen,w t chen,g h chen,j p sheu;reduc time complex semigroup comput mesh connect comput multipl broadcast;proceed icpp intern confer parallel process th intern confer parallel process st charl;0
+750;32;y chen;gen huey chen,jang ping sheu,wen tsuen chen;reduc time complex semigroup comput mesh connect comput multipl broadcast;icpp intern confer parallel process;0
+751;32;yen cheng chen;ching yung lin;secur web applic xml valid;prepar;0
+752;32;y chen;y c chen,z c yeh,g h chen;us fewer processor reduc time complex semigroup comput;inform process letter;0
+753;32;yen cheng chen;g h chen;us fewer processor reduc time complex semigroup comput;proceed intern comput symposium;0
+754;32;yen cheng chen;w t chen,gen huey chen;two variabl linear program mesh connect comput multipl broadcast;proceed icpp intern confer parallel process th intern confer parallel process st charl;0
+755;32;y chen;gen huey chen,wen tsuen chen;two variabl linear program mesh connect comput multipl broadcast;icpp intern confer parallel process;0
+756;32;y chen;c s lu,p f chen,y c chen,et al;implement pratic network manag system tlview;proceed th icoin intern confer inform network;0
+757;32;yen cheng chen;c s lu,et al;experiment osi network manag system tlm;proceed th intern joint comput commun;0
+758;32;y chen;h c young,s s lin,j s lin,c c lo,t h fang,m c huang,y s wang,c h hu,c w chen,m t chang,s h liao,y c chen,r s lin,s w sun;rinpoch system web base integr hinet network manag system;iscom;0
+759;33;y chen;michel dubois;cach protocol partial block invalid;ipp intern parallel process symposium;0
+760;33;y chen;jin chin wang,kangwoo lee,luiz andr eacute,barroso,michel dubois;delai consist effect miss rate parallel program;supercomput;0
+761;33;y chen;koray ouml,ner,luiz andr eacute,barroso,michel dubois;scalabl problem multiprocessor privat cach;parl parallel architectur languag europ;0
+762;33;y chen;jean luc gaudiot;implement parallel branch bound extend sisal;parallel process letter;0
+763;33;y chen;andrew l wendelborn,denis caromel,isabelle attali,jean luc gaudiot;enhanc function irregular parallel state function semant;intern journal parallel program;0
+764;34;y chen;shih hsu chang,fang hsuan cheng,wen hsing hsu;block cipher sea provabl resist dc lc attack;journal inform scienc engin;0
+765;34;y chen;shih hsu chang,fang hsuan cheng,wen hsing hsu;automat seal identif us point match fake detect;pattern recognit letter;0
+766;34;y chen;bor tow chen,hui yu hwang;color imag analysi us fuzzi set theori;icip intern confer imag process;0
+767;34;y chen;b t chen,y s chen,w h hsu;perform evalu parameter fuzzi processor;fuzzi set system;0
+768;34;y chen;fang hsuan cheng,wen hsing hsu,te wei chen;recov color imag chromat illumin;ieee transact imag process;0
+769;34;y chen;sheng hua l ee,s hih hsu c hang,f ang hsuan cheng,wen hsing hsu;fingerprint classif;th ippr confer comput vision graphic imag process;0
+770;34;y chen;shih hsu c hang,a nd w en hsing hsu;authent kei agreement protocol exchang n kei without us wai hash function;nation comput symposium taipei c c;0
+771;34;y chen;shih hsu c hang,f ang hsuan c heng,a nd w en hsing hsu;sea block cipher algorithm;intern cryptograh techniqu crpotec hongkong;0
+772;34;y chen;shih hsu c hang,c hih jen h uang,fang hsuan cheng,wen hsing hsu;us fingerprint card digit signatur encrypt;nation comput symposium taipei c c;0
+773;34;y chen;yung sheng c hen,h ui yu h uang,a nd w en hsing h su;locat bookback bookrack imag;intern confer pattern recognit;0
+774;34;a nd yung sheng chen;pei chun c hen,w en hsing h su;model perform analysi applic digit imag watermak system;th ippr confer comput vision graphic imag process;0
+775;34;y chen;tung chang hseue,yu chuan shen,po chi chen,wen hsing hsu,yuan te liu;cross media perform evalu color model unequ lumin level dim surround;color research applic;0
+776;34;y chen;jun wei hsieh,shih hao yu,wen fong hu;automat traffic surveil system vehicl track classif;scia scandinavian confer imag analysi;0
+777;34;yung sheng chen;hui yu huang,wen hsing hsu;primari view percept grai imag region segment associ;journal chines institut engin;0
+778;34;yung sheng chen;hui yu huang,wen hsing hsu;segment associ grai imag;accv proceed fourth asian confer comput vision taipei;0
+779;34;y chen;;comput process identif chines seal imag;icdar;0
+780;34;y chen;liang ting lin,shih hsu chang,wen hsing hsu,chih jen huang;robust digit imag watermark method without origin imag intent attack jpeg compress;th ippr confer comput vision graphic imag process;0
+781;34;yung sheng chen;yu chuan shen,wu hsiung yuan,wen hsing hsu;color select consider color harmoni interior design;color research applic;0
+782;34;y chen;y c shen,y s chen,w h hsu;comput simul color blind applic design color blind discrimin spectacl cbd;chines journal medic biolog engin;0
+783;34;y chen;y c shen,y s chen,w h hsu;quantit evalu color harmoni via linguist base imag scale interior design;color research applic;0
+784;34;y chen;hui yu h uang,y ung sheng c hen a nd w en hsing hsu;color imag segment us self organ map algorithm;ippr confer comput vision graphic imag process;0
+785;34;y chen;hui yu h uang,y ung sheng c hen a nd w en hsing h su;self organ map approach segment color imag;rd imac inter multiconfer circuit system commun comput technic comput intellig applic;0
+786;34;y chen;hung tien yen,wen hsing hsu;compress color imag via techniqu surfac fit;cvgip graphic model imag process graphic model imag process;0
+787;34;y chen;;registr seal imag us contour analysi;scia;0
+788;34;y chen;s h chang,g z wu,f h cheng,w h hsu;fast algorithm point pattern match invari translat rotat scale chang;pattern recognit;0
+789;35;y chen;dong liu,thomas li,xiulan yu;locat manag share individu mobil model mobil station wireless network;intern confer wireless network;0
+790;35;y chen;dong liu,thomas li,xiaochen ding,ying li;framework support qo enabl web servic;icw ieee intern confer web servic;0
+791;35;y chen;dong liu,fangyan rao,long zhang,xiulan yu;manag locat stream us move object databas;dexa databas expert system applic workshop;0
+792;35;y chen;dong liu,fangyan rao,xiulan yu;camel move object databas approach intellig locat awar servic;data manag;0
+793;35;y chen;dong liu,fangyan rao,xiaocheng ding,xiaoyan chen;blueloc enabl enterpris locat base servic;data manag;0
+794;36;y chen;j c h ju,y k chen,s y kung;fast algorithm low bit rate video code;ieee transact circuit system video technolog;0
+795;36;y chen;igor kozintsev,matthew j holliman,minerva m yeung,rainer lienhart;improv media servic p p network;ieee internet comput;0
+796;36;y chen;y t lin,y k chen,s y kung;princip compon cluster approach object orient motion segment estim;journal vlsi larg scale integr signal process system;0
+797;36;yk chen;wen hsiao peng;mode adapt fine granular scalabl;icip intern confer imag process;0
+798;36;y chen;wen hsiao peng;implement real time mpeg fg encod;ieee pacif rim confer multimedia;0
+799;36;y chen;p pirsch,h j stolberg,y k chen,s y kung;implement media processor;ieee signal process magazin;0
+800;36;y chen;a vetro,h sun,y k chen,s y kung;true motion vector robust video transmiss;proc spie intern societi optic engin visual commun imag process;0
+801;36;y chen;y k chen;digit signal process mmx technolog;programm digit signal processor architectur program design y h hu ed marcel dekker;0
+802;36;y chen;y k chen,s y kung;multimedia signal processor architectur platform algorithm compil;journal vlsi larg scale integr signal process system;0
+803;36;y chen;y k chen,m holliman,r liu,w macy,m m yeung;real time detect video watermark intel architectur;proc imag video commun process;0
+804;36;y chen;y k chen,m holliman,s macy,m yeung;standard support content protect;iso iec jtc wg code move pictur audio m;0
+805;36;y chen;y k chen,s y kung;systol design methodolog applic full search block match architectur;journal vlsi larg scale integr signal process system;0
+806;36;yen kuang chen;eric debes,matthew holliman,william macy,minerva yeung;comput analysi system implic video watermark applic;public spie intern societi optic engin secur watermark multimedia content confer san jose comput anim;0
+807;36;y chen;eric debes,matthew j holliman,minerva m yeung,rainer lienhart;evalu improv perform multimedia applic simultan multi thread;icpad intern confer parallel distribut system;0
+808;36;y chen;milind girkar,rainer lienhart,sanjiv shah,steven ge,xinmin tian;explor us hyper thread technolog multimedia applic intel reg openmp compil;ipdp intern parallel distribut process symposium;0
+809;36;y chen;m holliman,s macy,y k chen,m yeung;standard test condit methodolog robust video watermark preliminari result;iso iec jtc wg code move pictur audio m;0
+810;37;y chen;maria c yuang,shih t liang;dynam video playout smooth method multimedia applic;multimedia tool applic;0
+811;37;y chen;j g liu,jen chu liu,maria c yuang;dmt distribut multimedia telework system;multimedia tool applic;0
+812;37;y chen;maria c yuang;effici termin pair reliabl algorithm network manag;lcn ieee confer local comput network;0
+813;37;y chen;j g liu,jen chu liu,maria c yuang;dmt distribut multimedia telework system;lcn ieee confer local comput network;0
+814;38;y chen;;construct differ set;design code cryptographi;0
+815;38;y chen;;famili cover extend build set;design code cryptographi;0
+816;38;y chen;qing xiang,surinder k sehgal;expon bound skew hadamard abelian differ set;design code cryptographi;0
+817;38;y chen;k t arasu;differ set;design code cryptographi;0
+818;39;y chen;rajive bagrodia,vikas jha;multidimension studi feasibl parallel switch level circuit simul;parallel distribut simul;0
+819;39;y chen;rajive bagrodia;share memori implement parallel switch level circuit simul;parallel distribut simul;0
+820;39;y chen;bruce kwan,jay martin,mario gerla,prasasth palnati,rajive bagrodia,simon walton;parallel simul high speed wormhol rout network;parallel distribut simul;0
+821;39;y chen;ha yoon song,jay martin,mineo takai,rajive bagrodia,richard a meyer,xiang zeng;parssec parallel simul environ complex system;ieee comput;0
+822;3;yuh shyan chen;tong ying juang,ying ying shen;congest free embed n k span tree arrang graph;journal system architectur;0
+823;3;yuh shyan chen;tong ying juang,ying ying shen;congest free embed n k span tree arrang graph;nation comput symposium parallel distribut system tamkang univ r c;0
+824;3;yuh shyan chen;tong ying juang,en huai tseng;effici broadcast arrang graph us multipl span tree;ieic transact fundament electron commun comput scienc;0
+825;3;yuh shyan chen;en huai tseng,tong ying juang;effici broadcast arrang graph us multipl span tree;th int l conf applic high perform comput engin maui;0
+826;3;yuh shyan chen;;effici multi node broadcast arrang graph us multipl span tree;will journal system architectur;0
+827;3;yuh shyan chen;jang ping sheu;fault toler reconfigur scheme faulti star graph;journal inform scienc engin;0
+828;3;yuh shyan chen;jang ping sheu;fault toler reconfigur scheme faulti star graph;proceed ieee second intern confer algorithm architectur parallel process ica pp;0
+829;3;yuh shyan chen;jung yu chien;fast code assign strategi w cdma rotat ovsf tree code local capabl;ic intern confer supercomput intern comput symposium nation dong hwa univers hualien;0
+830;3;yuh shyan chen;tong ying juang,yu ting yu;spiral multi path qo rout protocol wireless mobil ad hoc network;th intern confer inform network cheju island korea;0
+831;3;yuh shyan chen;chih yung chang,chun bo kuo;gener fault toler sort algorithm product network;journal system architectur paper jsa s sci scalabl coher interfac;0
+832;3;yuh shyan chen;wu chen chen,chao yu chiang;tdma base qo rout time slot reus capabl wireless mobil ad hoc network;intern confer commun;0
+833;3;chih yung chang yuh shyan chen;chun bo kuo;gener fault toler sort algorithm product network;tamsui journal mathemat scienc;0
+834;3;yuh shyan chen;jang ping sheu;toler fault injur hypercub us maxim fault free subcub ring;parallel comput;0
+835;3;yuh shyan chen;jang ping sheu,yu chee tseng;toward optim ring embed faulti star graph;intern confer parallel distribut process techniqu applic pdpta parallel distribut process techniqu applic la vega;0
+836;3;y chen;chao yu chiang,jang ping sheu,tai chien kao;mobil scaffold aid base bird watch learn system;wmte wireless technolog educ;0
+837;3;y chen;chiou jyu chang,tong ying juang,yu chee tseng;congest free dilat embed complet binari tree star graph;network;0
+838;3;yuh shyan chen;po chih huang,chih yung chang;dynam channel assign reassign protocol exploit channel reus opportun wireless ad hoc network;journal inform technolog societi;0
+839;3;y chen;chih yung chang,jang ping sheu;effici implement barrier synchronzi workhol rout hypercub multicomput;j parallel distrib comput;0
+840;3;y chen;ching jang huang,tzung shi chen;som spiral fat tree base demand multicast protocol wireless ad hoc network;icoin intern confer inform network;0
+841;3;y chen;chih yung chang,jang ping sheu;fault toler sort algorithm hypercub multicomput;icpp intern confer parallel process;0
+842;3;y chen;tong ying juang,ying ying shen;multi node broadcast arrang graph us multipl span tree;icpad intern confer parallel distribut system;0
+843;3;y chen;chih yung chang,jang ping sheu;fault toler sort algorithm hypercub multicomput;j parallel distrib comput;0
+844;3;yuh shyan chen;tong ying juang,yu chee tseng,chih chyang tsai;adapt processor alloc strategi partition two dimension buddi system;proceed ieee third intern confer algorithm architectur parallel process ica pp;0
+845;3;yuh shyan chen;chih yung chang,chun bo kuo;gener fault toler sort algorithm product network;nation comput symposium parallel distribut system tamkang univ r c;0
+846;3;yuh shyan chen;chih yung chang,chun bo kuo;gener fault toler sort algorithm product network;th int l conf applic high perform comput engin maui;0
+847;3;yuh shyan chen;tong ying juang;effici recoveri algorithm distribut mobil comput system;proceed ipccc th ieee int l perform comput commun conf;0
+848;3;yuh shyan chen;yuan chun lin;broadcast vod protocol integr wireless mobil network;journal internet technolog;0
+849;3;yuh shyan chen;yuan chun lin;broadcast vod protocol integr wireless mobil network;intern comput symposium comput network internet multimedia nation chung cheng univers;0
+850;3;yuh shyan chen;tong ying juang,en huai tseng;congest free embed multipl span tree arrang graph;intern confer parallel distribut system icpad intern confer parallel distribut system tainan r c;0
+851;3;yuh shyan chen;han gu tsai;hexagon tree tdma base qo multicast wireless mobil ad hoc network;ic intern confer supercomput intern comput symposium nation dong hwa univers hualien;0
+852;3;yuh shyan chen;tzung shi chen,h w tsai;hierarchi base multicast protocol wireless ad hoc network;submit comput network;0
+853;3;yuh shyan chen;tzung shi chen,hua wen tsai;hierarchi base multicast protocol wireless mobil ad hoc network;proceed ieee icon th ieee intern confer network;0
+854;3;yuh shyan chen;jang ping sheu,yu chee tseng;long ring embed scheme faulti star graph;proceed nation scienc council r c part physic scienc engin;0
+855;3;yuh shyan chen;yu chee tseng,tong ying juang,chiou jyu chang;embed complet binari tree dilat two congest free star graph;proceed ieee third intern confer algorithm architectur parallel process ica pp;0
+856;3;yuh shyan chen;michelle tai chien kao,jang ping sheu,chao yu chiang;mobil scaffold aid base bird watch learn system;will journal comput assist learn ssci journal;0
+857;3;yuh shyan chen;michelle tai chien kao,jang ping sheu,chao yu chiang;mobil scaffold aid base bird watch learn system;ieee intern wireless technolog educ;0
+858;3;che yi chen;yu chee tseng;multi node broadcast port d wormhol rout toru us aggreg distribut strategi;ishpc high perform comput;0
+859;3;yuh shyan chen;tong ying juang,yu li chang;effici nt recoveri algorithm mobil comput system;proceed th comput nation chiao tung univers r c;0
+860;3;yuh shyan chen;;multi node broadcast port d wormhol rout toru us aggreg distribut strategi;ieic transact fundament electron commun comput scienc;0
+861;3;yuh shyan chen;tong ying juang,c c tsai;effici submesh alloc strategi mesh network;journal inform manag;0
+862;3;yuh shyan chen;che yi chen;multi node broadcast wormhol rout d toru us aggreg distribut strategi;iee proceed comput digit techniqu;0
+863;3;yuh shyan chen;s y ni,y c tseng,j p sheu;broadcast storm problem mobil ad hoc network;proceed mobicom;0
+864;3;yuh shyan chen;jang ping sheu,chih yung chang;fault toler sort algorithm hypercub multicomput;journal parallel distribut comput;0
+865;3;yuh shyan chen;jang ping sheu,chih yung chang;fault toler sort algorithm hypercub multicomput;proced th intern confer parallel process icpp intern confer parallel process;0
+866;3;y chen;jang ping sheu,yau wen nian;energi effici diagon base direct diffus wireless sensor network;icpad intern confer parallel distribut system;0
+867;3;y chen;jang ping sheu,sze yao ni,yu chee tseng;broadcast storm problem mobil ad hoc network;mobicom comput network;0
+868;3;y chen;jang ping sheu,sze yao ni,yu chee tseng;broadcast storm problem mobil ad hoc network;wireless network;0
+869;3;y chen;jang ping sheu;toler fault faulti hypercub us maxim fault free subcub ring;euro par;0
+870;3;y chen;jang ping sheu;toler fault injur hypercub us maxim fault free subcub ring;parallel comput;0
+871;3;yuh shyan chen;che yi chen,yu chee tseng;multi node broadcast wormhol rout d toru us aggreg distribut strategi;icpp intern confer parallel process workshop group commun iwgc aizu;0
+872;3;yuh shyan chen;che yi chen,yu chee tseng;multi node broadcast wormhol rout d toru us aggreg distribut strategi;proceed ishpc k third intern symposium high perform comput yoyogi tokyo;0
+873;3;che yi chen;yu chee tseng;multi node broadcast wormhol rout d toru us aggreg distribut strategi;icpp intern confer parallel process workshop;0
+874;3;yuh shyan chen;tong ying juang,ying ying shen;multi node broadcast arrang graph us multipl span tree;ieee seventh intern confer parallel distribut system iwat;0
+875;3;yuh shyan chen;tzung shi chen,chih yung chang;mine trip travers pattern internet;submit journal data knowledg engin;0
+876;3;yuh shyan chen;tzung shi chen,chih yung chang;mine trip travers pattern internet;intern confer internet comput;0
+877;3;yuh shyan chen;tong ying juang,yun yun cheng;exploit cell converg voic commun us combin automat repeat request slow frequenc hop stratig;tamsui journal mathemat scienc;0
+878;3;yuh shyan chen;kuan chang lai;mesh multi ey spiral hop protocol wireless ad hoc network;ieic transact commun b;0
+879;3;yuh shyan chen;jang ping sheu;toler fault injur hypercub us maxim fault free subcub ring;proceed intern confer parallel process merg parl parallel architectur languag europ conpar confer algorithm hardwar parallel process vapp euro par stockholm;0
+880;3;yuh shyan chen;kuan chang lai;mesh multi ey spiral hop protocol wireless ad hoc network;ieee ninth intern confer comput commun network la vega;0
+881;3;yuh shyan chen;y c tseng,t y juang,c j chang;congest free dilat embed complet binari tree star graph;network;0
+882;3;yuh shyan chen;kuan chang lai,jang ping sheu;mesh multi ey spiral hop rout protocol wireless ad hoc network;proceed th comput univ tai chung;0
+883;3;y chen;e h tseng,tong ying juang;congest free embed multipl span tree arrang graph;icpad intern confer parallel distribut system;0
+884;3;yuh shyan chen;y c tseng,s y ni,j p sheu;broadcast storm problem mobil ad hoc network;acm wireless network;0
+885;3;yuh shyan chen;yu chee tseng,jang ping sheu,po hsuen kuo;demand link state multi path qo rout wireless mobil ad hoc network;compter commun;0
+886;3;yuh shyan chen;yu chee tseng,jang ping sheu,po hsuen kuo;demand link state multi path qo rout wireless mobil ad hoc network;proceed ew european wireless;0
+887;3;yuh shyan chen;yun wen ko,ting lung lin;energi effici diagon base direct diffus wireless sensor network;regular paper proceed ieee icpad intern confer parallel distribut system ieee intern confer parallel distribut system nation central univers chung li;0
+888;3;yuh shyan chen;keng sheng tai;near optim broadcast algorithm n k star graph;submit csse intern journal comput system scienc engin;0
+889;3;yuh shyan chen;keng sheng tai;near optim broadcast n k star graph;proceed snpd aci first int l conf softwar engin appli network parallel distribut comput reim;0
+890;3;yuh shyan chen;jang ping sheu;reliabl sort algorithm hypercub multicomput;journal parallel algorithm applic;0
+891;3;yuh shyan chen;jang ping sheu;reliabl sort algorithm hypercub multicomput;intern symposium parallel architectur algorithm network ispan kanazawa;0
+892;3;yuh shyan chen;tzung shi chen,ching jang huang;som spiral fat tree base demand multicast protocol wireless ad hoc network;compter commun;0
+893;3;yuh shyan chen;tzung shi chen,ching jang huang;som spiral fat tree base demand multicast protocol wireless ad hoc network;proceed ieee icoin intern confer inform network th intern confer inform network beppu citi;0
+894;3;yuh shyan chen;yu ting yu;spiral multi path qo rout protocol wireless mobil ad hoc network;ieic transact commun;0
+895;40;y chen;kiran s challapali,mahesh balakrishnan;extract code paramet pre code mpeg video;icip intern confer imag process;0
+896;40;y chen;kiran s challapali;fast comput perceptu optim quantiz matric mpeg intra pictur;icip intern confer imag process;0
+897;40;y chen;zhitao lu;cascad mpeg rate control simultan improv accuraci qualiti;icip intern confer imag process;0
+898;40;y chen;h radha,m van der schaar;mpeg fine grain scalabl video code method multimedia stream ip;ieee transact multimedia;0
+899;41;y chen;alexander v veidenbaum;perform evalu memori cach multiprocessor;icpp intern confer parallel process;0
+900;41;y chen;alexander v veidenbaum;comparison analysi softwar directori coher scheme;supercomput;0
+901;41;y chen;alexander v veidenbaum;effect write polici softwar coher scheme;supercomput;0
+902;41;y chen;alexander v veidenbaum;softwar coher scheme assist directori;ic intern confer supercomput;0
+903;42;y chen;james ze wang,jia li;firm fuzzili integr region match content base imag retriev;acm multimedia;0
+904;42;y chen;james ze wang;region base fuzzi featur match approach content base imag retriev;ieee transact pattern analysi machin intellig;0
+905;42;y chen;john e mcinroy;identif decoupl control flexur joint hexapod;icra intern confer robot autom;0
+906;42;y chen;john e mcinroy;estim symmetr posit definit matric robot control;icra intern confer robot autom;0
+907;43;yanyun chen;yingquing xu,baining guo,heung yeung shum;model render realist feather;siggraph special interest group comput graph;0
+908;43;yanyun chen;hanqiu sun,hui lin,enhua wu;model render snowi natur sceneri us multi map techniqu;journal visual comput anim issu;0
+909;43;yanyun chen;stephen lin,hua zhong,ying qing xu,baining guo,heung yeung shum;realist render anim knitwear;ieee transact visual comput graphic;0
+910;43;y chen;baining guo,heung yeung shum,ying qing xu;model render realist feather;acm tran graph;0
+911;43;y chen;baining guo,heung yeung shum,ying qing xu;interact multiresolut hair model edit;acm tran graph;0
+912;43;y chen;baining guo,enhua wu,heung yeung shum,hua zhong,stephen lin,ying qing xu;photorealist render knitwear us lumislic;siggraph special interest group comput graph;0
+913;43;y chen;baining guo,heung yeung shum,hua zhong,stephen lin,ying qing xu;realist render anim knitwear;ieee transact visual comput graphic;0
+914;43;yanyun chen;ying qing xu,steve lin,hua zhong,enhua wu,baining guo,heung yeung shum;photo realist render knitwear us lumislic;siggraph special interest group comput graph;0
+915;44;y chen;y h chen,c t ng,y z wang;gener stl file d measur data user control data reduct;intern journal advanc manufactur technolog london uk springer verlag;0
+916;44;y chen;y h chen,y z wang;genet algorithm optim re triangul context revers engin;comput aid design new elsevi;0
+917;44;y chen;y h chen,c liu;quadric surfac extract us genet algorithm;comput aid design new elsevi;0
+918;44;y chen;y h chen,y n hu;implement robot system sculptur surfac cut part;rough machin intern journal advanc manufactur technolog london uk springer verlag;0
+919;44;y chen;y h liu chen;new fast algorithm engin draw vector;proceed intern confer manufactur autom hong kong;0
+920;44;y chen;y h chen,y z wang,t m leung;investig part direct base dexel model fuzzi decis make;intern journal product research uk franci;0
+921;44;y chen;y h chen;neural network approach parametr design;proceed intern confer manufactur autom hong kong;0
+922;44;y chen;y h chen,c t ng;integr revers engin rapid prototyp;intern journal comput industri engin;0
+923;44;y chen;y h chen,c ng;integr revers engin rapid prototyp;proceed th intern confer comput industri engin korea;0
+924;44;y chen;y h ng chen;integr revers engin rapid prototyp data reduct;comput applic product engin f plonka g oll ed chapman hall;0
+925;44;y chen;y h chen;parametr design learn;proceed fourth intern confer cad cg comput game wuhan p r;0
+926;44;y chen;y h chen,z yang,w s sze;part orient layer base machin recent advanc integr design manufactur mechan engin;london uk kluwer academ;0
+927;44;y chen;y h chen,c y liu;robust segment cmm data base nurb;intern journal advanc manufactur technolog;0
+928;44;y chen;y h liu chen;robust segment d point data nurb fit;chines journal advanc softwar engin allerton press u s;0
+929;44;y chen;y h tse chen;robot system rapid prototyp;proceed ieee intern confer robot autom new;0
+930;44;y chen;y h chen;rule base d geometri system comput aid design;intern confer industri autom manufactur robot;0
+931;44;y chen;y h chen,y n hu;rapid prototyp larg part;journal mechan engin chines;0
+932;44;y chen;y h wang chen;studi flexibl automat inspect system;proceed intern confer manufactur autom hong kong;0
+933;44;y chen;y h chen,y song;develop layer base machin system;comput aid design new elsevi;0
+934;44;y chen;y h chen,w c tse;develop robot machin centr;proceed world congress intellig manufactur process system budapest;0
+935;44;y chen;y h hu chen,w c tse;toolpath cut depth algorithm rough machin;proceed intern confer manufactur autom hong kong;0
+936;44;y chen;y h chen,c t ng;automat stl file gener cmm data;proceed world congress intellig manufactur process system budapest;0
+937;44;y chen;y h chen;autom part line direct determin base fuzzi heurit;journal engin design;0
+938;44;y chen;y n hu,y h chen;implement robot system sculptur surfac cut part;finish machin intern journal advanc manufactur technolog london uk springer verlag;0
+939;44;y chen;c y liu;quadric surfac extract us genet algorithm;comput aid design;0
+940;44;y chen;c y liu;three dimension surfac recognit base genet algorithm;flair ai research societi confer confer;0
+941;44;y chen;y song;develop layer base machin system;comput aid design;0
+942;44;y chen;y z wang;genet algorithm optim re triangul context revers engin;comput aid design;0
+943;44;y chen;z yang,y h chen,w s sze;develop process plan model layer base machin intern confer manufactur autom;profession engin publish;0
+944;44;y chen;z yang,y h chen,w s sze;us ahp fuzzi set defermin build orient layer base machin;intern journal comput integr manufactur uk franci;0
+945;44;y chen;g f yin,y h chen;comput aid design technolog applic;scienc public;0
+946;44;y chen;c zhang,k w chan,y h chen;hybrid method recognis featur interact;intern journal manufactur technolog manag bradford u k mcb univers press;0
+947;44;y chen;y h chen;comput vision gener purpos visual inspect fuzzi logic approach;journal optic laser engin;0
+948;44;y chen;y h chen;comput vision industri inspect linguist fuzzi variabl input;proceed th ieee annual confer industri electron control instrument;0
+949;44;y chen;y h chen;construct effici featur back propag visual inspect;comput applic product engin s c sun ed chapman hall;0
+950;44;y chen;y h ng c t chen;data reduct integr cmm rapid prototyp;th intern confer product research osaka;0
+951;44;y chen;y h chen,c t ng,y z wang;data reduct integr revers engin rapid prototyp;intern journal comput integr manufactur london uk franci ltd;0
+952;44;y chen;y h chen;determin part direct base minimum bound box fuzzi logic;intern journal machin tool manufactur;0
+953;44;y chen;y h chen;fuzzi rate mechan engin design applic bear select;proceed instn mech engr part b journal engin manufactur;0
+954;44;y chen;y h chen;fast scan algorithm ic inspect;proceed rd intern confer autom robot comput vision;0
+955;44;y chen;y h tse chen,y n hu;goug free collis free toolpath gener algorithm robot cut system;proceed intern confer manufactur autom hong kong;0
+956;45;yen wen chen;;traffic model sub network us arima;ieee ifip intern feder inform process;0
+957;45;yen wen chen;;traffic measur correl studi internet servic;intern confer advanc commun technolog korea;0
+958;45;y chen;j c huang,y w chen;studi qo path arrang mpl network;journal inform technolog societi;0
+959;45;y chen;y w,chen,j c wu;heurist approach bandwidth manag video sourc atm network;intern journal network manag;0
+960;45;y chen;jean lien c wu;heurist approach bandwidth manag video sourc atm network;int journal network manag;0
+961;45;y chen;zhong jian yan;effect label manag mobil ip mpl network;aina advanc inform network applic;0
+962;45;y chen;;traffic behavior analysi model sub network;int journal network manag;0
+963;45;yen wen chen;zhong jian yan;effect label manag mobil ip mpl network;ieee aina advanc inform network applic;0
+964;45;yen wen chen;hsiang ru peng,chun seng hsu;implement nativ inform manag system guid learn multimedia system applic;isma;0
+965;45;yen wen chen;zhong jian yan,jian chin huang,i hsuan peng,jun wei zhan;implement pda gp base develop platform applic nativ educ;publish intern confer commun circuit system;0
+966;45;yen wen chen;;experiment studi internet traffic model bandwidth alloc;pacrim;0
+967;45;y chen;y w chen;applic usag paramet control prevent syn flood threat;submit comput secur nsc;0
+968;45;y chen;y w chen,j c wu;slice model perform studi mpeg video sourc atm network;intern journal model simul;0
+969;45;yen wen chen;;studi prevent syn flood us traffic polic;nom;0
+970;45;y chen;y w chen;traffic behavior analysi model sub network;intern journal network manag;0
+971;46;y chen;min you wu,wei shu;runtim parallel increment schedul dag;icpp intern confer parallel process;0
+972;46;y chen;min you wu,wei shu;runtim system dynam dag program;ipdp intern parallel distribut process symposium workshop;0
+973;46;y chen;min you wu,wei shu;hypertool parallel increment dag schedul system;pdpta parallel distribut process techniqu applic;0
+974;47;y chen;betty h c cheng;facilit autom approach architectur base softwar reus;as autom softwar engin;0
+975;47;y chen;betty h c cheng,gerald c gannod;autom approach support softwar reus via revers engin;as autom softwar engin;0
+976;47;y chen;betty h c cheng;formal autom compon reus;ictai intern confer tool artifici intellig;0
+977;48;y chen;cathy h wu,hongzhan huang,winona c barker;iproclass integr databas protein famili function structur inform;nucleic acid research;0
+978;48;y chen;akira tsugita,baris e suzek,bruce c orcutt,c r vinayaka,cathy h wu,hans werner mewes,hongzhan huang,jian zhang,jorge castro alvear,kali c lewis,lai su l yeh,leslie arminski,robert s ledley,winona c barker,zhangzhi hu;protein inform resourc integr public resourc function annot protein;nucleic acid research;0
+979;48;y chen;baris e suzek,c r vinayaka,cathy h wu,hongzhan huang,jian zhang,jorge castro alvear,lai su l yeh,leslie arminski,panagiotis kourtesis,robert s ledley,winona c barker,zhangzhi hu;protein inform resourc;nucleic acid research;0
+980;49;y chen;xiaoqing ding,youshou wu;line handwritten chines charact recognit base cross line featur;icdar intern confer document analysi;0
+981;49;y chen;ming chen,xiaoqing ding,youshou wu;new nonlinear shape normal method line handwritten chines charact recognit;accv asian confer comput vision;0
+982;49;y chen;jinhui liu,xiaofan lin,xiaoqing ding,youshou wu;evalu applic recognit confid ocr;accv asian confer comput vision;0
+983;4;y chen;kent e seamons,mahesh subramaniam,marianne winslett,s kuo,yong cho;exploit local data parallel arrai practic network workstat;iopad parallel distribut system;0
+984;4;y chen;jonghyun lee,marianne winslett,szu wen kuo,yong cho;effici input output scientif simul;iopad parallel distribut system;0
+985;4;y chen;marianne winslett;autom tune parallel system approach portabl perform scientif applic;ieee tran softwar eng;0
+986;4;y chen;ian t foster,jarek nieplocha,marianne winslett;optim collect perform parallel comput multisystem studi;intern confer supercomput;0
+987;4;y chen;jonghyun lee,marianne winslett,szu wen kuo,yong e cho;parallel scientif applic heterogen cluster resourc util approach;intern confer supercomput;0
+988;4;y chen;marianne winslett,szu wen kuo,yong cho;parallel perform fine grain data distribut;hpdc high perform distribut comput symposium;0
+989;4;y chen;marianne winslett,szu wen kuo,yong cho;automat parallel perform optim us genet algorithm;hpdc high perform distribut comput symposium;0
+990;4;y chen;j jozwiak,kent e seamons,marianne winslett,p jones;server direct collect panda;supercomput;0
+991;4;y chen;kent e seamons,mahesh subramaniam,marianne winslett,szu wen kuo,yong cho;applic experi parallel input output panda h expresso black hole simul sp;ppsc siam confer parallel process scientif comput;0
+992;4;y chen;marianne winslett,szu wen kuo,yong cho;automat parallel perform optim panda;spaa acm symposium parallel algorithm architectur;0
+993;4;y chen;kent e seamons,mahesh subramaniam,marianne winslett,szu wen kuo,yong cho;parallel input output heterogen disk;ssdbm statist scientif databas manag;0
+994;4;y chen;marianne winslett,szu wen kuo,yong cho;effici grid hierarchi amr comput parallel disk;ssdbm statist scientif databas manag;0
+995;4;y chen;kent e seamons,mahesh subramaniam,marianne winslett,szu wen kuo,yong cho;persist arrai access us server direct;ssdbm statist scientif databas manag;0
+996;4;y chen;kent e seamons,mahesh subramaniam,marianne winslett,szu wen kuo,yong cho;scalabl messag pass panda;iopad parallel distribut system;0
+997;50;y chen;frank seela;oligonucleotid contain fluoresc deoxyisoinosin solid phase synthesi duplex stabil;nucleic acid research;0
+998;50;y chen;a kasprzyk,a rust,a stabenau,a ureta vidal,c melsopp,d barker,e eyras,e mongin,e schmidt,e stupka,ewan birney,g cameron,g slater,h lehvaslaiho,i vastrik,j gilbert,j smith,j stalker,james a cuff,l clark,l huminiecki,m hammond,m r pocock,michele e clamp,p lijnzaad,r pettett,richard durbin,s potter,s searle,t cox,t down,tim j p hubbard,v curwen,w spooner;ensembl genom databas project;nucleic acid research;0
+999;50;y chen;a kasprzyk,a rust,a stabenau,a ureta vidal,c melsopp,d andrews,d barker,d keefe,e eyras,e mongin,e schmidt,e stupka,ewan birney,g cameron,g slater,h lehvaslaiho,i vastrik,j gilbert,j smith,j stalker,james a cuff,l clark,m clamp,m hammond,p bevan,r pettett,richard durbin,s potter,s searle,t cox,t down,tim j p hubbard,v curwen,v iyer,w spooner;ensembl accommod compar genom;nucleic acid research;0
+1000;51;y chen;chao ju hou,ching chih han;commun middlewar softwar qo control distribut real time environmentsspecif consid follow innov research compon;compsac intern comput softwar applic confer;0
+1001;51;y chen;j hou,h y tyan,b wang,y m chen;qo extens cbt;internet draft;0
+1002;51;y chen;j ogawa,y m chen;respond initi shortcut path protocol risp;internet draft present;0
+1003;51;y chen;n oguchi,y m chen,j ogawa,t tsuruoka,t taniguchi,s nojima;risp address resolut protocol network layer;proceed rd confer local comput network ieee lcn ieee confer local comput network;0
+1004;51;y chen;galen h sasaki;irregular toru network deadlock avoid throughput analysi;infocom confer comput commun;0
+1005;51;y chen;galen h sasaki;rout quasi toru network;network;0
+1006;51;y chen;g h sasaki,y wang,y m chen;assign strategi delai guarante multipl link packet switch system;confer inform scienc system ciss;0
+1007;51;y chen;s a wright,y m chen;rsvp interwork atm ip telephoni servic perspect;interwork;0
+1008;51;y chen;j h yao,y m chen,t verma;mpeg base audio demand experi internet;interwork nara;0
+1009;51;y chen;j h yao,y m chen;experi real time mpeg audio internet;fujitsu scientif technic journal;0
+1010;51;y chen;y m chen;high speed network rout design strategi;ph d dissert univers;0
+1011;51;y chen;y m chen;internet simul test network multimedia;fujitsu scientif technic journal;0
+1012;51;y chen;y m chen,h wang,t taniguchi,g h sasaki;robust internet transmiss subband encod audio;proceed intern symposium internet technolog isit taipei;0
+1013;51;y chen;y m chen,g sasaki;irregular toru network deadlock avoid throughput analysi;proceed ieee infocom san francisco;0
+1014;51;y chen;y m chen,g sasaki;rout design rule irregular toru network;proceed th annual confer inform scienc system ciss john univers;0
+1015;51;y chen;y m chen,g sasaki;rout quasi toru network;network;0
+1016;51;y chen;y m chen,j ogawa,n oguchi,s nojima,t taniguchi,t suzuki;shortcut rout network heterogen rout mechan;ieee networld interop engin confer la vega;0
+1017;51;y chen;t hamada,y m chen,j ogawa,s nojima,t suzuki;qrisp protocol shortcut base qo provis;proceed ieee globecom sydnei;0
+1018;51;y chen;c j hou,c c han,y m chen;commun middlewar qo control high speed network;st annual int l comput softwar applic confer compsac;0
+1019;52;y chen;ferng shi jaung,horng ren tsai,shi jinn horng,tzong wann kao,yu hua lee;parallel comput exact euclidean distanc transform;parallel comput;0
+1020;52;y chen;horng ren tsai,shi jinn horng,tzong wann kao;parallel algorithm medial axi transform binari imag;australian comput journal;0
+1021;52;y chen;shi jinn horng;medial axi transform mesh connect comput hyperbu broadcast;comput;0
+1022;53;y chen;baba c vemuri,z wang;diffus tensor mr imag restor;emmcvpr energi minim method comput vision pattern recognit;0
+1023;53;y chen;baba c vemuri,m rao,t mareci,t mcgraw,z wang;line integr convolut visual fiber tract map dti;miccai medic imag comput comput assist intervent;0
+1024;53;y chen;baba c vemuri,z wang;registr assist imag smooth segment;eccv european confer comput vision;0
+1025;54;y chen;doug ierardi;optim motion plan rod plane subject veloc constraint;symposium comput geometri;0
+1026;54;y chen;doug ierardi;complex oblivi plan orient distinguish polygon part;algorithmica;0
+1027;54;y chen;doug ierardi;time optim trajectori rod plane subject veloc constraint;algorithmica;0
+1028;55;y chen;hongqing cao,lishan kang;evolutionari model ordinari differenti equat dynam system;gecco genet evolutionari comput confer;0
+1029;55;y chen;hongqing cao,jingxian yu,lishan kang;evolutionari model system ordinari differenti equat genet program;genet program evolv machin;0
+1030;55;yongyan chen;hongqing cao,jingxian yu,lishan kang;kinet evolutionari model complex system chemic reaction;comput amp chemistri;0
+1031;56;y chen;jun xie,sanli li,xiaoge wang,zhenqiang jiao,zhihui du;myvia design implement high perform virtual interfac architectur;cluster;0
+1032;56;y chen;qian fang,sanli li,zhenchun huang,zhihui du;th sm secur manag system advanc comput infrastructur;icic intern confer inform commun signal process;0
+1033;56;y chen;qian fang,sanli li,zhihui du;th mpi kernel integr fault toler mpi;pvm parallel virtual machin mpi messag pass interfac standard;0
+1034;57;yijia chen;jrg flum u,martin grohe;bound nondetermin altern parameter complex theori;;0
+1035;57;yijia chen;enshao shen;captur complex partit;;0
+1036;57;yijia chen;;model pgm p automata;;0
+1037;57;yijia chen;enshao shen;downward transfer elementari satisfi partit logic;;0
+1038;57;yijia chen jrg flum;;machin character class w hierarchi;;0
+1039;57;yijia chen jrg flum;;miniatur problem parameter complex theori;;0
+1040;57;y chen;j ouml,rg flum;machin character class w hierarchi;csl comput scienc logic;0
+1041;57;y chen;enshao shen;captur complex partit;csl comput scienc logic;0
+1042;57;y chen;enshao shen;downward transfer elementari satisfi partit logic;math log q;0
+1043;58;y chen;baba c vemuri,li wang;coupl pde model nonlinear diffus imag smooth segment;cvpr comput vision pattern recognit;0
+1044;58;y chen;david wilson,edward a geiser,feng huang,weihong guo;us prior shape point medic imag segment;emmcvpr energi minim method comput vision pattern recognit;0
+1045;58;y chen;david wilson,edward a geiser,feng huang,hemant tagare,kaundinya s gopinath,richard w briggs,sheshadri thiruvenkadam;us prior shape geometr activ contour variat framework;intern journal comput vision;0
+1046;59;y chen;wei tek tsai;synthesi approach develop larg petri net;icpp intern confer parallel process;0
+1047;59;y chen;chungti liang,wei tek tsai;embed linear arrai binari tree cubic ring connect cycl network;icpp intern confer parallel process;0
+1048;59;y chen;daniel y chao,w t tsai;depend analysi petri net base techniqu synthes larg concurr system;ieee tran parallel distrib syst;0
+1049;5;y chen;y p p chen;databas system virtual plant;tech report depart comput scienc electr engin univers queensland;0
+1050;5;y chen;y p p chen,b m colomb;databas technolog l system simul virtual plant applic bioinformat;intern journal knowledg inform system number;0
+1051;5;y chen;y p p chen,b m colomb;databas technolog l system simul virtual plant applic bioinformat;knowledg inform system revis;0
+1052;5;y chen;y p p chen,r m colomb;data model context sensit grammar product;tech report depart comput scienc electr engin univers queensland;0
+1053;5;y chen;y p p chen;data mine bioinformat;special issu intern journal softwar engin knowledg engin;0
+1054;5;y chen;y p p chen,r m colomb;gener process solut databas system l system bioinformat research;proc second intern symposium cooper databas system advanc applic coda second intern symposium cooper databas system advanc applic;0
+1055;5;y chen;y p p chen;gener databas represent l system virtual plant applic;phd thesi school comput scienc electr engin univers queensland;0
+1056;5;y chen;y p p chen;gener databas technolog simul branch structur applic;present th intern confer intellig system molecular biologi ismb poster session brisban;0
+1057;5;y chen;d tjondronegoro,y p p chen;content base video data manag kei segment extract mpeg summaris xqueri retriev;proceed intern knowledg discoveri multimedia complex data kdmcd intern knowledg discoveri multimedia complex data conjunct sixth pacif asia confer knowledg discoveri data mine pakdd pacif asia confer knowledg discoveri data mine taipei;0
+1058;5;y chen;y p p chen;hybrid framework us som fuzzi theori textual classif data mine;model word lectur note artifici intellig j lawri j shanahan ralescu ed springer verlag pp;0
+1059;5;y chen;d tjondronegoro,y p p chen;content base video data manag kei segment extract mpeg summaris xqueri retriev;proceed intern knowledg discoveri multimedia complex data kdmcd intern knowledg discoveri multimedia complex data conjunct sixth pacif asia confer knowledg discoveri data mine pakdd pacif asia confer knowledg discoveri data mine taipei;0
+1060;5;y chen;y p p chen;dbpl visual databas program languag;tech report depart comput scienc electr engin univers queensland;0
+1061;5;y chen;dian tjondronegoro;content base index retriev us mpeg queri video data manag system;world wide web;0
+1062;5;y chen;d tjondronegoro,y p p chen,b pham;index goal segment soccer video semant retriev;data mine multimedia complex data c djeraba s j simoff r zaian ed springer verlag press;0
+1063;5;y chen;d tjondronegoro,y p p chen,b pham;sport video summar us highlight plai break;th intern acm multimedia inform retriev;0
+1064;5;y chen;b tse,c wells,t ravasi,y p p chen;comput predict macrophag specif regulatori network;present th intern confer intellig system molecular biologi ismb poster session brisban;0
+1065;5;y chen;;biomed visual;j vi lang comput;0
+1066;5;y chen;j zhang,b pham,y p p chen;construct fuzzi shape databas;fuzzi logic new millennium dimitrov korotkich ed univers western sydnei;0
+1067;5;y chen;j zhang,b pham,y p p chen;fuzzi genet algorithm creativ shape design;proceed fourth intern symposium tool method competit engin wuhan hubei;0
+1068;5;y chen;j zhang,b pham,p chen;fuzzi genet algorithm base level interv algorithm;proceed th intern ieee confer fuzzi system ieee cs press;0
+1069;5;y chen;y p p chen,r m colomb;queri recurs structur without recurs queri;th australian databas confer adc australasian databas confer;0
+1070;5;y chen;y p p chen;multimedia technolog;proceed th intern multimedia model confer ieee cs press;0
+1071;5;y chen;y p p chen;xml base multimedia queri system;proceed th intern multi media model confer mmm multimedia model link;0
+1072;5;y chen;y p p chen;inform system design cotton virtual plant;tech report depart comput scienc electr engin univers queensland;0
+1073;5;y chen;p chen;practic approach profession develop portfolio;techtrain;0
+1074;5;y chen;y p p chen,j hanan;partial autom databas process simul output l system model plant morphogenesi;biosystem journal biolog inform process scienc issu elsevi scienc;0
+1075;5;y chen;robert m colomb;gener process solut databas system l system bioinformat research;coda second intern symposium cooper databas system advanc applic;0
+1076;5;y chen;robert m colomb;queri recurs structur without recurs queri;australasian databas confer;0
+1077;5;y chen;j zhang,b pham,p chen;fuzzi genet algorithm fuzzi solut;australian journal intellig inform process system;0
+1078;5;y chen;robert m colomb;us partial function depend make practic approxim translat among form proposit expert system;australian joint confer artifici intellig;0
+1079;5;y chen;j zhang,b pham,p chen;fuzzi shape databas creat design;control cybernet press;0
+1080;5;y chen;a garcia,j garcia leyla,ragan l j,chen y p p m a;jpipe pipelin modul jemboss;present th intern confer intellig system molecular biologi ismb poster session brisban;0
+1081;5;y chen;j zhang,b pham,p chen;fuzzi shape databas creativ design technic report;faculti inform technolog queensland univers technolog brisban austalia fit tr;0
+1082;5;y chen;j zhang,b pham,y p p chen;model index fuzzi complex shape;proceed sixth ifip intern feder inform process work confer visual databas system brisban kluwer academ publish;0
+1083;5;y chen;j zhang,b pham,y p p chen;index inform retriev shape databas;fuzzi logic paradigm new millennium studi fuzzi soft comput dimitrov korotkich ed physica verlag;0
+1084;5;y chen;j zhang,b pham,y p p chen;index retriev fuzzi shape;fuzzi logic paradigm new millennium studi fuzzi soft comput dimitrov korotkich ed physica verlag pp;0
+1085;5;y chen;a garcia,c john,m a ragan,y p p chen;sema semant literatur annot;present th intern confer intellig system molecular biologi ismb win australian best poster prize brisban;0
+1086;5;y chen;a garica,m a ragan,y p p chen;inform integr molecular bioscienc review;appli bioinformat;0
+1087;5;y chen;p gunther,p chen;new approach hybrid som implement text classif;proceed th intern ieee confer fuzzi system ieee cs press;0
+1088;5;y chen;f s lee,y p p chen;biowebfind search biolog websit;proceed apac apac confer exhibit advanc comput grid applic eresearch;0
+1089;5;y chen;f lee,y p p chen;biowebfind search biolog websit;present th intern confer intellig system molecular biologi ismb poster session brisban;0
+1090;5;y chen;x li,y p p chen;automat assess busi;proceed intern confer busi;0
+1091;5;y chen;s mann,l eaton,y p p chen;genomemapp;genom scale gene identif annot technic report;0
+1092;5;y chen;j an,y p p chen;effect queri method dna sequenc;present th intern confer intellig system molecular biologi ismb poster session brisban;0
+1093;5;y chen;s mann,l eaton,y p p chen;genemapp;gene function classif intra gene region recognit technic report;0
+1094;5;y chen;y p p chen;biomed visual;visual languag comput;0
+1095;5;y chen;s mann,l eaton,y p p chen;geneprofind;intra gene eukaryot basal promot identif technic report;0
+1096;5;y chen;y chen,y p p chen;bioinfocallboratori toward agent assist web base collabor environ bioinformat;present th intern confer intellig system molecular biologi ismb poster session brisban;0
+1097;5;y chen;y p p chen;bioinformat;proceed second asia pacif bioinformat confer;0
+1098;5;y chen;binh pham,jinglan zhang;fuzzi genet algorithm base level interv algorithm;fuzz ieee;0
+1099;5;y chen;y p p chen;bioinformat asia pacif;special issu asia pacif biotech new publish world scientif;0
+1100;5;y chen;y p p chen,mclachlan g;bioinformat research australia;special issu asia pacif biotech new publish world scientif;0
+1101;5;y chen;y p p chen,r m colomb;decis support bioninformat research;proc fifth intern confer intern societi decis support system isdss;0
+1102;5;y chen;y p p chen;dml bridg databas system l system biolog research;th intern confer scientif statist databas manag ssdbm statist scientif databas manag acm sigmod intern confer manag data vldb larg data base endow ieee press;0
+1103;5;y chen;y p phoebe chen,r m colomb;design visual databas develop system;ieee intern confer intellig process system icip gold coast;0
+1104;5;y chen;binh pham,jinglan zhang;model index fuzzi complex shape;vdb visual databas system;0
+1105;5;y chen;s prompramote,y p p chen,f maire;inform manag microarrai experiment data;th ifac symposium model control biomed system ifac elsevi scienc pp;0
+1106;5;y chen;s prompramote,y p p chen,f maire;integr storag microarrai experiment data;present th intern confer intellig system molecular biologi ismb poster session brisban;0
+1107;5;y chen;;dml bridg databas system l system biolog research;ssdbm;0
+1108;5;y chen;b runqiang,y p p chen,k burrage,j hanan,p room,j belward;deriv l system model measur biolog branch structur us genet algorithm;proceed fifteenth intern confer industri engin applic artifici intellig expert system;0
+1109;5;y chen;l soon,y p p chen,a underwood;case studi virtual export trade commun;proceed ausweb australian world wide web confer link;0
+1110;5;y chen;lisa soon;visual web base australian export trade;vdb visual databas system;0
+1111;5;y chen;l soon,y p p chen;visualis web base australian export trade;proceed sixth ifip intern feder inform process work confer visual databas system vdb brisban kluwer academ publish;0
+1112;5;y chen;l soon,y p p chen,a underwood;explicit knowledg web base export trade;proceed ausweb australian world wide web confer link;0
+1113;5;y chen;;xml base multimedia queri system;mmm;0
+1114;60;y chen;carmem s hara,susan b davidson,yifeng zheng;rrxf redund reduc xml storag relat;vldb larg data base;0
+1115;60;y chen;susan b davidson,yifeng zheng;constraint preserv schema map xml relat;webdb;0
+1116;60;y chen;susan b davidson,yifeng zheng;xkvalid constraint valid xml;cikm intern confer inform knowledg manag;0
+1117;61;y chen;hong jiang zhang,wei ying ma;detect web page structur adapt view small form factor devic;www world wide web confer seri;0
+1118;61;y chen;chun yuan,zheng zhang;evalu edg cach offload dynam content deliveri;www world wide web confer seri;0
+1119;62;y chen;michael j o donnell;test confluenc nontermin rewrit system;ctr condit term rewrit system;0
+1120;62;y chen;michael j o donnell;infinit term infinit rewrit;ctr condit term rewrit system;0
+1121;63;y y chen;t y huang;modifi evolut strategi divers base parent inclus scheme;control applic proceed ieee intern confer;0
+1122;63;y chen;pai yi huang,sinn cheng lin;intellig fuzzi slide mode control system applic precis tabl posit;int j intel syst;0
+1123;63;y y chen;t y huang;, - ,;gener fuzzi logic control us evolutionari strategi;0
+1124;63;y y chen;t y huang;parent popul manipul evolut strategi;applic scienc comput intellig kevin l priddi paul peter j angelin editor proceed spie intern societi optic engin;0
+1125;63;y y chen;t y huang;parent popul size evolutionari strategi;evolutionari comput proceed congress;0
+1126;63;y y chen;p y huang;real code genet algorithm base fuzzi slide mode control design precis posit;ieee world congress comput intellig;0
+1127;63;y y chen;k c ju,w l lin,t s kuo;conform heat us scan d phase arrai ultrasound hyperthermia;proc ann conf bme roc;0
+1128;63;y y chen;k c ju,w l lin,t s kuo;conform heat us scan d phase arrai extern ultrasound hyperthermia;ultrasoun symposium;0
+1129;63;y y chen;k c ju,k s cheng,j y yen,w l lin;heat pattern cylindr ultrasound transduc breast tumor;proceed th annual intern confer ieee engin medicin biologi societi p;0
+1130;63;y y chen;k c ju,j u yen,t s kuo,w l lin;heat pattern scan phase arrai ultrasound transduc extern local hyperthermia;world congress medic physic biomed engin;0
+1131;63;y y chen;k c ju,w l lin,t s kuo;dimension phase arrai mechan motion conform ultrasound hyperthermia;physic medicin biologi;0
+1132;63;y y chen;k c ju,w l lin,t s kuo;scan cylindr ultrasound applic breast hyperthermia;rd asian congress hypertherm oncolog;0
+1133;63;y y chen;k c ju,w l lin;sar temperatur distribut cylindr ultrasound transduc breast tumor;proc ann conf bme roc;0
+1134;63;y y chen;k c ju,w l lin,k s cheng,j y yen;temperatur distribut cylindr ultrasound transduc breast tumor;proc th congr asian fed soc ultrasound med biol taipei;0
+1135;63;y y chen;t c liang,m j shieh,w l lin;cylindr ultrasound transduc breast tumor;proc congr asian soc hypertherm oncolog tokyo;0
+1136;63;y y chen;t c liang,j y yen,w l lin,m j shieh,t c shih,h s kuo;optim power deposit extern ultrasound thermal therapi;proc ann conf bme roc;0
+1137;63;y y chen;t c liang,w l lin,w c fan,j y yen;simul studi intracavitari ultrasound hyperthermia treatment;proc th congr asian fed soc ultrasound med biol taipei;0
+1138;63;y y chen;t c liang,w l lin,w c fan,j y yen;simul studi termperatur thermal dose distribut cylindr ultrasound transduc intracavitari hyperthermia;proc ann conf bme roc;0
+1139;63;y y chen;t c liang,w l lin,w c fan,j y yen;sar temperatur distribut cylindr ultrasound transduc intracavitari hyperthermia;proc th annual int l conf ieee eng med biol soc hong kong;0
+1140;63;y y chen;t c liang,w l lin,j y yen;theoret studi intracavitari ultrasound hyperthermia;proc congr asian soc hypertherm oncolog tokyo;0
+1141;63;y y chen;c t liauh,w l lin,j y yen;interrelationship control paramet tumor bone condit extern ultrasound hyperthermia;biom eng appl basi comm ei;0
+1142;63;y y chen;w l lin,m j shieh,j y yen;ultrasound heat technolog;proc congr asian soc hypertherm oncolog tokyo;0
+1143;63;y y chen;w l lin,k c ju,j y yen,m j shieh;investig power deposit pattern scan ultrasound arrai;biomed engin appl basi comm;0
+1144;63;y y chen;s c lin,p y huang;intellig fuzzi slide mode control system applic precis tabl posit;int journal intellig system;0
+1145;63;y y chen;w l lin,t c liang,j y yen,m j shieh;interrelationship control paramet tumor bone condit extern ultrasound hyperthermia;physic medicin biologi;0
+1146;63;y y chen;w l lin,j y yen,m j shieh,t s kuo;optim configur multipl focus ultrasound transduc extern hyperthermia;medic physic;0
+1147;63;y y chen;w l lin,t c liang,j y yen,h l liu;optim power deposit heat strategi extern ultrasound thermal therapi;medic physic;0
+1148;63;y y chen;w l lin,j y yen,k w jin,m j shieh;relationship acoust apertur size tumor condit extern ultrasound hyperthermia;medic physic;0
+1149;63;y y chen;w l lin,j y yen,k s cheng,m j shieh;specif absorpt rate ratio pattern cylindr ultrasound transduc breast tumor;medic physic;0
+1150;63;y y chen;s c lin;stabl self learn optim fuzzi control system;asian journal control;0
+1151;63;y y chen;w l lin,t c liang,j y yen,m j shieh;studi control paramet tumor bone condit extern ultrasound hyperthermia;proc ann conf bme roc;0
+1152;63;y y chen;w l lin,j y yen;technic consider advanc ultrasound hyperthermia system develop;proc congr asian soc hypertherm oncolog tokyo;0
+1153;63;y y chen;w l lin,w c fan,j y yen,m j shieh;theorect studi cylindr ultrasound transduc intracavitari hyperthermia;intern journal radiat oncolog biologi physic;0
+1154;63;y y chen;w l lin,t c liang,j y yen,m j shieh;thermal dose distribut intracavitari ultrasound thermal therapi;physic medicin biologi cond sci scalabl coher interfac;0
+1155;63;y y chen;w l lin,w c fan,j y yen,m j shieh;theoret studi cylindr ultrasound transduc intracavitari hyperthermia;intern journal radiat oncolog biologi physic sci scalabl coher interfac;0
+1156;63;y y chen;w l lin,j y yen;theoret studi cylindr ultrasound transduc intracavitari hyperthermia;proc th int congr hypertherm oncolog kyongju korea;0
+1157;63;y y chen;w l lin,c t liauh,h c lui,m j shieh;theoret studi temperatur elev muscl bone interfac ultrasound hyperthermia;medic physic;0
+1158;63;y y chen;w l lin,t c liang,j y yen,m j shieh;treatabl domain optim drive frequenc brain tumor ultrasound hyperthermia;intern journal radiat oncolog biologi physic;0
+1159;63;y y chen;w l lin,c t liauh,j y yen,m j shieh;treatabl domain optim frequenc brain tumor ultrasound hyperthermia;intern journal radiat oncolog biologi physic sci scalabl coher interfac;0
+1160;63;y y chen;h l liou,w l lin,j y yen;fuzzi logic control ultrasound hyperthermia refer temperatur base object function;proc congr asian soc hypertherm oncolog tokyo;0
+1161;63;y y chen;h l liou,w l lin,j y yen;analysi thermoprob locat us treatment qualiti control ultrasound hyperthermia;proc ann conf bme roc;0
+1162;63;y y chen;h l liou,w l lin,j y yen;thermoprob locat analysi us object function scan focus ultrasound hyperthermia;proc ann conf bme roc;0
+1163;63;y y chen;h l liu,w l lin,j y yen;conform ultrasound thermal therapi us d phase arrai;proc ann conf bme roc;0
+1164;63;y y chen;h l liu,w l lin,j y yen;fuzzi logic control ultrasound hyperthermia refer temperatur base object function;second congress asian societi hypertherm oncolog;0
+1165;63;y y chen;h l liu,w l lin,j y yen;feasibl high temperatur ultrasound therapi system deep seat tumor;proc ann conf bme roc;0
+1166;63;y y chen;h l liu,j y yen,w l lin;heat strategi larg ultrasoudn thermal therapi us d phase arrai;rd asian congress hypertherm oncolog;0
+1167;63;y y chen;c y liu,j y yen,w l lin;heat system multipl len ultrasound transduc;proc ann conf bme roc;0
+1168;63;y y chen;c y liu,j y yen,w l lin;heat system sector vortex phase arrai ultrasound transduc thermal surgeri;rd asian congress hypertherm oncolog;0
+1169;63;y y chen;h l liu,j y yen,w l lin;relationship control paramet thermal dose distribut extern ultrasound thermal therapi;world congress medic physic biomed engin;0
+1170;63;y y chen;h l liu,w l lin,j y yen;scan ultrasound phase arrai system design thermal therapi;proc ann conf bme roc;0
+1171;63;y y chen;h l liu,w l lin,j y yen;scan ultrasound thermal therapi system design us gradient method genet algorithm;proceed intern feder medic biolog engin;0
+1172;63;y y chen;h l liu,w l lin,j y yen;thermal lesion format determin extern ultrasound thermal therapi;ieee tran ultrason ferroelectr frequenc control;0
+1173;63;y y chen;h l liu,j y yen,w l lin;treatment time reduct larg thermal lesion us multipl d ultrasound phase arrai system physic medicin biologi;impact factor;0
+1174;63;y y chen;k f lo,w l lin,m j shieh;relationship among acoust window bone tumor condit extern ultrasound hyperthermia;proc congr asian soc hypertherm oncolog tokyo;0
+1175;63;y y chen;b y lu,w l lin,r s yang,t s kuo,c y wang;multifrequ drive system ultrasound hyperthermia;ieee engin medicin biologi sci scalabl coher interfac;0
+1176;63;y y chen;b y lu,w l lin,r s yang,t s kuo,c y wang;experiment concurr multi frequenc drive system ultrasound hyperthermia;ieee engin medicin biologi magazin;0
+1177;63;y y chen;b y lu,w l lin,r s yang,c y wang,t s kuo;temperatur distribut bone tumor therapi us scan focus ultrasound system;proc first joint bme emb confer;0
+1178;63;y y chen;c f perng;self learn fuzzi control fuzzi supervisor;ieee world congress comput intellig;0
+1179;63;y y chen;p y huang,j y yen;frequenc domain identif algorithm servo system friction;ieee tran control system technolog number;0
+1180;63;y y chen;y j chen;initi condit termin phase guidanc true proport navig guidanc control;journal control system technolog;0
+1181;63;y y chen;y j chen,i k fong;intellig fire logic puls thrust divert control termin phase guidanc;aiaa journal guidanc control;0
+1182;63;y y chen;w l lin,h l liou,j y yen,m j shieh;self tune fuzzi logic control ultrasound hyperthermia refer temperatur base object function;medic physic;0
+1183;63;y y chen;m j shieh,j y yen,c h chen,w l lin;estim ultrasound transduc tissu paramet artifici neural network;chines j medic biolog engin;0
+1184;63;k c ju y y chen;w l lin,t s kuo;low pass filter effect bio heat transfer equat;proc ann conf bme roc;0
+1185;63;y y chen;p y huang;binari excit base system identif precis ballscrew tabl;ieee intern confer control applic ieee intern symposium comput aid control system design kohala coast island haiwaii;0
+1186;63;y chen;tao yuan huang;divers base select pool scheme evolut strategi;sac select area cryptographi;0
+1187;63;y y chen;p y huang;learn genet algorithm explicit constraint;ifsa anuual confer taipei roc;0
+1188;64;y chen;c l tseng,h t pao,hsin chia fu;self grow probabilist decis base neural network anchor speaker identif;icann int confer artifici neural network;0
+1189;64;y chen;c l tseng,h t pao,hsin chia fu,s s cheng;self grow probabilist decis base neural network applic anchor speaker identif;;0
+1190;65;y chen;guoping wang,shihai dong;learn progress transduct support vector machin;icdm ieee intern confer data mine;0
+1191;65;y chen;guoping wang,shihai dong;learn progress transduct support vector machin;pattern recognit letter;0
+1192;66;y chen;dorothy g dologite,meiqi fang,robert j mockler;chang role inform system chines state own organ;hicss intern confer system scienc;0
+1193;66;y chen;h han,x wang;two tier architectur www environ;inform system www world wide web confer seri environ;0
+1194;67;y chen;robert n smith,sourav bhattacharya;cascad distribut cooper firewal secur data network;ieee tran knowl data eng;0
+1195;67;y chen;daniel m sheehan,david r lowis,dean w goddette,roger perkins,trevor w heritage,weida tong,william j welsh;evalu quantit structur activ relationship method larg scale predict chemic bind estrogen receptor;journal chemic inform comput scienc;0
+1196;68;y chen;le gruenwald;effect deadlin propag schedul nest transact distribut real time databas system;inf syst;0
+1197;68;y chen;jing huang,le gruenwald;effect updat techniqu main memori databas system perform;ieee tran knowl data eng;0
+1198;69;y chen;kuo liang chung;fault toler algorithm fast fourier transform hypercub;inf process lett;0
+1199;69;y chen;kuo liang chung;improv fault toler sort algorithm hypercub;theor comput sci;0
+1200;6;y chen;angelos bilas,cezary dubnicki,kai li,stefanos n damianakis;utlb mechan address translat network interfac;asplo architectur support program languag oper system;0
+1201;6;yuqun chen;matthias a blumrich,richard d alpert,douglas w clark,stefanos n damianakis,cezary dubnicki,edward w felten,liviu iftode,kai li,margaret martonosi,robert a shillner;design choic shrimp system empir studi;appear proceed th annual intern symposium comput architectur isca intern symposium comput architectur page;0
+1202;6;yuqun chen;matthew cary,mariusz jakubowski,ruoming pang,venkatesan ramarathnam;oblivi hash silent verif code execut;appear proceed th intern inform hide noordwijkerhout;0
+1203;6;yuqun chen;james s plank,kai li;clip checkpoint tool messag pass parallel program;appear supercomput san jose;0
+1204;6;yuqun chen;paul england,marcus peinado,bryan willman;high assur comput open hardwar architectur;microsoft research technic report msr tr;0
+1205;6;yuqun chen;stefanos n damianakis,sanjeev kumar,xiang yu,kai li;port user level commun architectur nt experi perform;appear proceed rd usenix window symposium;0
+1206;6;yuqun chen;zhiyan liu,kai li;softwar environ cluster base displai system;first ieee acm intern symposium cluster comput grid ccgrid;0
+1207;6;yuqun chen;czarek dubnicki,stefanos damianakis,angelos bilas,kai li;utlb mechan translat network interfac;appear architectur support program languag oper system asplo architectur support program languag oper system san jose;0
+1208;6;yuqun chen;adam finkelstein,kai li;automat align high resolut multi projector displai us un calibr camera;appear ieee visual;0
+1209;6;yuqun chen;stefanos damianakis,edward felten;reduc wait cost user level commun;appear intern parallel process symposium switzeland;0
+1210;6;y chen;cezary dubnicki,douglas w clark,edward w felten,kai li,liviu iftode,margaret martonosi,matthias a blumrich,richard alpert,robert a shillner,stefanos n damianakis;design choic shrimp system empir studi;isca intern symposium comput architectur;0
+1211;6;yuqun chen;cezary dubnicki,angelos bilas,stefanos damianakis,kai li;api perform vmmc;appear hot interconnect symposium comput anim;0
+1212;6;y chen;edward w felten,stefanos n damianakis;reduc wait cost user level commun;ipp intern parallel process symposium;0
+1213;6;y chen;adam finkelstein,allison klein,ben shedd,douglas w clark,emil praun,georg essl,george tzanetakis,han chen,jaswinder pal singh,jiannan zheng,kai li,perry r cook,rudrajit samanta,stefanos n damianakis,thomas a funkhouser,timothy c housel,zhiyan liu;build us scalabl displai wall system;ieee comput graphic applic;0
+1214;6;y chen;adam finkelstein,grant wallace,han chen,kai li,rudrajit samanta,thomas a funkhouser,zhiyan liu;data distribut strategi high resolut displai;comput amp graphic;0
+1215;6;y chen;adam finkelstein,douglas w clark,kai li,timothy c housel;automat align high resolut multi projector displai us un calibr camera;ieee visual;0
+1216;6;y chen;mariusz h jakubowski,matthew cary,ramarathnam venkatesan,ruoming pang,saurabh sinha;oblivi hash stealthi softwar integr verif primit;inform hide;0
+1217;6;y chen;gerry kingsley,james s plank,kai li,micah beck;memori exclus optim perform checkpoint system;softw pract exper;0
+1218;6;y chen;arvind krishnamurthy,benjamin gum,kai li,randolph y wang,thomas e anderson,xiang yu;trade capac perform disk arrai;osdi oper system design implement;0
+1219;6;yuqun chen;kai li,han chen,douglas w clark,perry cook,stefanos damianakis,georg essl,adam finkelstein,thomas funkhouser,allison klein,zhiyan liu,emil praun,rudrajit samanta,ben shedd,jaswinder pal singh,george tzanetakis,jiannan zheng;build us scalabl displai wall system;comput graphic applic page;0
+1220;6;y chen;k li,a krishnamurthy,t anderson;trade capac perform disk arrai;th usenix advanc comput system associ symposium oper system design implement;0
+1221;6;yuqun chen;james s plank,kai li,micah beck,gerry kingsley;memori exclus optim perform checkpoint system;appear softwar practic experi;0
+1222;70;y chen;david j lilja,resit sendag;us incorrect specul prefetch data concurr multithread processor;ipdp intern parallel distribut process symposium;0
+1223;70;y chen;andrew rau chaplin,frank k h a dehne,todd eavis;parallel rolap data cube construct share noth multiprocessor;ipdp intern parallel distribut process symposium;0
+1224;71;y chen;honesty c young,windsor w hsu;log raid approach fast reliabl low cost disk arrai;euro par;0
+1225;71;y chen;hai jin,ligang he,zongfen han;optim schedul aperiod job cluster;euro par;0
+1226;7;y chen;herman lam,stanley y w su;multipl wavefront algorithm pattern base process object orient databas;pdi confer parallel distribut inform system;0
+1227;7;y chen;stanley y w su;implement evalu parallel queri process algorithm data partit heurist object orient databas;distribut parallel databas;0
+1228;7;y chen;stanley y w su;identif elimin base parallel queri process techniqu object orient databas;j parallel distrib comput;0
+1229;7;y chen;arthur j t chang,chiang lee;object signatur support effici navig object orient databas;dexa databas expert system applic;0
+1230;7;y chen;chiang lee,chih horng ke;perform upgrad larg object base us disk arrai;dexa databas expert system applic;0
+1231;7;y chen;chi sheng shih,chiang lee;graph theoret model optim larg join queri;dasfaa databas system advanc applic;0
+1232;7;y chen;chiang lee,chih horng ke,j b chang;minim resourc consumpt multidatabas queri optim;coopi;0
+1233;7;y chen;chi sheng shih,chiang lee;optim larg join queri us graph base approach;ieee tran knowl data eng;0
+1234;7;y chen;chi sheng shih,chiang lee;graph theoret model optim queri involv method;vldb larg data base j;0
+1235;8;y chen;g bi,y q chen;fast dft algorithm length n q m;ieee tran circuit system;0
+1236;8;y chen;g bi,y q chen;fast dht algorithm composit sequenc length;journal circuit system comput;0
+1237;8;y chen;g bi,y q chen;fast dht algorithm length n q m;ieee tran signal process;0
+1238;8;y chen;g bi,y q chen;fast gener dft dht algorithm;signal process;0
+1239;8;y chen;guoan bi;textur classif us fractal dimens;ijprai intern journal pattern recognit artifici intellig;0
+1240;8;y chen;g bi,y q chen;split radix algorithm d dft;electron letter;0
+1241;8;y chen;y q chen,g bi;d if fractal real time graphic model;comput graphic;0
+1242;8;y chen;y q chen,d w thomas,m s nixon;novel gener shrink algorithm arbitrari classif;neural network;0
+1243;8;y chen;y q chen,r i damper,m s nixon;neural network implement k nearest heighbor classifi;ieee transact circuit system;0
+1244;8;y chen;y q chen,m s nixon,d w thomas;textur classif;intern journal system scienc;0
+1245;8;y chen;y q chen,g bi;textur classif us fractal dimens;intern journal pattern recognit artifici intellig;0
+1246;8;y chen;lihui chen,yuhui yao;associ cluster cluster arbitrari distribut shape;neural process letter;0
+1247;8;y chen;y q chen,m s nixon,d w thomas;textur classif us statist geometr featur;pattern recognit postscript version;0
+1248;8;y chen;hao he;unsupervis textur segment us reson algorithm natur scene;pattern recognit letter;0
+1249;8;y chen;hao he,lihui chen;appli fuzzi aggreg connected fact imag segment;fskd fuzzi system knowledg discoveri;0
+1250;8;y chen;hao he;artifici life imag segment;ijprai intern journal pattern recognit artifici intellig;0
+1251;8;y chen;david w thomas,mark s nixon;textur classif us statist geometr featur;icip intern confer imag process;0
+1252;8;y chen;y h yao,y q chen,l chen;dendrit curv cluster neural network unsupervis data label;neural parallel scientif comput;0
+1253;8;y chen;f zhang,y q chen,g bi;adapt harmon fraction fourier transform;ieee signal process letter;0
+1254;8;y chen;ximin zhang;rai guid global optim method train neural network;neurocomput;0
+1255;8;y chen;haroon a babri,xi min zhang;augment tdnn frequenc scale invari sequenc classif;neurocomput;0
+1256;8;y chen;h a babri,y q chen,t yin;improv backpropag learn limit precis;pattern recognit letter;0
+1257;8;y chen;guoan bi;d if fractal real time graphic model;comput amp graphic;0
+1258;9;y chen;arie e kaufman,qing hong zhu,shigeru muraki;physic base anim volumetr object;comput anim;0
+1259;9;y chen;arie e kaufman,qing hong zhu;real time biomechan base muscl deform us fem;comput graph forum;0
+1260;9;y chen;lili qiu,luan nguyen,randy h katz,weiyu chen;cluster web content effici replic;icnp intern confer network protocol;0
+1261;9;y chen;adam bargteil,david bindel,john kubiatowicz,randy h katz;quantifi network denial servic locat servic case studi;icic intern confer inform commun signal process;0
+1262;9;y chen;john kubiatowicz,randy h katz;dynam replica placement scalabl content deliveri;iptp intern peer peer system;0
+1263;9;y chen;ben y zhao,chris wells,david bindel,dennis geels,hakim weatherspoon,john kubiatowicz,patrick r eaton,ramakrishna gummadi,sean c rhea,steven e czerwinski,westley weimer;oceanstor architectur global scale persist storag;asplo architectur support program languag oper system;0
+1264;9;y chen;john kubiatowicz,randy h katz;scan dynam scalabl effici content distribut network;pervas;0
+1265;9;y chen;anthony d joseph,bhaskaran raman,george porter,ion stoica,jimmy s shih,keith sklower,kevin lai,lakshminarayanan subramanian,matthew caesar,mukund seshadri,per johansson,randy h katz,sharad agarwal,shelley zhuang,sridhar machiraju,takashi suzuki,tal lavian,timothy roscoe,weidong cui,zhuoqing morley mao;sahara model servic composit across multipl provid;pervas;0

@@ -1,0 +1,416 @@
+@relation 'Dataset dblp co-authors mmiller'
+@attribute Text string
+@attribute class-att {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12}
+@data
+'lisa h berg',10
+'nan',10
+'nan',10
+'bernd hamann carol l hunter charles d hansen michael cox roger crawfis',11
+'bernd hamann j fritz barnes william c wynn',11
+'l jay wantz',12
+'l jay wantz',12
+'j ryan x slamin',1
+'m baca j a macdougall x slamin w d wallis',1
+'x slamin',1
+'e t baskoro j siran m sutton',1
+'m baca',1
+'l brankovic p horak g wrightson',1
+'e t baskoro j plesnik s znam',1
+'m baca y lin',1
+'l brankovic j siran',1
+'e t baskoro j plesnik',1
+'nan',1
+'l brankovic',1
+'m sutton',1
+'j ryan x slamin k sugeng m tuga',1
+'l brankovic j cooper',1
+'m sutton j ryan x slamin',1
+'i roberts j simpson',1
+'l brankovic j siran',1
+'m sutton',1
+'e chang c colman w ee',1
+'w d wallis e t baskoro x slamin',1
+'catherine colman elizabeth chang wan ee',1
+'graham wrightson ljiljana brankovic peter norak',1
+'e dahlhaus p manuel',1
+'j a macdougall x slamin w d wallis',1
+'e dahlhaus j ryan',1
+'j a macdougall w wallis',1
+'e dahlhaus f manne j ryan',1
+'b d mckay j siran',1
+'k eds park',1
+'h m nguyen x slamin',1
+'j siran',1
+'c a rodger r simanjuntak',1
+'j ryan x slamin w f smyth',1
+'j gimbert j siran x slamin',1
+'nan',1
+'e t baskoro p manuel j ryan m sutton',1
+'e t baskoro l brankovic j plesnik j ryan j siran',1
+'e baskoro x surahmat s m nababan',1
+'j a macdougall x slamin w d wallis',1
+'e t baskoro',1
+'i roberts j simpson',1
+'e t baskoro j plesnik',1
+'j cooper',1
+'e t baskoro j siran',1
+'j cooper',1
+'e t baskoro',1
+'nan',1
+'e t baskoro',1
+'nan',1
+'e dahlhaus p manuel',1
+'e t baskoro j plesnik s znam',1
+'j ryan w f smyth',1
+'e dahlhaus p manuel',1
+'f bertault',1
+'j ryan w smyth',1
+'elias dahlhaus joseph f ryan peter horak',1
+'j gimbert f ruskey j ryan',1
+'elias dahlhaus jan kratochv iacute l paul d manuel',1
+'s morris j cooper d bomba l brankovic f pacecho',1
+'e dahlhaus j kratochvil p manuel',1
+'anna draganova martin sutton',1
+'p eades h elgindy m houles b lenhart d rappaport s whitesides',1
+'p eades m keil p manuel',1
+'z feng',1
+'z feng y jia',1
+'f bertault',1
+'j boland',1
+'j boland f buckley',1
+'h nagamochi x slamin',1
+'d bomba l brankovic j cooper s morris f pacecho',1
+'david rappaport hossam a elgindy michael e houle sue whitesides william lenhart',1
+'d bomba l brankovic j cooper s morris f pacecho',1
+'alexander rosa ljiljana brankovic peter horak',1
+'d bomba l brankovic j cooper s morris f pacecho',1
+'jennifer seberry',1
+'ljiljana brankovic peter horak',1
+'r simanjuntak',1
+'l brankovic d bomba j cooper s morris f pacecho',1
+'r simanjuntak',1
+'z feng y jia',1
+'l brankovic p lieby',1
+'r simanjuntak f bertault',1
+'z feng y jia',1
+'l brankovic j siran',1
+'jozef siran ljiljana brankovic',1
+'z feng i fris',1
+'m baca y lin m z youssef',1
+'x slamin m baca y lin r simanjuntak',1
+'z feng m zhang',1
+'m baca',1
+'x slamin',1
+'z feng h dai',1
+'m baca',1
+'fran ccedil ois bertault',1
+'m baca y lin',1
+'ivan fris',1
+'m baca x slamin',1
+'p horak l brankovic',1
+'m baca f bertault j a macdougall r simanjuntak x slamin',1
+'c iliopoulos b eds smyth',1
+'m baca x slamin',1
+'m baca',1
+'yingxian jia zhuopeng feng',1
+'m baca e t baskoro',1
+'l brankovic j plesnik j ryan j siran',1
+'l brankovic a furche g wrightson',1
+'l brankovic',1
+'x slamin e t baskoro',1
+'ljiljana brankovic peter horak',1
+'slamin',1
+'l brankovic p horak',1
+'x slamin',1
+'l brankovic j siran',1
+'x slamin',1
+'l brankovic j plesnik j ryan j siran',1
+'x slamin',1
+'l brankovic',1
+'k sugeng m baca',1
+'a v kelarev o sokratova',1
+'l brankovic',1
+'k a sugeng',1
+'jan kratochv iacute l paul d manuel',1
+'l brankovic p horak a rosa',1
+'m sutton j ryan x slamin',1
+'j kratochvil p manuel a proskurowski',1
+'m sutton',1
+'j kratochvil p manuel',1
+'m sutton a draganova',1
+'j kratochvil h n nguyen',1
+'y lin c rodger',1
+'y lin',1
+'y lin',1
+'y lin r simanjuntak x slamin',1
+'y lin x slamin m baca',1
+'m baca j ryan',1
+'m baca y lin r simanjuntak',1
+'m baca s jendrol j ryan',1
+'i fris',1
+'m baca',1
+'c rodger r simanjuntak',1
+'m baca s jendrol j ryan',1
+'b pascoe i roberts',1
+'m baca e t baskoro s jendrol',1
+'gary christensen m i miller y amit u grenander',2
+'g e christensen s c joshi m i miller',2
+'gary christensen michael i miller michael w vannier ulf grenander',2
+'gary e christensen michael vannier ulf grenander',2
+'michael i miller',2
+'g e christensen s c joshi m i miller',2
+'m i miller t j schaewe c s bosch j j h ackerman',2
+'gary christensen m i miller j l marsh m w vannier',2
+'michael i miller gary e christensen yali amit ulf grenander',2
+'gary christensen rd rabbitt sc joshi u grenander t coogan d van essen',2
+'m i miller d l snyder s m moore',2
+'m cooper ulf grenander anuj srivastava',2
+'m i miller d l snyder',2
+'m cooper a srivastava m i miller',2
+'m i miller d r fuhrmann',2
+'matthew cooper',2
+'m i miller k b larson j e saffitz d l snyder l j thomas b roysam',2
+'m i miller j wang',2
+'m i miller a trouve l younes',2
+'m i miller',2
+'m cooper m i miller',2
+'m cooper m i miller',2
+'m cooper aaron lanterman sarang joshi',2
+'john g csernanskuy lei wang ph d jeffrey swank chin chin ting j philip miller michael i miller john c morris',2
+'m i miller m b sachs',2
+'john g csernansky mathew k schindler n reagan splinter lei wang mohktar gado lynn d selemon devna rastogi cruz joel a posener paul a thompson michael i miller',2
+'m i miller m b sachs',2
+'john g csernansky john w haller ayanashu banerjee lei wang sarang c joshi gary e christensen mokhtar gado michael w vannier michael i miller',2
+'m i miller',2
+'john g csernansky john w haller ayanashu banerjee lei wang sarang c joshi gary e christensen mokhtar gado michael w vannier michael i miller',2
+'m i miller p e barta m b sachs',2
+'john g csernansky lei wang sarang c joshi mokhtar gado john g morris michael i miller',2
+'y amit m i miller',2
+'ayananshu banerjee gary christensen sarang joshi navin khaneja u grenander larissa matejic',2
+'john g csernansky lei wang sarang c joshi mokhtar gado john g morris michael i miller',2
+'y amit m i miller',2
+'m i miller k e mark',2
+'j g csernansky l wang d rastogi cruz j posener n brickel g heydebrand j philip miller m i miller',2
+'m bakircioglu u grenander n khaneja m i miller',2
+'michael i miller matthew cooper joseph kostakis',2
+'muge bakircioglu sarang joshi michael i miller',2
+'m i miller d l snyder',2
+'m bakircioglu s joshi m i miller',2
+'m i miller d l snyder',2
+'a banerjee gary christensen john haller sarang joshi marcus raichle',2
+'michael i miller ulf grenander joseph a sullivan donald l snyder',2
+'ayananshu banerjee gary e christensen john g csernansky john w haller lei wang sarang c joshi',2
+'a r barker c e priebe m i miller m hosakari j t ratnanather l wang m gado j c morris j c csernansky',2
+'r c barrett a w mccarthy m i miller r e morley',2
+'j g csernansky l wang j swank j p miller m gado d mckeel m i miller j c morris',2
+'j g csernansky l wang j swank j p miller m gado d mckeel m i miller j c morris',2
+'john g csernansky lei wang daniel kido mokhtar gado john g morris michael i miller',2
+'john c csernansky sarang joshi lei wang mokhtar gado j philip miller ulf grenander michael i miller',2
+'m i miller d l snyder m j turmon',2
+'john g csernansky lei wang sarang joshi j philip miller mokhtar gado daniel kido daniel mckeel john c morris michael i miller',2
+'pierre moulin michael i miller',2
+'john g csernansky lei wang sarang joshi j philip miller mokhtar gado daniel kido daniel mckeel john c morris michael i miller',2
+'j o sullivan steven p jacobs michael i miller donald l snyder',2
+'p dupuis u grenander m i miller',2
+'joseph o sullivan michael d devore vikas kedia',2
+'van essen d c lewis j w drury h a hadjikhani n tootell r b h bakircioglu m miller m i',2
+'joel a posener lei wang joseph l price mokhtar gado michael a province michael i miller casey m babb john g csernansky',2
+'m foltz a srivastava m i miller u grenander',2
+'c preza m i miller l j thomas j g mcnally',2
+'d r fuhrmann m i miller',2
+'c e priebe m i miller j t ratnanather',2
+'r rabbitt j wiess g e christensen m i miller',2
+'j t ratnanather c jing m i miller',2
+'j t ratnanather p e barta n a honeycutt n g lee h m morris a c dziorny m k hurdal g d pearlson m i miller',2
+'d r fuhrmann m i miller',2
+'joan glauns marc vaillant michael i miller',2
+'ulf grenander michael i miller',2
+'u grenander m i miller',2
+'j t ratnanather k n botteron t nishino a b massie r m lal s g patel s peddi r d todd m i miller',2
+'ulf grenander m i miller g e christensen',2
+'b roysam m i miller',2
+'u grenander m i miller a srivastava',2
+'b roysam m i miller',2
+'ulf grenander michael i miller',2
+'t j schaewe m i miller',2
+'ulf grenander a srivastava',2
+'r m schmich m i miller',2
+'j haller g e christensen m i miller m gado d w mckeel j g csernansky m w vannier',2
+'r m schmich m i miller',2
+'r m schmich m i miller',2
+'j haller g e christensen s c joshi m gado m i miller m w vannier',2
+'robert m schmich michael i miller',2
+'eli shusterman michael i miller bixio rimoldi',2
+'kurt r smith',2
+'j w haller a banerjee g e christensen a z snyder m i miller m e raichle',2
+'j haller g e christensen s c joshi j w newcomer m i miller j g csernansky m w vannier',2
+'j haller g e christensen s c joshi m i miller m gado j csernansky m w vannier',2
+'robert e hogan kevin e mark lei wang sarang joshi michael i miller richard d bucholz',2
+'d l snyder m i miller t j schulz',2
+'r e hogan k e mark l wang s joshi m i miller r d bucholz',2
+'donald snyder d g politte m i miller',2
+'s jacobs joseph a o sullivan m faisal a srivastava d l snyder m i miller',2
+'d l snyder m i miller l j thomas d g politte',2
+'avinash jain kannan ramchandran pierre moulin',2
+'d l snyder m i miller',2
+'a jain p moulin m i miller k ramchandran',2
+'d l snyder m i miller',2
+'d l snyder m i miller',2
+'avinash jain p moulin m i miller k ramchandran',2
+'donald snyder j a o sullivan m i miller',2
+'d c van essen h drury s joshi m i miller',2
+'d l snyder m i miller',2
+'a srivastava m i miller u grenander',2
+'anuj srivastava ulf grenander',2
+'s joshi m i miller g e christensen a banerjee t coogan u grenander',2
+'s joshi m i miller',2
+'s joshi m i miller',2
+'s joshi j wang m i miller d c van essen u grenander',2
+'a srivastava u grenander g r jensen m i miller',2
+'s joshi michael i miller ulf grenander',2
+'a srivastava m i miller u grenander',2
+'n karamanos m i miller',2
+'a srivastava m i miller u grenander',2
+'n khaneja ulf grenander',2
+'a srivastava m i miller u grenander',2
+'a srivastava m cooper u grenander',2
+'n khaneja m i miller u grenander',2
+'anuj srivastava aaron d lanterman ulf grenander marc loizeaux michael i miller',2
+'j kostakis matthew cooper thomas j green michael i miller joseph a o sullivan jeffrey h shapiro donald l snyder',2
+'a srivastava m i miller u grenander',2
+'joseph kostakis matthew cooper thomas j green michael i miller joseph a o sullivan donald l snyder',2
+'a srivastava m i miller ulf grenander',2
+'m j turmon m i miller',2
+'m j turmon m i miller',2
+'m f beg g bhanot m i miller j t ratnanather r walkup l younes',2
+'m faisal beg michael i miller alain trouve laurent younes',2
+'m faisal beg alain trouve laurent younes',2
+'m faisal beg dmitry bitouk michael i miller laurent younes',2
+'m f beg a majethia m browne t h kaiser m martone k f wong a b massie j homer j t ratnanather m i miller',2
+'a lanterman m i miller d l snyder',2
+'l e bergeron a j goldberg s y kwon m i miller',2
+'m loizeaux a srivastava m i miller',2
+'dmitri bitouk michael i miller laurent younes',2
+'k e mark m i miller',2
+'dmitri bitouk ulf grenander michael i miller paritosh tyagi',2
+'k e mark m i miller u grenander',2
+'dmitri bitouk michael i miller laurent younes',2
+'k mark michael i miller ulf grenander',2
+'levy bucholz abed marzouk',2
+'m i miller a b massie j t ratnanather k n botteron j g csernansky',2
+'a srivastava u grenander',2
+'m i miller c s butler',2
+'m i miller l younes',2
+'m i miller m hosakere a r barker c e priebe n lee j t ratnanather l wang m gado j c morris j g csernansky',2
+'aaron d lanterman ulf grenander',2
+'aaron lanterman matthew l cooper michael i miller',2
+'a d lanterman m i miller d l snyder',2
+'a d lanterman m i miller d l snyder w j miceli',2
+'m w vannier m i miller u grenander',2
+'a d lanterman j a o sullivan m i miller',2
+'l wang j s swank i e glick m gado m i miller j c morris j g csernansky',2
+'a lanterman m i miller d l snyder',2
+'lei wang michael i miller',2
+'lei wang jing cui michael i miller',2
+'a d lanterman d l snyder m i miller',2
+'lei wang michael i miller',2
+'a d lanterman m i miller d l snyder',2
+'l wang j s swank m i miller j c morris j g csernansky',2
+'a lanterman m i miller d l snyder',2
+'j wang m i miller a t ogielski',2
+'a lanterman m i miller d l snyder',2
+'j wang m i miller a t ogielski',2
+'lei wang sarang c joshi michael i miller john g csernansky',2
+'lei wang sarang c joshi michael i miller john g csernansky',2
+'levy bucholz schaewe marzouk kurt smith m i miller abed henderson',2
+'c s butler m i miller',2
+'c s butler m i miller t r miller j w wallis',2
+'c ceritoglu d bitouk m i miller h a schmitt',2
+'s c chen t j schaewe r s teichman m i miller s n nadel a s green',2
+'m i miller',2
+'gary christensen rd rabbitt',2
+'m i miller s c joshi g e christensen',2
+'gary christensen m i miller m w vannier',2
+'m i miller s c joshi d r maffitt j g mcnally u grenander',2
+'g christensen r d rabbitt m i miller',2
+'d r fuhrmann j a o sullivan d l snyder',2
+'g e christensen j f williamson k s c chao m i miller f b so m w vannier',2
+'m i miller d r fuhrmann',2
+'g christensen richard d rabbitt michael i miller',2
+'m i miller d l snyder t r miller',2
+'m i miller d r fuhrmann',2
+'m i miller a s greene',2
+'m i miller s c chen d a keufler d a d avignon',2
+'m i miller k b larson j r saffitz d l snyder l j thomas',2
+'r l winslow p helm w baumgartner j t ratnanather s peddi e mcveigh m i miller',2
+'laurent younes',2
+'song chun zhu michael i miller',2
+'song chun zhu aaron lanterman michael i miller',2
+'ted kaehler hadon nash',3
+'kenneth m kahn eric dean tribble mark s miller daniel g bobrow',3
+'ken kahn e dean tribble danny bobrow',3
+'ken kahn',3
+'k eric drexler',3
+'mark s miller chip morningstar bill frantz',3
+'ka ping yee jonathan shapiro',3
+'mark s miller daniel g bobrow eric dean tribble jacob levy',3
+'mark s miller',3
+'k eric drexler',3
+'curtis abbott daniel g bobrow ehud y shapiro eric dean tribble kenneth m kahn',3
+'daniel g bobrow eric dean tribble kenneth m kahn',3
+'daniel g bobrow david s fogelsong',3
+'daniel g bobrow eric dean tribble kenneth m kahn',3
+'daniel g bobrow eric dean tribble jacob levy',3
+'k eric drexler',3
+'daniel fogelsong danny bobrow',3
+'bill frantz chip morningstar',3
+'susan hirsh ken kahn',3
+'mark s miller david krieger e dean tribble',3
+'mark s miller david krieger',3
+'mark s miller jonathan shapiro',3
+'mark s miller david krieger e dean tribble norm hardy',3
+'mark s miller david krieger e dean tribble',3
+'mark s miller marc stiegler',3
+'eric dean tribble mark s miller kenneth m kahn daniel g bobrow curtis abbott ehud y shapiro',3
+'e dean tribble mark s miller norm hardy david krieger',3
+'ravi pandya marc stiegler',3
+'bill tulloh mark s miller',3
+'ka ping yee mark s miller',3
+'j yin m s miller t r ioerger j yen r a volz',4
+'jianwen yin john yen richard a volz thomas r ioerger',4
+'cong chen john yen kaivan kamali richard a volz rui wang shuang sun xiaocong fan',4
+'j m d hill m s miller j yen u w pooch',4
+'m s miller r a volz',4
+'m s miller j yin t r ioerger j yen r a volz',4
+'d xu m s miller r a volz t r ioerger',4
+'dianxiang xu jianwen yin john yen richard a volz thomas r ioerger',4
+'dianxiang xu jesse plymale richard a volz',4
+'j yen j yin t r ioerger m s miller d xu r a volz',4
+'jianwen yin john yen richard a volz thomas r ioerger',4
+'ingemar j cox jeffrey a bloom',5
+'gwena euml l j do euml rr ingemar j cox',5
+'ingemar j cox peter n yianilos stephen m omohundro',5
+'ingemar j cox peter n yianilos thomas p minka',5
+'jeffrey a bloom',5
+'dennis j underwood robert p sheridan simon k kearsley',6
+'dennis j underwood robert p sheridan simon k kearsley',6
+'bradley p feuston j christopher culberson robert b nachbar simon k kearsley',6
+'robert p sheridan',6
+'dennis j underwood robert p sheridan simon k kearsley',6
+'d arnold s agrawal s blackford j dongarra s vadhiyar k sagi z shi',7
+'h casanova j dongarra c r johnson',7
+'h casanova t bartol f berman a birnbaum j dongarra m ellisman m faerman g obertelli s pomerantz t sejnowski j stiles r wolski',7
+'charles d hansen christopher r johnson steven g parker',7
+'charles d hansen christopher r johnson steven g parker',7
+'charles d hansen christopher r johnson',7
+'charles d hansen christopher r johnson',7
+'c moulding j dongarra c johnson',7
+'c hansen c r johnson',7
+'c d hansen s g parker c r johnson',7
+'s g parker c d hansen c r johnson',7
+'philip k chan salvatore j stolfo wei fan wenke lee',8
+'erez zadok salvatore j stolfo wei fan wenke lee',8
+'salvatore j stolfo wei fan wenke lee',8
+'nan',9
+'donald perlis',9
+'donald perlis madhura nirkhe sarit kraus',9

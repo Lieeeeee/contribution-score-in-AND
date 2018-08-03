@@ -1,0 +1,416 @@
+@relation 'Dataset dblp publish-venue mmiller'
+@attribute Text string
+@attribute class-att {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12}
+@data
+'sigucc special interest group univers comput servic',10
+'sigucc special interest group univers comput servic',10
+'sigucc special interest group univers comput servic',10
+'ieee visual',11
+'scientif visual',11
+'comput network',12
+'comput network',12
+'bulletin ica',1
+'discussion mathematica graph theori',1
+'proceed cocoon comput combinator sydnei lectur note comput scienc d z du p ead estivil castro lin ed',1
+'journal graph theori',1
+'australasian journal combinator',1
+'proceed ninth intern confer scientif statist databas manag',1
+'j graph theori',1
+'jcmcc',1
+'proceed awoca hunter vallei',1
+'ar combinatoria',1
+'itb bandung jurnal mihmi',1
+'proceed awoca perth',1
+'discret mathemat',1
+'proceed fourteenth australasian combinatori algorithm seoul korea',1
+'hic confer adelaid',1
+'proceed awoca',1
+'bulletin ica',1
+'seventh australasian databas confer proceed australian comput scienc commun',1
+'proceed awoca hunter vallei',1
+'intern confer softwar engin research practic serp la vega',1
+'australasian journal combinator',1
+'softwar engin research practic',1
+'ssdbm statist scientif databas manag',1
+'discret mathemat',1
+'utilita math',1
+'kolloquium uber kombinatorik braunschweig',1
+'utilita math',1
+'proceed awoca hunter vallei',1
+'j combinatori theori',1
+'proceed fourteenth australasian combinatori algorithm seoul korea',1
+'proceed awoca frazer island',1
+'discret mathemat',1
+'australasian j combin',1
+'jcmcc',1
+'discret mathemat',1
+'nan',1
+'proceed awoca darwin',1
+'jcmcc',1
+'graph combinator',1
+'proceed awoca perth',1
+'proceed th australian comput scienc confer',1
+'bulletin ica',1
+'graph combinator',1
+'re print imia yearbook medic informat',1
+'acta mathematica universitati comeniana lxvi',1
+'intern journal bio medic comput',1
+'proceed th awoca ubud',1
+'hiansw third annual confer hunter vallei',1
+'bulletin ica',1
+'tatra mountain mathemat public',1
+'inform process letter',1
+'australasian journal combinator',1
+'proceed fourteenth australasian combinatori algorithm seoul korea',1
+'ar combinatoria',1
+'proceed softvi sydnei',1
+'bulletin ica',1
+'discret appli mathemat',1
+'proceed awoca frazer island',1
+'discret appli mathemat',1
+'intern journal bio medic comput',1
+'proceed twent graph combinatori optim ensched',1
+'ar comb',1
+'proceed fifth confer comput geometri',1
+'nordic journal comput',1
+'proceed th new zealand annual comput scienc confer',1
+'world scientif',1
+'lectur note comput scienc ed kratochvil',1
+'proceed awoca bandung indonesia',1
+'discret mathemat',1
+'discret mathemat',1
+'inaugur confer asia pacif associ medic informat',1
+'cccg canadian confer comput geometri',1
+'inaugur confer asia pacif associ medic informat',1
+'ar comb',1
+'inaugur confer asia pacif associ medic informat',1
+'australian comput journal',1
+'discret appli mathemat',1
+'proceed awoca frazer island',1
+'hic confer adelaid',1
+'jurnal mihmi',1
+'proceed dbi sydnei',1
+'electron journal combinator r',1
+'proceed awoca hunter vallei',1
+'proceed far east confer futur databas kyoto',1
+'congr numer',1
+'australasian databas confer',1
+'proceed intern confer young comput scientist beij',1
+'discret mathemat',1
+'bulletin ica',1
+'third intern confer young comput scientist beij',1
+'proceed awoca hunter vallei',1
+'itb bandung jurnal mihmi',1
+'proceed baltic intern confer databas method riga',1
+'jcmcc',1
+'graph draw',1
+'jcmcc',1
+'comput j',1
+'int j comput mathemat issu',1
+'discret appli mathemat',1
+'discussion mathematica graph theori',1
+'th australasian combinatori algorithm special issu int j comput mathemat issu',1
+'proceed awoca hunter vallei',1
+'jcmcc',1
+'futur databas',1
+'proceed awoca bandung indonesia',1
+'australasian journal combinator',1
+'proceed sicon',1
+'th confer austr math societi armidal request public australian mathemat societi gazett',1
+'proceed awoca bandung indonesia',1
+'siam societi industri appli mathemat j discret math',1
+'cocoon comput combinator',1
+'siam societi industri appli mathemat journal discret mathemat',1
+'bulletin ica',1
+'int j comput mathemat issu',1
+'proceed awoca',1
+'electron journal combinator r',1
+'jurnal mihmi',1
+'select topic cryptographi inform secur commun ccisa',1
+'indonesia confer comput geometri graph theori bandung indonesia',1
+'proceed awoca bandung indonesia',1
+'proceed awoca',1
+'proceed awoca frazer island',1
+'nordic journal comput',1
+'ar combinatoria',1
+'discret mathemat',1
+'australasian journal combinator',1
+'australasian journal combinator',1
+'nordic journal comput',1
+'ar combinatoria',1
+'proceed awoca bandung indonesia',1
+'proceed awoca bandung indonesia',1
+'proceed awoca frazer island',1
+'bulletin ica',1
+'proceed awoca hunter vallei',1
+'ar combin',1
+'proceed awoca bandung indonesia',1
+'utilita math',1
+'discret mathemat',1
+'lectur note pure appli mathemat',1
+'journal combinatori mathemat combinatori comput',1
+'proceed awoca bandung indonesia',1
+'ar combinatoria',1
+'ijcai intern joint confer artifici intellig integr artifici intellig databas sydnei',1
+'utilita math',1
+'poor schwartz editor proceed th confer inform scienc system univers',2
+'ieee transact medic imag',2
+'ieee comput',2
+'ieee comput',2
+'unit state patent us patent offic',2
+'proc th intl conf visual biomed comput',2
+'j magn reson seri b',2
+'nan',2
+'proceed nation academi scienc',2
+'y bizai c braillot r di paola editor inform process medic imag th intern confer kluwer academ publish',2
+'ieee tran nucl sci',2
+'proc spie intern societi optic engin algorithm synthet apertur radar zelnio ed',2
+'proc spie intern societi optic engin advanc architectur algorithm',2
+'spie intern societi optic engin',2
+'proc spie intern societi optic engin advanc algorithm architectur signal process',2
+'proc intl conf multisourc multisensor inform fusion',2
+'biotechniqu',2
+'j acoust soc',2
+'annual review biomed engin',2
+'maximum entropi bayesian method scienc engin kluwer academ publish',2
+'spie intern societi optic engin confer algorithm synthet apertur radar imageri',2
+'ieee transact inform theori page',2
+'proc third convent weapon atr u s armi missil command',2
+'world congress',2
+'hear re',2
+'american journal psychiatri',2
+'j acoust soc',2
+'schizophrenia research',2
+'proc nato advanc re auditori frequenc select auditori frequenc select',2
+'th annual meet acnp san juan puerto rico',2
+'j acoust soc',2
+'intern journal psychopharmacolog suppl s',2
+'ieee tran inform theori',2
+'statist method medic research',2
+'european neuropsychopharmacolog suppl s',2
+'ieee tran inform theori',2
+'j acoust soc',2
+'american journal psychiatri',2
+'human brain map',2
+'onr gtri target track sensor fusion',2
+'proceed spie intern societi optic engin medic imag',2
+'proc ieee intl inform theori sympo ieee inform theori group p',2
+'proceed spie intern societi optic engin medic imag imag process',2
+'proc ieee',2
+'proceed th annual allerton confer commun control comput univers',2
+'ieee transact imag process',2
+'ipmi inform process medic imag',2
+'proceed joint statist meet',2
+'proc st annu conf inform sci syst',2
+'neuroimag',2
+'world alzheim congress stockholm',2
+'societi neurosci abstract',2
+'proceed nation academi scienc',2
+'proc th annu allerton conf commun contr comput',2
+'neurolog',2
+'isit',2
+'first intern meet alzheim s imag consortium dc',2
+'confer record twenti seventh asilomar confer signal system comput',2
+'quarterli j appli math ed d mumford w freiberg',2
+'ieee transact aerospac electron system page',2
+'vision research',2
+'american journal psychiatri',2
+'spie intern societi optic engin proceed radar ladar signal process applic',2
+'j opt soc',2
+'ieee tran inform theori',2
+'journal american statist associ',2
+'proceed spie intern societi optic engin s geometr method appli imag san diego comput anim',2
+'nation partnership advanc comput infrastructur hand meet san diego supercomput center',2
+'neuroimag',2
+'proc st annu conf inform sci syst',2
+'journal mathemat imag vision special issu mathemat imag analysi',2
+'quarterli appli mathemat lvi',2
+'featur articl statist comput graphic newslett',2
+'neuroimag',2
+'proceed cooper work group whole bodi d electron imag human bodi',2
+'digit signal process review journal ed j',2
+'ieee tran pattern analysi machin intellig',2
+'proc allerton conf',2
+'journal royal statit societi',2
+'ieee tran med imag',2
+'ieee transact inform theori page',2
+'proc assoc re otolaryngolog th midwint meet p',2
+'spie intern societi optic engin proceed confer medic imag san diego',2
+'proc assoc re otolaryngolog th midwint research meet',2
+'comput neurosci academ press',2
+'y bizai c braillot r di paola editor inform process medic imag th intern confer kluwer academ publish precis accuraci high dimension transform segment mr imag hippocampu',2
+'american physiolog societi',2
+'ieee transact inform theori page',2
+'nip neural inform process system',2
+'intl conf function map human brain',2
+'radiolog',2
+'poster american neuropsychopharmacolog confer san juan puerto rico',2
+'epilepsia suppl page',2
+'proc annu conf inform sci syst',2
+'radiolog',2
+'spatial statist imag possolo ed monograph seri institut mathemat statist comput anim',2
+'essrl monograph number essrl',2
+'ieee tran med imag',2
+'ieee transact pattern analysi machin intellig',2
+'ed new springer verlag',2
+'ieee transact pattern analysi machin intellig page',2
+'topic meet quantum limit imag imag process technic digest opt soc',2
+'proc th annu allerton conf commun contr comput p',2
+'proc th armi compress',2
+'ieee tran inform theori',2
+'proceed nation academi scienc',2
+'ieee tran nucl sci',2
+'handbook video imag process editor alan bovik',2
+'ieee transact pattern analysi machin intellig',2
+'vision geometri proceed spie intern societi optic engin s intern symposium optic scienc engin instrument san diego comput anim',2
+'ieee transact imag process page',2
+'optic societi america',2
+'vision geometri proceed spie intern societi optic engin s intern symposium optic scienc engin instrument san diego comput anim',2
+'journal statist plan infer issu page',2
+'intern journal pattern recognit artifici intellig',2
+'ieee ho',2
+'basic issu hear ed h duifhui et academ press',2
+'sixth digit signal process',2
+'ieee transact pattern analysi machin intellig',2
+'ieee transact signal process',2
+'proc fusion',2
+'ieee tran pattern analysi machin intellig',2
+'sequenti mont carlo method practic ed arnaud doucet nando freita neil gordon springer verlag',2
+'proc spie intern societi optic engin automat target recognit ed firooz sadjadi',2
+'syst contr st centuri birkha ser',2
+'proc spie intern societi optic engin automat target recognit ed firooz sadjadi',2
+'proceed mtn publish birkhaus',2
+'ieee tran signal process',2
+'proc st annu conf inform sci syst p',2
+'npaci hand meet ucsd supercomput center',2
+'intern journal comput vision',2
+'ieee symposium biomed imag',2
+'npaci hand meet san diego supercomput center ucsd',2
+'npaci hand meet san diego supercomput center jolla comput anim',2
+'proc sixth annual ground target model valid confer keweenaw research center tech univ',2
+'proc intl conf acoust speech signal process',2
+'proceed spie intern societi optic engin intern societi fo roptic engin issu',2
+'ieee transact pattern analysi machin intellig',2
+'j acoust soc',2
+'aerosens automat target recognit spie intern societi optic engin proceed',2
+'imag model speech model cousin ed s levinson l shepp new springer verlag',2
+'proceed th asilimor confer signal system comput',2
+'darpa speech natur languag',2
+'aan',2
+'neuroimag',2
+'ieee transact signal process',2
+'ieee tran med imag',2
+'intern journal comput vision page',2
+'proceed nation academi scienc pg',2
+'ieee transact pattern analysi machin intellig',2
+'automat target recognit spie intern societi optic engin proc',2
+'j opt engin',2
+'automat object recognit proc spie intern societi optic engin ed firooz j sadjadi',2
+'function neuroimag ed l thatcher et new academ press',2
+'optic engin',2
+'neuroimag',2
+'automat object recognit proc spie intern societi optic engin ed firooz sadjadi',2
+'proceed first aachen confer neuropsycholog neurosurgeri psychiatri neurolog aachen',2
+'neuroimag proceed fourth intern confer function map human brain montreal',2
+'ieee tran medic imag',2
+'proceed intern symposium optic scienc engin instrument spie intern societi optic engin s rd annual meet san diego',2
+'proc spie intern societi optic engin th annu intl sympo aerosp defens sens simul contr',2
+'annual meet societi neurosci',2
+'automat object recognit proc spie intern societi optic engin ed firooz sadjadi',2
+'comput neuron neural system ed f eckman',2
+'radar ladar process proc spie intern societi optic engin ed william j mice',2
+'comput neuron neural system ed f eckman',2
+'neuroimag',2
+'annual meet societi neurosci new orlean',2
+'aan',2
+'ieee tran med imag',2
+'phy med biol',2
+'spie intern societi optic engin',2
+'j magn reson seri',2
+'j acoust soc',2
+'physic med biol',2
+'brain warp academ press san diego comput anim',2
+'proceed american associ artifici intellig symposium applic comput vision medic imag process univers',2
+'advanc appli statist ed k mardia england carfax',2
+'invit paper princ runolfsson editor proceed confer inform scienc system john univers',2
+'nan',2
+'vision geometri ed r metter y wu l j latecki spie intern societi optic engin',2
+'ieee acoust speech signal process',2
+'ieee transact imag process',2
+'ieee tran nucl sci',2
+'proc st annu conf inform sci syst',2
+'j magn reson',2
+'j magn reson seri',2
+'j electron microscopi techniqu',2
+'novarti foundat symposium silico simul biolog process univers london',2
+'intern journal comput vision',2
+'target detect heavi clutter',2
+'detect classif difficult target redston arsen',2
+'ieee compcon proceed appear ecolog comput north press elsevi',3
+'oopsla confer object orient program system languag applic',3
+'concurr prolog collect paper',3
+'nan',3
+'nan',3
+'proceed financi cryptographi springer verlag',3
+'hp tech report hpl john tech report srl',3
+'proceed intern confer logic program iclp intern confer logic program concurr prolog collect paper',3
+'book review john s hidden order reason magazin',3
+'nan',3
+'iclp intern confer logic program',3
+'oopsla confer object orient program system languag applic',3
+'research direct object orient program',3
+'research direct object orient program',3
+'iclp intern confer logic program',3
+'nan',3
+'research direct object orient program',3
+'financi cryptographi',3
+'xerox parc tech report',3
+'agor tech report add p',3
+'market base control sun lab tech report sml',3
+'hp tech report hpl john tech report srl proceed asian asian comput scienc confer edit vijai saraswat springer verlag',3
+'agor tech report add p',3
+'agor tech report',3
+'austrian perspect internet economi routledg',3
+'iclp intern confer logic program',3
+'nan',3
+'prospect nanotechnolog',3
+'econom philosophi inform technolog intellectu contribut don lavoi edit jack high georg univers',3
+'hp tech report prepar',3
+'proceed fourth intern confer autonom agent barcelona accept rate',4
+'intellig tutor system',4
+'aama autonom agent multiag system',4
+'advanc simul technolog confer astc dc',4
+'th world multi confer system cybernet informat',4
+'proceed fifth intern confer intellig tutor system montreal',4
+'proceed intern confer artifici intellig la vega accept rate',4
+'ijcai intern joint confer artifici intellig',4
+'ictai intern confer tool artifici intellig',4
+'seventeenth intern joint confer artifici intellig accept rate',4
+'agent',4
+'icip intern confer imag process',5
+'iwdw intern digit watermark intern',5
+'adl advanc digit librari',5
+'cvpr comput vision pattern recognit',5
+'inform hide',5
+'journal comput aid molecular design',6
+'journal comput aid molecular design',6
+'journal chemic inform comput scienc',6
+'journal chemic inform comput scienc',6
+'journal chemic inform comput scienc',6
+'univers comput scienc technic report cs',7
+'grid blueprint new comput infrastructur foster c kesselman ed morgan kaufman publish san francisco',7
+'journal parallel distribut comput',7
+'scientif visual',7
+'hpdc high perform distribut comput symposium',7
+'appli parallel comput',7
+'ppsc siam confer parallel process scientif comput',7
+'proceed high perform comput symposium hpc advanc simul technolog confer societi model simul intern',7
+'appli parallel comput th intern appli parallel comput b kagstrom j dongarra elmroth j wasniewski ed springer verlag',7
+'proceed seventh ieee intern symposium high perform distribut comput ieee press extend abstract poster present',7
+'proceed st intern confer system scienc hicss intern confer system scienc ieee press',7
+'icdm ieee intern confer data mine',8
+'journal comput secur',8
+'ecml european confer machin learn',8
+'fundam inform',9
+'journal appli non classic logic',9
+'journal logic comput',9

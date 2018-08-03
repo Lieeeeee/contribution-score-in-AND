@@ -1,0 +1,40 @@
+
+ Results 
+=====
+
+Correctly Classified Instances           4               20      %
+Incorrectly Classified Instances        16               80      %
+Kappa statistic                          0.1351
+K&B Relative Info Score                329.2024 %
+K&B Information Score                   13.2866 bits      0.6643 bits/instance
+Class complexity | order 0              96.5857 bits      4.8293 bits/instance
+Class complexity | scheme            15046.9036 bits    752.3452 bits/instance
+Complexity improvement     (Sf)     -14950.3179 bits   -747.5159 bits/instance
+Mean absolute error                      0.105 
+Root mean squared error                  0.2375
+Relative absolute error                 92.6929 %
+Root relative squared error             98.5177 %
+Coverage of cases (0.95 level)          30      %
+Mean rel. region size (0.95 level)      58.8235 %
+Total Number of Instances               20     
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.000    0.000    0.000      0.000    0.000      0.000    0.263     0.050     174
+                 0.000    0.000    0.000      0.000    0.000      0.000    0.184     0.050     175
+                 0.000    0.000    0.000      0.000    0.000      0.000    0.105     0.050     176
+                 0.000    0.158    0.000      0.000    0.000      -0.096   0.053     0.050     177
+                 1.000    0.000    1.000      1.000    1.000      1.000    1.000     1.000     178
+                 0.000    0.053    0.000      0.000    0.000      -0.053   0.026     0.050     179
+                 0.000    0.000    0.000      0.000    0.000      0.000    0.079     0.050     180
+                 0.000    0.053    0.000      0.000    0.000      -0.053   0.053     0.050     181
+                 0.000    0.000    0.000      0.000    0.000      0.000    0.132     0.050     182
+                 0.000    0.000    0.000      0.000    0.000      0.000    0.053     0.050     183
+                 0.000    0.000    0.000      0.000    0.000      0.000    0.132     0.050     184
+                 0.000    0.263    0.000      0.000    0.000      -0.132   0.026     0.050     185
+                 0.000    0.000    0.000      0.000    0.000      0.000    0.105     0.050     186
+                 0.000    0.000    0.000      0.000    0.000      0.000    0.079     0.050     187
+                 1.000    0.056    0.667      1.000    0.800      0.793    1.000     1.000     188
+                 0.000    0.000    0.000      0.000    0.000      0.000    0.053     0.050     189
+                 0.000    0.278    0.000      0.000    0.000      -0.192   0.194     0.092     190
+Weighted Avg.    0.200    0.060    0.167      0.200    0.180      0.143    0.287     0.244     

@@ -1,0 +1,261 @@
+@relation 'Dataset kitsi publish-venue_title ywang'
+@attribute Text string
+@attribute class-att {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62}
+@data
+'icip system transport interfac h 264 avc scalabl extens',1
+'jcst av m standard applic',1
+'vcip block truncat code adapt decim interpol',1
+'icip sub pictur roi code unequ error protect',1
+'icip error conceal featur h 26l test model',1
+'icip code fade scene transit',1
+'vlbv improv error conceal us scene inform',1
+'icip error resili mode decis scalabl video code',1
+'icip error resili video code us redund pictur',1
+'vlbv error resili video code us unequ protect kei pictur',1
+'tmm isol region video code',1
+'ccece formal descript time manag real time oper system',2
+'ccece design cognit complex measur analysi tool',2
+'ieeeicci layer refer model brain',2
+'ieeeicci formal descript cognit process decis make',2
+'ieeeicci autonom comput cognit process',2
+'ccece implement real time process rtpa us real time java',2
+'ieeeicci formal descript cognit process problem solv',2
+'ieeeicci cognit process comprehens',2
+'ooi latest develop cognit informat',2
+'ieeeicci inform knowledg represent brain',2
+'ieeeicci cognit informat',2
+'profe softwar engin process benchmark',2
+'ieeeicci cognit model brain',2
+'ccece design implement automat rtpa code gener',2
+'ieeeicci cognit process abstract formal infer',2
+'ansoft real time process algebra rtpa',2
+'ieeeicci measur cognit function complex softwar',2
+'ieeeicci cognit properti human factor engin',2
+'ieeeicci mathemat model properti game',2
+'cvpr shape base 3d surfac correspond us geodes local geometri',3
+'cviu 3d brain surfac match base geodes local geometri',3
+'cvpr boundari find correspond us statist shape model',3
+'cviu detect imag orient base low level visual content',3
+'isbi pyramid search maximum coher direct biomed imag interpol',3
+'pami boundari find prior shape smooth model',3
+'ipmi nonlinear estim model fmri data us spatio tempor support vector regress',3
+'corr error expon channel code side inform',4
+'sswmc achiev error expon watermark',4
+'sswmc steganalysi block structur stegotext',4
+'iwdw improv qim strategi gaussian watermark',4
+'dsn persist state checkpoint comparison troubleshoot configur failur',5
+'ton cone base distribut topolog control algorithm wireless multi hop network',5
+'ipp model base fault detect powerlin network',5
+'podc analysi cone base distribut topolog control algorithm wireless multi hop network',5
+'dsn detect stealth softwar strider ghostbust',5
+'lisa strider black box state base approach chang configur manag support',5
+'dsn simba user alert servic architectur depend alert deliveri',5
+'csur survei rollback recoveri protocol messag pass system',5
+'sp statist identif encrypt web brows traffic',5
+'dsn toward depend home network experi report',5
+'coot comera extens remot architectur',5
+'ndss autom web patrol strider honeymonkei find web site exploit browser vulner',5
+'corr analysi cone base distribut topolog control algorithm wireless multi hop network',5
+'scp strider black box state base approach chang configur manag support',5
+'tpd theoret analysi commun induc checkpoint protocol rollback depend trackabl',5
+'icppw comput feedback law linear system parallel pieri homotopi',6
+'amc fingerprint imag encrypt via multi scroll chaotic attractor',7
+'dicta gradient base weight averag method estim fingerprint orient field',7
+'icml model optim probabl predict',8
+'sigir predict queri time',8
+'ml us model tree classif',8
+'csda maximum likelihood comput base fisher score gauss newton quadrat approxim',8
+'mm portrait video phone',9
+'mm portrait video phone',9
+'icmc subject prefer spatio tempor rate video adapt us multi dimension scalabl code',9
+'www machin learn base approach tabl detect web',10
+'miccai brain surfac conform parameter algebra function',10
+'nan detect tabl html document',10
+'icpr statist base approach word segment',10
+'miccai brain surfac parameter us riemann surfac structur',10
+'visual optim global conform surfac parameter',10
+'miccai autom surfac match us mutual inform appli riemann surfac structur',10
+'nan tabl detect via probabl optim',10
+'isbi volumetr harmon brain map',10
+'cgim brain surfac conform parameter',10
+'cgim 3d surfac match mutual inform riemann surfac structur',10
+'icpr method document zone content classif',10
+'icpr algorithm perform contest',10
+'iccv surfac parameter us riemann surfac structur',10
+'icai secur agent architectur sensor network',11
+'icai effici secur storag system base peer peer system',11
+'stac resourc bound balanc gener stochast weak random',11
+'eurocrypt perfectli secur messag transmiss revisit',11
+'eccc np hard set superters unless np small',11
+'scn effici zero knowledg proof practic graph problem',11
+'wpe privaci preserv databas applic test',11
+'sec us mobil agent result creat hard detect comput virus',11
+'ipl np hard set superters unless np small',11
+'asiacrypt linear complex versu pseudorandom beth dai s result',11
+'juc invari properti random sequenc',11
+'random random stochast approxim',11
+'tc resourc bound random comput complex',11
+'asiacrypt approxim hard secur commun broadcast channel',11
+'criti revisit color network privaci preserv censorship',11
+'tc comparison two approach pseudorandom',11
+'icdm approxim invers frequent itemset mine privaci complex approxim',11
+'tc secur analysi password base authent protocol propos ieee 1363',11
+'fuin model depend comput multipl input hard result',11
+'sdm privaci awar market basket data set gener feasibl approach invers frequent set mine',11
+'idea privaci awar data gener test databas applic',11
+'mst random stochast approxim',11
+'sigmod robust kei establish sensor network',11
+'corr perfectli secur messag transmiss revisit',11
+'cocoon maximum flow critic vertic graph',11
+'random us approxim hard achiev depend comput',11
+'ijfc analyz vulner critic infrastructur us flow critic vertic graph',11
+'trustbu privaci preserv data gener databas applic perform test',11
+'coco law iter logarithm p random sequenc',11
+'ipl separ two random concept',11
+'dexa mine group pattern mobil user',12
+'iccv high resolut track non rigid 3d motion dens sampl data us harmon map',13
+'icmi fingerprint classif direct field',13
+'pami conform geometri applic 3d shape match recognit stitch',13
+'cvgip estim multipl direct light sourc synthesi augment realiti imag',13
+'eccv estim multipl illumin singl imag arbitrari known geometri',13
+'pg estim multipl direct light sourc synthesi mix realiti imag',13
+'cgf high resolut acquisit learn transfer dynam 3d facial express',13
+'cvpr 3d surfac match recognit us conform geometri',13
+'cvpr face model analysi stoni brook univers',13
+'tcad diagnosi cluster fault ident degre topolog',14
+'vlsid lossi compress imag us logic minim',14
+'tcad wire space estim routabl analysi',14
+'tc solv boolean equat us rosop form',14
+'dcg extrem elev manifold',15
+'compgeom 2d kinet triangul near quadrat topolog chang',15
+'gmp toward unsupervis segment semi rigid low resolut molecular surfac',15
+'dcg two dimension kinet triangul near quadrat topolog chang',15
+'esa near linear time approxim algorithm curv simplif',15
+'cagd segment molecular surfac',15
+'dcg comput writh number polygon knot',15
+'bioinformat lfm pro tool detect signific local structur site protein',15
+'compgeom shape fit outlier',15
+'compgeom hausdorff distanc translat point ball',15
+'compgeom extrem elev manifold',15
+'algorithmica near linear time approxim algorithm curv simplif',15
+'siamcomp shape fit outlier',15
+'psb coars reliabl geometr align protein dock',15
+'soda comput writh number polygon knot',15
+'acl decod algorithm statist machin translat',16
+'acl model structur statist machin translat',16
+'acl combin statist knowledg base spoken languag understand condit model',16
+'ijcv texton',17
+'eccv texton',17
+'cvpr model complex motion track edit hidden markov graph',17
+'iccv perceptu scale space applic',17
+'eccv gener method textur motion analysi synthesi',17
+'iccv model textur motion particl wave sketch',17
+'pricai bootstrap word sens disambigu us dynam web knowledg',18
+'ausai unsupervis bilingu word sens disambigu us web statist',18
+'setn neighbor featur cluster',19
+'bibe visual dna rna structur us tempor cgr',19
+'miccai quantifi evolv process multimod 3d medic imag',19
+'ssdbm spatio tempor multi modal data manag analysi environ track ms lesion',19
+'csb applic relief f featur filter algorithm select inform gene cancer classif us microarrai data',19
+'bioinformat hykgen hybrid approach select marker gene phenotyp classif us microarrai gene express data',19
+'jcdl gener fuzzi semant metadata describ spatial relat imag us r histogram',19
+'icra distribut goal recognit algorithm modular robot',19
+'mm r histogram effici represent spatial relat object arbitrari topolog',19
+'p2p trust reput model peer peer network',20
+'webi bayesian network base trust model',20
+'cor prefer aggreg method estim util interv',21
+'eor evidenti reason approach mada probabilist fuzzi uncertainti',21
+'eor evidenti reason approach multipl attribut decis analysi us interv belief degre',21
+'isci preemptiv goal program method aggreg owa oper weight group decis make',21
+'fss multipl attribut decis make base fuzzi prefer inform altern rank weight',21
+'fss normal interv fuzzi weight',21
+'eor environment impact assess us evidenti reason approach',21
+'eor evidenti reason approach multi attribut decis analysi interv uncertainti',21
+'fss interv effici assess us data envelop analysi',21
+'fss modifi fuzzi logarithm least squar method fuzzi analyt hierarchi process',21
+'fss fuzzi multiattribut decis make model method incomplet prefer inform',21
+'dss approach avoid rank revers ahp',21
+'fss gener multipl attribut decis make approach integr subject prefer object inform',21
+'icdc protocol design optim delai fault toler mobil sensor network',22
+'tmc mobil telemedicin sensor network low energi data queri network lifetim consider',22
+'percom replic base effici data deliveri scheme red delai fault toler mobil sensor network dft msn',22
+'infocom dft msn delai fault toler mobil sensor network pervas inform gather',22
+'ispdc agent base dynam recoveri protocol distribut databas',22
+'percom testb implement delai fault toler mobil sensor network dft msn',22
+'icsoc semant structur match assess web servic similar',23
+'re revers engin goal model legaci code',23
+'wise flexibl interfac match web servic discoveri',23
+'ijci structur semant match assess web servic similar',23
+'wcre retr revers engin requir',23
+'ijfc infix free regular express languag',24
+'soda approxim shortest path anisotrop region',24
+'alenex count structur grid graph cylind tori us transfer matric survei new result',24
+'compgeom queri approxim shortest path anisotrop region',24
+'compgeom provabl dimens detect us princip compon analysi',24
+'cpm prefix free regular express match',24
+'ci novel method ey featur extract',25
+'ci imag analysi system tongu diagnosi tradit chines medicin',25
+'ciarp jseg base color separ tongu imag tradit chines medicin',25
+'prl color textur imag segment integr direct oper jseg method',25
+'ausai color imag segment algorithm us region edg inform',25
+'asplo energi effici comput wildlif track design tradeoff earli experi zebranet',26
+'mascot situat awar cach strategi highli vari mobil network',26
+'sensi new scheme link qualiti predict applic metric base rout',26
+'sigmobil mario mobil adapt rout us rout lifetim abstract mobil ad hoc network',26
+'egic wireless sens actuat control applic civil structur',27
+'isci evolutionari express profil gene famili crucial central nervou system develop',28
+'pldi region base memori manag cyclon',29
+'usenix cyclon safe dialect c',29
+'cvpr dynam condit random field model object segment imag sequenc',30
+'tip spatiotempor video segment base graphic model',30
+'icann g network model adversari agent',31
+'mldm statist identif kei phrase text classif',32
+'mldm novel rule order approach classif associ rule mine',32
+'sigmetr peerpressur automat troubleshoot',33
+'sp systemat approach uncov secur flaw gui logic',33
+'osdi automat misconfigur troubleshoot peerpressur',33
+'sp subvirt implement malwar virtual machin',33
+'iptp friend troubleshoot network toward privaci preserv automat troubleshoot',33
+'isca low hardwar complex parallel turbo decod architectur',34
+'isca multipli structur base novel real time csd recod',35
+'ijcnlp web base unsupervis learn queri formul question answer',36
+'nip structur machin learn soft classif smooth spline anova stack tune test evalu',37
+'iscc understand current ipv6 perform measur studi',38
+'icoin studi internet packet reorder',38
+'nip fast krylov method n bodi learn',39
+'cvpr unsupervis discoveri action class',39
+'infocom design multicast protocol non cooper network',40
+'cad design formal collabor assembl design',41
+'cad geometri base semant id persist interoper refer featur base parametr model',41
+'cata internet base system remot monitor manufactur oper',42
+'tpd effici algorithm minimum congest hypergraph embed cycl',43
+'hipc effici algorithm embed hypergraph cycl',43
+'icpp effici algorithm traffic groom sonet wdm network',43
+'ejc depend polynomi graph',44
+'dm frobeniu map',44
+'dm sum number integr sum number complet bipartit graph',44
+'tc solv group prioriti invers problem time asynchron system',45
+'vrst evalu effect real world distract user perform virtual environ',46
+'icra interact model identif nonholonom cart push mobil manipul',47
+'ijrr integr task plan control mobil manipul',47
+'ieeecit fast initi level set method improv chan vese model',47
+'itcc toward indoor locat system us rf signal strength ieee 802 network',48
+'icppw approach enhanc mobil applic situat awar capabl',48
+'word middlewar support embed softwar multipl qo properti ubiquit comput environ',48
+'asc distribut constraint satisfact restrict recombin genet protocol',48
+'nan constraint sensit privaci manag person web base system',49
+'splc pla base runtim dynam support privaci enhanc web person',49
+'mue nts6 ipv6 base network topolog servic system cernet2',50
+'dcg substitut delon set',51
+'jat subdivis scheme refin equat nonneg mask',51
+'waim estim select xml path express predic histogram',52
+'incdm mine invari biolog sequenc',53
+'wise synchron distanc educ enhanc speak skill via internet base real time technolog',54
+'eswa web servic agent base famili wealth manag system',55
+'titb iter normal cdna microarrai data',56
+'tsmc multiobject program us uniform design genet algorithm',57
+'tmi estim coronari arteri lumen area optim base contour detect',58
+'tcsv guest editori',59
+'ipm decis theoret approach evalu inform retriev system',60
+'questa first passag time reflect u process two side barrier',61
+'ipl feedback vertex set star graph',62

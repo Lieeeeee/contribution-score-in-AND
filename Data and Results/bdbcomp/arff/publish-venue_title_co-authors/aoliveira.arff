@@ -1,0 +1,56 @@
+@relation 'Dataset bdbcomp publish-venue_title_co-authors aoliveira'
+@attribute Text string
+@attribute class-att {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19}
+@data
+'linguagen programacao jpearl linguagem descricao reestruturaco programa java m maia',4
+'computacao grafica processamento imagen metamorfos modelo poliedrai utilizando campo vetoriai tetraedraco m kallmann',5
+'journal brazilian comput societi homeomorph metamorphosi polyhedr model us field direct defin triangul m kallmann',5
+'computacao grafica processamento imagen visualizacao vortic dinamica fluido computacion g giraldi',5
+'computacao grafica processamento imagen boundari extract approach base multi resolut method t snake framework g giraldi e strauss',5
+'computacao grafica processamento imagen improv origin dual t snake model g giraldi e strauss',5
+'computacao grafica processamento imagen semi automat surfac reconstruct framework base t surfac isosurfac extract method e strauss w jimenez g giraldi r silva',5
+'geoinformatica non uniform mesh simplif us adapt merg procedur f mello e strauss a gesualdi',5
+'computacao grafica processamento imagen loop snake snake enhanc topolog control s ribeiro r farias c esperanca g giraldi',5
+'computacao grafica processamento imagen fast polygon variat implicit surfac a cuno c esperanca p cavalcanti',5
+'rede computador minhoca plu rede local fin didatico j filho j jr m vieira',0
+'informatica educacao problema qualidad servico perspectiva sistema educacao distancia j soares m rodrigues',0
+'informatica educacao arquitetura ambient concebido base dimenso critica educacao tecnologica distancia j soares a serra g barroso',0
+'seminario integrado softwar hardwar analis dimenso critica educacao distancia base especificacao sistema gestao j soares a serra g barroso',0
+'rede computador minhonix distribut system teach j peyrin',0
+'rede computador plataforma computacao administracao ibcn j sousa m penna j junior',0
+'rede computador migrando solucao interoperabilidad sistema tmn baseada metodologia aid ambient osimi j souza m stanton',0
+'informatica educacao semeai sistema multiagent ensino aprendizagem internet c geyer a rodrigues j emiliano a pereira d ferrari',1
+'rede computador modelo trafego multiplexacao estatistica trafego dado rede atm j monteiro',2
+'linguagen programacao especificacao formal tratamento exceco linguagem ddl m cortes a garcia s carvalho',3
+'computacao grafica processamento imagen tentando manter diferenciabilidad morph curva l goncalves',5
+'computacao grafica processamento imagen framework attent object categor us stereo head robot l goncalves r grupen',5
+'computacao grafica processamento imagen enhanc volumetr approach stereo match i matias l goncalves',5
+'computacao grafica processamento imagen control architectur multi modal sensori integr l goncalves r grupen',5
+'computacao grafica processamento imagen pipelin stereo match binari imag l goncalves',5
+'computacao grafica processamento imagen compressao imagen usando transformada wavelet curva peano hilbert l oliveira c esperanca',5
+'computacao grafica processamento imagen techniqu compens light sourc direct face recognit applic p coelho c esperanca',5
+'computacao grafica processamento imagen imag process belief network approach face detect p coelho c esperancca',5
+'computacao grafica processamento imagen collis detect respons scheme simplifi physic base anim y atencio c esperanca p cavalcanti',5
+'computacao grafica processamento imagen control theori approach real time anim artifici agent f silva l garcia r farias',5
+'inteligencia artifici opt popul train minim open stack problem l lorena',6
+'encontro nacion inteligencia artifici construct evolutionari approach linear gate assign problem l lorena',6
+'rede neurai adapt hierarch fair competit genet algorithm larg scale numer optim l lorena a preto s stephany',6
+'inteligencia artifici pattern sequenc problem cluster search l lorena',6
+'inteligencia artifici detect promis area evolutionari cluster search l lorena',6
+'encontro nacion inteligencia artifici sistema suport auditoria folha pagamento baseado rede neurai g azevedo a barros a santos',7
+'engenharia softwar modelagem ontologica apoio modelagem conceitu m villela j braga',8
+'informatica publica determinacao semi automatica fator critico sucesso area academica m duarte j braga',8
+'linguagen programacao metaj extens environ metaprogram java t braga m maia r bigonha',9
+'realidad virtual interact applic us vrml aid teach graphic comput j freire b schneider',10
+'rede neurai novelti detect time seri neural network forecast robust confid interv f neto s meira',11
+'revista informatica teorica aplicada modular test code microcontrol unit rom l nunes a santiago r takiguti',12
+'test tolerancia falha escalonamento tolerant sabotagem grade computacionai pare f brasileiro',13
+'engenharia softwar odysseyshar ambient desenvolvimento cooperativo component c werner m mangan l murta r pinheiro m mattoso r braga m borges',14
+'rede computador traffic engin mpl network ar adapt rout scheme base control chart m ravetti g mateus',15
+'rede computador us genet algorithm lsp setup mpl network g mateus',15
+'desenvolvimento distribuido softwar extensao framework componentforg desenvolvimento distribuido softwar j oliveira t brito s jr g elias',15
+'journal comput scienc mineracao base dado processo seletivo universitario d garcia',16
+'banco dado queri geograph data warehous geomdql j silva a vera r fidalgo a salgado v times',17
+'symposium microelectron technolog devic phosphoru implant near stoichiometr sic h film m carreno',18
+'symposium microelectron technolog devic format 3c sic film silicon thermal anneal process m carreno',18
+'symposium integr circuit system design synthesi tool design environ dynam reconfigur fpga v sklyarov n lau a melo k kondratjuk a ferrari r monteiro i skliarova',19

@@ -1,0 +1,31 @@
+@relation 'Dataset bdbcomp publish-venue_title rsilva'
+@attribute Text string
+@attribute class-att {192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213}
+@data
+'realidad virtual vr tool visual cad model',206
+'informatica publica aplicacao utilizando xml area adocao pesquisa crianca disponivei adocao pesquisa pre inscricao pretendent',207
+'journal comput scienc uso tecnologia movel auxilio reeducacao alimentar',208
+'journal comput scienc wxproc simulador politica escalonamento multiplataforma',209
+'journal comput scienc adaptacao algoritmo genetico tratamento problema roteamento veiculo janela tempo',210
+'journal comput scienc hybrid algorithm vehicl rout problem time window',210
+'journal comput scienc softwar ensino protocolo janela deslizant',210
+'journal comput scienc inteligencia artifici aplicada ambient engenharia softwar visao geral',211
+'banco dado constraint base tree pattern mine',212
+'computacao grafica processamento imagen document reconstruct base featur match',213
+'symposium microelectron technolog devic low frequenc nois deep submicron mosfet',213
+'rede computador prototipo servidor modem rede tcp ip',192
+'computacao grafica processamento imagen reconstruct 3d model rang imag us radial flow model',193
+'rede computador metodologia desenvolvimento implementaco agent supervisao elemento rede plataforma distribuida si',194
+'engenharia softwar suport desenvolvimento uso component flexivei',195
+'qualidad softwar suport uso framework orientado objeto base historico desenvolvimento aplicaco',195
+'informatica educacao dimensao socio afetiva interacao distancia',196
+'computacao grafica processamento imagen imag effect us contract map',197
+'computacao grafica processamento imagen reconstrucao objeto 3d usando modelo deformavei',198
+'computacao grafica processamento imagen semi automat surfac reconstruct framework base t surfac isosurfac extract method',199
+'informatica educacao orion construcao coletiva comunidad onlin conhecimento',200
+'rede computador extensao tempo vida rede ad hoc',201
+'encontro nacion inteligencia artifici revisao sintatica semantica logica defaut',202
+'encontro nacion inteligencia artifici asnod scp new version ant system set cover problem',203
+'computacao grafica processamento imagen inform embed multibit watermark',204
+'journal comput scienc an arvor n aria espalhamento naturalment balanceada',205
+'realidad virtual viral framework desenvolvimento aplicaco realidad virtual',206

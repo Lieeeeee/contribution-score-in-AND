@@ -1,0 +1,368 @@
+0;197;d johnson;a le,j wilkins,s matyas;public kei extens common cryptograph architectur;ibm system journal;0
+1;197;d johnson;g dolan;transact secur extens common cryptograph architectur;ibm system journal;0
+2;197;d johnson;a le,g dolan,m kelly,s matyas;common cryptograph architectur cryptograph applic program interfac;ibm system journal;0
+3;197;donald b johnson;a le,j wilkins,s matyas;design commerci mask facil privaci algorithm;acm comput commun secur;0
+4;198;donald johnson;d lilja,j riedl;distribut hardwar mechan process synchron share bu multiprocessor;icpp intern parallel process;0
+5;198;donald johnson;d lilja,j riedl;circul activ barrier synchron mechan;icpp intern parallel process;0
+6;198;donald johnson;d lilja,j anderson,j riedl;low cost high perform barrier synchron network workstat;j parallel distrib comput;0
+7;199;donald b johnson;d brown;formal secur proof signatur scheme partial messag recoveri;rsa;0
+8;199;donald b johnson;;ae futur resili more thought question;ae candid;0
+9;200;d johnson;b kingsbury,j beck,j wawrzynek,k asanovic,n morgan;spert ii vector microprocessor;ieee comput;0
+10;200;david johnson;b kingsbury,j beck,j wawrzynek,k asanovic,n morgan;spert ii vector microprocessor it applic larg problem backpropag train;nip neural inform process system;0
+11;201;douglas johnson;;trap architectur lisp;lisp function program;0
+12;201;douglas johnson;;case read barrier;asplo architectur support program languag oper system;0
+13;202;d johnson;c berman,j coplien,j daniels,k rubin,l hill;object orient project manag panel;oop messeng;0
+14;202;douglas johnson;c berman,j coplien,j daniels,k rubin,l hill;manag object orient project panel session;oopsla object orient program system languag applic;0
+15;203;d johnson;;commun process;j algorithm;0
+16;203;d johnson;;graph restrict their effect;j algorithm;0
+17;203;d johnson;m garey;rectilinear steiner tree problem np complet;siam societi industri appli mathemat journal appli mathemat;0
+18;203;d johnson;m garey;rectilinear steiner tree problem is np complet;siam societi industri appli mathemat j appl math;0
+19;203;d johnson;m garey;theorem bin pack;j complex;0
+20;203;d johnson;m garey;two processor schedul start time deadlin;siam societi industri appli mathemat j comput;0
+21;203;d johnson;m goldwasser,c editors;proceed th th dimac implement challeng;american mathemat societi;0
+22;203;d johnson;z haas,j winters;simul result capac cellular;ieee tran vehicular technolog;0
+23;203;d johnson;;knapsack linear program gamut problem;j algorithm;0
+24;203;d johnson;m maintainer;th dimac implement challeng travel salesman problem;http www research att com dsj chtsp index html;0
+25;203;d johnson;;challeng theoret comput scienc draft june;http www research att com dsj nsflist html;0
+26;203;d johnson;;stoc foc bibliographi;acm press;0
+27;203;d johnson;m editors;cliqu color satisfi proceed nd dimac implement challeng;american mathemat societi;0
+28;203;d johnson;c papadimitriou;comput complex;travel salesman problem e l lawler j k lenstra h g rinnooi kan d b shmoi editor john wilei son ltd;0
+29;203;d johnson;;catalogu complex class;handbook theor comp sci j van leeuwen editor elsevi;0
+30;203;d johnson;t nishizeki,a nozaki,h editors;discret algorithm complex proceed japan us joint seminar june kyoto japan;academ press new;0
+31;203;d johnson;h pollack;hypergraph planar complex draw venn diagram;j graph theori;0
+32;203;d johnson;l mcgeoch;experiment analysi heurist stsp;travel salesman problem it variat g gutin a punnen editor kluwer academ publish dordrecht;0
+33;203;d johnson;g gutin,l mcgeoch,a yeo,w zhang,a zverovich;experiment analysi heurist atsp;travel salesman problem it variat g gutin a punnen editor kluwer academ publish dordrecht;0
+34;203;d johnson;;more approach travel salesman guid;natur page;0
+35;203;d johnson;k niemi;knapsack partit new dynam program techniqu tree;math oper research;0
+36;203;d johnson;;np complet ongo guid;academ press collect np complet column;0
+37;203;d johnson;;properti b r;j comb theori b;0
+38;203;d johnson;;embed problem;j algorithm;0
+39;203;d johnson;j bentley,l mcgeoch,e rothberg;near opim solut veri larg travel salesman problem;monograph prepar;0
+40;203;d johnson;;worst case behavior graph color algorithm;proc th southeastern conf comb graph theori comput;0
+41;203;d johnson;m garey,r graham,a demers,j ullman;worst case perform bound simpl on dimension pack algorithm;siam societi industri appli mathemat j comput;0
+42;203;d johnson;c editors;network flow match proceed st dimac implement challeng;american mathemat societi;0
+43;203;d johnson;c papadimitriou;perform guarante heurist;travel salesman problem e l lawler j k lenstra h g rinnooi kan d b shmoi editor john wilei son ltd;0
+44;203;d johnson;a klug;optim conjunct queri that contain untyp variabl;siam societi industri appli mathemat j comput;0
+45;203;d johnson;c aragon,l mcgeoch,c shevon;optim simul anneal experiment evalu part i graph partit;oper research;0
+46;203;d johnson;;slow ant;new scientist page;0
+47;203;d johnson;;uniqu;j algorithm;0
+48;203;d johnson;j lenstra,a kan;complex network design problem;network;0
+49;203;d johnson;;genealog theoret comput scienc;sigact new;0
+50;203;d johnson;l mcgeoch;travel salesman problem case studi local optim;local search combinatori optim e h l aart j k lenstra editor john wilei son ltd;0
+51;203;d johnson;;theoretician s guid experiment analysi algorithm;proceed the th th dimac implement challeng m goldwass d s johnson c c mcgeoch editor american mathemat societi;0
+52;203;d johnson;;announc updat greatest hit;j algorithm;0
+53;203;d johnson;a klug;optim conjunct queri that contain untyp variabl;siam societi industri appli mathemat j comput;0
+54;203;d johnson;a lapaugh,e coffman,m garey;schedul file transfer;siam societi industri appli mathemat j comput;0
+55;203;d johnson;z mao,j rexford,j wang,r katz;scalabl accur identif as level forward path;proceed infocom confer comput commun;0
+56;203;d johnson;;network design;j algorithm;0
+57;203;d johnson;;interact proof fun profit;j algorithm;0
+58;203;d johnson;c papadimitriou,e dahlhaus,m yannakakis,p seymour;complex multitermin cut;siam societi industri appli mathemat j comput;0
+59;203;d johnson;b simons,m garey,r tarjan;schedul unit time task arbitrari releas time deadlin;siam societi industri appli mathemat j comput;0
+60;203;d johnson;;updat updat updat;j algorithm;0
+61;203;d johnson;;comput math depart part i;j algorithm;0
+62;203;d johnson;;parallel process;j algorithm;0
+63;203;d johnson;;partit cover pack problem;j algorithm;0
+64;203;d johnson;;oracl bin pack order problem;j algorithm;0
+65;203;d johnson;;random algorithm complex class;j algorithm;0
+66;203;d johnson;;rout problem;j algorithm;0
+67;203;d johnson;;solv np hard problem quickli averag;j algorithm;0
+68;203;d johnson;;mani face polynomi time;j algorithm;0
+69;203;d johnson;;stori so far;j algorithm;0
+70;203;d johnson;;comput on hand ti behind your back;j algorithm;0
+71;203;d johnson;;tale second prover;j algorithm;0
+72;203;d johnson;;twelv open problem from g j;updat j algorithm;0
+73;203;d johnson;d applegate,l buriol,b dillard,p shor;cut stock approach bin pack theori experi;proced the fifth workshop algorithm engin experiment r e ladner editor siam societi industri appli mathemat;0
+74;203;d johnson;c aragon,l mcgeoch,c schevon;optim simul anneal experiment evalu part ii graph color number partit;oper research;0
+75;203;d johnson;j bentley,f leighton,c mcgeoch;experiment studi bin pack;proc st ann allerton conf commun control comput;0
+76;203;d johnson;j bentley,f leighton,c mcgeoch,l mcgeoch;unexpect behavior result bin pack;proc th ann acm symp theori comput;0
+77;203;d johnson;;concurr process;j algorithm;0
+78;203;d johnson;w boyce,m garey;note bisect minimum span tree;network;0
+79;203;d johnson;p brucker,m garey;schedul equal length task treelik preced constraint minim maximum late;math oper research;0
+80;203;d johnson;f chung,m garey;pack two dimension bin;siam societi industri appli mathemat j algebra discret method;0
+81;203;d johnson;v chvatal,m garey;two result concern multicolor;ann disc math;0
+82;203;d johnson;j cirasella,l mcgeoch,w zhang;asymmetr travel salesman problem algorithm instanc gener test;alenex algorithm engin experi;0
+83;203;d johnson;e coffman,m garey;bin pack divis item size;j complex;0
+84;203;d johnson;e coffman,l mcgeoch,p shor,r weber;bin pack discret item size part iii averag case behavior ffd bfd;;0
+85;203;d johnson;e coffman,c courcoubetis,m garey,p shor,r weber,m yannakakis;bin pack discret item size part i perfect pack theorem averag case behavior optim pack;siam societi industri appli mathemat j discret math;0
+86;203;d johnson;e coffman,m garey;dynam bin pack;siam societi industri appli mathemat j comput;0
+87;203;d johnson;e coffman,c courcoubetis,m garey,l mcgeoch,p shor,r weber,m yannakakis;fundament discrep between averag case analys discret continu distribut bin pack case studi;proc rd ann acm symp theori comput journal version see below;0
+88;203;d johnson;e coffman,f leighton,p shor,r weber;averag case behavior ffd optim bin pack u distribut;;0
+89;203;d johnson;e coffman,p shor,r weber;markov chain comput proof averag case analysi best fit bin pack;proc th ann acm symp theori comput;0
+90;203;d johnson;e coffman,m garey;applic bin pack multiprocessor schedul;siam societi industri appli mathemat j comput;0
+91;203;d johnson;e coffman,m garey;approxim algorithm bin pack updat survei;algorithm design comput system design g ausiello m lucertini p serafini editor springer verlag;0
+92;203;d johnson;e coffman,m garey;approxim algorithm bin pack survei;approxim algorithm np hard problem d hochbaum editor pw publish;0
+93;203;d johnson;e coffman,g lueker,p shor;probabilist analysi pack relat partit problem;statist scienc;0
+94;203;d johnson;e coffman,c courcoubetis,m garey,p shor,r weber,m yannakakis;perfect pack theorem averag case behavior optim onlin bin pack;siam societi industri appli mathemat review updat version abov;0
+95;203;d johnson;e coffman,m garey,r tarjan;perform bound level orient two dimension pack algorithm;siam societi industri appli mathemat j comput;0
+96;203;d johnson;e coffman,m garey,a lapaugh;schedul file transfer;siam societi industri appli mathemat j comput;0
+97;203;d johnson;c colbourn;unit disk graph;discret math;0
+98;203;d johnson;c courcoubetis,e coffman,m garey,m yannakakis,p shor,r weber;bin pack discret item size part i perfect pack theorem averag case behavior optim pack;siam societi industri appli mathemat j discret math;0
+99;203;d johnson;c courcoubetis,e coffman,l mcgeoch,m garey,m yannakakis,p shor,r weber;fundament discrep between averag case analys discret continu distribut bin pack case studi;stoc acm symposium theori comput;0
+100;203;d johnson;e dahlhaus,c papadimitriou,p seymour,m yannakakis;complex multitermin cut;siam societi industri appli mathemat j comput;0
+101;203;d johnson;;fun game;j algorithm;0
+102;203;d johnson;w day,d sankoff;comput complex infer root phylogeni parsimoni;math bioscienc;0
+103;203;d johnson;a demers,j ullman,m garey,r graham;worst case perform bound simpl on dimension pack algorithm;siam societi industri appli mathemat j comput;0
+104;203;d johnson;a fraenkel,m garey,t schaefer,y yesha;complex checker nxn board preliminari report;proc th annual symposium foundat comput scienc;0
+105;203;d johnson;m garey,r graham,d knuth;complex result bandwidth minim;siam societi industri appli mathemat j appl math;0
+106;203;d johnson;m garey;complex result multiprocessor schedul resourc constraint;siam societi industri appli mathemat j comput;0
+107;203;d johnson;m garey;compos function minim imag size;siam societi industri appli mathemat j comput;0
+108;203;d johnson;m garey;cross number is np complet;siam societi industri appli mathemat j algebra discret method;0
+109;203;d johnson;m garey,f hwang;algorithm set partit problem aris design multi purpos unit;ieee tran comput c;0
+110;203;d johnson;m garey,r graham;number theoret bin pack conjectur;proc th hungarian combinator colloquium;0
+111;203;d johnson;m garey,h so;applic graph color print circuit test;ieee tran circuit system ca;0
+112;203;d johnson;m garey;note note simplifi np complet graph problem;sigact new page;0
+113;203;d johnson;m garey;approxim algorithm bin pack problem survei;analysi design algorithm combinatori optim g ausiello m lucertini editor springer verlag;0
+114;203;d johnson;m garey;approxim algorithm combinatori problem annot bibliographi;algorithm complex new direct recent result j f traub editor academ press;0
+115;203;d johnson;m garey,r graham;perform guarante schedul algorithm;oper research;0
+116;203;d johnson;m garey,r graham,a yao;resourc constrain schedul as gener bin pack;j comb theori;0
+117;203;d johnson;m garey,b simons,r tarjan;schedul unit time task arbitrari releas time deadlin;siam societi industri appli mathemat j comput;0
+118;203;d johnson;m garey,r tarjan,m yannakakis;schedul oppos forest;siam societi industri appli mathemat j algebra discret method;0
+119;203;d johnson;;fast alloc algorithm;foc ieee symposium foundat comput scienc;0
+120;203;d johnson;m garey,r graham;np complet geometr problem;proc th annual acm symp theori comput;0
+121;203;d johnson;m garey;strong np complet result motiv exampl implic;j acm;0
+122;203;d johnson;m garey,g miller,c papadimitriou;complex color circular arc chord;siam societi industri appli mathemat j algebra discret method;0
+123;203;d johnson;m garey,r graham;complex comput steiner minim tree;siam societi industri appli mathemat j appl math;0
+124;203;d johnson;m garey,r sethi;complex flowshop jobshop schedul;math oper research;0
+125;203;d johnson;m garey,h witsenhausen;complex gener lloyd max problem;ieee tran inform theori it;0
+126;203;d johnson;m garey,r tarjan;planar hamiltonian circuit problem is np complet;siam societi industri appli mathemat j comput;0
+127;203;david johnson;z mao,o spatscheck,j merwe,j wang;effici robust stream provis vpn;proceed www world wide web seri;0
+128;203;david johnson;j merwe,j wang,o spatscheck,z mao;effici robust stream provis vpn;www world wide web seri;0
+129;203;david s johnson;m garey,f preparata,r tarjan;triangul simpl polygon;inform process letter;0
+130;203;david s johnson;f hwang,m garey;algorithm set partit problem aris design multipurpos unit;ieee tran comput;0
+131;203;david s johnson;j csirik;bound space line bin pack best is better than first;soda symposium discret algorithm;0
+132;203;david s johnson;j csirik;bound space line bin pack best is better than first;algorithmica;0
+133;203;david s johnson;;fast algorithm bin pack;journal comput system scienc;0
+134;203;david s johnson;c papadimitriou,m yannakakis;how easi is local search;journal comput system scienc preliminari version proc th ann ieee symp foundat comput scienc;0
+135;203;david s johnson;;local optim travel salesman problem;icalp automata languag program;0
+136;203;david s johnson;;local optim travel salesman problem;proc th colloq automata lang prog;0
+137;203;david s johnson;a lapaugh,r pinter;minim channel densiti later shift compon;proc th ann acm siam societi industri appli mathemat symp discret algorithm;0
+138;203;david s johnson;c papadimitriou,m yannakakis;gener all maxim independ set;inform process letter;0
+139;203;david s johnson;m szegedy;what ar least tractabl instanc max independ set;proc th ann acm siam societi industri appli mathemat symp discret algorithm s s;0
+140;203;david s johnson;;approxim algorithm combinatori problem;journal comput system scienc;0
+141;203;david s johnson;l mcgeoch,e rothberg;asymptot experiment analysi held karp travel salesman bound;proc th ann acm siam societi industri appli mathemat symp discret algorithm;0
+142;203;david s johnson;f preparata;densest hemispher problem;theoret comp sci;0
+143;203;david s johnson;m minkoff,s phillips;prize collect steiner tree problem theori practic;proc th ann acm siam societi industri appli mathemat symp discret algorithm;0
+144;203;david s johnson;a klug;test contain conjunct queri function inclus depend;journal comput system scienc;0
+145;203;david s johnson;c kenyon,j csirik;better approxim algorithm bin cover;soda symposium discret algorithm;0
+146;203;david s johnson;c kenyon,j csirik,j orlin,p shor,r weber;sum squar algorithm bin pack;stoc acm symposium theori comput;0
+147;203;david s johnson;c kenyon,j csirik,p shor,r weber;self organ bin pack heurist;alenex algorithm engin experi;0
+148;203;david s johnson;d kleitman,j leung,s assmann;dual version on dimension bin pack problem;j algorithm;0
+149;203;david s johnson;a klug;optim conjunct queri when attribut domain ar not disjoint extend abstract;foc ieee symposium foundat comput scienc;0
+150;203;david s johnson;a klug;test contain conjunct queri function inclus depend;pod symposium principl databas system;0
+151;203;david s johnson;a klug;test contain conjunct queri function inclus depend;j comput syst sci;0
+152;203;david s johnson;a lapaugh,r pinter;minim channel densiti later shift compon;soda symposium discret algorithm;0
+153;203;david s johnson;a lapaugh,e coffman,m garey;schedul file transfer distribut network;podc symposium principl distribut comput;0
+154;203;david s johnson;c mcgeoch,f leighton,j bentley,l mcgeoch;unexpect expect behavior result bin pack;stoc acm symposium theori comput;0
+155;203;david s johnson;n megiddo,s hakimi,m garey,c papadimitriou;complex search graph;j assoc comp mach;0
+156;203;david s johnson;m minkoff,s phillips;prize collect steiner tree problem theori practic;soda symposium discret algorithm;0
+157;203;david s johnson;g ostheimer,l mcgeoch,m fredman;structur travel salesmen;soda symposium discret algorithm;0
+158;203;david s johnson;g ostheimer,l mcgeoch,m fredman;structur travel salesmen;j algorithm;0
+159;203;david s johnson;c papadimitriou,m yannakakis;how easi is local search;j comput syst sci;0
+160;203;david s johnson;c papadimitriou,m yannakakis;how easi is local search extend abstract;foc ieee symposium foundat comput scienc;0
+161;203;david s johnson;c papadimitriou;gener all maxim independ set;inf process lett;0
+162;203;david s johnson;c papadimitriou,m garey,n megiddo,s hakimi;complex search graph;j acm;0
+163;203;david s johnson;c papadimitriou,m garey,n megiddo,s hakimi;complex search graph preliminari version;foc ieee symposium foundat comput scienc;0
+164;203;david s johnson;f preparata;densest hemispher problem;theor comput sci;0
+165;203;david s johnson;f preparata,m garey,r tarjan;triangul simpl polygon;inf process lett;0
+166;203;david s johnson;e rothberg,l mcgeoch;asymptot experiment analysi held karp travel salesman bound;soda symposium discret algorithm;0
+167;203;david s johnson;h so,m garey;applic graph color print circuit test work paper;foc ieee symposium foundat comput scienc;0
+168;203;david s johnson;l stockmeyer,m garey;simplifi np complet graph problem;theor comput sci;0
+169;203;david s johnson;l stockmeyer,m garey;simplifi np complet problem;stoc acm symposium theori comput;0
+170;203;david s johnson;m szegedy;what ar least tractabl instanc max tndepend set;soda symposium discret algorithm;0
+171;203;david s johnson;c young,d karger,m smith;near optim intraprocedur branch align;proceed symp program languag design implement;0
+172;203;david s johnson;;approxim algorithm combinatori problem;stoc acm symposium theori comput;0
+173;203;david s johnson;;approxim algorithm combinatori problem;j comput syst sci;0
+174;203;david s johnson;;np complet column ongo guid;j algorithm;0
+175;203;david s johnson;;travel salesman problem report state art;ifip intern feder inform process congress;0
+176;203;david s johnson;s assmann,d kleitman,j leung;dual version on dimension bin pack problem;j algorithm;0
+177;203;david s johnson;a barvinok,a tamir,g woeginger,r woodroofe,s fekete;geometr maximum travel salesman problem;j acm;0
+178;203;david s johnson;a barvinok,g woeginger,r woodroofe;maximum travel salesman problem polyhedr norm;ipco integ program combinatori optim;0
+179;203;david s johnson;f berman,f leighton,l snyder,p shor;gener planar match;j algorithm;0
+180;203;david s johnson;f berman;perform effici driven evalu scheme;j parallel distrib comput;0
+181;203;david s johnson;;catalog complex class;handbook theoret comput scienc volum algorithm complex;0
+182;203;david s johnson;e coffman,p shor,r weber;bin pack discret item size part ii tight bound first fit;random structur algorithm;0
+183;203;david s johnson;;structur travel salesmen abstract;swat scandinavian workshop algorithm theori;0
+184;203;david s johnson;j csirik;bound space line bin pack best is better than first;algorithmica preliminari version appear proc ann acm siam societi industri appli mathemat symp discret algorithm;0
+185;203;david s johnson;j csirik,c kenyon;better approxim algorithm bin cover;proc th ann acm siam societi industri appli mathemat symp discret algorithm;0
+186;203;david s johnson;j csirik,c kenyon,j orlin,p shor,r weber;sum squar algorithm bin pack;proc annual acm symp theori comput journal version j acm;0
+187;203;david s johnson;j csirik,c kenyon,p shor,r weber;self organ bin pack heurist;algorithm engin experiment m t goodrich c c mcgeoch ed springer lectur note comput scienc;0
+188;203;david s johnson;m fredman,l mcgeoch,g ostheimer;structur travel salesmen;j algorithm;0
+189;203;david s johnson;m garey,w freeman;comput intract guid theori np complet;;0
+190;203;david s johnson;;fast algorithm bin pack;j comput syst sci;0
+191;203;david s johnson;m garey;schedul task nonuniform deadlin two processor;j acm;0
+192;203;david s johnson;m garey,l stockmeyer;simplifi np complet graph problem;theoret comp sci;0
+193;203;david s johnson;m garey;complex near optim graph color;j acm;0
+194;203;donald b johnson;c papadimitriou,e dahlhaus,m yannakakis,p seymour;complex multiwai cut extend abstract;stoc acm symposium theori comput;0
+195;203;donald b johnson;a fraenkel,m garey,t schaefer,y yesha;complex checker n n board preliminari report;foc ieee symposium foundat comput scienc;0
+196;204;d johnson;p metaxas;connect compon o lg v parallel time crew pram;foc ieee symposium foundat comput scienc;0
+197;204;d johnson;p metaxas;connect compon o log n parallel time crew pram;j comput syst sci;0
+198;204;d johnson;;find all elementari circuit direct graph;siam societi industri appli mathemat j comput;0
+199;204;d johnson;r hassin;o n log n algorithm maximum flow undirect planar network;siam societi industri appli mathemat j comput;0
+200;204;d johnson;g frederickson;erratum gener select rank sort matric;siam societi industri appli mathemat j comput;0
+201;204;d johnson;g frederickson;gener select rank sort matric;siam societi industri appli mathemat j comput;0
+202;204;d johnson;t mizoguchi;select kth element x y x x x m;siam societi industri appli mathemat j comput;0
+203;204;d johnson;l raab;complex network reliabl optim resourc placement problem;siam societi industri appli mathemat j comput;0
+204;204;d johnson;p metaxas;optim algorithm singl multipl vertex updat problem minimum span tree;algorithmica;0
+205;204;d johnson;m goldweber;minim access cost replic distribut abstract;podc symposium principl distribut comput;0
+206;204;d johnson;g frederickson;gener select rank preliminari version;stoc acm symposium theori comput;0
+207;204;donald b johnson;g frederickson;find k th path p center gener search good structur;j algorithm;0
+208;204;donald b johnson;p metaxas;parallel algorithm comput minimum span tree;j algorithm;0
+209;204;donald b johnson;f makedon,j matthews,m cheyney,p metaxas,p gloor;toward multimedia confer proceed;commun acm;0
+210;204;donald b johnson;l raab;effect replic avail;intern journal comput simul;0
+211;204;donald b johnson;g frederickson;complex select rank x y matric sort column;j comput syst sci;0
+212;204;donald b johnson;l raab;tight upper bound benefit replica control protocol;j comput syst sci;0
+213;204;donald b johnson;s venkatesan;parallel algorithm minimum cut maximum flow planar network preliminari version;foc ieee symposium foundat comput scienc;0
+214;204;donald b johnson;;prioriti queue updat find minimum span tree;inf process lett;0
+215;204;donald b johnson;t gonzalez;sort number linear expect time optim extra space;inf process lett;0
+216;204;donald b johnson;;note dijkstra s shortest path algorithm;j acm;0
+217;204;donald b johnson;;effici algorithm shortest path spars network;j acm;0
+218;204;donald b johnson;;parallel algorithm minimum cut maximum flow planar network;j acm;0
+219;204;donald b johnson;s venkatesan;partit planar flow network preliminari version;foc ieee symposium foundat comput scienc;0
+220;204;donald b johnson;t gonzalez;new algorithm preemptiv schedul tree;j acm;0
+221;204;donald b johnson;b minnihan,c wrathall,w miller;reduc among float point graph;j acm;0
+222;204;donald b johnson;s kashdan;lower bound select x y other multiset;j acm;0
+223;204;donald b johnson;;prioriti queue which initi queue oper take o log log d time;mathemat system theori;0
+224;204;donald b johnson;l raab;find optim quorum assign distribut databas;icpp intern parallel process;0
+225;204;donald b johnson;p metaxas;optim algorithm vertex updat problem minimum span tree;ipp intern parallel process symposium;0
+226;204;donald b johnson;l raab;tight upper bound benefit replic consist control protocol;pod symposium principl databas system;0
+227;204;donald b johnson;p metaxas;parallel algorithm comput minimum span tree;spaa acm symposium parallel algorithm architectur;0
+228;204;donald b johnson;g frederickson;gener search set induc network;icalp automata languag program;0
+229;205;d johnson;c rose;editori;wireless network;0
+230;205;d johnson;c perkins;editori mobil network internet;monet european network excel;0
+231;205;d johnson;w zwaenepoel;transpar optimist rollback recoveri;oper system review;0
+232;205;d johnson;c perkins;mobil support ipv;mobicom comput network;0
+233;205;david b johnson;j jetcheva;adapt demand driven multicast rout multi hop wireless ad hoc network;mobihoc;0
+234;205;david b johnson;a perrig,y hu;packet leash defens against wormhol attack wireless network;infocom confer comput commun;0
+235;205;david b johnson;a myles,c perkins;imhp mobil host protocol internet;comput network isdn system;0
+236;205;david b johnson;a myles,c perkins;mobil host protocol support rout optim authent;ieee journal select area commun;0
+237;205;david b johnson;c perkins;rout optim mobil ip;cluster comput;0
+238;205;david b johnson;j tygar,s smith;complet asynchron optimist recoveri minim rollback;ftc symposium fault toler comput;0
+239;205;david b johnson;;internet support wireless mobil network;podc symposium principl distribut comput;0
+240;205;david b johnson;w zwaenepoel;recoveri distribut asynchron messag log checkpoint;podc symposium principl distribut comput;0
+241;205;david b johnson;;effici transpar optimist rollback recoveri distribut applic program;symposium reliabl distribut system;0
+242;205;david b johnson;s palchaudhuri;power mode schedul ad hoc network;icnp intern network protocol;0
+243;205;david b johnson;e elnozahy,w zwaenepoel;perform consist checkpoint;symposium reliabl distribut system;0
+244;205;david b johnson;s smith;minim timestamp size complet asynchron optimist recoveri minim rollback;symposium reliabl distribut system;0
+245;205;david b johnson;w zwaenepoel;recoveri distribut optimist messag log checkpoint;j algorithm;0
+246;205;david b johnson;w zwaenepoel;peregrin high perform rpc;softw pract exper;0
+247;205;david b johnson;e elnozahy,l alvisi,y wang;survei rollback recoveri protocol messag pass;acm comput surv;0
+248;205;david b johnson;;scalabl robust internetwork rout mobil host;icdc intern distribut comput system;0
+249;205;david b johnson;;ubiquit mobil host internetwork;workshop workstat oper system;0
+250;205;david b johnson;y hu;ensur cach fresh demand ad hoc network rout protocol;pomc workshop principl comput;0
+251;205;david b johnson;a perrig,y hu;sead secur effici distanc vector rout mobil wireless ad hoc network;wmcsa workshop comput system applic;0
+252;205;david b johnson;a saha,j jetcheva,s palchaudhuri,y hu;design evalu metropolitan area multiti wireless ad hoc network architectur;wmcsa workshop comput system applic;0
+253;205;david b johnson;y hu;cach strategi demand rout protocol wireless ad hoc network;mobicom comput network;0
+254;205;david b johnson;d maltz,j jetcheva,j broch,y hu;perform comparison multi hop wireless ad hoc network rout protocol;mobicom comput network;0
+255;205;david b johnson;y hu;implicit sourc rout demand ad hoc network rout;mobihoc;0
+256;206;d johnson;e cohen;improv method haptic trace sculptur surfac;symp haptic interfac proc asm dynam system control divis dsc comput anim;0
+257;206;d johnson;p willemsen;six degre freedom haptic render complex polygon model;proc haptic symposium;0
+258;206;d johnson;e cohen;spatial normal cone hierarchi;proc acm symposium interact d graphic research triangl park icsc symposium neural comput;0
+259;206;d johnson;a nahvi,d nelson,j hollerbach;haptic manipul virtual mechan from mechan cad design belgium leuven mai;proc ieee intl conf robot autom;0
+260;206;d johnson;d nelson,e cohen;haptic render surfac surfac sculpt model interact;proc th annual symp haptic interfac virtual environ teleoper system nashvil asm;0
+261;206;d johnson;j hollerbach,e cohen,w thompson,r freier,a nahvi,d nelson,t ii,s jacobsen;haptic interfac virtual prototyp mechan cad design;asm design manufactur symposium comput anim;0
+262;206;d johnson;e cohen;framework effici minimum distanc comput belgium leuven mai;proc ieee intl conf robot autom;0
+263;206;d johnson;e cohen;minimum distanc queri polygon parametr model;technic report uuc univers depart comput scienc;0
+264;206;david e johnson;e cohen;bound coher minimum distanc comput;icra intern robot autom;0
+265;206;david e johnson;a nahvi,d nelson,j hollerbach;haptic manipul virtual mechan from mechan cad design;icra intern robot autom;0
+266;206;david e johnson;p willemsen;six degre freedom haptic render complex polygon model;haptic;0
+267;206;david e johnson;e cohen,t ii;direct haptic render sculptur model;si d;0
+268;206;david e johnson;e cohen;framework effici minimum distanc comput;icra intern robot autom;0
+269;206;david e johnson;e cohen;spatial normal come hierarchi;si d;0
+270;206;david e johnson;t ii,e cohen;direct haptic render sculptur model;proc symposium interact d graphic;0
+271;206;david e johnson;e cohen;bound coher minimum distanc comput;intern robot autom icra intern robot autom;0
+272;206;david johnson;t ii,m kaplan,d nelson,e cohen;paint textur haptic interfac;virtual realiti vr virtual realiti;0
+273;206;david johnson;d nelson,e cohen,m kaplan,t ii;paint textur haptic interfac;vr virtual realiti;0
+274;207;d johnson;j blanchette;cryptographi retent panopticon societi abstract;acm polici;0
+275;207;d johnson;k miller;anonym pseudonym inescap ident net abstract;acm polici;0
+276;207;deborah g johnson;;democraci global inform infrastructur;gi jahrestagung;0
+277;207;deborah g johnson;k miller;ethic issu comput scientist engin;comput scienc engin handbook;0
+278;207;deborah g johnson;;ethic onlin shape social behavior onlin take more than new law modifi edict;commun acm;0
+279;207;deborah g johnson;j mulvey;account comput decis;commun acm;0
+280;207;deborah g johnson;d gotterbarn,j perolle,r anderson;new acm code ethic decis make;commun acm;0
+281;208;d johnson;l benzinger;layer boundari protect experi inform assur;acsac annual comput secur applic;0
+282;208;dale m johnson;j guttman;three applic formal method at mitr;fme formal method europ;0
+283;208;dale m johnson;j wittbold;inform flow nondeterminist;ieee symposium secur privaci;0
+284;208;dale m johnson;f thayer;state secur requir toler set;acm tran comput syst;0
+285;208;dale m johnson;f thayer;secur composit machin;csfw ieee comput secur foundat workshop;0
+286;208;dale m johnson;f thayer;secur properti consist test semant commun process;csfw ieee comput secur foundat workshop;0
+287;209;d johnson;s lappin;wh question unif type featur structur grammar vs featur check minimalist program;proceed the twelfth annual of associ theoret linguist;0
+288;209;d johnson;l moss;overview stratifi featur grammar;c martin vide ed current issu mathemat linguist elsevi;0
+289;209;d johnson;p postal;arc pair grammar;up;0
+290;209;d johnson;h watanabe;relat grammar gener jet japanes english machin translat;machin translat;0
+291;209;d johnson;l moss;stratifi featur structur multistrat relat analys;j cole g green j morgan ed linguist comput csli comput anim;0
+292;209;d johnson;t hampp;text categor toolkit;u s patent;0
+293;209;d johnson;;featur structur formal relat grammar;proceed the first intern mathemat linguist taragona;0
+294;209;d johnson;;govern rule geni english gener;proceed the natur languag process workshop inform societi;0
+295;209;d johnson;;gener jet;proceed the annual meet natur languag process inform process societi kyoto;0
+296;209;d johnson;;geni transport english gener;proceed the ibm natur languag process thornwood;0
+297;209;d johnson;;multimod natur languag interfac cross applic task;u s patent;0
+298;209;d johnson;;linguist design post analysi jet japanes english machin translat;proceed the intern fifth gener comput system tokyo;0
+299;209;d johnson;;relat grammar approach machin translat;proceed the natur languag process workshop inform societi;0
+300;209;d johnson;;technic infrastructur;machin translat japanes technolog evalu center loyola ieee meta data nti pub pb;0
+301;209;d johnson;;toward theori relation grammar;publish inc;0
+302;209;d johnson;s lappin,r levine;revolut confus repli our critic;natur languag linguist theori;0
+303;209;d johnson;s lappin,r levine;revolut maxim confus;natur languag linguist theori press;0
+304;209;d johnson;s lappin,r levine;structur unscientif revolut;natur languag linguist theori;0
+305;209;d johnson;t goetz,f oles,t zhang;kitcat text categor toolkit;ibm technic report;0
+306;209;d johnson;l moss;dynam interpret constraint grammar formal;journal logic languag inform;0
+307;209;d johnson;f oles,t goetz,t zhang;decis tree symbol rule induct text categor;ibm system journal;0
+308;209;d johnson;s weiss,c apte,f damerau,f oles,t goetz,t hampp;boost text mine perform;ieee intellig system;0
+309;209;d johnson;w zadrozny,m szummer,s jarecki,l morgenstern;natur languag understand grammar construct;cole comput linguist tokyo;0
+310;209;d johnson;s lappin;critiqu minimalist program;linguist philosophi;0
+311;209;d johnson;l moss;dynam interpret constraint formal;journal logic languag inform;0
+312;209;d johnson;l moss;grammar formal view as evolv algebra;linguist philosophi;0
+313;209;d johnson;l moss;evolv algebra mathemat model languag;l polo m masuch ed appli logic how what why kluwer;0
+314;209;d johnson;s lappin;local constraint vs economi;csli up comput anim;0
+315;209;d johnson;l eds;linguist philosophi special issu mathemat languag;;0
+316;209;david e johnson;;design post analysi jet japanes english machin translat;fgc fifth gener comput system;0
+317;209;david e johnson;a meyers,l moss;unif parser relat grammar;proceed the st annual meet associ cmputat linguist;0
+318;209;david e johnson;l moss;formal properti stratifi featur grammar;annal artifici intellig mathemat;0
+319;209;david e johnson;a meyers,l moss;unif parser relat grammar;acl meet the associ comput linguist;0
+320;209;david e johnson;l moss;formal properti stratifi featur grammar;annal mathemat artifici intellig;0
+321;209;david johnson;f damerau,t zhang;text chunk regular winnow;acl meet the associ comput linguist;0
+322;209;david johnson;t zhang,f damerau;text chunk regular winnow;proceed the th associ comput linguist;0
+323;210;d h johnson;c leang;asymptot m hypothesi bayesian detect;ieee tran info th;0
+324;210;d johnson;a dabak;relat between kullback leibler distanc fisher inform;;0
+325;210;d johnson;r glantz;when doe interv code occur;cn;0
+326;210;d johnson;w ray;optim stimulu code neural popul rate code;j comput neurosci;0
+327;210;d johnson;h diaz;optim physic layer transmiss minim signal distort;icassp;0
+328;210;d johnson;s sinanovic;symmetr kullback leibler distanc;;0
+329;210;d johnson;;basic inform process;;0
+330;210;d johnson;;dialogu concern neural code inform theori;;0
+331;210;d johnson;;from signal inform process present;;0
+332;210;d johnson;;four top reason why mutual inform doe not assess neural inform process;;0
+333;210;d johnson;;limit popul code;cn;0
+334;210;d johnson;;inform process perform limit neural popul;neural code workshop;0
+335;210;d johnson;i goodman;new multivari depend measur applic neural ensembl;workshop statist signal process;0
+336;210;d johnson;;neural popul structur consequ neural code;j comput neurosci;0
+337;210;d johnson;;point process model singl neuron discharg;j comput neurosci;0
+338;210;d johnson;;optim linear detector addit nois channel;ieee tran signal process;0
+339;210;d johnson;;origin equival circuit concept current sourc equival;proc ieee;0
+340;210;d johnson;;origin equival circuit concept voltag sourc equival;proc ieee;0
+341;210;d johnson;;signal encod fire pattern auditori neuron;invit talk ima journal appli mathemat workshop audit;0
+342;210;d johnson;o kelly,b delgutte,p cariani;fractal nois strength auditori nerv fiber record;j acoust soc am;0
+343;210;d johnson;m lexa;inform process linear block decod;;0
+344;210;d johnson;a lexa;inform process approach distribut detect;workshop statist signal process;0
+345;210;d johnson;a lexa;new look at inform gain soft decis;icassp;0
+346;210;d johnson;a lexa;optim binari decis manipul transmiss interv;;0
+347;210;d johnson;c miller,j schroeter,l myint,r glantz;visual respons crayfish ocular motoneuron inform theoret analysi;j comput neurosci;0
+348;210;d johnson;c miller,j schroeter,l myint,r glantz;visual signal optomotor reflex inform theoret analysi;j comput neurosci;0
+349;210;d johnson;c rozell;inform process dure transient respons crayfish visual;;0
+350;210;d johnson;s sinanovic;toward theori inform process;intern symposium inform theori;0
+351;210;d johnson;w wang;linear transform symbol;ieee tran signal process;0
+352;210;d johnson;l yue;optim binaur process point process model preprocess cue;j acoust soc am;0
+353;210;d johnson;m zacksenhouse,j williams,c tsuchitani;singl neuron model lso unit respons;j neurophysiol;0
+354;210;d johnson;c gruner;correl neural inform code fidel effici;neurocomput;0
+355;210;d johnson;j wise;differ first cours electr engin;signal process magazin;0
+356;210;don h johnson;c gruner;comparison optim suboptim spike sort algorithm theoret limit;neurocomput;0
+357;210;don h johnson;c miller,j schroeter,l myint,r glantz;visual signal optomotor reflex inform theoret analysi;journal comput neurosci;0
+358;210;don h johnson;c seshagiri,c gruner,k baggerly;inform theoret analysi neural code;journal comput neurosci;0
+359;210;don h johnson;c gruner;correl neural inform code fidel effici;neurocomput;0
+360;210;don h johnson;c gruner,r glantz;quantifi inform transfer spike gener;neurocomput;0
+361;210;don h johnson;c gruner,r glantz;quantifi inform transfer spike gener;neurocomput;0
+362;210;don h johnson;c gruner,k baggerly,c seshagiri;inform theoret analysi neural code;j comput neurosci;0
+363;211;d johnson;j brodman;appli cmm project plan practic divers environ;ieee softwar;0
+364;211;d johnson;j brodman;realiti reward softwar process improv;ieee softwar;0
+365;211;donna l johnson;j brodman;what small busi small organ sai cmm experi report;ics intern softwar engin;0
+366;211;donna l johnson;j brodman;softwar process improv approach tailor small organ small project tutori;ics intern softwar engin;0
+367;211;donna l johnson;j brodman;return invest roi from softwar process improv as measur us industri;softwar process improv practic;0

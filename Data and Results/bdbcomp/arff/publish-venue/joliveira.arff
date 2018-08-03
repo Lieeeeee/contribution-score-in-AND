@@ -1,0 +1,52 @@
+@relation 'Dataset bdbcomp publish-venue joliveira'
+@attribute Text string
+@attribute class-att {83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104}
+@data
+'rede computador',83
+'computacao grafica processamento imagen',84
+'informatica educacao',85
+'informatica educacao',85
+'informatica educacao',85
+'informatica educacao',85
+'informatica educacao',85
+'informatica educacao',85
+'escola region banco dado',85
+'informatica publica',85
+'informatica educacao',85
+'informatica educacao',85
+'escola region banco dado',85
+'ifip academi state softwar theori practic phd colloquium',85
+'biblioteca digitai',85
+'rede neurai',86
+'biblioteca digitai',87
+'revista informatica teorica aplicada',87
+'revista informatica teorica aplicada',87
+'revista informatica teorica aplicada',87
+'revista informatica teorica aplicada',87
+'revista informatica teorica aplicada',87
+'revista informatica teorica aplicada',87
+'revista informatica teorica aplicada',87
+'revista informatica teorica aplicada',87
+'revista informatica teorica aplicada',87
+'revista informatica teorica aplicada 10',87
+'escola region banco dado',87
+'informatica educacao',88
+'internacion melhoria processo softwar',89
+'computacao grafica processamento imagen',90
+'computacao grafica processamento imagen',90
+'geoinformatica',91
+'engenharia softwar',91
+'rede neurai',92
+'rede neurai',93
+'ifip academi state softwar theori practic phd colloquium',94
+'banco dado',95
+'revista informatica teorica aplicada',96
+'geoinformatica',97
+'rede computador',98
+'informatica publica',99
+'journal comput scienc',100
+'informatica publica',101
+'rede computador',102
+'engenharia softwar',103
+'desenvolvimento distribuido softwar',103
+'symposium microelectron technolog devic',104

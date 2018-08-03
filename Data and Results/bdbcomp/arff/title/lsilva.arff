@@ -1,0 +1,37 @@
+@relation 'Dataset bdbcomp title lsilva'
+@attribute Text string
+@attribute class-att {138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155}
+@data
+'utilizacao tecnica estel gerar sequencia test protocolo comunicacao',138
+'meta modelo especificacao arquitetura softwar camada',139
+'enriquecendo codigo cenario',139
+'integracao caracteristica transversai durant modelagem requisito',139
+'geracao ontologia subsidiada engenharia requisito',139
+'linguagem modelagem requisito orientada aspecto',139
+'requisito arquitetura softwar orientada aspecto integracao sinergica',139
+'marisa ferramenta mapeamento bidirecion modelo orientado aspecto requisito arquitetura softwar',139
+'effici fill algorithm non simpl close curv us point contain paradigm',140
+'stroke discret polynomi bezier curv via point contain paradigm',140
+'estudo detecao borda imagen profundidad',141
+'robust multiview rang imag registr',141
+'ferramenta mineracao imagen suport calculo idad gestacion recem nascido',141
+'mineracao imagen',141
+'gerenciamento integrado moden via snmp estudo caso',142
+'isamadapt ambient desenvolvimento aplicaco novo paradigma definido computacao pervasiva',143
+'disseminando informaco arquitetura isam',143
+'us neural network uncertainti inform core point fingerprint classif',144
+'expert coop++ ambient desenvolvimento sistema multiagent',145
+'aprendizagem participativa agrupamento nebuloso dado',146
+'verificacao formal etapa particionamento co design usando sistema reescrita bobj',147
+'monitoramento pe diabetico suport computacion',147
+'inspeco requisito softwar utilizando pbr apoio ferrament',148
+'modelagem biblioteca digitai usando abordagem 5s estudo caso',149
+'servico auto arquivamento publicaco cientifica compativel padrao oai',149
+'solv satisfi combin circuit bactrack search recurs learn',150
+'multius system kennet world',151
+'elicit requir identifi workflow categori',152
+'mapeando estrutura organizacionai categoria workflow',152
+'cartograph data treatment analysi real time three dimension terrain visual',153
+'computador producao servico publico resultado investigacao prefeitura belo horizont',154
+'controlando evolucao sistema orientado aspecto meio aspect awar interfac',155
+'estudo emprego quantificacao sistema orientado aspecto resultado preliminar',155

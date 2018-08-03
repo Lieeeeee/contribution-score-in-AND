@@ -1,0 +1,1468 @@
+@relation 'Dataset dblp co-authors slee'
+@attribute Text string
+@attribute class-att {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86}
+@data
+'in kyu park sang wook lee',10
+'dong gyu sim ihn cheol kim rae hong park rin chul kim',10
+'in kyu park kyoung mu lee',10
+'il dong yun in kyu park',10
+'chang su kim seung hwan kim',10
+'chang su kim rin chul kim',10
+'dong gyu sim ihn cheol kim rae hong park rin chul kim',10
+'byeong hwan jeon kyung mu lee',10
+'choon soo park jongchul ye',10
+'yong kwan kim',10
+'kiho kim nam ik cho',10
+'nam ik cho yoon gi yang',10
+'in kyu park kyoung mu lee',10
+'in kyu park',10
+'ja seong ku kyoung mu lee',10
+'eunjin jung il dong yun',10
+'hee soo yang',10
+'chang su kim rin chul kim',10
+'il dong yun jeong hee kim',10
+'il dong yun inseo han',10
+'in kyu park kyoung mu lee',10
+'tok wang ling',11
+'tok wang ling',11
+'tok wang ling',11
+'hua gang li tok wang ling',11
+'gillian dobbie leonid a kalinichenko mong li lee tok wang ling',11
+'bin cui chuan heng ang tok wang ling zhongwei luo',11
+'chuan heng ang tok wang ling zheng xuan loh',11
+'mong li lee tok wang ling',11
+'boon tun wee tok wang ling',11
+'hua gang li tok wang ling wai chong low zhong wei luo',11
+'tok wang ling',11
+'tok wang ling',11
+'hua gang li tok wang ling',11
+'hua gang li tok wang ling zheng xuan loh',11
+'tok wang ling',11
+'tok wang ling',11
+'tok wang ling',11
+'gillian dobbie mong li lee tok wang ling xiaoying wu',11
+'pei yuen wong wai lup low',11
+'leonid a kalinichenko mong li lee tok wang ling',11
+'chuan heng ang tok wang ling zheng xuan loh',11
+'h kim s g lee',12
+'h kim s g lee',12
+'h kim t lee s g lee j chun',12
+'t lee j shim s g lee',12
+'s g lee d kim c wu',12
+'juhnyoung lee',12
+'s g lee l henschen j chun t lee',12
+'s g lee s mun p jha b levine d ro',12
+'g park j oh k kim s g lee c wu',12
+'ghassan z qadah lawrence j henschen',12
+'junho shim taehee lee',12
+'junho shim taehee lee',12
+'j shim t lee',12
+'chisu wu geunduk park jaewon oh kapsoo kim',12
+'chisu wu dongkyu kim kapsoo kim woochang shin',12
+'jae young chang',12
+'jae young chang',12
+'jae young chang',12
+'jae heon cheong',12
+'j cheong s g lee',12
+'jae heon cheong jonghoon chun',12
+'dong hoon choi',12
+'j chun h kim s g lee j choi h cho',12
+'s hyun j choi j chun s g lee d shin',12
+'j jung d kim s g lee',12
+'han joon kim',12
+'d kim s g lee',12
+'d kim j kim s g lee',12
+'h kim s g lee',12
+'h kim s g lee',12
+'h kim s g lee',12
+'k kim d kim j kim s park i lee s g lee',12
+'han joon kim',12
+'han joon kim',12
+'s lin s w lee',13
+'stephen lin',13
+'s lin s w lee',13
+'s lin s w lee',13
+'stephen lin',13
+'stephen lin',13
+'c h oh h s kim h w park w s kim s w lee z h cho',13
+'e angelopoulou s w lee r bajcsy',13
+'k arthur g bishop r bajcsy h farid h fuchs s w lee l mcmillan a state',13
+'r bajcsy s w lee a leonardis',13
+'r bajcsy s w lee a leonardis',13
+'r bajcsy s w lee a leonardis',13
+'r bajcsy s w lee a leonardis',13
+'r bajcsy s w lee a leonardis',13
+'ruzena bajcsy',13
+'r bajcsy s w lee a leonardis',13
+'in kyu park sang uk lee',13
+'g sharp s w lee d wehe',13
+'g sharp s w lee d wehe',13
+'s sull j oh s oh s m h song s w lee',13
+'david k wehe gregory c sharp',13
+'david k wehe gregory c sharp',13
+'david k wehe gregory c sharp',13
+'david k wehe gregory c sharp',13
+'daniel berwick',13
+'d berwick s w lee',13
+'d berwick s w lee',13
+'d berwick s w lee',13
+'d berwick s w lee',13
+'z h cho h w park j b ra s w lee s k hilal',13
+'z h cho h s kim c h oh h w park s w lee',13
+'z h cho s w lee',13
+'h farid s w lee r bajcsy',13
+'c frost s w lee r johnson y l murphy',13
+'h fuchs g bishop k arthur l mcmillan r bajcsy s w lee h farid t kanade',13
+'w h garner s k hilal s w lee a spector',13
+'z he j obermark j du s w lee d k wehe g f knoll',13
+'s k hilal s w lee z h cho s k mun j b ra m mawad a j silver p sane',13
+'s w lee r bajcsy',13
+'s w lee r bajcsy',13
+'s w lee z h cho',13
+'s w lee s k hilal z h cho',13
+'s w lee s k hilal j b ra j h kim s k mun z h cho',13
+'s w lee',13
+'s w lee a jaklic r bajcsy f solina',13
+'s lin s w lee',13
+'s lin s w lee',13
+'byeong soo jeong hyonwoo seung',14
+'hyonwoo seung taewoong jeon',14
+'hyonwoo seung taewoong jeon',14
+'hyonwoo seung sunghwan roh taewoong jeon',14
+'hyonwoo seung taewoong jeon',14
+'hyungill kim jongwon lee',14
+'hyungill kim jongwon lee',14
+'byeong soo jeong daeho kim',14
+'hyungill kim jongwon lee',14
+'byeong soo jeong hyonwoo seung',14
+'byeong soo jeong hyung il kim young rae hong',14
+'hyonwoo seung taewoong jeon',14
+'hyonwoo seung taewoong jeon',14
+'tzilla elrad ufuk verun',14
+'choong seon hong zhaowei qu',14
+'nan',14
+'chong sun hwang sungsuk kim',15
+'chong sun hwang heonchang yu',15
+'chong sun hwang masaru kitsuregawa',15
+'chong sun hwang heonchang yu sungsuk kim',15
+'chong sun hwang soon young jung sungsuk kim',15
+'chong sun hwang wongye lee',15
+'chong sun hwang soon young jung',15
+'chong sun hwang jehyok ryu moonbae song',15
+'chong sun hwang soon young jung',15
+'chong sun hwang masaru kitsuregawa',15
+'chong sun hwang heonchang yu',15
+'chong sun hwang soon young jung',15
+'chong sun hwang masaru kitsuregawa',15
+'chong sun hwang won gyu lee',15
+'chong sun hwang heongchang yu',15
+'chong sun hwang',15
+'d s kim s y lee r m kil',16
+'doh suk kim hoon kim jae hoon jeong',16
+'nan',16
+'michael mozer',16
+'cheol hoon park jung wook cho',16
+'ki young park marwan a jabri terrence j sejnowski',16
+'ki young park',16
+'hyung min park un min bae',16
+'song yee yoon',16
+'jim austin rhee man kil',16
+'u m bae t w lee s y lee',16
+'un min bae',16
+'jung wook cho',16
+'jung wook cho',16
+'aapo hyv auml rinen shun ichi amari te won lee v david s aacute nchez a',16
+'ju seog jang sang yung shin',16
+'so young jeong',16
+'j h jeong h kim d s kim s y lee',16
+'s h lee s j kim w kim s h lee',17
+'g s na s h lee s h lee',17
+'g s na s h lee s h lee',17
+'g s na s h lee s h lee',17
+'s h le e an d l j he nschen s h lee',17
+'y c park p i scheuermann s h lee s h lee',17
+'peter scheuermann young chul park',17
+'s h lee',17
+'s h lee',17
+'dong hoon choi',17
+'lawrence j henschen',17
+'lawrence j henschen',17
+'lawrence j henschen',17
+'lawrence j henschen',17
+'jin seon hong larry kerschberg',17
+'h j jeong s h lee s h lee',17
+'anmo jeong byoungju choi dong sub cho hwan seung yong ki joon chae kiho lee meejeong lee myung kim seung soo park won kim',17
+'anmo jeong byoungju choi dong sub cho ho sook kim hwan seung yong jung won lee ki joon chae kiho lee meejeong lee minsoo lee myung kim seung soo park wol young lee won kim',17
+'p c kim h i choi y i lee s h lee m j kim s h lee',17
+'sung jin kim',17
+'s j kim s h lee s h lee',17
+'b m kim s h lee s r maeng j w cho s h lee',17
+'sung jin kim',17
+'b m kim s h lee s r maeng j w cho s h lee',17
+'sung jin kim won kim',17
+'c s kim s h lee s h lee',17
+'s h lee s h lee',17
+'s h lee l j henschen s h lee',17
+'s g lee d h choi s h lee s h lee',17
+'s g lee d h choi s h lee s h lee',17
+'s g lee s h lee s h lee',17
+'s h lee s h lee',17
+'s h lee l j henschen m h kim y j lee s h lee',17
+'s h lee s h lee',17
+'s h lee j s hong l kerschberg s h lee',17
+'s h lee l j henschen s h lee',17
+'sami b abugharbieh',18
+'sami b abugharbieh',18
+'nan',18
+'wang hongyuan',18
+'albert d edgar',18
+'albert d edgar',18
+'albert d edgar',18
+'jan bon chen',18
+'jan bon chen',18
+'jan bon chen',18
+'nan',18
+'ben kao bo zhou david wai lok cheung kan hu',19
+'ben kao david wai lok cheung',19
+'ben kao david wai lok cheung',19
+'ben kao bo zhou david wai lok cheung hu kan',19
+'pier luca lanzi rosa meo editors',19
+'sau dan lee luc de raedt',19
+'sau dan lee luc de raedt',19
+'sau dan lee luc de raedt',19
+'sau dan lee david cheung',19
+'sau dan lee david w l cheung',19
+'witold abramowicz jozef zurada editors',19
+'david wai lok cheung david yang siu ming yiu tak wah lam wai shing ho wing kin sung',19
+'david w cheung bo zhou ben kao kan hu sau dan lee',19
+'david cheung sau dan lee thomas lee william song c j tan',19
+'david wai lok cheung sau dan lee yongqiao xiao',19
+'david w l cheung sau dan lee benjamin kao',19
+'david wai lok cheung',19
+'david cheung sau dan lee',19
+'david wai lok cheung b zhou ben kao h kan sau dan lee',19
+'sau dan lee luc de raedt',19
+'sau dan lee luc de raedt',19
+'sau dan lee david w cheung ben kao',19
+'heikki mannila luc de raedt manfred jaeger',19
+'luc de raedt manfred jaeger sau dan lee heikki mannila',19
+'c j tan david wai lok cheung thomas lee william song',19
+'david yang wing kin sung siu ming yiu david cheung wai shing ho tak wah lam',19
+'sung woo choi young min kim',1
+'sung woo choi young min kim',1
+'s h choi s w lee',1
+'sung woo choi',1
+'h s park b k shin j moon s w lee',1
+'j s park s w lee',1
+'j s park s w lee',1
+'h s park s w lee',1
+'h s park s w lee',1
+'sang cheol park',1
+'s w lee d s kim',1
+'s c park s w lee',1
+'s w lee j s kim',1
+'j s park y h oh s c ahn s w lee',1
+'s w lee',1
+'h s park s y kim s w lee',1
+'s w lee y j kim',1
+'h s park s w lee',1
+'s w lee y j kim m w kim',1
+'s w lee c h kim y y tang h ma',1
+'s w lee j kim',1
+'s w lee j s park',1
+'s w lee e s kim y y tang',1
+'d j lee s w lee',1
+'song ha choi young kyu lim',1
+'d doermann s w lee s srihari k tombre a rosenfeld',1
+'h fujisawa h sako y okada s w lee',1
+'a golovan m h yoo s w lee l podladchikova d shaposhnikov',1
+'s k han s w lee',1
+'ho jeong hwang hyuk chul kwon min jung kim',1
+'bon woo hwang',1
+'b w hwang v blanz t vetter h h song s w lee',1
+'b w hwang s w lee',1
+'bon woo hwang thomas vetter volker blanz',1
+'h s park',1
+'s c park s w lee',1
+'s c park b w hwang s w lee',1
+'h s park s w lee',1
+'h s park s w lee',1
+'j s park s w lee',1
+'h s park j s park s w lee',1
+'j s park s w lee',1
+'h s park h h song s w lee',1
+'j park h y kim y park s w lee',1
+'b w hwang h byun m c roh s w lee',1
+'b w hwang s w lee',1
+'bon woo hwang',1
+'b w hwang s w lee',1
+'bon woo hwang jae jin kim',1
+'b w hwang j s park s w lee',1
+'seonghoon kang',1
+'h j kang s w lee',1
+'h j kang s w lee',1
+'s kang s w lee',1
+'j s park h j kang s w lee',1
+'h s park s w lee',1
+'i t podolak s w lee',1
+'i t podolak a bielecki e majkit s w lee',1
+'nan',1
+'h k roh s w lee',1
+'h k roh s w lee',1
+'hyung ki roh',1
+'dae seok ryu',1
+'d s ryu s m kang s w lee',1
+'h j kang s w lee',1
+'seonghoon kang',1
+'hee joong kang',1
+'h j kang s w lee',1
+'s kang h byun s w lee',1
+'s kang h r byun s w lee',1
+'s kang s w lee',1
+'hee joong kang jeong seon park',1
+'hee jeong kim myung hyun yoo',1
+'h j kim m h yoo s w lee',1
+'ing shyh shyu jiming liu lo ting tu win win lin yuan yan tang',1
+'bong kee sin seon kyu kim',1
+'bong kee sin hee seon park jongsub moon',1
+'h h song s w lee',1
+'hee heon song hee seon park',1
+'h h song s w lee',1
+'h h song s w lee',1
+'ching y suen louisa lam',1
+'c y suen w h hsu patrick s p wang s mori t zhang paul c k kwok l lam',1
+'ching y suen louisa lam',1
+'dong june lee hee seon park',1
+'dong june lee hee seon park',1
+'dong june lee hee seon park',1
+'dong june lee hee seon park',1
+'dong june lee hee seon park',1
+'young joon kim',1
+'s w lee d j lee h s park',1
+'hee jeong kim myung hyun yoo',1
+'s w lee h h song',1
+'ju sung kim myoung young yoon',1
+'s w lee s m kang h h song',1
+'y m kim s w choi s w lee',1
+'s w lee y j kim',1
+'s y kim s w lee',1
+'s w lee',1
+'jong soo kim',1
+'y j kim s w lee',1
+'young joon kim',1
+'s y kim s w lee',1
+'eun soon kim yuan yan tang',1
+'y y tang l t tu j liu s w lee w w lin i s shyu',1
+'y y tang t li s w lee',1
+'y y tang s w lee c y suen',1
+'y y tang s w lee c y suen',1
+'y y tang s w lee c y suen',1
+'y y tang s w lee m cheriet c d yan c y suen',1
+'alessandro verri',1
+'dihua xi',1
+'d xi s w lee',1
+'d xi s w lee',1
+'s w lee',1
+'eung jae lee',1
+'e j lee s w lee',1
+'s w lee s y kim',1
+'s w lee s y kim',1
+'h y kim j y park s w lee',1
+'s w lee j s park',1
+'young joon kim',1
+'s w lee l lam c y suen',1
+'h y kim j y park s w lee',1
+'s w lee d s ryu',1
+'sang yup kim',1
+'s w lee',1
+'y j kim s w lee m w kim',1
+'s w lee h h song',1
+'j j kim b w hwang m h yoo s w lee',1
+'e s kim s w lee',1
+'d i kim s w lee',1
+'h c kwon h j hwang m j kim s w lee',1
+'l lam s w lee c y suen',1
+'d xi i t podolak s w lee',1
+'d xi s w lee',1
+'d xi s w lee y y tang',1
+'dihua xi',1
+'d xi s w lee',1
+'d xi s w lee',1
+'h d yang b k sin s w lee',1
+'m y yoon s w lee j s kim',1
+'s w lee h h song',1
+'s w lee a verri eds',1
+'s w lee j kim',1
+'s w lee s w lee h c jung',1
+'s w lee',1
+'s w lee ed',1
+'s w lee y y tang p s p wang',1
+'s w lee h bulthoff t poggio eds',1
+'s w lee d j lee',1
+'nan',1
+'s w lee',1
+'s w lee a verri',1
+'chang ahn hee joong kang young kyu lim',1
+'dong june lee hee seon park',1
+'s w lee louisa lam c y suen',1
+'andrzej bielecki elzbieta majkut igor t podolak',1
+'s w lee y nakano eds',1
+'s w lee',1
+'a bielecki i t podolak m bielecka',1
+'s w lee k c kim',1
+'h bulthoff s w lee t poggio c wallraven eds',1
+'s w lee y y tang p s p wang eds',1
+'hyeran byun',1
+'s w lee y j kim',1
+'h r byun s w lee',1
+'s w lee y j kim',1
+'hyeran byun seonghoon kang',1
+'hyeran byun seonghoon kang',1
+'s w lee y j kim',1
+'j y lee j s park h r byun s w lee',1
+'j y lee h j kang s w lee',1
+'y m yang s w lee',1
+'s w lee j kim',1
+'s w lee j kim',1
+'s w lee y r kwon',1
+'s w lee j h kim frans c a groen',1
+'s w lee y r kwon',1
+'s w lee h s park y y tang',1
+'s w lee e s kim',1
+'s w lee j kim',1
+'s w lee e s kim b w min',1
+'y k lim h j kang c ahn s w lee',1
+'s w lee',1
+'nan',1
+'s w lee y j kim',1
+'s w lee j kim f c a groen',1
+'s w lee y m kim s w choi',1
+'s w lee k c kim',1
+'s w lee h s park',1
+'hyeran byun seonghoon kang',1
+'hyeran byun kil cheon kim myung cheol roh yeong woo choi',1
+'h byun s w lee',1
+'w g cho s w lee j h kim',1
+'sung woo choi young min kim',1
+'sung woo choi young min kim',1
+'bo shen',20
+'bo shen',20
+'william su mario gerla',20
+'william su mario gerla',20
+'ken tang katia obraczka mario gerla',20
+'ken tang katia obraczka mario gerla',20
+'ken tang katia obraczka mario gerla',20
+'ken tang katia obraczka mario gerla',20
+'zhichen xu chunqiang tang sujata banerjee',20
+'sang ho bae mario gerla',20
+'sang ho bae mario gerla',20
+'sang ho bae william su mario gerla',20
+'sujata banerjee jack brassil amy dalal ed perry puneet sharma andrew thomas',20
+'mario gerla william su',20
+'sujata banerjee jack brassil amy dalal ed perry puneet sharma andrew thomas',20
+'mario gerla guangyu pei',20
+'sujata banerjee jack brassil amy dalal ed perry puneet sharma andrew thomas',20
+'julian hsu mario gerla rajive bagrodia william su',20
+'sujata banerjee zhichen xu chunqiang tang',20
+'manthos kazantzidis mario gerla',20
+'mario gerla william su',20
+'youngbae ko kang yong lee',20
+'mario gerla william su',20
+'elizabeth m belding royer charles e perkins',20
+'william su mario gerla',20
+'mario gerla',20
+'mario gerla',20
+'william su mario gerla',20
+'mario gerla ching chuan chiang',20
+'william su mario gerla',20
+'william su mario gerla',20
+'wei ying ma bo shen',20
+'wei ying ma bo shen',20
+'william su mario gerla',20
+'william su julian hsu mario gerla rajive bagrodia',20
+'chai keong toh mario gerla',20
+'elizabeth m royer charles e perkins',20
+'julian hsu russell hayashida mario gerla rajive bagrodia',20
+'mario gerla chai keong toh',20
+'mario gerla',20
+'charles e perkins elizabeth m belding royer',20
+'elizabeth m royer charles e perkins',20
+'puneet sharma jack brassil kang g shin',20
+'puneet sharma jack brassil julio lopez',20
+'puneet sharma jack brassil kang g shin',20
+'bo shen sujoy basu',20
+'bo shen sujoy basu',20
+'bo shen sujoy basu',20
+'junguk l kim',21
+'junguk l kim',21
+'junguk l kim',21
+'junguk l kim',21
+'nan',21
+'nan',21
+'yoonjoon lee',21
+'seok ju chun deok hwan kim ju hong lee chin wan chung',22
+'chin wan chung deok hwan kim guang ho cha ju hong lee',22
+'chin wan chung ju hong lee seok ju chun',22
+'chin wan chung deok hwan kim',22
+'chin wan chung',22
+'chin wan chung',22
+'chin wan chung deok hwan kim ju hong lee seok ju chun',22
+'deok hwan kim ju hong lee chin wan chung',22
+'ju hong lee deok hwan kim chin wan chung guang ho cha',22
+'ju hong lee seok ju chun',22
+'a c bovik',23
+'a c bovik',23
+'a c bovik',23
+'a c bovik y y kim',23
+'a c bovik',23
+'a c bovik y y kim',23
+'s h park s h jang',23
+'a c bovik',23
+'j s youn',23
+'nan',23
+'a c bovik',23
+'s g shin s y shin',23
+'a c bovik',23
+'a c bovik',23
+'nan',23
+'nan',23
+'a c bovik',23
+'nan',23
+'s h park s h jang j s koh',23
+'nan',23
+'a c bovik',23
+'j s youn s h jang s h jang',23
+'alan c bovik chris podilchuk',23
+'alan c bovik young yong kim',23
+'alan c bovik',23
+'alan c bovik chris podilchuk vidhya krishnan',23
+'alan c bovik marios s pattichis',23
+'melba m crawford',23
+'y ko k lee e kang',23
+'nan',23
+'seong hwan jang',23
+'s h jang j s lee',23
+'b l evans',23
+'chin hsiung wu pei zong lee shi jinn horng shih ying lin',24
+'horng ren tsai shi jinn horng yu hua lee',24
+'chia ho chen horng ren tsai shi jinn horng shun shan tsai tzong wann kao',24
+'ruey chang tsai shi jinn horng woei jiunn tsaur',24
+'horng ren tsai shi jinn horng shun shan tsai tzong wann kao',24
+'horng ren tsai shi jinn horng shun shan tsai tzong wann kao',24
+'hann jang ho',25
+'hann jang ho yu tsang chin',25
+'maw hwa chen',25
+'teofilo f gonzalez',25
+'teofilo f gonzalez',25
+'teofilo f gonzalez',25
+'hae chang rim jun ichi tsujii',26
+'hae chang rim jun ichi tsujii',26
+'gum won hong hae chang rim myoung sook ko sang bum kim',26
+'do gil lee hae chang rim',26
+'hae chang rim hoo jung chung so young park yong jae kwak young sook hwang',26
+'haruhiko asada',27
+'changhyun cho chong won lee munsang kim yoon sang kim',27
+'chong won lee dae sung choi jangwook lee munsang kim',27
+'jinsuck kim nancy m amato',27
+'james fellers nancy m amato',27
+'seok won lee ryszard s michalski',28
+'seok won lee',28
+'seok won lee',28
+'seok won lee',28
+'seok won lee',28
+'seok won lee s fischthal j wnek',28
+'seok won lee david c rine',28
+'seok won lee david c rine',28
+'seok won lee',28
+'dorin marcu gheorghe tecuci kathryn wright michael bowman mihai boicu',28
+'dorin marcu gheorghe tecuci kathryn wright michael bowman mihai boicu',28
+'ryszard s michalski k kaufman e bloedorn seok won lee',28
+'gheorghe tecuci kathryn wright mihai boicu',28
+'g tecuci t dybala m hieb h keeling k wright p loustaunau d hille seok won lee',28
+'gheorghe tecuci',28
+'g tecuci k wright seok won lee m boicu m bowman',28
+'g tecuci m boicu k wright seok won lee',28
+'g tecuci m boicu k wright seok won lee d marcu m bowman',28
+'g tecuci m boicu k wright seok won lee d marcu m bowman',28
+'g tecuci seok won lee',28
+'k wright m boicu seok won lee g tecuci',28
+'j m aronis bruce g buchanan seok won lee',28
+'m boicu g tecuci m bowman d marcu seok won lee k wright',28
+'m boicu k wright d marcu seok won lee m bowman g tecuci',28
+'nan',28
+'l kerschberg seok won lee l tischer',28
+'seok won lee',28
+'seok won lee',28
+'seok won lee david c rine',28
+'seok won lee g tecuci',28
+'seok won lee l kerschberg',28
+'seok won lee l kerschberg',28
+'seok won lee',28
+'seok won lee david c rine',28
+'seok won lee j wnek',28
+'seok won lee ryszard s michalski',28
+'seok won lee',28
+'seok won lee s fischthal j wnek',28
+'seok won lee s fischthal j wnek',28
+'seok won lee j wnek',28
+'seok won lee david c rine',28
+'seok won lee',28
+'seok won lee l kerschberg',28
+'seok won lee g tecuci',28
+'seok won lee',28
+'seok won lee',28
+'seok won lee',28
+'seok won lee',28
+'seok won lee ryszard s michalski',28
+'seok won lee david c rine',28
+'suman banerjee bobby bhattacharjee aravind srinivasan',29
+'bohyung han minho shin',29
+'chongkwon kim',29
+'chongkwon kim',29
+'rob sherwood bobby bhattacharjee',29
+'chongkwon kim',29
+'chongkwon kim',29
+'minho shin bohyung han',29
+'suman banerjee bobby bhattacharjee',29
+'hyojun lim chongkwon kim',29
+'hyojun lim chongkwon kim',29
+'hyojun lim chongkwon kim',29
+'rob sherwood samrat bhattacharjee',29
+'aravind srinivasan bobby bhattacharjee suman banerjee',29
+'dong hoon lee dong guk han hye young park hyung jin yang young ho park',2
+'heajoung yoo jong in lim maenghee sung okyeon yi seokhie hong',2
+'deukjo hong jaechul sung',2
+'changhoon lee deukjo hong hyung jin yang jongin lim',2
+'choonsik park jong in lim ju sung kang',2
+'jongin lim seokhie hong seonhee yoon',2
+'dong hyeon cheon kyung hwan park seok hie hong seonhee yoon sung jae lee',2
+'hyejoung yoo jongin lim kwangsoo lee',2
+'jaechul sung jong in lim okyeon yi wonil lee',2
+'donghoon chang jaechul sung jongin lim soo hak sung',2
+'choonsik park jae woo han ju sung kang jung hee cheon ki hyoung ko',2
+'deukjo hong jongin lim seokhie hong youngdai ko',2
+'dong hyeon cheon jong in lim sung jae lee',2
+'dukjae moon jongsung kim seokhie hong seokwon jung wonil lee',2
+'daiki lee seongtaek chee soo hak sung',2
+'jae choon cha jae woo han jung hee cheon ki hyoung ko',2
+'deukjo hong jaechul sung jongin lim okyeon yi seokhie hong wonil lee',2
+'jaechul sung jong in lim sangjoon park seokhie hong',2
+'dong hoon lee dong guk han hye young park hyung jin yang young ho park',2
+'sang joon park seongtaek chee sung mo park',2
+'heajoung yoo jong in lim maenghee sung okyeon yi seokhie hong',2
+'kilsoo chun seonhee yoon seungjoo kim soo hak sung',2
+'deukjo hong jaechul sung',2
+'changhoon lee deukjo hong hyung jin yang jongin lim',2
+'choonsik park jong in lim ju sung kang',2
+'jongin lim seokhie hong seonhee yoon',2
+'dong hyeon cheon kyung hwan park seok hie hong seonhee yoon sung jae lee',2
+'hyejoung yoo jongin lim kwangsoo lee',2
+'jaechul sung jong in lim okyeon yi wonil lee',2
+'jaechul sung jongin lim jongsu kim seokhie hong',2
+'kwangjo kim soo hak sung sung mo park',2
+'dae hyun ryu kyung hyune rhee sang uk shin',2
+'jongin lim maenghee sung sangho oh young ho park',2
+'sang joon park seung cheol goh',2
+'eonkyung lee sang geun hahn',2
+'choonsik park jae woo han ju sung kang jung hee cheon ki hyoung ko',2
+'eonkyung lee',2
+'jae choon cha jae woo han jung hee cheon ki hyoung ko',2
+'deukjo hong jaechul sung jongin lim okyeon yi seokhie hong wonil lee',2
+'jaechul sung jong in lim sangjoon park seokhie hong',2
+'sang joon park seongtaek chee sung mo park',2
+'jaechul sung jongin lim jongsu kim seokhie hong',2
+'kwangjo kim seongtaek chee',2
+'dukjae moon jongsung kim seokhie hong seokwon jung wonil lee',2
+'daiki lee seongtaek chee soo hak sung',2
+'jae choon cha jae woo han jung hee cheon ki hyoung ko',2
+'deukjo hong jaechul sung jongin lim okyeon yi seokhie hong wonil lee',2
+'jaechul sung jong in lim sangjoon park seokhie hong',2
+'sang joon park seongtaek chee sung mo park',2
+'kilsoo chun seonhee yoon seungjoo kim soo hak sung',2
+'jaechul sung jongin lim jongsu kim seokhie hong',2
+'kwangjo kim soo hak sung sung mo park',2
+'donghoon chang jaechul sung jongin lim soo hak sung',2
+'choonsik park jae woo han ju sung kang jung hee cheon ki hyoung ko',2
+'deukjo hong jongin lim seokhie hong youngdai ko',2
+'dong hyeon cheon jong in lim sung jae lee',2
+'dukjae moon jongsung kim seokhie hong seokwon jung wonil lee',2
+'daiki lee seongtaek chee soo hak sung',2
+'jae choon cha jae woo han jung hee cheon ki hyoung ko',2
+'deukjo hong jaechul sung jongin lim okyeon yi seokhie hong wonil lee',2
+'jaechul sung jong in lim sangjoon park seokhie hong',2
+'sang joon park seongtaek chee sung mo park',2
+'kilsoo chun seonhee yoon seungjoo kim soo hak sung',2
+'jaechul sung jongin lim jongsu kim seokhie hong',2
+'kwangjo kim soo hak sung sung mo park',2
+'dukjae moon jongin lim kyungdeok hwang wonil lee',2
+'deukjo hong jaechul sung jongin lim shiho moriai',2
+'jongin lim sangwoo park soo hak sung',2
+'jongin lim kyungdeok hwang wonil lee',2
+'donghyeon cheon inho cho jaechul sung jongin lim seokhie hong',2
+'hyejoung yoo hyungwoo lee jongin lim',2
+'jongin lim maenghee sung sangho oh young ho park',2
+'chin heong khor',30
+'sai peck lee siew khim thin hong song liu',30
+'sai peck lee colette roland',30
+'sai peck lee m zahidur rahman',30
+'chee hoong leong',30
+'chee hong leong sai peck lee',30
+'tong ming lim',30
+'tong ming lim sai peck lee',30
+'abdulmajid hissen mohamed lee sai peck',30
+'kok meng yew m zahidur rahman',30
+'kok meng yew m zahidur rahman',30
+'lip eng yong sai peck lee',30
+'abu bakar zaitun ying wah teh',30
+'mee yee chan',31
+'mee yee chan',31
+'mee yee chan',31
+'mee yee chan',31
+'mee yee chan',31
+'ju young lee park',32
+'hyeong ah choi ju young lee park',32
+'hyeong ah choi ju young lee park',32
+'ju young lee park',32
+'hyeong ah choi',32
+'chang hoon choi jei hwan yoo jeong taek kong',33
+'chang hoon choi jin kyu park kyung ho kim yeong gil kim',33
+'jai hoon lee kyung ho kim yeong gil kim',33
+'chang hoon choi jin kyu park kyung ho kim yeong gil kim',33
+'byung gook park chun an lee dae hwan kim gwanghyeon baek jaewoo kyung jong duk lee ki whan song kyung rok kim',33
+'jung min choi ki dong chung ki wan kim',34
+'ki dong chung si yong park',34
+'in hwan kim jeong won kim ki dong chung',34
+'in hwan kim jung won kim ki dong chung',34
+'in hwan kim jeong won kim ki dong chung',34
+'in hwan kim jeong won kim ki dong chung',34
+'ki wan kim jung min choi ki dong chung',34
+'seo lim park ki dong chung',34
+'jung min choi ki dong chung',34
+'jung min choi ki dong chung',34
+'daniel p friedman',35
+'daniel p friedman',35
+'daniel p friedman',35
+'daniel p friedman stanley jefferson',35
+'chul hee kang dae gun kim lynn choi',36
+'chul hee kang seung joon seok',36
+'chul hee kang seung joon seok sung kwan youm',36
+'chul hee kang daeg gun kim lynn choi',36
+'hung chang lin i shyan hwang',37
+'i shyan hwang yi shiu lin',37
+'i shyan hwang',37
+'i shyan hwang',37
+'bo yeong kang dae won kim sang ok gu',38
+'bo yeong kang jung hee park tae gil noh',38
+'mu hee song sang ok koo soo yeon lim',38
+'bo yeong kang',38
+'andrew d oh hongsik choi hyeong ah choi',39
+'andrew d oh hyeong ah choi',39
+'andrew d oh hyeong ah choi',39
+'bong hee moon',39
+'bong hee moon haengeun jung jumgim choi',39
+'a duksu oh hongsik choi hyeong ah choi',39
+'a duksu oh hyeong ah choi',39
+'julie l park hyeong ah choi',39
+'sang myung park bong hee moon',39
+'sang myung park bong hee moon',39
+'julie l park hyeong ah choi',39
+'sang myung park bong hee moon',39
+'hyeong ah choi',39
+'hyeong ah choi',39
+'nan',39
+'ju young lee mi yeon kang',39
+'hyeong ah choi',39
+'julie l park',39
+'ju young lee',39
+'ju young lee yoon jung kim',39
+'hyeong ah choi',39
+'hyeong ah choi',39
+'hyeong ah choi',39
+'jumgim choi haengeun jung bong hee moon',39
+'eric harder hyeong ah choi',39
+'cha young kim ju young lee',39
+'ju young lee',39
+'andrew d oh hyeong ah choi',39
+'andrew d oh hyeong ah choi',39
+'hyeong ah choi',39
+'hyeong ah choi',39
+'andrew d oh hyeong ah choi',39
+'andrew d oh hyeong ah choi',39
+'nan',39
+'nan',3
+'jaehyuk cha jisook park yunmook nah',3
+'taeck geun kwon',3
+'hyoung joo kim seong woo chang',3
+'hyeokman kim hyoung joo kim',3
+'taeck geun kwon',3
+'eunsam kim taeck geun kwon yunmook nah',3
+'soochan hwang',3
+'yunmook nah',3
+'soochan hwang',3
+'taeck geun kwon',3
+'hyeokman kim hyoung joo kim',3
+'hwan seung yong',3
+'taeck geun kwon yanghee choi',3
+'jaehyuk cha',3
+'jinuk bae',3
+'bongki moon wonik choi',3
+'bongki moon hyoseop shin',3
+'bongki moon hyoseop shin',3
+'dongseop kwon',3
+'jisook park',3
+'jaehyuk cha jisook park yunmook nah',3
+'taeck geun kwon',3
+'hyoung joo kim seong woo chang',3
+'taewon lee',3
+'dongseop kwon hyoseop shin joonho kwon',3
+'byoungho song seokjin hong',3
+'hwan seung young',3
+'sunyeong cho',3
+'hans ulrich heiss ming syan chen philip s yu',3
+'hans ulrich heiss ming syan chen philip s yu',3
+'dongseop kwon hyoseop shin joonho kwon',3
+'dongseop kwon',3
+'dongseop kwon',3
+'bongki moon hyoseop shin',3
+'dongseop kwon',3
+'hyeokman kim hyoung joo kim',3
+'taeck geun kwon',3
+'eunsam kim taeck geun kwon yunmook nah',3
+'soochan hwang',3
+'yunmook nah',3
+'dongseop kwon',3
+'soochan hwang',3
+'bongki moon hyoseop shin',3
+'taeck geun kwon',3
+'bongki moon wonik choi',3
+'bongki moon hyoseop shin',3
+'hyeokman kim hyoung joo kim',3
+'hwan seung yong',3
+'taeck geun kwon yanghee choi',3
+'jaehyuk cha',3
+'bongki moon hyoseop shin',3
+'jisook park yunmook nah',3
+'myungsun park',3
+'soochan hwang',3
+'yunmook nah',3
+'bongki moon taewon lee',3
+'bongki moon hyoseop shin',3
+'nan',3
+'kyuchul lee',3
+'hwan seung yong hyoung joo kim',3
+'hyoung joo kim seong woo chang',3
+'hyeokman kim hyoung joo kim',3
+'hyeokman kim hyoung joo kim',3
+'hwan seung yong',3
+'brad cobb james wingfield jennifer dworak li c wang m ray mercer',40
+'jennifer dworak li c wang m ray mercer michael r grimaila',40
+'jennifer dworak li c wang m ray mercer michael r grimaila',40
+'brad cobb jennifer dworak m ray mercer michael r grimaila',40
+'kee young yoo',41
+'mats brorsson sven karlsson',41
+'hyun sung kim jung joon kim kee young yoo tae geun kim',41
+'hyun sung kim kee young yoo',41
+'byeong man kim jung wan cho seung ryoul maeng',42
+'il yeol song kyu young whang yang sae moon',42
+'il yeol song kyu young whang yang sae moon',42
+'il yeol song kyu young whang wook shin han yang sae moon',42
+'eunsook jin ju won song jungmin seo kwangjoon lee suyoung yoon',43
+'kiwon ko youngsun kim',43
+'daewon kim eunil yun jinhan kim youngsik choi',43
+'sang gil kim young sun kim',43
+'bin zhang sargur n srihari',44
+'sargur n srihari sung hyuk cha',44
+'hina arora sargur n srihari sung hyuk cha',44
+'bin zhang catalin i tomai sargur n srihari',44
+'community grids',45
+'geoffrey fox sunghoon ko minjun wang xiaohong qiu',45
+'sunghoon ko geoffrey fox',45
+'sunghoon ko geoffrey fox kangseok kim sangyoon oh',45
+'sangyoon oh geoffrey c fox sunghoon ko',45
+'ahmet uyar choon han youn geoffrey fox gurhan gunduz hasan bulut jake kim kang seok kim marlon e pierce mustafa varank ozgur balsoy sangyoon oh shrideep pallickara sung hoon ko xi rao xiaohong qiu',45
+'hasan bulut geoffrey fox dennis gannon kangseok kim sung hoon ko sangyoon oh xi rao shrideep pallickara quinlin pei marlon pierce aleksander slominski ahmet uyar wenjun wu choonhan youn',45
+'geoffrey fox dennis gannon sung hoon ko shrideep pallickara marlon pierce xiaohong qiu xi rao ahmet uyar minjun wang wenjun wu',45
+'geoffrey fox',45
+'geoffrey fox hasan bulut kangseok kim sung hoon ko sangyoon oh shrideep pallickara xiaohong qiu ahmet uyar minjun wang wenjun wu',45
+'geoffrey fox sung hoon ko kangseok kim sangyoon oh',45
+'geoffrey fox sung hoon ko',45
+'geoffrey fox kang seok kim sangyoon oh sunghoon ko',45
+'geoffrey fox sunghoon ko kangseok kim sangyoon oh',45
+'geoffrey fox kang seok kim sangyoon oh sung hong ko',45
+'pen chung yew',46
+'pen chung yew',46
+'b y yoo s j lee',46
+'b g yoo s j lee',46
+'qing zhao david j lilja',46
+'j k choi s j lee',46
+'j k choi s j lee',46
+'j k choi s j lee',46
+'j k choi s j lee',46
+'j k choi h g sim s j lee',46
+'e s hwang j k choi b g yoo',46
+'s j lee i c lim',46
+'yuan wang pen chung yew',46
+'s j lee',46
+'s j lee',46
+'s j lee k j kim',46
+'s j lee b g yoo',46
+'s j lee h k sim',46
+'pen chung yew',46
+'pen chung yew',46
+'pen chung yew',46
+'s j lee',46
+'s j lee',46
+'s j lee i c lim',46
+'s j lee i c lim',46
+'s j lee',46
+'s j lee i c lim',46
+'h r park s j lee',46
+'h r park b c joun s j lee',46
+'h p park b c joun s j lee',46
+'h r park b c joun s j lee',46
+'h g sim y s kim s j lee',46
+'pen chung yew yuan wang',46
+'pen chung yew',46
+'hyung woo lee tai yun kim',47
+'hyung woo lee im yeong lee',47
+'tai yun kim',47
+'tai yun kim',47
+'h yu k yamada mario gerla s das',48
+'mario gerla',48
+'claudio casetti gianluca reali mario gerla',48
+'alex dubrovsky dirceu cavendish mario gerla',48
+'seung soo park',49
+'nan',49
+'nan',49
+'jeong in hwang',49
+'nan',49
+'hwa seon park',49
+'joo hee lee',49
+'seok hee hong',49
+'hak chul lee hee chul kim',49
+'kyung yong chwa',49
+'jeong in doh kyung yong chwa',49
+'nan',49
+'young ock lee',49
+'kyung yong chwa',49
+'su won lee kyung yong chwa',49
+'jee young moon',49
+'eun sook oh seok hee hong',49
+'aaron j quigley peter eades seok hee hong',49
+'dong sub cho',49
+'dong sub cho',49
+'yeon leong cho joo hee lee',49
+'kyung yong chwa',49
+'peter eades seok hee hong',49
+'peter eades seok hee hong',49
+'hee kang sun young park wook koh',49
+'nan',49
+'keum rim shin',49
+'chih hung wu',4
+'david a plaisted',4
+'chih hung wu',4
+'chih hung wu',4
+'chih hung wu',4
+'david a plaisted geoffrey d alexander heng chu',4
+'chih hung wu',4
+'david a plaisted',4
+'chih hung wu',4
+'cheng jer yu chih hung wu hung sen chou',4
+'chih hung wu',4
+'chih hung wu',4
+'david a plaisted',4
+'cheng jer yu chih hung wu',4
+'chih hung wu',4
+'david a plaisted',4
+'chih hung wu',4
+'chih hung wu',4
+'chih hung wu',4
+'nan',4
+'nan',4
+'chun liang hou hsiang ren shih i chieh lin',4
+'hsin tai yang',4
+'benjamin han hsin tai yang',4
+'benjamin han hsin tai yang',4
+'benjamin han',4
+'amy lai chi jong chang wei kuang lai',4
+'benjamin han hsin tai yang',4
+'chi jong chang jian jou lai yu wen lai',4
+'amy lai chi jong chang wei kuang lai',4
+'benjamin han hsin tai yang',4
+'chen sen ouyang wen gong chen',4
+'chen sen ouyang shih huai du',4
+'nan',4
+'nan',4
+'wei jer lin',4
+'an tai lin',4
+'david a plaisted',4
+'chih hung wu',4
+'cheng jer yu chih hung wu hung sen chou',4
+'chih hung wu',4
+'chih hung wu',4
+'david a plaisted',4
+'cheng jer yu chih hung wu',4
+'takayasu sakurai',50
+'dongkun shin jihong kim',50
+'takayasu sakurai',50
+'taehun lee',51
+'masafumi koyama shoji mizobuchi kyoko uchibayashi fumihiko kawano takahiro komatsu jun ichi aoe',51
+'nan',51
+'masami shishibori toru sumitomo jun ichi aoe',51
+'hyunsu kang hyungyung chon yongseok lee',51
+'masami shishibori kazuhiro morita jun ichi aoe',51
+'nan',51
+'nan',51
+'masami shishibori',51
+'yongju lee',51
+'jun ichi aoe masaki oono masami shishibori',51
+'jun ichi aoe masami shishibori toru sumitomo',51
+'jun ichi aoe kazuaki ando makoto okada yoshitaka hayashi',51
+'el sayed atlam kazuhiro morita masami shishibori jun ichi aoe',51
+'masao fuketa takako tsuji makoto okada jun ichi aoe',51
+'masao fuketa kazuhiro morita jun ichi aoe',51
+'masao fuketa toru sumitomo jun ichi aoe',51
+'sung og hong',51
+'wan kwan lee',51
+'shoji mizobuchi fumihiko kawano tsuyoshi kobayashi takahiro komatsu jun ichi aoe',51
+'makoto okada kazuaki ando yoshitaka hayashi jun ichi aoe',51
+'masami shishibori masaki oono jun ichi aoe',51
+'masami shishibori minsoo chon jun ichi aoe',51
+'hyun sung kim kee young yoo woo hun kim',52
+'hyun sung kim kee young yoo woo hun kim',52
+'hyun sung kim kee young yoo woo hun kim',52
+'julian cummings steven d nolen',53
+'julian cummings noel d keen steven d nolen',53
+'julian cummings steven d nolen',53
+'ilyoung chong',54
+'hyeong ho lee young ki hong',54
+'ilyoung chong',54
+'changjong wang',55
+'changjong wang jinhyun tak',55
+'changjong wang chidon ahn',55
+'david a bell j w guan',56
+'nan',56
+'nan',56
+'andrew t campbell',57
+'andrew t campbell gahng seop ahn xiaowei zhang',57
+'andrew t campbell gahng seop ahn xiaowei zhang',57
+'s cheul',57
+'andrew t campbell',57
+'andrew t campbell',57
+'s b lee g s ahn x zhang a t campbell',57
+'andrew t campbell',57
+'s b lee g s ahn a t campbell',57
+'gahng seop ahn xiaowei zhang andrew t campbell',57
+'andrew t campbell',57
+'s b lee a gahng seop x zhang a t campbell',57
+'sung bae cho',58
+'chul sung sung bae cho',58
+'sung bae cho',58
+'byung ro moon dong il seo',59
+'byung ro moon',59
+'byung ro moon yong hyuk kim',59
+'byung ro moon chun kyung kim',59
+'byung ro moon andrew b kahng',59
+'il seok oh byung ro moon',59
+'jaewon oh hyokyung bahn chisu wu kern koh byung ro moon',59
+'eun jong park byung ro moon',59
+'sung kyu park byung ro moon',59
+'dong il seo byung ro moon',59
+'dong il seo byung ro moon',59
+'dong il seo byung ro moon',59
+'dong il seo yong hyuk kim byung ro moon',59
+'dong il seo byung ro moon',59
+'seung jin yang yong geon kim yung keun kwon byung ro moon',59
+'hyun sook yoon byung ro moon',59
+'hyun sook yoon byung ro moon',59
+'sung soon choi byung ro moon',59
+'sung soon choi byung ro moon',59
+'sung soon choi byung ro moon',59
+'sung soon choi byung ro moon',59
+'sung soon choi byung ro moon',59
+'sung soon choi byung ro moon',59
+'yoon seok choi byung ro moon',59
+'sung soon choi byung ro moon',59
+'sung soon choi byung ro moon',59
+'inki hong andrew b kahng byung ro moon',59
+'thang n bui byung ro moon',59
+'thang n bui byung ro moon',59
+'thang n bui byung ro moon',59
+'thang n bui byung ro moon',59
+'thang n bui byung ro moon',59
+'thang n bui byung ro moon',59
+'thang n bui byung ro moon',59
+'thang n bui byung ro moon',59
+'heemahn choe sung soon choi byung ro moon',59
+'inki hong andrew b kahng byung ro moon',59
+'soonchul jung byung ro moon',59
+'soonchul jung byung ro moon',59
+'soonchul jung byung ro moon',59
+'so jin kang byung ro moon',59
+'jong pil kim byung ro moon',59
+'jung hwan kim byung ro moon',59
+'jung hwan kim byung ro moon',59
+'jung hwan kim byung ro moon',59
+'su hyang kim yong hyuk kim byung ro moon',59
+'jong pil kim byung ro moon',59
+'jong pil kim byung ro moon',59
+'yong hyuk kim byung ro moon',59
+'jung hwan kim byung ro moon',59
+'yong hyuk kim byung ro moon',59
+'yong hyuk kim byung ro moon',59
+'yong hyuk kim byung ro moon',59
+'yong hyuk kim byung ro moon',59
+'yong hyuk kim byung ro moon',59
+'yong hyuk kim byung ro moon',59
+'jung hwan kim byung ro moon',59
+'yong hyuk kim byung ro moon',59
+'jung hwan kim byung ro moon',59
+'yong hyuk kim yung keun kwon byung ro moon',59
+'yong hyuk kim byung ro moon',59
+'yung keun kwon byung ro moon',59
+'yung keun kwon byung ro moon',59
+'yung keun kwon sung deok hong byung ro moon',59
+'yung keun kwon byung ro moon sung deok hong',59
+'yung keun kwon byung ro moon',59
+'yong hyuk kim byung ro moon',59
+'dong il seo byung ro moon',59
+'byung jung lee byung ro moon chi soo wu',59
+'byung ro moon',59
+'byung ro moon chun kyung kim',59
+'byung ro moon heung nam kim',59
+'byung ro moon yong hyuk kim',59
+'byung ro moon chun kyung kim',59
+'byung ro moon chun kyung kim',59
+'byung ro moon chun kyung kim',59
+'duan yu chen hua tsung chen',5
+'ju wei chen',5
+'guan chi chen',5
+'duan yu chen ming ho hsiao',5
+'duan yu chen',5
+'li chuan chuang',5
+'f j hsu s y lee p s lin',5
+'f j hsu s y lee p s lin',5
+'i chang jou quen zong wu',5
+'i chang jou miin luen day',5
+'huan ming kao',5
+'s y lee r l liou',5
+'tyne liang wei pang yang',5
+'bao shuh p lin fang jung hsu',5
+'ming yen lin sheng shun wang',5
+'ming yen lin',5
+'ming yen lin',5
+'bao shuh p lin fang jung hsu',5
+'ming yen lin',5
+'ruey long liou',5
+'ruey long liou',5
+'man kwan shan',5
+'man kwan shan',5
+'man kwan shan',5
+'m k shan s y lee',5
+'m k shan s y lee',5
+'man kwan shan',5
+'c w chang s y lee',5
+'man kwan shan',5
+'chuej wei chang',5
+'man kwan shan wei pang yang',5
+'c w chang s y lee',5
+'chueh wei chang keh feng lin',5
+'wen jiin tsai',5
+'chueh wei chang',5
+'ju wei chen',5
+'guan chi chen',5
+'duan yu chen',5
+'duan yu chen shu jiuan lin',5
+'wen jiin tsai',5
+'w j tsai s y lee',5
+'wen jiin tsai',5
+'w j tsai',5
+'andreas ermedahl naehyuck chang sang lyul min',60
+'chang gun lee chong sang kim minsuk lee sang lyul min',60
+'jaejin lee sang lyul min jason hiser jack w davidson',60
+'jaejin lee chang yun park sang lyul min',60
+'chang gun lee minsuk lee sang lyul min chong sang kim',60
+'andreas ermedahl sang lyul min naehyuck chang',60
+'minsuk lee sang lyul min chong sang kim',60
+'seokjin hong sukho lee',61
+'dongseop kwon',61
+'dongseop kwon',61
+'dongseop kwon',61
+'dongseop kwon sukho lee',61
+'dongseop kwon sukho lee',61
+'dongseop kwon sukho lee',61
+'jisook park sukho lee',61
+'bumsoo kim sukho lee',61
+'dongseop kwon sukho lee',61
+'dongseop kwon sukho lee',61
+'huey ming lee jan jo chen tsung yen lee',62
+'huey ming lee jan jo chen tsung yen lee',62
+'huey ming lee jan jo chen tsung yen lee',62
+'jong soo choi seok hyun ryu tae eun kim',63
+'hyun ki hong jong soo choi',63
+'jong soo choi',63
+'a jefferson offutt',64
+'a jefferson offutt',64
+'a jefferson offutt',64
+'donald carney stanley b zdonik',65
+'donald carney stanley b zdonik',65
+'christian convey donald carney greg seidman michael stonebraker mitch cherniack nesime tatbul stanley b zdonik ugur ccedil etintemel',65
+'suzanne sluizer',66
+'suzanne sluizer',66
+'suzanne sluizer',66
+'hyoung joo kim yong han kim',67
+'hyoung joo kim',67
+'chiyoung seo hyoung joo kim',67
+'b h lee myoung h choi w kwon wook hyun kwon',68
+'b h park w h lee w kwon wook hyun kwon',68
+'b h lee t h park',68
+'chul hee kang seok min hong seung joon seok',69
+'chul hee kang seung joon seok',69
+'chul hee kang seung joon seok sung kwan youm',69
+'carlos l l uuml ck',6
+'dal h lee dongmok shin kwang s boo',6
+'changseung lee jaewoo chung seungmo lim',6
+'chong won lee jong oh park sookwang ro',6
+'yeong gil shin',6
+'jung moon lee',6
+'jun park',6
+'shunichi shimoji',6
+'judy chen',6
+'judy chen',6
+'hernsoo hahn',6
+'andrew sohn jean luc gaudiot',6
+'dong yoon kim dongmok shin jae won lee kwang s boo kyoung sig roh woong kwon',6
+'ki cheol park pyung hun chang',6
+'dong yoon kim dongmok shin jae won lee kyoung sig roh woong kwon',6
+'javier bautista',6
+'judy chen',6
+'sungbok kim',6
+'jae won lee',6
+'nan',6
+'hadi moradi',6
+'sookwang ro',6
+'chunsik yi',6
+'woong kwon',6
+'carlos l l uuml ck',6
+'dal h lee dongmok shin kwang s boo',6
+'changseung lee jaewoo chung seungmo lim',6
+'chong won lee jong oh park sookwang ro',6
+'judy chen',6
+'judy chen',6
+'fu chung wang',6
+'chunsik yi',6
+'chunsik yi',6
+'woong kwon',6
+'carlos l l uuml ck',6
+'dal h lee dongmok shin kwang s boo',6
+'changseung lee jaewoo chung seungmo lim',6
+'chong won lee jong oh park sookwang ro',6
+'george a bekey gerard jounghyun kim',6
+'carol e l uuml ck',6
+'haewon lee yanghee choi',70
+'haewon lee yanghee choi',70
+'w yoon yanghee choi',70
+'s kim d ko',70
+'m kim',70
+'byung g kim yanghee choi',70
+'m kim',70
+'byung g kim yanghee choi',70
+'yanghee choi',70
+'nan',70
+'byung g kim yanghee choi',70
+'byung g kim yanghee choi',70
+'kewal k saluja',71
+'kewal k saluja',71
+'kewal k saluja todd p kelsey',71
+'taiyun kim',72
+'taiyun kim',72
+'taiyun kim',72
+'choong woong lee nam su moon',73
+'choong woong lee jong il park',73
+'jong il park yasuaki kanatsugu',73
+'jin wook byun ik rae jeong dong hoon lee chang seop park',74
+'donghoon chang jaechul sung soohak sung jongin lim',74
+'ki sik chang hak soo ju dong hoon lee sang jin lee jong in lim',74
+'dong guk han hye young park young ho park dong hoon lee hyung jin yang',74
+'dong guk han ki soon yoon young ho park chang han kim jongin lim',74
+'seokhie hong jaechul sung jongin lim jongsu kim',74
+'kyungdeok hwang wonil lee sangjin lee jongin lim',74
+'ik rae jeong hee yun jeong hyun sook rhee dong hoon lee jong in lim',74
+'jongsung kim dukjae moon wonil lee seokhie hong seokwon jung',74
+'chang han kim sangho oh jongin lim',74
+'hyun jeong kim dong hoon lee moti yung',74
+'changhoon lee deukjo hong hyung jin yang jongin lim',74
+'jongin lim kyungdeok hwang wonil lee',74
+'dukjae moon kyungdeok hwang wonil lee jongin lim',74
+'young ho park sangtae jeong jongin lim',74
+'young ho park sangtae jeong chang han kim jongin lim',74
+'young ho park sangho oh jongin lim maenghee sung',74
+'young ho park sangtae jeong jongin lim',74
+'young ho park',74
+'nan',75
+'hong seong park wook hyun kwon young sin kim',75
+'nan',76
+'byung su kang tae kyung sung',76
+'nan',77
+'bum jae you gregory d hager',77
+'hong gu ahn jae sung lim sang yun lee sung kim',78
+'hong gu ahn jae sung lim seung hwan kwak sung kim',78
+'lisa deerr li',79
+'tom middleton',79
+'h c nam j kim s j hong',7
+'k w nam j kim',7
+'h c nam j kim s j hong',7
+'y j nam c i park',7
+'h s chae j kim s j hong',7
+'k nam j seo j kim',7
+'s h chae j kim d s kim s j hong',7
+'y j nam',7
+'nan',7
+'j w seo j kim',7
+'h w kim s lee j kim',7
+'jaewon seo jong kim',7
+'ho won kim jong kim',7
+'jong kim sangho chae sung je hong',7
+'jaewon seo jong kim kyungwan nam',7
+'dongseung kim jong kim sangho chae sung je hong',7
+'jaewon seo jong kim kyungwan nam',7
+'jong kim sung je hong wanyeon lee',7
+'kang g shin',7
+'sang cheol kim',7
+'kang g shin',7
+'kang g shin',7
+'kang g shin',7
+'kang g shin',7
+'m h sunwoo b d ahn s h ong',7
+'s c kim',7
+'j kim h lee',7
+'jong kim',7
+'jong kim',7
+'jong kim kyungwan nam',7
+'b kim j kim s hong',7
+'jong kim o hoon kwon sung je hong',7
+'j kim h lee',7
+'o h kwon j kim s j hong',7
+'nan',7
+'h w kim j kim s lee',7
+'k g shin',7
+'w y lee s j hong j kim',7
+'nan',7
+'h lee j kim s j hong',7
+'nan',7
+'k g shin',7
+'y j nam',7
+'k g shin',7
+'k g shin',7
+'k g shin',7
+'k g shin',7
+'heejo lee jong kim',7
+'heejo lee jong kim sung je hong',7
+'y k lee',7
+'j kim',7
+'j kim',7
+'k w nam s j hong j kim',7
+'yun kyung lee',7
+'k g shin',7
+'k g shin',7
+'k g shin',7
+'nan',7
+'heejo lee jong kim',7
+'heejo lee jong kim sung je hong',7
+'heejo lee jong kim sung je hong',7
+'h lee j kim s j hong',7
+'dong hyeon cheon kyung hwan park seok hie hong seonhee yoon',80
+'dong hyeon cheon jong in lim',80
+'azizan aziz jayakrishna shankavaram vivian loftness volker hartkopf',81
+'ardeshir mahdavi azizan aziz jayakrishna shankavaram paul mathew vivian loftness volker hartkopf',81
+'jong won lee kuhn il lee seoug geun kwon',82
+'in sung ha ki ryong kwon kuhn il lee seong geun kwon',82
+'jaehoon jeong yanghee choi yongjin kim',83
+'byongchul kim jaeyong lee kyeongjin lee yongjin kim',83
+'dong ah kim',84
+'jeonghee kim taisook han',84
+'nan',85
+'nan',85
+'james c morizio kristina m johnson',86
+'james c morizio kristina m johnson',86
+'n g azari a w bojanczyk s y lee',8
+'chung ming chen',8
+'c m chen s y lee',8
+'c m chen s y lee z h cho',8
+'c m chen s y lee z h cho',8
+'c m chen s y lee',8
+'c m chen s y lee',8
+'chung ming chen',8
+'c m chen s y lee',8
+'chung ming chen',8
+'z h cho c m chen s y lee',8
+'c h cho',8
+'z h cho c m chen s y lee',8
+'z h cho k s hong j b ra s y lee s k hilal j correll',8
+'b d cook',8
+'gautam ghare',8
+'nan',8
+'g d ghare s y lee',8
+'j k aggarwal',8
+'j k aggarwal',8
+'jun huang',8
+'nasser g azari',8
+'j c jacob s y lee',8
+'n g azari s y lee',8
+'joseph c jacob',8
+'n g azari s y lee',8
+'n g azari s y lee n f otani',8
+'n g azari s y lee',8
+'nasser g azari',8
+'j c jacob s y lee',8
+'j c jacob s y lee',8
+'j c jacob s y lee',8
+'j jacob s y lee',8
+'josep c jacob',8
+'s y lee g d ghare',8
+'k g lee s y lee',8
+'s y lee n g azari',8
+'s y lee j k aggarwal',8
+'s y lee j k aggarwal',8
+'s y lee j k aggarwal',8
+'s y lee c m chen',8
+'s y lee',8
+'s y lee j k aggarwal',8
+'s y lee j k aggarwal',8
+'s y lee s yalamanchili j k aggarwal',8
+'s y lee h d chiang k g lee b y ku',8
+'s y lee c m chen',8
+'s y lee k g lee',8
+'k g lee s y lee',8
+'kyung geun lee',8
+'s y lee j k aggarwal',8
+'s y lee',8
+'hyoung seok kim yunjin lee',9
+'junho kim',9
+'junho kim',9
+'y lee',9
+'k y chwa j hahn s y shin',9
+'k y chwa j hahn s y shin',9
+'g wolberg k y chwa s y shin',9
+'k y chwa s y shin g wolberg',9
+'y lee h s kim',9
+'s y shin',9
+'nan',9
+'g wolberg s y shin',9
+'g wolberg s y shin',9
+'nan',9
+'gyuhwan oh sung yong shin',9
+'gyuhwan oh',9
+'t j park s y shin',9
+'sung yong shin tae joon park',9
+'george woberg kyung yong chwa sung yong shin',9
+'george wolberg sung yong shin',9
+'minsu ahn',9
+'s baek g j kim',9
+'dongsik cho gerard jounghyun kim jihye park sangwoo hong sungho han',9
+'yongchoel choi',9
+'yongchoel choi',9
+'kyung yong chwa sung yong shin',9
+'baining guo eunhee jeong mincheol yoon minsu ahn yunjin lee',9
+'james k hahn kyung yong chwa sung yong shin',9
+'k jeong',9

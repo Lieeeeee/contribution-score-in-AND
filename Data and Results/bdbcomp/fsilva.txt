@@ -1,0 +1,27 @@
+116;60;fernando antonio marques da silva;p rodrigues;sistema manipulacao imagen via correio eletronico;rede computador;0
+117;61;fernando silva;a figueira,h paulino,l lopes;distribut concurr object program languag distribut comput mobil reso;linguagen programacao;0
+118;62;f silva;a gomes;interact edit multiresolut mesh;computacao grafica processamento imagen;0
+119;63;flavio m de silva;c fujito,e garcia;sisdi osi sistema didatico modelo osi;rede computador;0
+120;64;flavio r silva;s amo,m fernandes,j souza;mine tempor constraint databas us genet algorithm;banco dado;0
+121;65;fabio augusto das dores silva;c reis,d nunes,r reis;modelo simulacao processo softwar baseado agent cooperativo;engenharia softwar;0
+122;66;fabricio avila da silva;r costa,n edelweiss,e bergamini;us tempor version model softwar configur manag environ;engenharia softwar;0
+123;67;fabricio a silva;t braga,l ruiz,j nogueira;avaliacao abordagen coleta processamento dado rede sensor fio;gerencia operacao rede servico;0
+124;67;fabricio silva;t braga,l ruiz,j nogueira;elemento autonomico rede sensor fio;rede computador;0
+125;68;fabio q b da silva;g lucero;translat configur languag pi calculu;linguagen programacao;0
+126;69;fernando wagner da silva;l velho,p cavalcanti,j gomes;architectur motion captur base anim;computacao grafica processamento imagen;0
+127;69;fernando wagner da silva;l velho,j gomes,s goldenstein;motion cyclif time frequenc warp;computacao grafica processamento imagen;0
+128;69;fernando wagner da silva;l garcia,r farias,a oliveira;control theori approach real time anim artifici agent;computacao grafica processamento imagen;0
+129;70;fabiano silva;m castilho,l kunzle;petriplan new algorithm plan gener preliminari report;inteligencia artifici;0
+130;71;flavio soares correa da silva;e meneses;modelo cooperacao sistema baseado conhecimento baseado capacidad;encontro nacion inteligencia artifici;0
+131;71;flavio s correa da silva;w vasconcelos;rule schemata game artifici intellig;inteligencia artifici;0
+132;72;fabio c d silva;r souza,f carvalho;classificacao supervisionada dado tipo intervalo baseada distancia quadratica;encontro nacion inteligencia artifici;0
+133;72;fabio c d silva;f carvalho,r souza;cluster method symbol interv type data us adapt chebyshev distanc;inteligencia artifici;0
+134;73;fabio gomes silva;r campelo,h moura;uso extrem program organizacao cmm nivel;qualidad softwar;0
+135;74;fabio q b da silva;j jin,s meira;make web client cach cooper lan level;journal brazilian comput societi;0
+136;75;fabricio santos da silva;r mello;bdterm sistema gerenciamento base dado terminologica;escola region banco dado;0
+137;76;fernando r c silva;f pedroza,f alencar,j castro,v santander;ferramenta suport mapeamento modelagem uml extend good xgood goos;engenharia requisito;0
+138;77;fabiana bigao silva;;pagina amarela web apresentacao resultado acordo localizacao geografica;informatica publica;0
+139;78;fabio santos da silva;l alves,r kulesza,p juca,g bressan;analis comparativa metadado tv digit;tv digit;0
+140;79;francisco jose da silva e silva;r lopes,b sousa,a viana,s sousa;mag middlewar grade baseado agent estado atual perspectiva futura;computacao grid aplicaco;0
+141;80;flavio m assis silva;a andrade,f barboza,r oliveira;ambient especificacao verificacao automatica aplicaco baseada agent movei;rede computador;0
+142;81;f s silva;m oka;effect stencil align solder bead smt process;symposium microelectron technolog devic;0

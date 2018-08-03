@@ -1,0 +1,264 @@
+@relation 'Dataset dblp publish-venue mjones'
+@attribute Text string
+@attribute class-att {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13}
+@data
+'sigmod intern confer manag data confer',10
+'geoinformatica',10
+'ssd symposium larg spatial databas',10
+'cikm intern confer inform knowledg manag',10
+'ssdbm statist scientif databas manag',11
+'ssdbm statist scientif databas manag',11
+'ieee internet comput',11
+'intern journal comput vision',12
+'sigmod intern confer manag data confer',12
+'categori b tphol',13
+'ieee custon integr circuit confer',13
+'librari compon model qualiti assur',13
+'tool paper fmcad lnc edit windlei gopalakrishnan',13
+'fmcad formal method comput aid design',13
+'formal method comput aid design fmcad formal method comput aid design springer lnc',13
+'th intern confer telecommun system model analysi nashvil',13
+'categori b tphol',13
+'ieee intern high level design valid test hldvt',13
+'formal method system design',13
+'zb',13
+'research report yaleu dc rr yale univers new haven shorter revis version without proof appear fpca function program languag comput architectur confer function program languag comput architectur jolla comput anim',1
+'symposium object orient real time distribut comput',1
+'proceed twenti third annual acm sigplan special interest group program languag sigact symposium principl program languag st beach',1
+'technic report nottc tr depart comput scienc univers nottingham univers park nottingham ng rd england',1
+'proceed function program ullapool scotland publish springer verlag workshop comput scienc seri',1
+'popl symposium principl program languag',1
+'fpca function program languag comput architectur confer function program languag comput architectur copenhagen appear extend form journal function program univers press',1
+'function program',1
+'research report yaleu dc rr yale univers new haven',1
+'esop european symposium program european symposium program renn springer verlag lectur note comput scienc',1
+'proceed haskel th',1
+'proceed th european symposium program esop european symposium program springer verlag lnc',1
+'journal function program',1
+'lisp symbol comput',1
+'pepm partial evalu semant base program manipul',1
+'advanc function program',1
+'popl symposium principl program languag',1
+'tac theoret aspect comput softwar',1
+'mpc mathemat program construct',1
+'plilp symposium program languag implement logic program',1
+'function program',1
+'research report yaleu dc rr yale univers new haven',1
+'research report yaleu dc rr yale univers new haven',1
+'journal function program univers press',1
+'acm sigplan special interest group program languag partial evalu semant base program manipul',1
+'proceed haskel publish technic report uu cs depart comput scienc univers utrecht',1
+'first intern school advanc function program techniqu b aa stad springer verlag lectur note comput scienc',1
+'proceed oopsla confer object orient program system languag applic formal underpin java',1
+'proceed haskel jolla yale univers research report yaleu dc rr',1
+'confer record popl symposium principl program languag acm sigplan special interest group program languag sigact symposium principl program languag san francisco comput anim',1
+'proceed twenti fourth annual acm sigplan special interest group program languag sigact symposium principl program languag',1
+'pldi special interest group program languag design implement',1
+'technic report nottc tr function program research group depart comput scienc univers nottingham nottingham ng rd england',1
+'proceed acm sigplan special interest group program languag symposium program languag design implement acm sigplan special interest group program languag',1
+'proceed haskel publish technic report uu cs depart comput scienc univers utrecht',1
+'univers press',1
+'fpca function program languag comput architectur',1
+'popl symposium principl program languag',1
+'fpca function program languag comput architectur',1
+'sci comput program',1
+'esop european symposium program',1
+'tac theoret aspect comput softwar confer theoret aspect comput softwar sendai springer verlag lectur note comput scienc',1
+'esop european symposium program',1
+'research report yaleu dc rr yale univers new haven',1
+'hot topic oper system',2
+'proceed th acm symposium oper system principl saint malo page',2
+'nossdav network oper system support digit audio video',2
+'proceed third usenix advanc comput system associ window symposium page',2
+'icdc intern confer distribut comput system',2
+'proceed fifth hot topic oper system hoto orca island page ieee comput societi',2
+'oopsla confer object orient program system languag applic',2
+'proceed seventh acm sigop european connemara page',2
+'microsoft research technic report msr tr',2
+'microsoft research technic report msr tr',2
+'ieee real time technolog applic symposium',2
+'microsoft research technic report msr tr',2
+'hot topic oper system',2
+'proceed acm sigmetr measur model comput system confer measur model comput system',2
+'ieee real time technolog applic symposium',2
+'sosp symposium oper system principl',2
+'sigmetr measur model comput system perform',2
+'proceed intern confer distribut comput system icdc intern confer distribut comput system ieee comput societi',2
+'proceed eighth intern network oper system support digit audio video nossdav network oper system support digit audio video england',2
+'proceed seventh hot topic oper system hoto rio rico ieee comput societi',2
+'proceed seventh real time technolog applic symposium rta ieee real time technolog applic symposium taipei',2
+'proceed winter usenix confer page',2
+'popl symposium principl program languag',2
+'invit posit statement distribut system onlin real time embed system area special issu real time embed system research go issu ieee',2
+'infocom confer comput commun',2
+'proceed fourth workstat oper system wwo workstat oper system now hoto comput anim page ieee comput societi',2
+'usenix advanc comput system associ symposium internet technolog system',2
+'proceed second intern object orient oper system iwooo page ieee comput societi',2
+'proceed th acm symposium oper system principl icsc symposium neural comput page',2
+'microsoft research technic report msr tr',2
+'ph d thesi carnegi mellon univers school comput scienc avail technic report cmu cs',2
+'acm comput surv',2
+'workstat oper system',2
+'nossdav network oper system support digit audio video',2
+'sosp symposium oper system principl',2
+'secur internet program',2
+'oper system review',2
+'sosp symposium oper system principl',2
+'proceed sixth hot topic oper system hoto cape cod ieee comput societi',2
+'proceed sixth intern network oper system support digit audio video nossdav network oper system support digit audio video zushi ieee comput societi',2
+'proceed eighth hot topic oper system hoto elmau ieee comput societi',2
+'proceed second usenix advanc comput system associ window symposium page given best student paper award',2
+'proceed ieee symposium field programmalb custom comput machin napa ca april',3
+'iwan intern work confer activ network',3
+'ersa',3
+'commun comput',3
+'supercomput',3
+'mamset proc model analysi middlewar support electron textil',3
+'proceed ieee symposium field programm custom comput machin comput anim',3
+'int j supercomput applic',3
+'numer linear algebra applic',3
+'commun comput',3
+'ppsc siam confer parallel process scientif comput',3
+'pdpta parallel distribut process techniqu applic',3
+'siam societi industri appli mathemat journal matrix analysi applic',3
+'ppsc siam confer parallel process scientif comput',3
+'iswc proceed sixth intern symposium',3
+'advanc engin softwar',3
+'quarterli journal electron',3
+'iswc intern symposium wearabl comput',3
+'wearabl comput',3
+'ppsc siam confer parallel process scientif comput',3
+'siam societi industri appli mathemat journal scientif comput',3
+'ima journal appli mathemat volum mathemat applic',3
+'journal parallel distribut comput',3
+'comput system engin',3
+'journal finit element analysi design',3
+'acm tran mathemat softwar',3
+'acm tran mathemat softwar',3
+'comput aid civil infrastructur engin',3
+'j parallel distrib comput',3
+'siam societi industri appli mathemat journal scientif comput',3
+'ppsc siam confer parallel process scientif comput',3
+'ppsc siam confer parallel process scientif comput',3
+'parallel comput',3
+'acm ieee joint confer digit librari visual interfac digit librari',4
+'hci human comput interact',4
+'bc british comput societi hci human comput interact',4
+'proceed th annual confer teach comput smith august ctc dublin univers',4
+'proceed eurospeech',4
+'j siddiqi wilkinson j ed companion proceed peopl comput uk',4
+'poster proceed th intern confer world wide web',4
+'proceed second acm ieee cs joint confer digit librari',4
+'paterno f ed proceed th intern symposium hci human comput interact pisa lnc springer',4
+'chi confer human factor comput system search',4
+'poster proceed th intern confer world wide web toronto',4
+'proc intern symposium electron art',4
+'conail thoma p j pp',4
+'ph d thesi univers engin depart',4
+'colloquium issu network interperson commun london u k iee savoi place london',4
+'proceed first asia pacif confer comput human interact inform technolog institut',4
+'south african comput journal comput societi south africa',4
+'gellerson h w ubiquit comput karlsrhu lnc springer',4
+'adjunct proceed bc british comput societi hci human comput interact u k',4
+'proceed saicsit best paper confer winner',4
+'iee digest colloquium inform overload london u k iee',4
+'person ubiquit comput',4
+'comput memor yet invis proceed peopl septemb london',4
+'ecdl european confer digit librari',4
+'person ubiquit comput',4
+'www world wide web confer seri',4
+'turner s turner p ed proceed peopl comput sunderland pp',4
+'acm transact comput human interact tochi comput human interact acm press',4
+'poster proceed acm hypertext southampton uk',4
+'journal digit creativ press',4
+'th world wide web confer',4
+'proc icslp yokohama',4
+'proc ieee icassp',4
+'comput network',4
+'comput network',4
+'interact comput',4
+'confer extend abstract human factor comput system acm chi confer human factor comput system hagu pp',4
+'confer companion proceed first asia pacif confer comput human interact',4
+'hci human comput interact',4
+'thesi univers engin depart',4
+'intern journal person ubiquit technolog springer',4
+'encyclopaedia comput comput histori fitzroydearborn publish',4
+'acm transact human comput interact',4
+'proceed ed media telcom confer calgari',4
+'confer extend abstract human factor comput system',4
+'intern symposium hci human comput interact udin relat tech report',4
+'ecdl european confer digit librari',4
+'proceed first asia pacif confer comput human interact inform technolog institut',4
+'ifip intern feder inform process isbn',4
+'borbinha j t ed proceed fourth european confer',4
+'visual interfac digit librari',4
+'proceed th acm confer digit librari san antonio',4
+'intern journal person ubiquit comput',4
+'m th intern confer world wide web pazzani mai hong kong',4
+'iee digest colloquium author applic hypermedia base user interfac london u k iee savoi place london',4
+'acm dl digit librari',4
+'agosti m costantino t ed proceed th european confer research advanc technolog digit librari lnc springer',4
+'huc handheld ubiquit comput',4
+'springer book seri inform visual',4
+'nan',5
+'transform organ inform technolog',5
+'commun acm',5
+'impact comput support technolog inform system develop',5
+'human organiz social dimens inform system develop',5
+'cscw confer comput support cooper work',5
+'global organiz discours inform technolog',5
+'ici intern confer inform system',5
+'organiz social perspect',5
+'aaai nation confer artifici intellig',6
+'aaai nation confer artifici intellig',6
+'aaai nation confer artifici intellig',6
+'cikm intern confer inform knowledg manag',6
+'ics intern confer softwar engin',6
+'acm tran softw eng methodol',6
+'ijcai intern joint confer artifici intellig',6
+'ijcai intern joint confer artifici intellig',6
+'iccv intern confer comput vision',7
+'iccv intern confer comput vision',7
+'iccv intern confer comput vision',7
+'iccv intern confer comput vision',7
+'nip neural inform process system',7
+'intern journal comput vision',7
+'cvpr comput vision pattern recognit',7
+'cvpr comput vision pattern recognit',7
+'chen kaufman yagel ed graphic springer isbn',8
+'comput graphic intern',8
+'shape model intern',8
+'y s wilbur ed imag process broadcast video product springer verlag',8
+'vmv vision model visual',8
+'comput graph forum',8
+'ieee comput societi press isbn',8
+'ieee comput societi press isbn',8
+'earnshaw jone vinc ed visual model',8
+'proc bc british comput societi displai group visualis model univers leed',8
+'proc th ann conf eurograph uk chapter isbn',8
+'t ertl b girod g greiner h niemann h p seidel ed vision model visual io press isbn',8
+'m goebel hueller b urban isbn issn',8
+'proc th ann conf eurograph uk chapter isbn',8
+'m chen p townsend j vinc visualis springer isbn',8
+'proc comput graphic intern ieee comput societi press issn',8
+'proc th ann conf eurograph uk chapter loughborough',8
+'proc th ann conf eurograph uk chapter london isbn',8
+'b girod g greiner h niemann h p seidel ed vision model visual io press isbn',8
+'journal wscg intern confer central europ comput graphic visual issn',8
+'proc th ann conf eurograph uk chapter',8
+'comput graphic forum issn improv chapter ph d thesi pleas us journal refer refer work',8
+'intern confer shape model applic ieee comput societi press isbn',8
+'proc th ann conf eurograph uk chapter london isbn',8
+'comput graphic forum issn',8
+'k mueller kaufman ed graphic springer wien new issn',8
+'visual comput issn',8
+'th intern confer central europ comput graphic visual comput vision isbn',8
+'vmv vision model visual',8
+'comput vision imag understand issn',8
+'comput graph forum',8
+'comput amp graphic',8
+'intellig tutor system',9
+'ecai european confer artifici intellig',9
+'comput intellig',9
+'j uc univers comput scienc',9
+'intern journal man machin studi',9

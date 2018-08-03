@@ -1,0 +1,68 @@
+@relation 'Dataset bdbcomp publish-venue_title_co-authors asilva'
+@attribute Text string
+@attribute class-att {21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58}
+@data
+'rede computador aspecto deteccao intruso rede sensor fio f teixeira h wong j nogueira',54
+'rede computador deteccao intruso decentralizada rede sensor fio m martins b rocha a loureiro l ruiz h wong',54
+'journal brazilian comput societi case studi appli process project align methodolog p martins',55
+'inteligencia artifici evalu method sentenc lexic align brazilian portugues english parallel text h caseli m nunes',56
+'banco dado compon base digit librari servic find miss document r santos h santos a laender m goncalves',57
+'symposium integr circuit system design environ aid synthesi threephas analgu waveform us ahdl nan',58
+'rede computador implementacao novo agent gerencia rede computador c westephall',21
+'rede computador proposta gerencia mail l tarouco',21
+'computacao grafica processamento imagen multiscal segment enhanc mammogram m anguh',22
+'computacao grafica processamento imagen segment clinic structur imag human pelvic area j camapum a freitas h bassani f freitas',23
+'banco dado deby ferramenta extracao dado semi estruturado a laender e silva',24
+'banco dado interfac grafica consulta font dado xml t coelho a laender k louly',24
+'intern inform integr web queri semistructur data exampl qsbye interfac i filha a laender',24
+'intern inform integr web environ build maintain web view a arantes a laender p golgher',24
+'geoinformatica web data sourc spatial databas k borges a laender c medeiros c davis jr',24
+'seminario integrado softwar hardwar retrato web brasileira e veloso e moura p golgher r almeida a laender b ribeiro neto n ziviani',24
+'banco dado deteccao sitio replicado utilizando conteudo estrutura a carvalho a bezerra e moura p peres',24
+'banco dado abordagem armazenamento dado semi estruturado banco dado relacionai k magalhaes a laender',24
+'banco dado extract search us inform avail web faq e oliveira e moura j cavalcanti',24
+'banco dado consultando banco dado disponivei web usando palavra chave r vieira p calado a laender b ribeiro neto',24
+'banco dado verificacao automatica qualidad dado extraido web o oliveira',24
+'xxxi seminario integrado softwar hardwar relato utilizacao agent tecnologico processo eleitor regiao amazonica r rodrigues e silveira a vieiralves g souza j valente k merklein',24
+'banco dado extracao dado metadado texto semi estruturado usando hmm r santos f mesquita e vilarinho',24
+'informatica educacao desenvolvimento sistema tutor inteligent baseado agent contexto aula virtual adaptada a hernandez dominguez',25
+'informatica educacao arquitetura desenvolvimento ambient interativo aprendizagem baseado agent component framework s brito e favero a hernandez dominguez o tavares c frances',25
+'informatica educacao amam ambient aprendizagem multiparadigmatico m harb s brito e favero o tavares c frances',25
+'informatica educacao afm assistent tutor baseado agent ferramenta modelagem orientada objeto a hernandez dominguez b silva',25
+'informatica educacao ambient suport ensino processamento imagen usando linguagem python r lotufo r machado',26
+'computacao grafica processamento imagen automat method assess telangiectasia degre mathemat morpholog f flores r lotufo s isernhagen l isernhagen e rocha',26
+'computacao grafica processamento imagen classif microstructur morpholog analysi estim hydrat degre cement past concret r lotufo f flores',26
+'computacao grafica processamento imagen detect line us hierarch region base represent r lotufo',26
+'rede computador modelo mobilidad representacao cenario ambient fechado l moraes',27
+'informatica educacao karytu softwar letramento crianca surda otica bilingu nan',28
+'symposium microelectron technolog devic mechan properti silicon oxid film deposit pecvd teo applic mem structur sensor l goncalves c alfano n morimoto j santos',29
+'symposium microelectron technolog devic analysi electrospin nanofib function polyacrylonitril pan concentr r martinez r furlan i ramos j santiago aviles',29
+'computacao grafica processamento imagen determin signatur skelet matur s olabarriaga c dietrich c schmitz',30
+'computacao grafica processamento imagen semi automat identif optic disk imag process quantit funduscopi w rigo t rauber',31
+'computacao grafica processamento imagen wavelet base compar function base line signatur verif d freitas',32
+'geoinformatica plan brazilian urban traffic geograph applic softwar j oliveira b hall',33
+'informatica educacao interpretacao oraco simpl falibra tradutor portugu libra auxiliar aprendizagem crianca surda l coradine f albuquerque j madeiro m pereira o tavares',34
+'inteligencia artifici tarca integr system diagnosi treatment cardiac arrhythmia e oliveira',35
+'encontro nacion inteligencia artifici analis representatividad matriz u mapa auto organizavel kohonen k cunha f zuben l martins',36
+'engenharia requisito modelo avaliacao especificaco semi formai requisito softwar baseado teoria l martins',36
+'xxx seminario integrado softwar hardwar verificacao formal etapa particionamento co design usando sistema reescrita bobj m menezes l silva',37
+'desempenho sistema computacionai comunicacao tecnica solucao transient modelo fila fluido r leao e silva',38
+'rede computador calculo eficient distribuicao tamanho fila baseado modelo fluido r leao e silva',38
+'rede neurai realist comput simul primari somatosensori cortex replic static properti topograph organ m mazza',39
+'rede neurai hierarch neural model short term load forecast o carpinteiro',40
+'journal comput scienc an arvor n aria espalhamento naturalment balanceada a fiorese r silva g santos',41
+'fator humano sistema computacionai integracao ihc es processo planejamento reengenharia softwar guiado avaliacao usabilidad ppr u s junior j silva m ribeiro',42
+'fator humano sistema computacionai ferramenta apoio construcao sistema ajuda onlin a farias a lorenzoni m parizotto m silveira',43
+'linguagen programacao geracao sistema transformacao programa p borba',44
+'linguagen programacao hwsproxygen gerador proxi web servic linguagem haskel a furtado c nascimento g santos a santos c ferraz',44
+'journal comput scienc softwar control temperatura estufa e kanazawa k carvalho v kinoshita j uchoa w lacerda b schneider',45
+'journal brazilian comput societi perform analysi data servic third gener mobil telecommun network g mateus',46
+'rede computador perform analysi data servic mobil telecommun network g mateus',46
+'xxxii seminario integrado softwar hardwar desenvolvimento dispositivo gerenciador protocolo aplicaco ieee 1451 s rossi e moreno e batista a carvalho',47
+'geoinformatica robust strategi handl linear featur topolog consist polylin simplif s wu',48
+'geoinformatica preserv coincid incid topolog s wu',48
+'rede computador avaliacao desempenho composicao web servic usando rede petri f lins j junior n rosa p maciel n quental',49
+'informatica publica servico taxi baseado localizacao ambient comunicacao fio nan',50
+'informatica publica impacto desafio implementacao infra estrutura softwar livr organizaco estudo caso empresa setor siderurgico w brandao f parreiras',51
+'gerencia operacao rede servico meta gerencia agent procurador usando snmp j janeiro s colcher',52
+'journal comput scienc aplicacao simul anneal problema alocacao sala r sampaio g alvarenga',53

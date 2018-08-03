@@ -1,0 +1,222 @@
+@relation 'Dataset kitsi publish-venue_title_co-authors sjajodia'
+@attribute Text string
+@attribute class-att {1, 2}
+@data
+'ai solv multi granular tempor constraint network c bettini x wang',1
+'dbsec distribut polici data manag make polici mobil s chapin d faatz',1
+'toc distribut timestamp gener planar lattic network p ammann',1
+'dke discov calendar base tempor associ rule y li p ning x wang',1
+'dbsec interact analysi attack graph us relat queri l wang c yao a singhal',1
+'cp satisfi quantit tempor constraint multipl granular c bettini x wang',1
+'icd integr static dynam vote protocol enhanc file avail d mutchler',1
+'vldb encrypt manag access control evolut outsourc data s vimercati s foresti s paraboschi p samarati',1
+'comcom minimum cost network harden us attack graph l wang s noel',1
+'time discov calendar base tempor associ rule y li p ning x wang',1
+'esor enhanc control disclosur sensit inform d marks a motro',1
+'csfw panel discuss polyinstanti problem posit paper nan',1
+'acn effici secur mechan overlai multicast base content distribut s zhu c yao d liu s setia',1
+'sigmod semant assumpt queri evalu tempor databas c bettini x wang e bertino',1
+'ngc ad reliabl self heal kei distribut subset differ group rekei method secur multicast s zhu s setia',1
+'entc select data encrypt outsourc dynam environ e damiani s vimercati s foresti s paraboschi p samarati',1
+'cc high assur discretionari access control object base e bertino p samarati',1
+'comput surviv inform warfar attack p ammann c mccollum',1
+'mobiquit gkmpan effici group rekei scheme secur multicast ad hoc network s zhu s setia s xu',1
+'compsec elimin polyinstanti secur r sandhu',1
+'tc11 algebra databas explicit mark damag data g rumolo',1
+'tissec author model public kei manag servic p samarati m reiter',1
+'csfw abstract base misus detect high level specif adapt strategi j lin x wang',1
+'isci fragil watermark scheme detect malici modif databas relat h guo y li a liu',1
+'cc advanc commit protocol ml distribut databas system i ray e bertino l mancini',1
+'comput explor steganographi see unseen n johnson',1
+'infsof theoret formul degre isol databas v atluri e bertino',1
+'icdcit implement consist check correl attack k sarda d wijesekera',1
+'dpd data wareh data mine techniqu intrus detect system a singhal',1
+'dbsec flexflow flexibl flow control polici specif framework s chen d wijesekera',1
+'compsec integr principl mechan databas manag system r sandhu',1
+'foik privaci enhanc microaggreg method y li s zhu l wang',1
+'sdmw identifi sensit associ databas releas control c bettini x wang',1
+'sec card distribut system detect coordin attack j yang p ning x wang',1
+'dagstuhl tempor databas bibliographi updat y wu x wang',1
+'oopsla enforc mandatori access control object base e bertino p samarati',1
+'comcom design implement decentr prototyp system detect distribut attack p ning x wang',1
+'cc logic base framework attribut base access control l wang d wijesekera',1
+'tkde fly read entir databas p ammann p mavuluri',1
+'isci measur effect commut transact distribut databas perform r mukkamala',1
+'drm construct virtual primari kei fingerprint relat data y li v swarup',1
+'jc enhanc profil anomali detect us time granular y li n wu x wang',1
+'tod note estim cardin project databas relat r mukkamala',1
+'dbsec integr versu secur multi level secur databas c meadows',1
+'cais audit interv base infer y li l wang x wang',1
+'polici toward inform share benefit risk access control barac l zhang a brodsky',1
+'esor cardin base infer control sum data cube l wang d wijesekera',1
+'sp ensur atom multilevel transact p ammann i ray',1
+'sac bootstrap data mine intrus detect system d barbara y li j lin j couto',1
+'tod appli formal method semant base decomposit transact p ammann i ray',1
+'sp secur olap data cube privaci breach l wang d wijesekera',1
+'dpd tempor reason workflow system c bettini x wang',1
+'dagstuhl architectur support interoper among tempor databas c bettini x wang',1
+'ijait tempor mediat support uniform access heterogen tempor inform x wang s mohavni',1
+'csur databas secur privaci nan',1
+'dsn avoid loss fair ow process crash fair data exchang protocol p liu p ning',1
+'ih steganalysi imag creat us current steganographi softwar n johnson',1
+'toi flexibl author mechan relat data manag system e bertino p samarati',1
+'pod distribut algorithm dynam replic data o wolfson',1
+'sec go beyond mac dac us mobil polici a fayad d faatz v doshi',1
+'dbsec provid differ degre recenc option transact multilevel secur databas v atluri e bertino',1
+'cc topolog analysi network attack vulner nan',1
+'cais implement semant base decomposit transact i ray p ammann',1
+'tse pessimist consist control algorithm replic file achiev high avail d mutchler',1
+'dbsec intrus confin isol inform system p liu c mccollum',1
+'time free schedul free agent workflow system c bettini x wang',1
+'dbsec two tier coars index scheme ml databas system r mukkamala i ray',1
+'sigmod consensu glossari tempor databas concept c jensen j clifford r elmasri s gadia p hayes',1
+'isci look seed time discov tempor pattern larg transact set y li s zhu x wang',1
+'tkde secur databas constraint infer channel monitor disclosur a brodsky c farkas',1
+'dbsec timestamp order algorithm secur singl version multi level databas p ammann',1
+'cc provid wit anonym peer peer system b zhu s setia',1
+'pomc effici secur kei manag wireless mobil commun r pietro l mancini',1
+'sac robust watermark system base svd compress m calagna h guo l mancini',1
+'wpe maintain privaci deriv object n zannone f massacci d wijesekera',1
+'amai algebra represent calendar p ning x wang',1
+'tissec model assess infer exposur encrypt databas a ceselli e damiani s vimercati s paraboschi p samarati',1
+'adhoc lhap lightweight network access control protocol ad hoc network s zhu s xu s setia',1
+'sigmod dynam vote d mutchler',1
+'acsac correl intrus event build attack scenario attack graph distanc s noel e robertson',1
+'tkde author model distribut hypertext system p samarati e bertino',1
+'csfw fair lock protocol multilevel secur databas l mancini s setia',1
+'sec secur select exclus ad hoc wireless network r pietro l mancini',1
+'sp logic languag express author p samarati v subrahmanian',1
+'jc gkmpan effici group rekei scheme secur multicast ad hoc network s zhu s setia s xu',1
+'comcom model request among cooper intrus detect system p ning x wang',1
+'polici oblig monitor polici manag c bettini x wang d wijesekera',1
+'dbsec polyinstanti integr multilevel relat revisit r sandhu',1
+'jod inform releas control learn base architectur c bettini x wang',1
+'csfw multi phase damag confin databas system intrus toler p liu',1
+'cc effici multivers algorithm secur servic transact read p ammann',1
+'cc polici algebra access control proposit case d wijesekera',1
+'sensi leap effici secur mechan larg scale distribut sensor network s zhu s setia',1
+'dbsec audit trail organ relat databas s gadia g bhargava e sibley',1
+'acsac applic level isol us data inconsist detect a fayad c mccollum',1
+'icdcsw lhap lightweight hop hop authent protocol ad hoc network s zhu s xu s setia',1
+'cc polici algebra access control predic case d wijesekera',1
+'sdmw metadata manag outsourc encrypt databas e damiani s vimercati s foresti s paraboschi p samarati',1
+'sp transact process multilevel secur databas us replic architectur b kogan',1
+'sigkdd infer problem survei c farkas',1
+'cikm secur share neuroimageri k smith v swarup d faatz t cornett j hoyt',1
+'cc propag author distribut databas system p samarati p ammann',1
+'tkde hybrid replica control algorithm combin static dynam vote d mutchler',1
+'time k anonym databas timestamp data s mascetti c bettini x wang',1
+'jc cardin base infer control data cube l wang d wijesekera',1
+'sigmod databas secur current statu kei issu r sandhu',1
+'sdmw indistinguish aspect privaci c yao l wang x wang',1
+'sacmat redirect polici mission base inform share d keppler v swarup',1
+'sp novel decomposit multilevel relat singl level relat r sandhu',1
+'sigmod unifi framework enforc multipl access control polici p samarati v subrahmanian e bertino',1
+'isci us semant correct multidatabas achiev local autonomi distribut coordin maintain global integr i ray p ammann',1
+'tkde advanc transact process multilevel secur file store e bertino l mancini i ray',1
+'mi fingerprint imag recognit n johnson z duric',1
+'dss avoid loss fair ow failur fair data exchang system p liu p ning',1
+'sec propag modif mobil polici k smith d faatz a fayad',1
+'dsn voip intrus detect interact protocol state machin h sengar d wijesekera h wang',1
+'sasn attack resili hierarch data aggreg sensor network s roy s setia',1
+'sigmod adam testb explor us data mine intrus detect d barbara j couto n wu',1
+'cais deal granular time tempor databas g wiederhold w litwin',1
+'sp network flow watermark attack low latenc anonym commun system x wang s chen',1
+'sp surviv inform warfar attack databas p ammann c mccollum b blaustein',1
+'sp polyinstanti integr multilevel relat r sandhu',1
+'dbsec recent advanc access control model d wijesekera',1
+'jodl reason advanc polici rule applic access control c bettini x wang d wijesekera',1
+'dbsec novel approach certif revoc manag r mukkamala',1
+'esor incorpor dynam constraint flexibl author framework s chen d wijesekera',1
+'jc semant base transact process model multilevel transact i ray p ammann',1
+'ipl algorithm dynam data alloc distribut system o wolfson',1
+'csfw formal framework singl level decomposit multilevel relat r sandhu',1
+'csfw revoc classif o hagstrom f parisi presicce d wijesekera',1
+'pet prevent interv base infer random data perturb y li l wang',1
+'dbsec support time channel free comput multilevel secur object orient databas r sandhu r thomas',1
+'sdmw protect privaci locat base person identif c bettini x wang',1
+'dbsec toward secur xml feder l wang d wijesekera',1
+'mobiquit practic broadcast authent sensor network d liu p ning s zhu',1
+'dni polici model languag access control s vimercati p samarati',1
+'tc scalabl threshold closur c zhang k lam',1
+'dke consist polici enforc distribut system us mobil polici s chapin d faatz a fayad',1
+'tkde altern correct criteria concurr execut transact multilevel secur databas v atluri e bertino',1
+'waim recent advanc access control model nan',1
+'dpd flexibl transact depend databas system l mancini i ray e bertino',1
+'drm tamper detect local categor data us fragil watermark y li h guo',1
+'pe compar perform analysi reliabl group rekei transport protocol secur multicast s setia s zhu',1
+'acsac understand complex network attack graph cluster adjac matric s noel',1
+'cc track anonym peer peer voip call internet x wang s chen',1
+'vizsec manag attack graph complex visual hierarch aggreg s noel',1
+'dood model multilevel entiti us singl level object e bertino',1
+'tc11 integr challeng p ammann',1
+'tissec proposit polici algebra access control d wijesekera',1
+'edbt us checksum detect data corrupt d barbara r goel',1
+'dbsec secur lock protocol multilevel databas manag system l mancini i ray',1
+'cc balanc confidenti effici untrust relat dbmss e damiani s vimercati s paraboschi p samarati',1
+'wmrd algorithm dynam data distribut o wolfson',1
+'tod flexibl support multipl access control polici p samarati m sapino v subrahmanian',1
+'acsac applic level isol cope malici databas user p liu c mccollum',1
+'tpd secur dynam fragment replica alloc larg scale distribut file system a mei l mancini',1
+'comcom us attack graph correl hypothes predict intrus alert l wang a liu',1
+'sp provid flexibl inform flow control object orient system e ferrari p samarati e bertino',1
+'tod adapt data replic algorithm o wolfson y huang',1
+'dbsec multilevel secur transact process statu prospect v atluri t keefe c mccollum r mukkamala',1
+'sp integr object orient data model multilevel secur b kogan',1
+'sec referenti integr multilevel secur databas manag system v doshi',1
+'tod logic design tempor databas multipl granular x wang c bettini a brodsky',1
+'tpd global consist event order direct distribut environ p ammann p frankl',1
+'icd secur mediat databas k candan v subrahmanian',1
+'icdc incorpor transact semant reduc reprocess overhead replic mobil data applic p liu p ammann',1
+'csfw new polyinstanti integr constraint multilevel relat r sandhu t lunt',1
+'icdcit flexibl author framework commerc d wijesekera',1
+'nan databas secur research practic e bertino p samarati',1
+'mmmacn rule base topolog vulner analysi v swarup j pamula',1
+'dke maintain replic author distribut databas system p samarati p ammann',1
+'isci chain watermark detect malici modif stream data h guo y li',1
+'pod test complex tempor relationship involv multipl granular applic data mine c bettini x wang',1
+'jc intrus confin isol inform system p liu c mccollum',1
+'dbsec creat object flexibl author framework n zannone d wijesekera',1
+'cc trust manag servic relat databas s vimercati s paraboschi p samarati',1
+'esor aggreg relat databas control disclosur sensit inform a motro d marks',1
+'dpd rewrit histori recov malici transact p liu p ammann',1
+'tkde extend author model relat databas e bertino p samarati',1
+'dbsec measur overal secur network configur us attack graph l wang a singhal',1
+'sisw implement storag mechan untrust dbmss e damiani s vimercati m finetti s paraboschi p samarati',1
+'jnsm provis oblig polici rule manag c bettini x wang d wijesekera',1
+'amai gener framework time granular applic tempor reason c bettini x wang',1
+'acsac effici minimum cost network harden via exploit depend graph s noel b o berry m jacobs',1
+'acsac us attribut certif mobil polici electron commerc applic v doshi a fayad r maclean',1
+'dbsec subject switch algorithm access control feder databas j yang d wijesekera',1
+'dbsec achiev stricter correct requir multilevel secur databas dynam case v atluri e bertino',1
+'tod dynam vote algorithm maintain consist replic databas d mutchler',1
+'sp krono scalabl group re kei approach secur multicast s setia s koussih e harder',1
+'sigmod inform system research georg mason univers d barbara a brodsky l kerschberg a motro e sibley x wang',1
+'dbsec degre isol concurr control protocol commit protocol v atluri e bertino',1
+'cc leap effici secur mechan larg scale distribut sensor network s zhu s setia',1
+'tkde inform flow control object orient system p samarati e bertino a ciampichetti',1
+'tkde discov frequent event pattern multipl granular time sequenc c bettini x wang j lin',1
+'iwdc scalabl group rekei secur multicast survei s zhu',1
+'dbsec defend addit attack maxim error watermark relat databas y li v swarup',1
+'cacm trust recoveri c mccollum p ammann',1
+'vldb us formal method reason semant base decomposit transact p ammann i ray',1
+'tsdm discov tempor pattern multipl granular y li x wang',1
+'dbsec protect file system corrupt us checksum d barbara r goel',1
+'sp support multipl access control polici databas system e bertino p samarati',1
+'tissec abstract base intrus detect distribut environ p ning x wang',1
+'dbsec integr concurr control commit algorithm distribut multilevel secur databas c mccollum b blaustein',1
+'tdsc fingerprint relat databas scheme specialti y li v swarup',1
+'tod remov permiss flexibl author framework d wijesekera f parisi presicce o hagstrom',1
+'tse construct univers instanc loop free network databas us join like oper f springsteel',2
+'icd manag replic file partit distribut databas system nan',2
+'bit altern method reconstruct tree travers h burgdorff f springsteel y zalcstein',2
+'jss translat entiti relationship diagram relat structur p ng',2
+'tse local area network softwar relat issu s tripathi y huang',2
+'tse problem equival entiti relationship diagram p ng f springsteel',2
+'tse scheme parallel process mimd system j liu p ng',2
+'er univers repres instanc inconsist databas p ng f springsteel',2
+'fsttc univers repres instanc us unmark null nan',2
+'vldb enhanc vote algorithm d mutchler',2
+'tse extens repres instanc gamma acycl relat scheme nan',2
+'icd mutual consist decentr distribut system c meadows',2
+'tse repres instanc gamma acycl relat scheme p ng',2

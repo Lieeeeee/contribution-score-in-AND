@@ -1,0 +1,25 @@
+
+ Results 
+=====
+
+Correctly Classified Instances         208               95.4128 %
+Incorrectly Classified Instances        10                4.5872 %
+Kappa statistic                          0.3607
+K&B Relative Info Score               5809.3166 %
+K&B Information Score                   20.2302 bits      0.0928 bits/instance
+Class complexity | order 0              71.3812 bits      0.3274 bits/instance
+Class complexity | scheme               59.6295 bits      0.2735 bits/instance
+Complexity improvement     (Sf)         11.7517 bits      0.0539 bits/instance
+Mean absolute error                      0.078 
+Root mean squared error                  0.2101
+Relative absolute error                 67.1353 %
+Root relative squared error             88.6079 %
+Coverage of cases (0.95 level)          96.789  %
+Mean rel. region size (0.95 level)      59.8624 %
+Total Number of Instances              218     
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 1.000    0.769    0.953      1.000    0.976      0.469    0.646     0.958     1
+                 0.231    0.000    1.000      0.231    0.375      0.469    0.646     0.310     2
+Weighted Avg.    0.954    0.723    0.956      0.954    0.940      0.469    0.646     0.919     

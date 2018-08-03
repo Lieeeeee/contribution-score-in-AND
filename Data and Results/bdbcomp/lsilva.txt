@@ -1,0 +1,33 @@
+260;138;luis otavio rodrigues da silva;v mazzola;utilizacao tecnica estel gerar sequencia test protocolo comunicacao;rede computador;0
+261;139;lyrene silva;v paula;meta modelo especificacao arquitetura softwar camada;engenharia softwar;0
+262;139;lyrene silva;m sayao,j leite,k breitman;enriquecendo codigo cenario;engenharia softwar;0
+263;139;lyrene fernandes da silva;j leite;integracao caracteristica transversai durant modelagem requisito;engenharia softwar;0
+264;139;lyrene fernandes da silva;c felicissimo,k breitman,j leite;geracao ontologia subsidiada engenharia requisito;engenharia requisito;0
+265;139;lyrene fernandes da silva;j leite;linguagem modelagem requisito orientada aspecto;engenharia requisito;0
+266;139;lyrene f silva;a medeiros,t batista,l minora;requisito arquitetura softwar orientada aspecto integracao sinergica;engenharia softwar;0
+267;139;lyrene silva;a medeiros,t batista,l minora;marisa ferramenta mapeamento bidirecion modelo orientado aspecto requisito arquitetura softwar;latin american aspect orient softwar develop;0
+268;140;luciano silva;a fabris,a forrest;effici fill algorithm non simpl close curv us point contain paradigm;computacao grafica processamento imagen;0
+269;140;l silva;a fabris,a forrest;stroke discret polynomi bezier curv via point contain paradigm;computacao grafica processamento imagen;0
+270;141;luciano silva;d weingaertner,o bellon;estudo detecao borda imagen profundidad;computacao grafica processamento imagen;0
+271;141;luciano silva;o bellon,k boyer;robust multiview rang imag registr;computacao grafica processamento imagen;0
+272;141;luciano silva;o bellon,m cat,e vieira,a araujo;ferramenta mineracao imagen suport calculo idad gestacion recem nascido;algoritmo mineracao dado;0
+273;141;luciano silva;e vieira,o bellon;mineracao imagen;revista informatica teorica aplicada;0
+274;142;luciano c silva;a cervieiri,a nacul,j neto,l granville,l ulbrich;gerenciamento integrado moden via snmp estudo caso;seminario integrado softwar hardwar;0
+275;143;luciano cavalheiro da silva;i augustin,j lima,a yamin,r real,c geyer;isamadapt ambient desenvolvimento aplicaco novo paradigma definido computacao pervasiva;linguagen programacao;0
+276;143;luciano c da silva;m moraes,a filho,i augustin,a yamin,c geyer;disseminando informaco arquitetura isam;xxxii seminario integrado softwar hardwar;0
+277;144;luciano da silva;e costa,e jr;us neural network uncertainti inform core point fingerprint classif;rede neurai;0
+278;145;luciano rottava da silva;a costa,g bittencourt,e goncalves;expert coop++ ambient desenvolvimento sistema multiagent;encontro nacion inteligencia artifici;0
+279;146;leila roling scariot da silva;f gomide;aprendizagem participativa agrupamento nebuloso dado;encontro nacion inteligencia artifici;0
+280;147;leila silva;m menezes,a silva;verificacao formal etapa particionamento co design usando sistema reescrita bobj;xxx seminario integrado softwar hardwar;0
+281;147;leila silva;m carvalho,k rezende,n melo,y lobao,d mallerbi;monitoramento pe diabetico suport computacion;xxxi seminario integrado softwar hardwar;0
+282;148;luis felipe santos silva;w chapetta,g travassos;inspeco requisito softwar utilizando pbr apoio ferrament;qualidad softwar;0
+283;149;lena veiga e silva;d pozo,a laender,m goncalves;modelagem biblioteca digitai usando abordagem 5s estudo caso;banco dado;0
+284;149;lena veiga e silva;;servico auto arquivamento publicaco cientifica compativel padrao oai;informatica publica;0
+285;150;luis guerra e silva;j marques silva;solv satisfi combin circuit bactrack search recurs learn;symposium integr circuit system design;0
+286;151;leon solon da silva;s venturelli,f anastacio,j lira,a rezende;multius system kennet world;realidad virtual;0
+287;152;luzardo p silva;f pinheiro;elicit requir identifi workflow categori;engenharia requisito;0
+288;152;luzardo pereira da silva;f pinheiro;mapeando estrutura organizacionai categoria workflow;informatica publica;0
+289;153;luiz felipe ferreira da silva;f mello;cartograph data treatment analysi real time three dimension terrain visual;geoinformatica;0
+290;154;leandro alves silva;e albuquerque,l barros,l guerra;computador producao servico publico resultado investigacao prefeitura belo horizont;informatica publica;0
+291;155;leonardo humberto guimaraes silva;m valente;controlando evolucao sistema orientado aspecto meio aspect awar interfac;latin american aspect orient softwar develop;0
+292;155;leonardo humberto guimaraes silva;m malta,t melo,m valente;estudo emprego quantificacao sistema orientado aspecto resultado preliminar;latin american aspect orient softwar develop;0

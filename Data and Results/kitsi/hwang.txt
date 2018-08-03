@@ -1,0 +1,268 @@
+11347;1;haixun wang;c zaniolo;atla nativ extens sql data mine;sdm;2003
+11348;1;haixun wang;y chi,p yu,r muntz;catch moment maintain close frequent itemset data stream slide window;kai;2006
+11349;1;haixun wang;w wang,j yang,p yu;cluster pattern similar larg data set;sigmod;2002
+11350;1;haixun wang;j pei,j liu,k wang,j wang,p yu;discov frequent close partial order string;tkde;2006
+11351;1;haixun wang;c perng,s ma,p yu;mine associ pattern structur larg relat tabl;icdm;2002
+11352;1;haixun wang;c zaniolo;databas system extens decis support axl approach;dmkd;2000
+11353;1;haixun wang;w ku,r zimmermann;locat base spatial queri data share wireless broadcast environ;icd;2007
+11354;1;haixun wang;j pei,p yu;pattern base similar search microarrai data;kdd;2005
+11355;1;haixun wang;j yang,w wang,p yu;improv biclust method analyz gene express profil;ijait;2005
+11356;1;haixun wang;c luo,h thakkar,c zaniolo;nativ extens sql mine data stream;sigmod;2005
+11357;1;haixun wang;j pei,a fu,x lin;comput compress multidimension skylin cube effici;icd;2007
+11358;1;haixun wang;y chi,p yu,r muntz;loadstar load shed scheme classifi data stream;sdm;2005
+11359;1;haixun wang;y bai,h thakkar,c luo,c zaniolo;data stream languag system design power extens;cikm;2006
+11360;1;haixun wang;c perng,w fan,s park,p yu;index weight sequenc larg databas;icd;2003
+11361;1;haixun wang;x meng;sequenc tree structur xml index;icd;2005
+11362;1;haixun wang;w fan,p yu,s stolfo;fulli distribut framework cost sensit data mine;icdc;2002
+11363;1;haixun wang;c perng,s ma;fast relev discoveri time seri;icdm;2006
+11364;1;haixun wang;h he,j yang,p yu;compact reachabl label graph structur data;cikm;2005
+11365;1;haixun wang;j yin,j pei,p yu,j yu;suppress model overfit mine concept drift data stream;kdd;2006
+11366;1;haixun wang;w wang;stai current relev data mine research;dasfaa;2005
+11367;1;haixun wang;j cheng,j yu,x lin,p yu;fast comput reachabl label larg graph;edbt;2006
+11368;1;haixun wang;p wang,w wang,b shi,p yu;loci load shed class preserv data acquisit;icdm;2006
+11369;1;haixun wang;w fan,p yu,j han;mine concept drift data stream us ensembl classifi;kdd;2003
+11370;1;haixun wang;q zhao,m ogihara,j xu;find global iceberg distribut data set;pod;2006
+11371;1;haixun wang;h jiang,p yu,s zhou;gstring novel approach effici search graph databas;icd;2007
+11372;1;haixun wang;c zaniolo;extend sql decis support applic;dmdw;2002
+11373;1;haixun wang;c perng,s zhang,d jr;landmark new model similar base pattern queri time seri databas;icd;2000
+11374;1;haixun wang;x meng,y jiang,y chen;xseq index infrastructur tree pattern queri;sigmod;2004
+11375;1;haixun wang;y wang,x meng,s wang;estim select xml path express predic histogram;waim;2004
+11376;1;haixun wang;h he,j yang,p yu;blink rank keyword search graph;sigmod;2007
+11377;1;haixun wang;l lim,m wang;semant data manag toward queri data mean;icd;2007
+11378;1;haixun wang;w fan,p yu,s lo,s stolfo;progress model;icdm;2002
+11379;1;haixun wang;c zaniolo;user defin aggreg object relat system;icd;2000
+11380;1;haixun wang;f chu,w fan,p yu,j pei;fast algorithm subspac cluster pattern similar;ssdbm;2004
+11381;1;haixun wang;n abe,e pednault,b zadrozny,w fan,c apte;empir comparison variou reinforc learn strategi sequenti target market;icdm;2002
+11382;1;haixun wang;c zaniolo;user defin aggreg datamin;dmkd;1999
+11383;1;haixun wang;c perng,p yu;near neighbor search pattern distanc space;sdm;2005
+11384;1;haixun wang;y bai,h thakkar,c zaniolo;optim timestamp manag data stream manag system;icd;2007
+11385;1;haixun wang;j pei;random method quantifi chang distribut data stream;pkdd;2005
+11386;1;haixun wang;s park,w fan,p yu;vist dynam index method queri xml data tree structur;sigmod;2003
+11387;1;haixun wang;y law,c zaniolo;queri languag data model databas sequenc data stream;vldb;2004
+11388;1;haixun wang;w fan,y huang,p yu;activ mine data stream;sdm;2004
+11389;1;haixun wang;y chi,p yu;loadstar load shed data stream mine;vldb;2005
+11390;1;haixun wang;c perng,s ma,j hellerstein;farm framework explor mine space multipl attribut;icdm;2001
+11391;1;haixun wang;c zaniolo;user defin aggreg logic data languag;deduct;1998
+11392;1;haixun wang;x gu,p yu;adapt load diffus multiwai window stream join;icd;2007
+11393;1;haixun wang;w fan,f chu,p yu;prune dynam schedul cost sensit ensembl;aaai;2002
+11394;1;haixun wang;j pei,x zhang,m cho,p yu;mapl fast algorithm maxim pattern base cluster;icdm;2003
+11395;1;haixun wang;c zaniolo,c luo;atla small complet sql extens data mine data stream;vldb;2003
+11396;1;haixun wang;c perng,s ma,p yu;demand driven frequent itemset mine us pattern structur;kai;2005
+11397;1;haixun wang;p wang,x wu,w wang,b shi;reduc classifi granular mine concept drift data stream;icdm;2005
+11398;1;haixun wang;c perng,s ma,j hellerstein;user direct explor mine space multipl attribut;icdm;2002
+11399;1;haixun wang;g fung,j yu,d cheung,h liu;balanc ensembl approach weight classifi text classif;icdm;2006
+11400;1;haixun wang;y chi,p yu,r muntz;moment maintain close frequent itemset stream slide window;icdm;2004
+11401;1;haixun wang;c zaniolo;user defin aggreg databas languag;dbpl;1999
+11402;2;hao wang;;logic mani sort theori;jsyml;1952
+11403;2;hao wang;;new theori element number;jsyml;1948
+11404;2;hao wang;;axiomat arithmet;jsyml;1957
+11405;2;hao wang;m rabin;word histori ture machin fix input;jacm;1963
+11406;2;hao wang;;variant ture s theori comput machin;jacm;1957
+11407;2;hao wang;;note quin s principl quantif;jsyml;1947
+11408;2;hao wang;;formal mathemat;jsyml;1954
+11409;2;hao wang;;undecid sentenc gener semant paradox;jsyml;1955
+11410;2;hao wang;;set theoret basi real number;jsyml;1950
+11411;2;hao wang;;altern proof theorem kleen;jsyml;1958
+11412;2;hao wang;;certain predic defin induct schemata;jsyml;1953
+11413;2;hao wang;;formal system logic;jsyml;1950
+11414;2;hao wang;;exist class valu specif variabl;jsyml;1950
+11415;3;hanzi wang;d suter;fals peak avoid mean shift method unsupervis peak vallei slide imag segment;dicta;2003
+11416;3;hanzi wang;d suter;effici visual track probabilist fusion multipl cue;icpr;2006
+11417;3;hanzi wang;d suter;robust adapt scale parametr model estim comput vision;pami;2004
+11418;3;hanzi wang;d suter;robust fit adapt scale residu consensu;eccv;2004
+11419;3;hanzi wang;d suter;consensu base method track model background scenario foreground appear;pr;2007
+11420;3;hanzi wang;d suter;us symmetri robust model fit;prl;2003
+11421;3;hanzi wang;d suter,k schindler;effect appear model similar measur particl filter visual track;eccv;2006
+11422;3;hanzi wang;d suter;track segment peopl occlus sampl consensu base method;icip;2005
+11423;3;hanzi wang;d suter;color imag segment us global inform local homogen;dicta;2003
+11424;3;hanzi wang;k schindler;smooth foreground background segment video process;accv;2006
+11425;3;hanzi wang;d suter;background subtract base robust consensu method;icpr;2006
+11426;3;hanzi wang;d suter;mdpe robust estim model fit rang imag segment;ijcv;2004
+11427;3;hanzi wang;d suter;novel robust statist method background initi visual surveil;accv;2006
+11428;4;hongcheng wang;y chen,t fang,j tyan,n ahuja;gradient adapt imag restor enhanc;icip;2006
+11429;4;hongcheng wang;n ahuja;compact represent multidimension data us tensor rank decomposit;icpr;2004
+11430;4;hongcheng wang;r raskar,n ahuja;seamless video edit;icpr;2004
+11431;4;hongcheng wang;q wu,l shi,y yu,n ahuja;core tensor approxim multi dimension matric visual data;tog;2005
+11432;4;hongcheng wang;y chen,t fang,j tyan;mutual inform regular bayesian framework multipl imag restor;iccv;2005
+11433;4;hongcheng wang;n ahuja;rank r approxim tensor us imag matrix represent;cvpr;2005
+11434;4;hongcheng wang;n ahuja;facial express decomposit;iccv;2003
+11435;5;helen j wang;y wang,c verbowski,j dunagan,y chen,c yuan,z zhang;strider black box state base approach chang configur manag support;scp;2004
+11436;5;helen j wang;y wang,c verbowski,j dunagan,y chen,c yuan,z zhang;strider black box state base approach chang configur manag support;lisa;2003
+11437;6;helen j wang;v padmanabhan,l qiu;passiv network tomographi us bayesian infer;imc;2002
+11438;6;helen j wang;m castro,m jones,a kermarrec,a rowstron,m theimer,a wolman;evalu scalabl applic level multicast built us peer peer overlai;infocom;2003
+11439;6;helen j wang;v padmanabhan,p chou;resili peer peer stream;icnp;2003
+11440;6;helen j wang;q huang,n borisov;privaci preserv friend troubleshoot network;ndss;2005
+11441;6;helen j wang;j platt,y chen,r zhang,y wang;automat misconfigur troubleshoot peerpressur;osdi;2004
+11442;6;helen j wang;j hellerstein,p haas;onlin aggreg;sigmod;1997
+11443;6;helen j wang;x jiang,d xu,e spafford;virtual playground worm behavior investig;raid;2005
+11444;6;helen j wang;a joseph,r katz;signal system us lightweight call session;infocom;2000
+11445;6;helen j wang;j ma,j dunagan,s savage,g voelker;find divers remot code inject exploit;imc;2006
+11446;6;helen j wang;j platt,y chen,r zhang,y wang;peerpressur automat troubleshoot;sigmetr;2004
+11447;6;helen j wang;c guo,d simon,a zugenmaier;shield vulner driven network filter prevent known vulner exploit;sigcomm;2004
+11448;6;helen j wang;w cui,m peinado,m locasto;shieldgen automat data patch gener unknown vulner inform probe;sp;2007
+11449;6;helen j wang;r katz,j giese;polici enabl handoff across heterogen wireless network;wmcsa;1999
+11450;6;helen j wang;j meseguer,r sasse,y wang;systemat approach uncov secur flaw gui logic;sp;2007
+11451;6;helen j wang;v padmanabhan,p chou;support heterogen congest control peer peer multicast stream;iptp;2004
+11452;6;helen j wang;y hu,c yuan,z zhang,y wang;friend troubleshoot network toward privaci preserv automat troubleshoot;iptp;2004
+11453;6;helen j wang;q huang,d jao;applic secur electron vote autom privaci preserv troubleshoot;cc;2005
+11454;6;helen j wang;c reis,j dunagan,o dubrovsky,s esmeir;browsershield vulner driven filter dynam html;osdi;2006
+11455;6;helen j wang;v padmanabhan,l qiu;server base infer internet link lossi;infocom;2003
+11456;6;helen j wang;s king,p chen,y wang,c verbowski,j lorch;subvirt implement malwar virtual machin;sp;2006
+11457;6;helen j wang;v padmanabhan,p chou,k sripanidkulchai;distribut stream media content us cooper network;nossdav;2002
+11458;7;hong wang;;vertex disjoint triangl claw free graph minimum degre least three;combinatorica;1998
+11459;7;hong wang;;partit bipartit graph cycl;dm;1993
+11460;7;hong wang;y ishigami;extens theorem cycl contain specifi independ edg;dm;2002
+11461;7;hong wang;;k1 k factor complet bipartit graph;dm;1994
+11462;7;hong wang;;direct bipartit graph contain everi possibl pair direct cycl;arscom;2001
+11463;7;hong wang;y egawa,s fujita,k kawarabayashi;exist two disjoint long cycl graph;dm;2005
+11464;7;hong wang;;independ cycl bipartit graph;gc;2001
+11465;7;hong wang;;maximum number independ cycl bipartit graph;jct;1996
+11466;7;hong wang;y egawa,m hagita,k kawarabayashi;cover vertic graph k disjoint cycl;dm;2003
+11467;7;hong wang;c little,k teo;partit direct bipartit graph two direct cycl;dm;1996
+11468;7;hong wang;;p2p factor complet bipartit graph;dm;1993
+11469;7;hong wang;;vertex disjoint hexagon chord bipartit graph;dm;1998
+11470;7;hong wang;;maximum number independ cycl graph;dm;1999
+11471;7;hong wang;;bipartit graph contain everi possibl pair cycl;dm;1999
+11472;7;hong wang;d berman,a radcliffe,a scott,l wargo;tree contain larg induc subgraph degre mod k;dm;1997
+11473;7;hong wang;;vertex disjoint quadrilater graph;dm;2004
+11474;7;hong wang;;triangl claw free graph;dm;1998
+11475;7;hong wang;;cover bipartit graph cycl;siamdm;2001
+11476;7;hong wang;;quadrilater cycl cover bipartit graph;arscom;2001
+11477;7;hong wang;b randerath,i schiermeyer;quadrilater graph;dm;1999
+11478;7;hong wang;n sauer;pack three copi tree complet graph;ejc;1993
+11479;7;hong wang;d zhang;disjoint direct quadrilater direct graph;jgt;2005
+11480;7;hong wang;;maxim total length k disjoint cycl bipartit graph;combinatorica;2005
+11481;8;hai wang;m horridge,a rector,n drummond,j seidenberg;debug owl dl ontolog heurist approach;semweb;2005
+11482;8;hai wang;j sun,j dong,j liu;object z web environ project uml;www;2001
+11483;8;hai wang;j sun,s athauda,t sheik;svg web environ z specif languag;icfem;2005
+11484;8;hai wang;j sun,h zhang,y li;formal semant verif featur model;icecc;2005
+11485;8;hai wang;j sun,j dong,j liu;formal object approach design zml;ansoft;2002
+11486;8;hai wang;j dong,j sun;z approach semant web;icfem;2002
+11487;8;hai wang;j dong,j sun;check reason semant web alloi;fm;2003
+11488;8;hai wang;j dong,y li;tcoz approach semant web servic design;www;2004
+11489;8;hai wang;j dong,j sun,y li;tcoz approach owl s process model design;seke;2005
+11490;8;hai wang;j sun,j dong,j liu;xml xsl approach visual anim tcoz;apsec;2001
+11491;8;hai wang;j dong,j sun;semant web extend link formal;fm;2002
+11492;8;hai wang;j dong,y li,j sun,j sun;xml base static type check dynam visual tcoz;icfem;2002
+11493;8;hai wang;j sun,y li,j sun;visual simul semant web servic ontolog;icfem;2005
+11494;8;hai wang;j dong,c lee,h lee,y li;combin approach check web ontolog;www;2004
+11495;8;hai h wang;y li,j sun,g dobbie,j sun;valid semistructur data us owl;waim;2006
+11496;8;hai wang;j dong,j sun;reason support swrl fol us alloi;seke;2005
+11497;8;hai h wang;y li,j sun,g dobbie,j sun;reason ora ss data model us semant web;jod;2006
+11498;9;haojun wang;r zimmermann,w ku;spatial data queri support peer peer system;compsac;2004
+11499;9;haojun wang;r zimmermann,w ku;distribut continu rang queri process move object;dexa;2006
+11500;9;haojun wang;w ku,r zimmermann,c wan;adapt nearest neighbor queri travel time network;gi;2005
+11501;10;han wang;x wang;markov random field model rang imag segment;prl;2004
+11502;10;han wang;x wang;evolutionari optim markov random field prior;tec;2004
+11503;10;han wang;x wang;evolutionari gibb sampler imag segment;icip;2004
+11504;10;han wang;j li,w yau;constrain nonlinear model fingerprint orient predict;pr;2006
+11505;10;han wang;z li;real time 3d motion track known geometr model;rti;1999
+11506;10;han wang;j li,w yau;fingerprint index base symmetr measur;icpr;2006
+11507;10;han wang;s kaveti,e teoh;effici algorithm obtain algebra invari higher degre implicit polynomi recognit curv object;pr;1998
+11508;10;han wang;w song;correct bia motion estim algorithm;prl;2002
+11509;10;han wang;h wang,c wang,w soh;cooper base behavior design;robocup;2001
+11510;10;han wang;z zheng,e teoh;analysi grai level corner detect;prl;1999
+11511;10;han wang;w yau;fast rel depth comput activ stereo vision system;rti;1999
+11512;10;han wang;n liu;featur extract genet algorithm base nonlinear princip compon analysi face recognit;icpr;2006
+11513;10;han wang;f shen;corner detect base find edg point local;jci;2002
+11514;10;han wang;f shen;corner detect base modifi hough transform;prl;2002
+11515;10;han wang;h wang,c wang,w soh;multi platform soccer robot develop system;robocup;2001
+11516;11;hai wang;j zhang,q gao;discov gene specif local co regul us progress genet algorithm;ictai;2006
+11517;11;hai wang;k sevcik;multi dimension histogram select estim fast approxim queri answer;cascon;2003
+11518;11;hai wang;j zhang,q gao;novel method detect outli subspac high dimension databas us genet algorithm;icdm;2006
+11519;11;hai wang;k sevcik;solut properti converg approxim mean valu analysi algorithm;sigmetr;2002
+11520;11;hai wang;k sevcik;experi improv approxim mean valu analysi algorithm;cpe;1998
+11521;11;hai wang;m chechik;bisimul analysi sdl express protocol case studi;cascon;2000
+11522;11;hai wang;j zhang,m lou,t ling;ho miner system detect outli subspac high dimension data;vldb;2004
+11523;11;hai wang;k sevcik;util histogram inform;cascon;2001
+11524;11;hai wang;j zhang;detect outli subspac high dimension data new task algorithm perform;kai;2006
+11525;11;hai wang;s wang;conceptu construct incomplet survei data;dke;2004
+11526;11;hai wang;w wang,j zhang;grid odf detect outlier effect effici larg multi dimension databas;ci;2005
+11527;11;hai wang;k sevcik;experi improv approxim mean valu analysi algorithm;pe;2000
+11528;11;hai wang;s wang;knowledg discoveri self organ map data visual queri process;kai;2002
+11529;12;huaiqing wang;d xu;collabor multi agent workflow manag;hicss;2001
+11530;12;huaiqing wang;j mylopoulos,l chung,s liao,e yu;explor altern requir analysi;softwar;2001
+11531;13;hanli wang;s kwong,y jin,w wei,k man;agent base evolutionari approach interpret rule base knowledg extract;tsmc;2005
+11532;13;hanli wang;s kwong,y jin,w wei,k man;multi object hierarch genet algorithm interpret fuzzi rule base knowledg extract;fss;2005
+11533;13;hanli wang;q hong,s kwong;optim gaussian mixtur model paramet speaker identif;gecco;2004
+11534;13;hanli wang;s kwong,c kok;effect detect zero dct block h 264 optim;icip;2006
+11535;13;hanli wang;s kwong,c kok;effici predict algorithm integ dct coeffici h 264 avc optim;tcsv;2006
+11536;13;hanli wang;c tsang,s kwong;anomali intrus detect us multi object genet fuzzi system agent base evolutionari comput framework;icdm;2005
+11537;14;hai wang;p liu;model evalu surviv intrus toler databas system;esor;2006
+11538;14;hai wang;k bai,p liu;toward databas firewal;dbsec;2005
+11539;14;hai wang;p liu,l li;evalu impact intrus detect defici cost effect attack recoveri;isw;2004
+11540;15;hao chuan wang;c huang,t li,c chang;idea storm cube game base system support creativ think;digitel;2007
+11541;15;hao chuan wang;t li,c rose,c huang,c chang;vibrant brainstorm agent comput support creativ problem solv;;2006
+11542;15;hao chuan wang;t li,c chang;web base tutor system style match strategi spatial geometr transform;iwc;2006
+11543;15;hao chuan wang;c lu,j yang,h hu,g chiou,y chiang,w hsu;empir explor us wiki english second languag cours;icalt;2005
+11544;15;hao chuan wang;t li,c chang;adapt present effect web base learn 3d content;icalt;2004
+11545;15;hao chuan wang;c huang,t li,c chang;collabor support tool creativ learn idea storm cube;icalt;2007
+11546;15;hao chuan wang;r kumar,c rose,t li,c chang;hybrid ontolog direct feedback select algorithm support creativ problem solv dialogu;ijcai;2007
+11547;16;huamin wang;r yang;toward space time light field render;si3d;2005
+11548;16;huamin wang;p mucha,g turk;water drop surfac;tog;2005
+11549;16;huamin wang;m sun,r yang;space time light field render;tvcg;2007
+11550;17;hsin min wang;w tsai,d rodgers,s cheng,h yu;blind cluster popular music record base singer voic characterist;ismir;2003
+11551;17;hsin min wang;b chen;content base languag model spoken document retriev;iral;2000
+11552;17;hsin min wang;h yu,w tsai;queri sing techniqu retriev polyphon object popular music;air;2005
+11553;17;hsin min wang;b chen;comparison word subword index techniqu mandarin chines spoken document retriev;pcm;2001
+11554;17;hsin min wang;h meng,b chen,s khudanpur,g levow,w lo,d oard,p schone,k tang,j wang;mandarin english inform mei investig translingu speech retriev;csl;2004
+11555;17;hsin min wang;;mandarin spoken document retriev base syllabl lattic match;prl;2000
+11556;17;hsin min wang;s cheng,y chao,h fu;prototyp embed genet k mean algorithm;icpr;2006
+11557;17;hsin min wang;b chen;content base languag model spoken document retriev;ijcpol;2001
+11558;17;hsin min wang;l chien,b bai,s lin;spoken access approach chines text speech inform retriev;jasi;2000
+11559;17;hsin min wang;h yu,w tsai;music retriev system base queri sing karaok jukebox;air;2006
+11560;17;hsin min wang;w tsai,h yu;queri exampl techniqu retriev cover version popular song similar melodi;ismir;2005
+11561;17;hsin min wang;w tsai;automat singer recognit popular music record via estim model solo vocal signal;taslp;2006
+11562;17;hsin min wang;w tsai;toward automat identif sing languag popular music record;ismir;2004
+11563;17;hsin min wang;b bai,b chen;syllabl base chines text spoken document retriev us text speech queri;ijprai;2000
+11564;17;hsin min wang;j kuo;minimum boundari error framework automat phonet segment;iscslp;2006
+11565;17;hsin min wang;y chen,s yu,b chen;extract chines spoken document summar us probabilist rank model;iscslp;2006
+11566;17;hsin min wang;y chao,r chang;novel altern hypothesi character us kernel classifi llr base speaker verif;iscslp;2006
+11567;17;hsin min wang;c tseng,s pin,y lee,y chen;fluent speech prosodi framework model;speech;2005
+11568;17;hsin min wang;y chou,b chen;brows chines web page us mandarin speech;ijcpol;2000
+11569;17;hsin min wang;w tsai;extract vocal relat inform facilit manag popular music collect;jcdl;2005
+11570;18;hong wang;h takizawa,h kobayashi;workflow manag mechan peer peer comput platform;ispa;2005
+11571;19;haohong wang;g schuster,a katsaggelos,t pappas;optim shape encod scheme us skeleton decomposit;ieeemsp;2002
+11572;19;haohong wang;a katsaggelos;hybrid sourc channel code scheme object base wireless video commun;icccn;2004
+11573;19;haohong wang;s tsaftaris,a katsaggelos;joint sourc channel code wireless object base video commun util data hide;tip;2006
+11574;19;haohong wang;d wu,s ci;cross layer design multimedia deliveri wireless network;ism;2006
+11575;19;haohong wang;g schuster,a katsaggelos,t pappas;effici rate distort optim shape code approach util skeleton base decomposit;tip;2003
+11576;19;haohong wang;g schuster,a katsaggelos;object base video compress scheme optim bit alloc among shape motion textur;icip;2003
+11577;19;haohong wang;t pappas,a katsaggelos;rate distort optim skeleton base shape code;icip;2001
+11578;20;haijing wang;p li,t zhang;histogram featur base fisher linear discrimin face detect;accv;2006
+11579;20;haijing wang;p li;object track particl filter us color inform;mirag;2007
+11580;20;haijing wang;p li;probabilist object track base machin learn import sampl;ibpria;2005
+11581;20;haijing wang;p li,t zhang;propos novel histogram featur face detect;icapr;2005
+11582;20;haijing wang;p li,t zhang;novel likelihood estim techniqu base boost detector;icip;2005
+11583;21;hao wang;h ii,y yang,a silberschatz,e li,y liu;stabl egress rout select interdomain traffic engin model analysi;icnp;2005
+11584;21;hao wang;h xie,l qiu,a silberschatz,y yang;optim isp subscript internet multihom algorithm design implic analysi;infocom;2005
+11585;21;hao wang;r dakdouk,s salihoglu,h xie,y yang;interdomain rout social choic;icdcsw;2006
+11586;21;hao wang;h xie,l qiu,y yang,y zhang,a greenberg;cope traffic engin dynam network;sigcomm;2006
+11587;21;hao wang;h ii,y yang,a silberschatz,e li,y liu;stabil ration heterogen interdomain rout select;icnp;2005
+11588;22;harry j wang;h cheng,j zhao;web servic enabl market access control model;jwsr;2004
+11589;22;harry j wang;j zhao;web servic enabl market access control emac;icw;2003
+11590;23;hei chia wang;v karakostas;busi object semant commun model distribut environ;ecoopw;1998
+11591;24;hongzhi wang;w wang,x lin,j li;label scheme structur join graph structur xml data;apweb;2005
+11592;24;hongzhi wang;w wang,j li,x lin,r wong;practic index xml document twig queri;asian;2005
+11593;24;hongzhi wang;w wang,x lin,j li;subgraph join effici process subgraph queri graph structur xml document;waim;2005
+11594;25;huai wang;s parthasarathy,a ghoting,s tatikonda,g buehrer,t kurc,j saltz;design next gener sampl servic larg scale data analysi applic;ic;2005
+11595;25;huai wang;a ghoting,g buehrer,s tatikonda,s parthasarathy,t kurc,j saltz;servic orient framework next gener data analysi center;ipp;2005
+11596;26;huaxiong wang;y desmedt,r safavi naini,l batten,c charnes,j pieprzyk;broadcast anti jam system;cn;2001
+11597;27;hong ming wang;j wang,h hsu;constrain textur synthesi scalabl sub patch algorithm;icmc;2004
+11598;28;huey yih wang;r brayton;multi level logic optim fsm network;iccad;1995
+11599;28;huey yih wang;r brayton;input don t care sequenc fsm network;iccad;1993
+11600;28;huey yih wang;r brayton;permiss observ relat fsm network;dac;1994
+11601;29;hongfang wang;e hancock;kernel spectral correspond match us label consist constraint;iciap;2005
+11602;29;hongfang wang;e hancock;probabilist relax us heat equat;icpr;2006
+11603;29;hongfang wang;e hancock;graph spectral approach consist label;iciar;2006
+11604;30;huaiqing wang;m wang,d xu,k wan,d vogel;web servic agent base decis support system secur except manag;eswa;2004
+11605;30;huaiqing wang;m wang,j liu;dynam suppli chain integr intellig agent;hicss;2007
+11606;30;huaiqing wang;m wang;agent web servic support busi except manag;pricai;2004
+11607;30;huaiqing wang;m wang,d xu;design intellig workflow monitor agent technolog;kb;2005
+11608;30;huaiqing wang;m wang;intellig agent support busi process manag;hicss;2005
+11609;31;hui wang;s jiang,q li;novel intrus detect method;npc;2004
+11610;32;hong wang;l guo;pid control design output pdf stochast system us linear matrix inequ;tsmc;2005
+11611;33;hsi chun alister wang;;data hide techniqu print binari imag;itcc;2001
+11612;34;hua wang;l szekely;binari tree largest number subtre;dam;2007
+11613;35;huaiqing wang;s gao,y wang,w shen,s yeung;web servic agent base famili wealth manag system;eswa;2005
+11614;36;hua wang;h chu,l qiao,k nahrstedt,r jain;secur multicast protocol copyright protect;ccr;2002

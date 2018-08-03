@@ -1,0 +1,31 @@
+@relation 'Dataset bdbcomp publish-venue_co-authors rsilva'
+@attribute Text string
+@attribute class-att {192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213}
+@data
+'realidad virtual e corseuil a raposo m pinto g wagner m gattass',206
+'informatica publica r maranhao r barros',207
+'journal comput scienc c garrozi',208
+'journal comput scienc a rocha a schneider j alves',209
+'journal comput scienc h oliveira m souza g alvarenga',210
+'journal comput scienc g alvarenga r sampaio',210
+'journal comput scienc m souza h oliveira',210
+'journal comput scienc nan',211
+'banco dado s amo n silva f pereira',212
+'computacao grafica processamento imagen c solana l fernandes e justino m oliveira l oliveira f bortolozzi g crespo',213
+'symposium microelectron technolog devic g wirth j koh r thewes r brederlow',213
+'rede computador e moreira',192
+'computacao grafica processamento imagen s wu',193
+'rede computador m andrade h andrade j nogueira',194
+'engenharia softwar r price',195
+'qualidad softwar e freiberger',195
+'informatica educacao c nascimento p barbosa',196
+'computacao grafica processamento imagen j gomes c mota l velho',197
+'computacao grafica processamento imagen s wu',198
+'computacao grafica processamento imagen e strauss w jimenez g giraldi a oliveira',199
+'informatica educacao e silva m abreu',200
+'rede computador j leite m fernandez',201
+'encontro nacion inteligencia artifici r filho m pequeno',202
+'encontro nacion inteligencia artifici g ramalho',203
+'computacao grafica processamento imagen j mayer',204
+'journal comput scienc a silva a fiorese g santos',205
+'realidad virtual t bastos a raposo m gattass',206

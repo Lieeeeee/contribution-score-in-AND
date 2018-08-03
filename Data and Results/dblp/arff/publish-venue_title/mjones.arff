@@ -1,0 +1,264 @@
+@relation 'Dataset dblp publish-venue_title mjones'
+@attribute Text string
+@attribute class-att {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13}
+@data
+'sigmod intern confer manag data confer multiview project object orient view technolog applic',10
+'geoinformatica symbol intersect detect method improv spatial intersect join',10
+'ssd symposium larg spatial databas improv spatial intersect join us symbol intersect detect',10
+'cikm intern confer inform knowledg manag view materi techniqu complex hierarch object',10
+'ssdbm statist scientif databas manag schema independ xml databas system',11
+'ssdbm statist scientif databas manag manag heterogen ecolog data us morpho',11
+'ieee internet comput manag scientif metadata',11
+'intern journal comput vision appear base structur motion us linear class d model',12
+'sigmod intern confer manag data confer mont carlo algorithm fast project cluster',12
+'categori b tphol toward ghdl eval framework deepli embed simpl hdl hol',13
+'ieee custon integr circuit confer brief introduct formal method',13
+'librari compon model qualiti assur alexandria librari abstract verifi hardwar modul',13
+'tool paper fmcad lnc edit windlei gopalakrishnan alexandria tool heirarch verif',13
+'fmcad formal method comput aid design verifi transact order properti unbound bu network combin deduct algorithm method',13
+'formal method comput aid design fmcad formal method comput aid design springer lnc verifi transact order properti unbound bu network combin deduct algorithm method',13
+'th intern confer telecommun system model analysi nashvil pyramid broadcast fast forward rewind',13
+'categori b tphol restrict type hol',13
+'ieee intern high level design valid test hldvt toward autom abstract protocol branch network',13
+'formal method system design formal proof solut pci bu transact order problem',13
+'zb increment proof produc consum properti pci protocol',13
+'research report yaleu dc rr yale univers new haven shorter revis version without proof appear fpca function program languag comput architectur confer function program languag comput architectur jolla comput anim simplifi improv qualifi type',1
+'symposium object orient real time distribut comput reactiv object',1
+'proceed twenti third annual acm sigplan special interest group program languag sigact symposium principl program languag st beach us parameter signatur express modular structur',1
+'technic report nottc tr depart comput scienc univers nottingham univers park nottingham ng rd england polymorph type system extens record variant',1
+'proceed function program ullapool scotland publish springer verlag workshop comput scienc seri us type pars natur languag',1
+'popl symposium principl program languag monad transform modular interpret',1
+'fpca function program languag comput architectur confer function program languag comput architectur copenhagen appear extend form journal function program univers press system constructor class overload implicit higher order polymorph',1
+'function program us type pars natur languag',1
+'research report yaleu dc rr yale univers new haven implement gofer function program system',1
+'esop european symposium program european symposium program renn springer verlag lectur note comput scienc theori qualifi type',1
+'proceed haskel th type class explor design space',1
+'proceed th european symposium program esop european symposium program springer verlag lnc type class function depend',1
+'journal function program comput lattic applic type class',1
+'lisp symbol comput dictionari free overload partial evalu',1
+'pepm partial evalu semant base program manipul dictionari free overload partial evalu',1
+'advanc function program function program overload higher order polymorph',1
+'popl symposium principl program languag first class polymorph type infer',1
+'tac theoret aspect comput softwar ml type explicit polymorph qualifi type',1
+'mpc mathemat program construct integr program properti valid',1
+'plilp symposium program languag implement logic program program constructor class abstract',1
+'function program program constructor class preliminari summari',1
+'research report yaleu dc rr yale univers new haven coher qualifi type',1
+'research report yaleu dc rr yale univers new haven compos monad',1
+'journal function program univers press comput lattic applic type class',1
+'acm sigplan special interest group program languag partial evalu semant base program manipul dictionari free overload partial evalu',1
+'proceed haskel publish technic report uu cs depart comput scienc univers utrecht type haskel haskel',1
+'first intern school advanc function program techniqu b aa stad springer verlag lectur note comput scienc function program overload higher order polymorph',1
+'proceed oopsla confer object orient program system languag applic formal underpin java function java bytecod',1
+'proceed haskel jolla yale univers research report yaleu dc rr hindlei milner type first class structur',1
+'confer record popl symposium principl program languag acm sigplan special interest group program languag sigact symposium principl program languag san francisco comput anim monad transform modular interpret',1
+'proceed twenti fourth annual acm sigplan special interest group program languag sigact symposium principl program languag first class polymorph type infer',1
+'pldi special interest group program languag design implement implement type class',1
+'technic report nottc tr function program research group depart comput scienc univers nottingham nottingham ng rd england hug haskel user s gofer system user manual',1
+'proceed acm sigplan special interest group program languag symposium program languag design implement acm sigplan special interest group program languag implement type class',1
+'proceed haskel publish technic report uu cs depart comput scienc univers utrecht lightweight extens record haskel',1
+'univers press qualifi type theori practic',1
+'fpca function program languag comput architectur simplifi improv qualifi type',1
+'popl symposium principl program languag us parameter signatur express modular structur',1
+'fpca function program languag comput architectur system constructor class overload implicit higher order polymorph',1
+'sci comput program theori qualifi type',1
+'esop european symposium program theori qualifi type',1
+'tac theoret aspect comput softwar confer theoret aspect comput softwar sendai springer verlag lectur note comput scienc ml type explicit polymorph qualifi type',1
+'esop european symposium program type class function depend',1
+'research report yaleu dc rr yale univers new haven implicit explicit parallel program haskel',1
+'hot topic oper system oper system direct next millennium',2
+'proceed th acm symposium oper system principl saint malo page cpu reserv time constraint effici predict schedul independ activ',2
+'nossdav network oper system support digit audio video support user centric modular real time resourc manag rialto oper system',2
+'proceed third usenix advanc comput system associ window symposium page cpu reserv time constraint implement experi window nt',2
+'icdc intern confer distribut comput system futur distribut embed real time applic will adapt mean challeng research paradigm panel',2
+'proceed fifth hot topic oper system hoto orca island page ieee comput societi modular real time resourc manag rialto oper system',2
+'oopsla confer object orient program system languag applic mach matchmak kernel languag support object orient distribut system',2
+'proceed seventh acm sigop european connemara page overview rialto real time architectur',2
+'microsoft research technic report msr tr oper system support multimedia program model matter',2
+'microsoft research technic report msr tr predict schedul digit audio',2
+'ieee real time technolog applic symposium problem re mai problem think re result latenc studi window nt',2
+'microsoft research technic report msr tr predict schedul soft modem',2
+'hot topic oper system problem re mai problem think re result latenc studi window nt',2
+'proceed acm sigmetr measur model comput system confer measur model comput system predict requir soft modem',2
+'ieee real time technolog applic symposium two case studi predict applic schedul us rialto nt',2
+'sosp symposium oper system principl cpu reserv time constraint effici predict schedul independ activ',2
+'sigmetr measur model comput system perform predict requir soft modem',2
+'proceed intern confer distribut comput system icdc intern confer distribut comput system ieee comput societi overlook scalabl name servic overlai network',2
+'proceed eighth intern network oper system support digit audio video nossdav network oper system support digit audio video england issu us commod oper system time depend task experi studi window nt',2
+'proceed seventh hot topic oper system hoto rio rico ieee comput societi problem re mai problem think re result latenc studi window nt',2
+'proceed seventh real time technolog applic symposium rta ieee real time technolog applic symposium taipei two case studi predict applic schedul us rialto nt',2
+'proceed winter usenix confer page bring c librari us multi thread futur',2
+'popl symposium principl program languag matchmak interfac specif languag distribut process',2
+'invit posit statement distribut system onlin real time embed system area special issu real time embed system research go issu ieee consum real time system applic',2
+'infocom confer comput commun evalu scalabl applic level multicast built us peer peer overlai',2
+'proceed fourth workstat oper system wwo workstat oper system now hoto comput anim page ieee comput societi adapt real time resourc manag support composit independ author time critic servic',2
+'usenix advanc comput system associ symposium internet technolog system skipnet scalabl overlai network practic local properti',2
+'proceed second intern object orient oper system iwooo page ieee comput societi inherit unlik place us object build deriv implement flat interfac',2
+'proceed th acm symposium oper system principl icsc symposium neural comput page interposit agent transpar interpos user code system interfac',2
+'microsoft research technic report msr tr microsoft interact tv system experi report',2
+'ph d thesi carnegi mellon univers school comput scienc avail technic report cmu cs transpar interpos user code system interfac',2
+'acm comput surv consum real time system',2
+'workstat oper system adapt real time resourc manag support composit independ author time critic servic',2
+'nossdav network oper system support digit audio video adapt real time resourc manag support modular composit digit multimedia servic',2
+'sosp symposium oper system principl interposit agent transpar interpos user code system interfac',2
+'secur internet program interposit agent transpar interpos user code system interfac',2
+'oper system review toolkit interpos user code system interfac abstract',2
+'sosp symposium oper system principl simpl effici implement small databas',2
+'proceed sixth hot topic oper system hoto cape cod ieee comput societi oper system direct next millennium',2
+'proceed sixth intern network oper system support digit audio video nossdav network oper system support digit audio video zushi ieee comput societi tiger video fileserv',2
+'proceed eighth hot topic oper system hoto elmau ieee comput societi herald achiev global event notif servic',2
+'proceed second usenix advanc comput system associ window symposium page given best student paper award vassal loadabl schedul support multi polici schedul',2
+'proceed ieee symposium field programmalb custom comput machin napa ca april nan',3
+'iwan intern work confer activ network toward activ hardwar',3
+'ersa evalu rapid context switch csrc devic',3
+'commun comput commun electron textil system',3
+'supercomput solut larg spars system linear equat massiv parallel applic',3
+'mamset proc model analysi middlewar support electron textil servic backplan textil',3
+'proceed ieee symposium field programm custom comput machin comput anim implement api distribut adapt comput system',3
+'int j supercomput applic task distribut sensor network',3
+'numer linear algebra applic two stage multisplit method overlap block',3
+'commun comput examin commun requir remot scientif visual',3
+'ppsc siam confer parallel process scientif comput model piezoelectr crystal intel delta',3
+'pdpta parallel distribut process techniqu applic us configur comput scientif simul',3
+'siam societi industri appli mathemat journal matrix analysi applic factor indefinit matric high perform architectur',3
+'ppsc siam confer parallel process scientif comput vector parallel vector implement lanczo s method gener eigenvalu problem',3
+'iswc proceed sixth intern symposium nan',3
+'advanc engin softwar parallel adapt mesh refin techniqu plastic problem',3
+'quarterli journal electron script base approach commerc applic',3
+'iswc intern symposium wearabl comput us piezoelectr materi wearabl electron textil',3
+'wearabl comput us piezoelectr materi wearabl electron textil',3
+'ppsc siam confer parallel process scientif comput parallel algorithm mesh smooth',3
+'siam societi industri appli mathemat journal scientif comput parallel algorithm mesh smooth',3
+'ima journal appli mathemat volum mathemat applic scalabl mesh improv algorithm',3
+'journal parallel distribut comput parallel heurist improv balanc graph color',3
+'comput system engin comput result parallel unstructur mesh comput',3
+'journal finit element analysi design adapt refin unstructur finit element mesh',3
+'acm tran mathemat softwar algorithm fortran subroutin comput improv incomplet choleski factor',3
+'acm tran mathemat softwar improv incomplet choleski factor',3
+'comput aid civil infrastructur engin unstructur mesh comput network workstat',3
+'j parallel distrib comput parallel heurist improv balanc graph color',3
+'siam societi industri appli mathemat journal scientif comput parallel algorithm adapt mesh refin',3
+'ppsc siam confer parallel process scientif comput parallel solut unstructur spars system linear equat',3
+'ppsc siam confer parallel process scientif comput recent result model type superconductor massiv parallel comput',3
+'parallel comput scalabl iter solut spars linear system',3
+'acm ieee joint confer digit librari visual interfac digit librari spatial hypertext reader tool digit librari',4
+'hci human comput interact sort search small screen devic',4
+'bc british comput societi hci human comput interact hyperat hci web author',4
+'proceed th annual confer teach comput smith august ctc dublin univers m tool',4
+'proceed eurospeech us rel durat larg vocabulari speech recognit',4
+'j siddiqi wilkinson j ed companion proceed peopl comput uk new user interfac metaphor mobil person technolog',4
+'poster proceed th intern confer world wide web search interfac handheld web browser',4
+'proceed second acm ieee cs joint confer digit librari digit librari convers express help profoundli disabl user commun',4
+'paterno f ed proceed th intern symposium hci human comput interact pisa lnc springer sort search small screen devic',4
+'chi confer human factor comput system search chang pace search support background inform need',4
+'poster proceed th intern confer world wide web toronto site base outlin small screen web access',4
+'proc intern symposium electron art convent art web exhibit new electron art form',4
+'conail thoma p j pp hyperat hci web author',4
+'ph d thesi univers engin depart us acoust level prosod larg vocabulari speech recognit',4
+'colloquium issu network interperson commun london u k iee savoi place london larg small screen digest',4
+'proceed first asia pacif confer comput human interact inform technolog institut lost hyperspac psycholog problem bad design',4
+'south african comput journal comput societi south africa ubiquit comput cellular handset menu best wai forward',4
+'gellerson h w ubiquit comput karlsrhu lnc springer evalu webtwig site outlin handheld web access',4
+'adjunct proceed bc british comput societi hci human comput interact u k improv conceptu design better hypertext',4
+'proceed saicsit best paper confer winner ubiquit comput cellular handset menu best wai forward',4
+'iee digest colloquium inform overload london u k iee reduc inform overload compar studi hypertext system',4
+'person ubiquit comput data structur design interfac',4
+'comput memor yet invis proceed peopl septemb london nan',4
+'ecdl european confer digit librari explor small screen digit librari access greenston digit librari',4
+'person ubiquit comput obituari fax',4
+'www world wide web confer seri improv mobil internet usabl',4
+'turner s turner p ed proceed peopl comput sunderland pp empow consum usabl certif',4
+'acm transact comput human interact tochi comput human interact acm press usabl analysi markov model',4
+'poster proceed acm hypertext southampton uk lost hyperspac lost controversi',4
+'journal digit creativ press creativ digit librari',4
+'th world wide web confer mobil interfac web access web mobil',4
+'proc icslp yokohama model syllabl characterist improv larg vocabulari speech recognis',4
+'proc ieee icassp exploit variabl width featur larg vocabulari speech recognit',4
+'comput network improv web interact small screen displai',4
+'comput network improv web interact small displai',4
+'interact comput improv web search small screen devic',4
+'confer extend abstract human factor comput system acm chi confer human factor comput system hagu pp success user interfac design effici comput algorithm',4
+'confer companion proceed first asia pacif confer comput human interact unit author reader activ link world wide web',4
+'hci human comput interact us mobil devic vari pace search',4
+'thesi univers engin depart natur languag knowledg base m phil',4
+'intern journal person ubiquit technolog springer us algorithm interfac design',4
+'encyclopaedia comput comput histori fitzroydearborn publish product paradox',4
+'acm transact human comput interact special issu social issu',4
+'proceed ed media telcom confer calgari prepar new ubiquit comput',4
+'confer extend abstract human factor comput system us auditori feedback call centr comput human human interact',4
+'intern symposium hci human comput interact udin relat tech report us mobil devic vari pace search',4
+'ecdl european confer digit librari children design partner tester children s digit librari',4
+'proceed first asia pacif confer comput human interact inform technolog institut cognit task graph execut user model better hypertext',4
+'ifip intern feder inform process isbn ethic govern internet',4
+'borbinha j t ed proceed fourth european confer children design partner tester children s digit librari',4
+'visual interfac digit librari spatial hypertext reader tool digit librari',4
+'proceed th acm confer digit librari san antonio design children s digit librari children',4
+'intern journal person ubiquit comput special issu multimod interact mobil wearabl comput',4
+'m th intern confer world wide web pazzani mai hong kong nan',4
+'iee digest colloquium author applic hypermedia base user interfac london u k iee savoi place london design tool hypertext author',4
+'acm dl digit librari design children s digit librari children',4
+'agosti m costantino t ed proceed th european confer research advanc technolog digit librari lnc springer explor small screen digit librari access greenston digit librari',4
+'huc handheld ubiquit comput evalu webtwig site outlin handheld web access',4
+'springer book seri inform visual spatial hypertext reader tool digtial librari',4
+'nan nan',5
+'transform organ inform technolog don t emancip exagger rhetor realiti reengin',5
+'commun acm groupwar social infrastructur commun',5
+'impact comput support technolog inform system develop limit knowabl organiz design knowledg system develop',5
+'human organiz social dimens inform system develop structur develop structur analysi develop execut inform system',5
+'cscw confer comput support cooper work long wind road collabor organis chang',5
+'global organiz discours inform technolog import nearest nearshor softwar outsourc global discours',5
+'ici intern confer inform system interorganiz system trust strateg allianc',5
+'organiz social perspect move finger us social theori wg confer paper',5
+'aaai nation confer artifici intellig probabilist parser appli softwar test document',6
+'aaai nation confer artifici intellig conceptu depend montagu grammar step toward concili',6
+'aaai nation confer artifici intellig kitss knowledg base translat system test scenario',6
+'cikm intern confer inform knowledg manag flexibl list manag directori',6
+'ics intern confer softwar engin us descript logic kbse system experi report',6
+'acm tran softw eng methodol us descript logic kbse system',6
+'ijcai intern joint confer artifici intellig activ base pars',6
+'ijcai intern joint confer artifici intellig feedback coindex mechan connectionist architectur',6
+'iccv intern confer comput vision model base match line draw linear combin prototyp',7
+'iccv intern confer comput vision multidimension morphabl model',7
+'iccv intern confer comput vision robust real time face detect',7
+'iccv intern confer comput vision cluster base statist model object detect',7
+'nip neural inform process system fast robust classif us asymmetr adaboost detector cascad',7
+'intern journal comput vision statist color model applic skin detect',7
+'cvpr comput vision pattern recognit hierarch morphabl model',7
+'cvpr comput vision pattern recognit statist color model applic skin detect',7
+'chen kaufman yagel ed graphic springer isbn extend hypertextur non geometr defin data',8
+'comput graphic intern volum express artist model render dataset',8
+'shape model intern shape represent us space fill sub voxel distanc field',8
+'y s wilbur ed imag process broadcast video product springer verlag method metamorphosi',8
+'vmv vision model visual voxelis model graphic',8
+'comput graph forum new approach construct surfac contour data',8
+'ieee comput societi press isbn theori practis comput graphic',8
+'ieee comput societi press isbn th eurograph uk confer',8
+'earnshaw jone vinc ed visual model acceler techniqu render',8
+'proc bc british comput societi displai group visualis model univers leed acceler techniqu render',8
+'proc th ann conf eurograph uk chapter isbn direct surfac render gener genet bred implicit surfac',8
+'t ertl b girod g greiner h niemann h p seidel ed vision model visual io press isbn facial reconstruct us volumetr data',8
+'m goebel hueller b urban isbn issn fast cut oper three dimension dataset',8
+'proc th ann conf eurograph uk chapter isbn space subdivis finit element mesh',8
+'m chen p townsend j vinc visualis springer isbn glossari',8
+'proc comput graphic intern ieee comput societi press issn volum express artist model render dataset',8
+'proc th ann conf eurograph uk chapter loughborough voxelis polygon mesh',8
+'proc th ann conf eurograph uk chapter london isbn global illumin volumetr data set',8
+'b girod g greiner h niemann h p seidel ed vision model visual io press isbn voxelis model graphic',8
+'journal wscg intern confer central europ comput graphic visual issn melt object',8
+'proc th ann conf eurograph uk chapter effici shadow detect algorithm direct surfac render visualis model',8
+'comput graphic forum issn improv chapter ph d thesi pleas us journal refer refer work new approach construct surfac contour data',8
+'intern confer shape model applic ieee comput societi press isbn shape represent us space fill sub voxel distanc field',8
+'proc th ann conf eurograph uk chapter london isbn us distanc field object represent render',8
+'comput graphic forum issn product data triangular mesh us voxelis',8
+'k mueller kaufman ed graphic springer wien new issn hybrid distanc field comput',8
+'visual comput issn hypertextur complex object',8
+'th intern confer central europ comput graphic visual comput vision isbn hypertextur complex object',8
+'vmv vision model visual facial reconstruct us volumetr data',8
+'comput vision imag understand issn vector citi vector distanc transform',8
+'comput graph forum product data triangular mesh us voxelis',8
+'comput amp graphic distort morph us disk field',8
+'intellig tutor system enhanc instruct capabl intellig tutor system',9
+'ecai european confer artifici intellig comput analog',9
+'comput intellig ai approach educ editori',9
+'j uc univers comput scienc bring marketplac success experi minimalist design',9
+'intern journal man machin studi student model genet graph approach',9

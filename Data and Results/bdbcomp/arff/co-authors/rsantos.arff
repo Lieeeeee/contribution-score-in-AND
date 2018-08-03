@@ -1,0 +1,24 @@
+@relation 'Dataset bdbcomp co-authors rsantos'
+@attribute Text string
+@attribute class-att {174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190}
+@data
+'j junior m camargo s gregorio m ribeiro f arruba jr o fernandes w ishibashi',174
+'j leite c klemtz m mandel a mantovani s cintra',175
+'t ohashi t yoshida t ejima',176
+'a calsavara',177
+'i doi j diniz j swart s santos',178
+'i doi r teixeira j diniz j swart s santos',178
+'f artola s fontoura m vellasco',179
+'j tambor l paulino a bazzan',180
+'a calazans k oliveira',181
+'p adeodato a arnaud r cunha g vasconcelos d monteiro',182
+'f mesquita a silva e vilarinho',183
+'w caminhas l errico',184
+'nan',185
+'r andrade e marcal c vidal r rios',186
+'n medina r lapa m nero a netto',187
+'p roberto m goncalves a laender',188
+'a silva h santos a laender m goncalves',188
+'a peterle c castro c meffe n bretas',189
+'j santos j orozco',190
+'c hara',190

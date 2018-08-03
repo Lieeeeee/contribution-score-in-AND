@@ -1,0 +1,52 @@
+10;4;ademir alvarega de oliveira;m maia;jpearl linguagem descricao reestruturaco programa java;linguagen programacao;0
+11;5;antonio alberto oliveira;m kallmann;metamorfos modelo poliedrai utilizando campo vetoriai tetraedraco;computacao grafica processamento imagen;0
+12;5;antonio a f oliveira;m kallmann;homeomorph metamorphosi polyhedr model us field direct defin triangul;journal brazilian comput societi;0
+13;5;antonio alberto fernandes de oliveira;g giraldi;visualizacao vortic dinamica fluido computacion;computacao grafica processamento imagen;0
+14;5;antonio a f oliveira;g giraldi,e strauss;boundari extract approach base multi resolut method t snake framework;computacao grafica processamento imagen;0
+15;5;antonio a f oliveira;g giraldi,e strauss;improv origin dual t snake model;computacao grafica processamento imagen;0
+16;5;antonio a f oliveira;e strauss,w jimenez,g giraldi,r silva;semi automat surfac reconstruct framework base t surfac isosurfac extract method;computacao grafica processamento imagen;0
+17;5;antonio oliveira;f mello,e strauss,a gesualdi;non uniform mesh simplif us adapt merg procedur;geoinformatica;0
+18;5;a oliveira;s ribeiro,r farias,c esperanca,g giraldi;loop snake snake enhanc topolog control;computacao grafica processamento imagen;0
+19;5;a oliveira;a cuno,c esperanca,p cavalcanti;fast polygon variat implicit surfac;computacao grafica processamento imagen;0
+0;0;antonio mauro barbosa de oliveira;j filho,j jr,m vieira;minhoca plu rede local fin didatico;rede computador;0
+1;0;antonio mauro b oliveira;j soares,m rodrigues;problema qualidad servico perspectiva sistema educacao distancia;informatica educacao;0
+2;0;antonio mauro barbosa de oliveira;j soares,a serra,g barroso;arquitetura ambient concebido base dimenso critica educacao tecnologica distancia;informatica educacao;0
+3;0;antonio mauro barbosa de oliveira;j soares,a serra,g barroso;analis dimenso critica educacao distancia base especificacao sistema gestao;seminario integrado softwar hardwar;0
+4;0;a mauro b oliveira;j peyrin;minhonix distribut system teach;rede computador;0
+5;0;a mauro b oliveira;j sousa,m penna,j junior;plataforma computacao administracao ibcn;rede computador;0
+6;0;a mauro b de oliveira;j souza,m stanton;migrando solucao interoperabilidad sistema tmn baseada metodologia aid ambient osimi;rede computador;0
+7;1;alex oliveira;c geyer,a rodrigues,j emiliano,a pereira,d ferrari;semeai sistema multiagent ensino aprendizagem internet;informatica educacao;0
+8;2;a l i oliveira;j monteiro;modelo trafego multiplexacao estatistica trafego dado rede atm;rede computador;0
+9;3;a p oliveira;m cortes,a garcia,s carvalho;especificacao formal tratamento exceco linguagem ddl;linguagen programacao;0
+20;5;antonio a f oliveira;l goncalves;tentando manter diferenciabilidad morph curva;computacao grafica processamento imagen;0
+21;5;antonio a f oliveira;l goncalves,r grupen;framework attent object categor us stereo head robot;computacao grafica processamento imagen;0
+22;5;antonio a f oliveira;i matias,l goncalves;enhanc volumetr approach stereo match;computacao grafica processamento imagen;0
+23;5;a a f de oliveira;l goncalves,r grupen;control architectur multi modal sensori integr;computacao grafica processamento imagen;0
+24;5;a a f de oliveira;l goncalves;pipelin stereo match binari imag;computacao grafica processamento imagen;0
+25;5;antonio a f de oliveira;l oliveira,c esperanca;compressao imagen usando transformada wavelet curva peano hilbert;computacao grafica processamento imagen;0
+26;5;antonio a f de oliveira;p coelho,c esperanca;techniqu compens light sourc direct face recognit applic;computacao grafica processamento imagen;0
+27;5;antonio alberto fernandes de oliveira;p coelho,c esperancca;imag process belief network approach face detect;computacao grafica processamento imagen;0
+28;5;antonio a f oliveira;y atencio,c esperanca,p cavalcanti;collis detect respons scheme simplifi physic base anim;computacao grafica processamento imagen;0
+29;5;antonio a f oliveira;f silva,l garcia,r farias;control theori approach real time anim artifici agent;computacao grafica processamento imagen;0
+30;6;alexandre cesar muniz de oliveira;l lorena;opt popul train minim open stack problem;inteligencia artifici;0
+31;6;alexandre cesar muniz de oliveira;l lorena;construct evolutionari approach linear gate assign problem;encontro nacion inteligencia artifici;0
+32;6;alexandre oliveira;l lorena,a preto,s stephany;adapt hierarch fair competit genet algorithm larg scale numer optim;rede neurai;0
+33;6;alexandre cesar muniz de oliveira;l lorena;pattern sequenc problem cluster search;inteligencia artifici;0
+34;6;alexandre cesar muniz de oliveira;l lorena;detect promis area evolutionari cluster search;inteligencia artifici;0
+35;7;adriano l i oliveira;g azevedo,a barros,a santos;sistema suport auditoria folha pagamento baseado rede neurai;encontro nacion inteligencia artifici;0
+36;8;alcione de paiva oliveira;m villela,j braga;modelagem ontologica apoio modelagem conceitu;engenharia softwar;0
+37;8;alcione p oliveira;m duarte,j braga;determinacao semi automatica fator critico sucesso area academica;informatica publica;0
+38;9;ademir alvarenga de oliveira;t braga,m maia,r bigonha;metaj extens environ metaprogram java;linguagen programacao;0
+39;10;alessandra guaracy de oliveira;j freire,b schneider;interact applic us vrml aid teach graphic comput;realidad virtual;0
+40;11;adriano oliveira;f neto,s meira;novelti detect time seri neural network forecast robust confid interv;rede neurai;0
+41;12;arthur h c oliveira;l nunes,a santiago,r takiguti;modular test code microcontrol unit rom;revista informatica teorica aplicada;0
+42;13;ana cristina alves de oliveira;f brasileiro;escalonamento tolerant sabotagem grade computacionai pare;test tolerancia falha;0
+43;14;alessandreia de oliveira;c werner,m mangan,l murta,r pinheiro,m mattoso,r braga,m borges;odysseyshar ambient desenvolvimento cooperativo component;engenharia softwar;0
+44;15;adriana oliveira;m ravetti,g mateus;traffic engin mpl network ar adapt rout scheme base control chart;rede computador;0
+45;15;adriana oliveira;g mateus;us genet algorithm lsp setup mpl network;rede computador;0
+46;15;adriana oliveira;j oliveira,t brito,s jr,g elias;extensao framework componentforg desenvolvimento distribuido softwar;desenvolvimento distribuido softwar;0
+47;16;aracele g oliveira;d garcia;mineracao base dado processo seletivo universitario;journal comput scienc;0
+48;17;anjolina g de oliveira;j silva,a vera,r fidalgo,a salgado,v times;queri geograph data warehous geomdql;banco dado;0
+49;18;a r oliveira;m carreno;phosphoru implant near stoichiometr sic h film;symposium microelectron technolog devic;0
+50;18;a r oliveira;m carreno;format 3c sic film silicon thermal anneal process;symposium microelectron technolog devic;0
+51;19;a oliveira;v sklyarov,n lau,a melo,k kondratjuk,a ferrari,r monteiro,i skliarova;synthesi tool design environ dynam reconfigur fpga;symposium integr circuit system design;0

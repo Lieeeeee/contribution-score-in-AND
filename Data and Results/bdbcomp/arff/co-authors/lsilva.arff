@@ -1,0 +1,37 @@
+@relation 'Dataset bdbcomp co-authors lsilva'
+@attribute Text string
+@attribute class-att {138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155}
+@data
+'v mazzola',138
+'v paula',139
+'m sayao j leite k breitman',139
+'j leite',139
+'c felicissimo k breitman j leite',139
+'j leite',139
+'a medeiros t batista l minora',139
+'a medeiros t batista l minora',139
+'a fabris a forrest',140
+'a fabris a forrest',140
+'d weingaertner o bellon',141
+'o bellon k boyer',141
+'o bellon m cat e vieira a araujo',141
+'e vieira o bellon',141
+'a cervieiri a nacul j neto l granville l ulbrich',142
+'i augustin j lima a yamin r real c geyer',143
+'m moraes a filho i augustin a yamin c geyer',143
+'e costa e jr',144
+'a costa g bittencourt e goncalves',145
+'f gomide',146
+'m menezes a silva',147
+'m carvalho k rezende n melo y lobao d mallerbi',147
+'w chapetta g travassos',148
+'d pozo a laender m goncalves',149
+'nan',149
+'j marques silva',150
+'s venturelli f anastacio j lira a rezende',151
+'f pinheiro',152
+'f pinheiro',152
+'f mello',153
+'e albuquerque l barros l guerra',154
+'m valente',155
+'m malta t melo m valente',155

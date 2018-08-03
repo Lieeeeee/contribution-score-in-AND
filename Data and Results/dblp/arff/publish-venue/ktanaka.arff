@@ -1,0 +1,284 @@
+@relation 'Dataset dblp publish-venue ktanaka'
+@attribute Text string
+@attribute class-att {212, 213, 214, 215, 216, 217, 218, 219, 220, 221}
+@data
+'peer peer comput',212
+'lcn ieee local comput network',212
+'system comput',213
+'fodo foundat data organ algorithm',213
+'english tran ipsj',213
+'world wide web',213
+'proc rd int conf foundat data organ algorithm lectur note comput scienc springer verlag',213
+'tran ipsj',213
+'tran ipsj',213
+'springer verlag',213
+'tran iec e',213
+'proc th int conf system scienc u s',213
+'proc ieee rd int comput softwar applic conf',213
+'proc ieee rd int comput softwar applic conf',213
+'inform scienc elsevi scienc pub inc',213
+'int j cooper inf syst',213
+'tran the institut system control inform engin',213
+'academ press proc conf consecut retriev properti',213
+'proc the th ieee annual int comput softwar applic conf',213
+'springer verlag',213
+'proc int symp next gener databas system their applic nda fukuoka cpp',213
+'proc the jssst object orient comput workshop appear object orient comput i kindai kagakusha',213
+'databas system next gener applic advanc databas research develop seri world scientif publish',213
+'proc int symp databas system advanc applic dasfaa databas system advanc applic',213
+'tran ipsj',213
+'proc int symp advanc databas technolog thier integr adti nara japancpp',213
+'proc int symp advanc databas technolog thier integr adti nara',213
+'proc th annual int comput softwar applic conf compsac intern comput softwar applic ieee comput societi press',213
+'system comput',213
+'system comput',213
+'hypertext',213
+'nan',213
+'inform process ipsj',213
+'inform process ipsj select ipsj th anniversari paper',213
+'proc int symp comput world',213
+'proc int symp interoper inform system intap tokyo',213
+'plenum press',213
+'proc int symp comput world',213
+'int symp databas system advanc applic seoul korea',213
+'proc th int conf system scienc',213
+'dasfaa databas system advanc applic',213
+'acm tran databas system',213
+'vldb veri larg data base',213
+'proc the th ieee int conf data engin',213
+'proc int conf databas theori lectur note comput scienc springer verlag',213
+'dexa databas expert system applic',213
+'amcp advanc multimedia content process',213
+'dexa databas expert system applic',213
+'proc int conf foundat data organ kyoto plenum press',213
+'theor comput sci',213
+'proc th int conf veri larg data base',213
+'dood deduct object orient databas',213
+'adbi advanc databas inform system dasfaa databas system advanc applic',213
+'dasfaa databas system advanc applic',213
+'dasfaa databas system advanc applic',213
+'dasfaa databas system advanc applic',213
+'fodo foundat data organ algorithm',213
+'er intern conceptu model entiti relationship approach',213
+'vdb visual databas system',213
+'icd intern data engin',213
+'proc th int conf veri larg data base cann',213
+'inform system pergamon press',213
+'c',213
+'proc rd int conf veri larg data base tokyo',213
+'mfc mathemat foundat comput scienc',213
+'digit citi',213
+'coda second intern symposium cooper databas system advanc applic',213
+'icsc intern comput scienc confer',213
+'proc int conf databas expert system applic dexa springer verlag',213
+'dexa databas expert system applic workshop',213
+'dasfaa databas system advanc applic',213
+'ds discoveri scienc',213
+'apweb',213
+'dexa databas expert system applic',213
+'ieee intern multimedia expo iii',213
+'www world wide web seri',213
+'dexa databas expert system applic',213
+'dasfaa databas system advanc applic',213
+'dexa databas expert system applic',213
+'kyoto intern digit librari',213
+'hicss intern system scienc',213
+'icd intern data engin',213
+'proc the th int conf data engin ieee comput societi',213
+'dasfaa databas system advanc applic',213
+'dasfaa databas system advanc applic',213
+'proc int symp databas system advanc applic dasfaa databas system advanc applic',213
+'wwca worldwid comput it applic',213
+'ieee tran knowledg data engin',213
+'handbook multimedia inform manag',213
+'futur databas',213
+'proc st int conf deduct object orient databas dood elsevi scienc publish b v north',213
+'dexa databas expert system applic',213
+'ijcai intern joint artifici intellig',213
+'wise web inform system engin',213
+'dexa databas expert system applic',213
+'new gener comput',213
+'icmc intern multimedia comput system',213
+'icsc intern comput scienc confer',213
+'ieee tran knowl data eng',213
+'vdb visual databas system',213
+'dant deliveri advanc network technolog europ',213
+'coda second intern symposium cooper databas system advanc applic',213
+'saint symposium applic the internet',213
+'dexa databas expert system applic',213
+'mathemat studi inform process',213
+'lectur note comput scienc springer verlag',213
+'dant deliveri advanc network technolog europ',213
+'vdb visual databas system',213
+'data base design techniqu i',213
+'inf syst',213
+'dbsec',214
+'icpp intern parallel process workshop',214
+'icpp intern parallel process workshop',214
+'icpp intern parallel process workshop',214
+'icpp intern parallel process workshop',214
+'isad intern symposium autonom decentr system',214
+'isorc ieee intern symposium object orient real time distribut comput',214
+'isorc ieee intern symposium object orient real time distribut comput',214
+'icdc intern distribut comput system workshop group commun comput',214
+'icdc intern distribut comput system workshop group commun comput',214
+'icdc intern distribut comput system workshop group commun comput',214
+'dexa databas expert system applic workshop',214
+'icpad intern parallel distribut system',214
+'icpad intern parallel distribut system',214
+'icpad intern parallel distribut system',214
+'icpad intern parallel distribut system',214
+'icpad intern parallel distribut system',214
+'icpad intern parallel distribut system',214
+'icpad intern parallel distribut system',214
+'doa intern symposium distribut object applic',214
+'doa intern symposium distribut object applic',214
+'doa intern symposium distribut object applic',214
+'dexa databas expert system applic workshop',214
+'inf sci',214
+'dexa databas expert system applic',214
+'dexa databas expert system applic',214
+'dexa databas expert system applic',214
+'dexa databas expert system applic',214
+'dexa databas expert system applic',214
+'dexa databas expert system applic',214
+'icra intern robot autom',214
+'dexa databas expert system applic workshop',214
+'icoin intern inform network',214
+'icoin intern inform network',214
+'icoin intern inform network',214
+'icoin intern inform network',214
+'icoin intern inform network',214
+'inform control',215
+'inform control',215
+'j comput syst sci',215
+'j comput syst sci',215
+'vldb veri larg data base',215
+'j comput syst sci',215
+'j comput syst sci',215
+'ann pure appl logic',216
+'notr dame journal formal logic',216
+'journal the physic societi',216
+'physica',216
+'journal the korean physic societi supplementari issu proceed workshop statist physic s s korea univers krea',216
+'journal the physic societi',216
+'physic letter',216
+'physic letter see also physic letter p',216
+'molecular physic',216
+'physica',216
+'journal the physic societi',216
+'progress theoret physic supplement',216
+'inform scienc postscript compress postscript',216
+'proceed confer mareri mechan superconduct high temperatur superconductor iv mm htsc iv',216
+'physic letter',216
+'ieic transact d ii j d ii japanes translat system comput english',216
+'edit m suzuki n kawashima world scientif publish copor press proceed intern symposium cofer approach fluctuat kyoto',216
+'progress theoret physic',216
+'ann pure appl logic',216
+'progress theoret physic supplement',216
+'physic letter',216
+'physica',216
+'journal the physic societi',216
+'ieic transact j japanes translat electron commun part fundament electron scienc english',216
+'neural network signal process xiii proceed the ieee signal process societi workshop toulous paper postscript present slide powerpoint',216
+'ieic transact d ii j d ii japanes',216
+'ieic transact inform system e d',216
+'transact japanes societi artifici intellig',216
+'ieic transact j japanes',216
+'physic review b',216
+'theori applic the cluster variat path probabl method ed j l mor l opez j m sanchez plenum press new proceed the intern workshop theori applic the cluster variat path probabl method teotihuacan',216
+'journal the physic societi',216
+'journal the korean physic societi supplementari issu proceed workshop statist physic s s korea univers krea',216
+'proceed intern workshop soft comput industri muroran institut technolog press muroran',216
+'y suzuki s ovaska t furuhashi r y dote ed soft comput industri applic springer verlag press london proceed th line world soft comput industri applic',216
+'journal physic mathemat gener',216
+'ieic transact inform system e d',216
+'interdisciplinari inform scienc postscript',216
+'physic review e articl postscript',216
+'physica',216
+'journal the physic societi',216
+'transact japanes societi artifici intellig',216
+'proceed the th intern pattern recognit ii track b pattern recognit signal analysi ieee comput societi press lo alamo carifornia file',216
+'proceed intern workshop soft comput industori muroran institut technolog press muroran',216
+'ieic transact j japanes',216
+'ieic transact j japanes',216
+'progress theoret physic',216
+'journal the physic societi',216
+'progress theoret physic',216
+'progress thoeret physic',216
+'proceed xx intern low temperatur physic univers',216
+'journal the physic societi',216
+'ieic transact j japanes translat electron commun part fundament electron scienc english',216
+'ieic transact d ii j d ii be translat system comput',216
+'j symb log',216
+'proceed the ieee signal process societi workshop',216
+'physic review e articl postscript',216
+'journal physic mathemat gener',216
+'pattern recognit letter',216
+'math log q',216
+'ann pure appl logic',216
+'ann pure appl logic',216
+'new gener comput',217
+'nan',217
+'ieic transact inform system e d',217
+'ieic transact inform system e d',217
+'symposium oper research jena',217
+'ieic transact fundament electron commun comput scienc',217
+'isaac th annual intern symposium algorithm comput kyoto',217
+'dmtc cat discret mathemat theoret comput scienc and th australasian theori symposium page auckland new zealand',217
+'intern symposium mathemat program lausann',217
+'annal oper research',217
+'inform system oper research',217
+'proceed the second intern symposium oper research it applic page guilin',217
+'proceed the th intern fuzzi system associ world congress volum page pragu czech',217
+'symposium combinatori optim london',217
+'intern optim optim control lambrecht',217
+'ieic transact fundament electron commun comput scienc e',217
+'proceed the second intern symposium oper research it applic page guilin',217
+'pkc th intern workshop practic theori public kei cryptographi',217
+'wisict winter intern symposium inform commun technolog cancun',217
+'ieic transact fundament electron commun comput scienc',217
+'inform process letter',217
+'stoc acm symposium theori comput',217
+'advanc cryptolog crypto lectur note comput scienc page santa barbara',217
+'erato workshop quantum inform scienc tokyo poster session refere',217
+'inf process lett',217
+'proceed the th annual acm symposium theori comput page la vega',217
+'inform process letter',217
+'crypto intern crytolog',217
+'inf process lett',217
+'siam societi industri appli mathemat journal comput',217
+'proceed the th intern symposium algorithm comput lectur note comput scienc page osaka',217
+'isaac intern symposium algorithm comput',217
+'ieic tran fundament e',218
+'proc technolog strategi protect intellectu properti network multimedia environ',218
+'ieic tran fundament e',218
+'ieic tran inform system e d',218
+'ieic tran j d ii japanes',218
+'ieic tran fundament e',218
+'ieic tran fundament e',218
+'lectur note comput scienc springer',218
+'ip sj journal',218
+'ieic tran fundament e',218
+'ieic tran fundament e',218
+'evoworkshop',218
+'emo evolutionari multi criterion optim',218
+'ppsn parallel problem solv from natur',218
+'gecco genet evolutionari comput',218
+'gecco genet evolutionari comput',218
+'lectur note comput scienc springer',218
+'lectur note comput scienc springer',218
+'gecco genet evolutionari comput',218
+'system comput',219
+'system comput',219
+'icra intern robot autom',219
+'ichim intern hypermedia interact museum',219
+'ismi intern syposium methodolog intellig system',219
+'journal chemic inform comput scienc',220
+'ecai european artifici intellig',220
+'ictai intern tool artifici intellig',220
+'fuzz ieee',220
+'inf sci',220
+'uist user interfac softwar technolog',221
+'acm symposium user interfac softwar technolog',221
+'acm symposium user interfac softwar technolog',221

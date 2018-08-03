@@ -1,0 +1,312 @@
+38517;1;yan liu;g liu;number maximum match bipartit graph posit surplu;dm;2004
+38518;1;yan liu;g liu;fraction match number graph;network;2002
+38519;2;yuxin liu;y li;wavelet imag code us cluster grow embed;icpr;2000
+38520;2;yuxin liu;b ni,x feng,e delp;lot base adapt imag watermark;sswmc;2004
+38521;3;yin liu;w liu,c jiang;user interest detect web page build person inform agent;waim;2004
+38522;3;yin liu;w liu,c jiang;structur approach recogn incomplet graphic object;icpr;2004
+38523;3;yin liu;y yajie,l wenyin;onlin segment freehand stroke dynam program;icdar;2005
+38524;3;yin liu;l yan,g huang,w liu;novel constraint base approach onlin graphic recognit;sspr;2004
+38525;3;yin liu;b peng,w liu,g huang;sketch recognit base topolog spatial relationship;sspr;2004
+38526;4;yong liu;c hollot,v misra,d towsley;unrespons flow aqm perform;infocom;2003
+38527;4;yong liu;f presti,v misra,d towsley,y gu;scalabl fluid model simul larg scale ip network;tomac;2004
+38528;4;yong liu;r kumar,k ross;stochast fluid theori p2p stream system;infocom;2007
+38529;4;yong liu;f presti,v misra,d towsley,y gu;fluid model solut larg scale ip network;sigmetr;2003
+38530;4;yong liu;t bu,d towsley;tcp friendli voip traffic;infocom;2006
+38531;4;yong liu;w gong,v misra,d towsley;self similar long rang depend internet second look evid origin implic;cn;2005
+38532;4;yong liu;y gu,d towsley;integr fluid model packet simul;infocom;2004
+38533;4;yong liu;w gong,p shenoy;impact concurr download;wsc;2001
+38534;4;yong liu;d towsley,t ye,j bolot;inform theoret approach network monitor measur;imc;2005
+38535;4;yong liu;c zhang,w gong,j kurose,r moll,d towsley;optim rout multipl traffic matric;infocom;2005
+38536;5;y q liu;h zhu,x liu,e wu;real time simul physic base surfac flow;vc;2005
+38537;5;youquan liu;e wu,x liu;improv studi real time fluid simul gpu;jvca;2004
+38538;5;youquan liu;x liu,e wu;real time 3d fluid simul gpu complex obstacl;pg;2004
+38539;5;youquan liu;h zhu,x liu,e wu;simul miscibl binari mixtur base lattic boltzmann method;jvca;2006
+38540;6;yonghe liu;g zhang,y wu;stabil sensit congest control wireless network time vari link capac;icnp;2005
+38541;6;yonghe liu;h ma;coverag problem direct sensor network;msn;2005
+38542;6;yonghe liu;h luo,s das;rout correl data fusion cost wireless sensor network;tmc;2006
+38543;6;yonghe liu;l balzano,v gambiroza,p yuan,e knightly,s sheafor;dvsr high perform metro ring protocol;ccr;2002
+38544;6;yonghe liu;d tao,h ma;energi effici cooper imag process video sensor network;pcm;2005
+38545;6;yonghe liu;h luo,j luo,s das;adapt data fusion energi effici rout wireless sensor network;tc;2006
+38546;6;yonghe liu;e knightly;opportunist fair schedul multipl wireless channel;infocom;2003
+38547;6;yonghe liu;h luo,j luo;energi effici rout adapt data fusion sensor network;dialm;2005
+38548;7;yili liu;r feyen,o tsimhoni;queue network model human processor qn mhp comput architectur multitask perform human machin system;tochi;2006
+38549;7;yili liu;m bauerly;comput model experiment investig effect composit element interfac design aesthet;ijmm;2006
+38550;7;yili liu;r fuld,c wickens;monitor behavior manual autom schedul system;ijmm;1993
+38551;8;yu cheng liu;c jou;effect memori bandwidth processor block probabl multipl bu system;tc;1987
+38552;8;yu cheng liu;l john;perform model priorit multipl bu multiprocessor system;tc;1996
+38553;8;yu cheng liu;c wang;analysi priorit crossbar multiprocessor system;jpdc;1989
+38554;9;yonghuai liu;h zhou;flag guid integr multipl regist rang imag;icpr;2006
+38555;9;yonghuai liu;g fei,b wei,l li;discontinu base simplif free form surfac rang imag;icpr;2006
+38556;9;yonghuai liu;h zhou,x su,m ni,r lloyd;transform least squar weight least squar accur rang imag registr;3dpvt;2006
+38557;9;yonghuai liu;b wei;develop structur constraint accur registr overlap rang imag;ra;2004
+38558;9;yonghuai liu;;automat registr overlap 3d point cloud us closest point;ivc;2006
+38559;9;yonghuai liu;m lai,l li;three step approach detect remov grid line well log digit;cgim;2005
+38560;9;yonghuai liu;h holstein;pseudo linear method accur pose estim singl imag;icip;2002
+38561;9;yonghuai liu;m rodrigues;geometr analysi two set 3d correspond data pattern;smi;1999
+38562;9;yonghuai liu;b wei,l li,h zhou;project registr error accur registr overlap rang imag;ra;2006
+38563;9;yonghuai liu;m rodrigues,r fisher;special issu registr fusion rang imag;cviu;2002
+38564;9;yonghuai liu;f labrosse;invers valid accur rang imag registr structur data;icpr;2002
+38565;9;yonghuai liu;l li,b wei;evalu collinear constraint automat rang imag registr;3dim;2005
+38566;9;yonghuai liu;l li,y wang;free form shape match us determinist anneal softassign;icpr;2004
+38567;9;yonghuai liu;b wei;evalu structur constraint accur rang imag registr;3dim;2003
+38568;9;yonghuai liu;;improv icp easi implement free form surfac match;pr;2004
+38569;10;yanbin liu;y yang,h xie,h wang,a silberschatz,a krishnamurthy,e li;rout select interdomain traffic engin;network;2005
+38570;10;yanbin liu;m beck,p konana,g liu,a mok;activ real time function electron brokerag design;wecwi;1999
+38571;10;yanbin grace liu;s zhong,e li,y yang;design incent compat rout forward protocol wireless ad hoc network integr approach us game theoret cryptograph techniqu;mobicom;2005
+38572;10;yanbin liu;h wang,h ii,y yang,a silberschatz,e li;stabil ration heterogen interdomain rout select;icnp;2005
+38573;11;yanhong a liu;;iter increment implement systemat approach effici improv guarante;entc;2003
+38574;11;yanhong a liu;g gomez;automat accur time bound analysi high level languag;lctrt;1998
+38575;11;yanhong a liu;t rothamel,f yu,s stoller,n hu;parametr regular path queri;pldi;2004
+38576;11;yanhong a liu;s stoller,n li,t rothamel;optim aggreg arrai comput loop;topla;2005
+38577;11;yanhong a liu;l unnikrishnan,s stoller;optim live heap bound analysi;vmcai;2003
+38578;11;yanhong a liu;s stoller;optim ackermann s function increment;pepm;2003
+38579;11;yanhong a liu;r grosu,s smolka,s stoller,j yan;autom softwar engin us concurr class machin;kbse;2001
+38580;11;yanhong a liu;g gomez;automat accur cost bound analysi high level languag;tc;2001
+38581;11;yanhong a liu;n li,s stoller;solv regular tree grammar base constraint;sa;2001
+38582;11;yanhong a liu;;cachet interact increment attribut base program transform system deriv increment program;kbse;1995
+38583;11;yanhong a liu;s stoller;loop optim aggreg arrai comput;iccl;1998
+38584;11;yanhong a liu;s stoller,t teitelbaum;strengthen invari effici comput;scp;2001
+38585;11;yanhong a liu;f yu;solv regular path queri;mpc;2002
+38586;11;yanhong a liu;s stoller;elimin dead code recurs data;scp;2003
+38587;11;yanhong a liu;g gomez;automat time bound analysi higher order languag;pepm;2002
+38588;11;yanhong a liu;s stoller;queri complex graph;padl;2006
+38589;11;yanhong a liu;c wang,m gorbovitski,t rothamel,y cheng,y zhao,j zhang;core role base access control effici implement transform;pepm;2006
+38590;11;yanhong a liu;s stoller;dynam program via static increment;esop;1999
+38591;11;yanhong a liu;t rothamel;effici implement tupl pattern base retriev;pepm;2007
+38592;11;yanhong a liu;t teitelbaum;cach intermedi result program improv;pepm;1995
+38593;11;yanhong a liu;s stoller;datalog rule effici program time space guarante;ppdp;2003
+38594;11;yanhong a liu;s stoller;recurs iter optim;pepm;2000
+38595;11;yanhong a liu;;principl strength reduct;alc;1997
+38596;11;yanhong a liu;s stoller;elimin dead code recurs data;sa;1999
+38597;11;yanhong a liu;t teitelbaum;systemat deriv increment program;scp;1995
+38598;11;yanhong a liu;s stoller,t teitelbaum;static cach increment comput;topla;1998
+38599;11;yanhong a liu;;effici increment introduct;lisp;2000
+38600;11;yanhong a liu;k hristova;improv algorithm complex linear tempor logic model check pushdown system;vmcai;2006
+38601;11;yanhong a liu;t rothamel,c heitmeyer,e leonard;gener optim code scr specif;lctrt;2006
+38602;11;yanhong a liu;;depend analysi recurs data;iccl;1998
+38603;11;yanhong a liu;s stoller;program optim us index recurs data structur;pepm;2002
+38604;11;yanhong a liu;l unnikrishnan,s stoller;automat accur live memori analysi garbag collect languag;lctrt;2001
+38605;11;yanhong a liu;s johnson,y zhang;systemat increment techniqu applic hardwar design;sttt;2003
+38606;11;yanhong a liu;k hristova,k tekle;effici trust manag polici analysi rule;ppdp;2007
+38607;11;yanhong a liu;s stoller,t teitelbaum;discov auxiliari inform increment comput;popl;1996
+38608;11;yanhong a liu;s stoller;dynam program via static increment;lisp;2003
+38609;11;yanhong a liu;s stoller;effici symbol detect global properti distribut system;cav;1998
+38610;11;yanhong a liu;s johnson,y zhang;systemat increment techniqu applic hardwar design;charm;1999
+38611;11;yanni ellen liu;y liu,s stoller,m gorbovitski,t rothamel;increment across object abstract;oopsla;2005
+38612;12;ying liu;w li,w ng,k ong;enhanc effect cluster spectra analysi;tkde;2007
+38613;12;ying liu;j gomez,m rico,f sanchez,m mello;bird biomed inform integr discoveri semant web servic;iwinac;2007
+38614;12;ying liu;x zheng,h huang,w li,p liu,q li;model nonlinear dilut design microarrai data;bioinformat;2007
+38615;13;yanxi liu;f dellaert;classif base similar metric 3d imag retriev;cvpr;1998
+38616;13;yanxi liu;j hays,m leordeanu,a efros;discov textur regular higher order correspond problem;eccv;2006
+38617;13;yanxi liu;y tsin,w lin;promis peril near regular textur;ijcv;2005
+38618;13;yanxi liu;;group theoret formal contact motion;afpac;2000
+38619;13;yanxi liu;w lin;lattic base mrf model dynam near regular textur track;pami;2007
+38620;13;yanxi liu;j zhang,r collins;represent match articul shape;cvpr;2004
+38621;13;yanxi liu;j palmer;quantifi studi facial asymmetri 3d face;amfg;2003
+38622;13;yanxi liu;r popplestone;group theoret formal surfac contact;ijrr;1994
+38623;13;yanxi liu;t zhao,j zhang;learn multispectr textur featur cervic cancer detect;isbi;2002
+38624;13;yanxi liu;r collins;line select discrimin track featur;iccv;2003
+38625;13;yanxi liu;w lin,j hays;near regular textur analysi manipul;tog;2004
+38626;13;yanxi liu;k schmidt,j cohn,s mitra;facial asymmetri quantif express invari human identif;cviu;2003
+38627;13;yanxi liu;r collins;period pattern analysi affin distort us wallpap group;afpac;2000
+38628;13;yanxi liu;f dellaert,w rothfus,a moore,j schneider,t kanade;classif driven patholog neuroimag retriev us statist asymmetri measur;miccai;2001
+38629;13;yanxi liu;s mitra;local facial asymmetri express classif;cvpr;2004
+38630;13;yanxi liu;r collins,w rothfus;robust midsagitt plane extract normal patholog 3d neuroradiolog imag;tmi;2001
+38631;13;yanxi liu;r collins,y tsin;gait sequenc analysi us friez pattern;eccv;2002
+38632;13;yanxi liu;o carmichael,p thompson,r dutton,a lu,s lee,j lee,l kuller,o lopez,h aizenstein,c meltzer,a toga,j becker;map ventricular chang relat dementia mild cognit impair larg commun base cohort;isbi;2006
+38633;13;yanxi liu;r collins;skew symmetri group;cvpr;2001
+38634;13;yanxi liu;j zhang;svm decis boundari base discrimin subspac induct;pr;2005
+38635;13;yanxi liu;r collins;comput model repeat pattern percept us friez wallpap group;cvpr;2000
+38636;13;yanxi liu;j zhang;cervic cancer detect us svm base featur screen;miccai;2004
+38637;13;yanxi liu;r weaver,k schmidt,j cohn;facial asymmetri quantif express invari human identif;fgr;2002
+38638;13;yanxi liu;y tsin,v ramesh;textur replac real imag;cvpr;2001
+38639;13;yanxi liu;l teverovskiy,o carmichael,r kikinis,m shenton,c carter,v stenger,s davis,h aizenstein,j becker,o lopez,c meltzer;discrimin mr imag featur analysi automat schizophrenia alzheim s diseas classif;miccai;2004
+38640;13;yanxi liu;w rothfus,t kanade;content base 3d neuroradiolog imag retriev preliminari result;caivd;1998
+38641;13;yanxi liu;r collins,y tsin;comput model period pattern percept base friez wallpap group;pami;2003
+38642;13;yanxi liu;j zhang,r collins;bayesian bodi local us mixtur nonlinear shape model;iccv;2005
+38643;13;yanxi liu;j zhang,j luo,r collins;bodi local still imag us hierarch model hybrid search;cvpr;2006
+38644;14;yunlong liu;h yokota;model transcript regul chondrogenesi us particl swarm optim;cibcb;2005
+38645;14;yunlong liu;m vincenti,h yokota;princip compon analysi predict transcript factor bind motif arrai deriv data;bmcbi;2005
+38646;14;yunlong liu;h sun,h yokota;regul gene express us optim control theori;bibe;2003
+38647;15;yang liu;n chawla,m harper,e shriberg,a stolcke;studi machin learn imbalanc data sentenc boundari detect speech;csl;2006
+38648;15;yang liu;m zimmermann,e shriberg,a stolcke;toward joint segment classif dialog act multiparti meet;mlmi;2005
+38649;15;yang liu;e shriberg,a stolcke,d hillard,m ostendorf,m harper;enrich speech recognit automat detect sentenc boundari disfluenc;taslp;2006
+38650;15;yang liu;a stolcke,e shriberg,m harper;us condit random field sentenc boundari detect speech;acl;2005
+38651;15;yang liu;;initi studi automat identif speaker role broadcast new speech;naacl;2006
+38652;15;yang liu;j hale,i shafran,l yung,b dorr,m harper,a krasnyanskaya,m lease,b roark,m snover,r stewart;pcfg syntact prosod indic speech repair;acl;2006
+38653;15;yang liu;j kolar,e shriberg;us prosodi automat sentenc segment multi parti meet;tsd;2006
+38654;15;yang liu;m harper,m johnson,l jamieson;effect prune compress graphic represent output speech recogn;csl;2003
+38655;16;youjian liu;v lau,t chen;design mimo block fade channel feedback link capac constraint;tcom;2004
+38656;16;youjian liu;v lau,t chen;capac memoryless channel block fade channel design cardin constrain channel state feedback;tit;2004
+38657;16;youjian liu;v lau,t chen,m meyers;optim space time schedul block fade channel partial power feedback;bell;2003
+38658;16;youjian liu;h gamal,a jr,m fitz,o takeshita;design space time space frequenc code mimo frequenc select fade channel;tit;2003
+38659;16;youjian liu;t chen,m meyers,v lau,j liu;iter detect blast system arbitrari number receiv antenna;bell;2003
+38660;16;youjian liu;m fitz,o takeshita;rank criterion qam space time code;tit;2002
+38661;17;yan liu;j carbonell,v gopalakrishnan,p weigele;protein quaternari fold recognit us condit graphic model;ijcai;2007
+38662;17;yan liu;e xing,j carbonell;predict protein fold structur repeat us chain graph model;icml;2005
+38663;17;yan liu;j carbonell,j klein seetharaman,v gopalakrishnan;context sensit vocabulari applic protein secondari structur predict;sigir;2004
+38664;17;yan liu;j carbonell,r jin;new pairwis ensembl approach text classif;ecml;2003
+38665;17;yan liu;k probst,r ghani,m krema,a fano;semi supervis learn attribut valu pair product descript;ijcai;2007
+38666;17;yan liu;j carbonell,p weigele,v gopalakrishnan;segment condit random field scrf new approach protein fold recognit;recomb;2005
+38667;17;yan liu;j lafferty,x zhu;kernel condit random field represent cliqu select;icml;2004
+38668;17;yan liu;j he,j carbonell;graph base semi supervis learn gener model;ijcai;2007
+38669;17;yan liu;j carbonell,j klein seetharaman,v gopalakrishnan;comparison probabilist combin method protein secondari structur predict;bioinformat;2004
+38670;18;yang liu;h pottmann,j wallner,y yang,w wang;geometr model conic mesh develop surfac;tog;2006
+38671;18;yang liu;w wang,h pottmann;fit b spline curv point cloud curvatur base squar distanc minim;tog;2006
+38672;18;yang liu;h yang,w wang;reconstruct b spline curv point cloud tangenti flow approach us least squar minim;smi;2005
+38673;18;yang liu;d yan,w wang;quadric surfac extract variat shape approxim;gmp;2006
+38674;18;yang liu;k cheng,w wang,h qin,k wong,h yang;fit subdivis surfac unorgan point data us sdm;pg;2004
+38675;19;yanhong liu;s chakraborty,w ooi;approxim vcc new character multimedia workload system level mpsoc design;dac;2005
+38676;19;yanhong liu;s chakraborty,r marculescu;gener rate analysi media process platform;rtcsa;2006
+38677;19;yanhong liu;s chakraborty,n stoimenov,l thiele,e wandeler;interfac base rate analysi embed system;rtss;2006
+38678;19;yanhong liu;s chakraborty,w ooi,a gupta,s mohan;workload character cost qualiti tradeoff mpeg decod resourc constrain devic;estimedia;2005
+38679;19;yanhong liu;a maxiaguine,s chakraborty,w ooi;processor frequenc select soc platform multimedia applic;rtss;2004
+38680;20;yu liu;d tipper,p siripongwutikorn;approxim optim spare capac alloc success surviv rout;infocom;2001
+38681;20;yu liu;d tipper,p siripongwutikorn;approxim optim spare capac alloc success surviv rout;ton;2005
+38682;20;yu liu;a al rumaih,d tipper,b norman;spare capac plan surviv mesh network;network;2000
+38683;21;ying liu;j bacon,r wilson hinds;smart care servic studi visual impair user live context;icd;2007
+38684;21;ying liu;j bacon;practic synthesi dynam role set telecar servic;icd;2007
+38685;22;yunhao liu;j huai,y zhang,x li;distribut access control crown group;icpp;2005
+38686;22;yunhao liu;q chen,l 0002,x lian,j yu;index pla effici similar search;vldb;2007
+38687;22;yunhao liu;x liu,l xiao,l ni,x zhang;locat awar topolog match p2p system;infocom;2004
+38688;22;yunhao liu;j oleszkiewicz,l xiao;effect util global cluster memori larg data intens parallel program;tpd;2006
+38689;22;yunhao liu;c wang,l xiao,p zheng;dica effici distribut cach mechan p2p system;tpd;2006
+38690;22;yunhao liu;a patil,l ni,l xiao,a esfahanian;poma priorit overlai multicast ad hoc environ;hipc;2003
+38691;22;yunhao liu;r chu,n xiao,y zhuang,x lu;distribut page ram grid system wide area memori share;ipp;2006
+38692;22;yunhao liu;l xiao,x liu,w gu,d xuan;design overlai anonym multicast protocol;ipp;2006
+38693;22;yunhao liu;w xue,q luo,l 0002;contour map match event detect sensor network;sigmod;2006
+38694;22;yunhao liu;m li;underground structur monitor wireless sensor network;ipsn;2007
+38695;22;yunhao liu;j han,l xiao,r xiao,l ni;mutual anonym peer peer protocol design;ipp;2005
+38696;22;yunhao liu;x liao,h jin,l ni,d deng;anyse peer peer live stream;infocom;2006
+38697;22;yunhao liu;l xiao,w gu,d xuan,x liu;mutual anonym overlai multicast;jpdc;2006
+38698;22;yunhao liu;x liu,l xiao;improv queri respons deliveri qualiti peer peer system;tpd;2006
+38699;22;yunhao liu;l xiao,l ni;improv unstructur peer peer system adapt connect establish;tc;2005
+38700;22;yunhao liu;l xiao,x liu,l ni,x zhang;locat awar unstructur peer peer system;tpd;2005
+38701;22;yunhao liu;c hu,j huai,y zhu,l ni;s club overlai base effici servic discoveri mechan crown grid;iceb;2005
+38702;22;yunhao liu;z zhuang,l xiao,l ni;distribut approach solv overlai mismatch problem;icdc;2004
+38703;22;yunhao liu;j oleszkiewicz,l xiao;parallel network ram effect util global cluster memori larg data intens parallel program;icpp;2004
+38704;22;yunhao liu;m li;iso map energi effici contour map wireless sensor network;icdc;2007
+38705;22;yunhao liu;l lu,j han,l hu,j huai,l ni;pseudo trust zero knowledg base authent anonym peer peer protocol;ipp;2007
+38706;22;yunhao liu;z zhuang,l xiao;dynam layer manag super peer architectur;icpp;2004
+38707;22;yunhao liu;l shi,b liu,w li,b wu;ds pp practic framework guarante differenti qo terabit router parallel packet switch;infocom;2006
+38708;22;yunhao liu;x shi,j han,l ni;popular adapt search hybrid p2p system;ipp;2007
+38709;22;yunhao liu;m li,l 0002;non threshold base event detect 3d environ monitor sensor network;icdc;2007
+38710;22;yunhao liu;c wang,l xiao,p zheng;distribut cach adapt search multilay p2p network;icdc;2004
+38711;22;yunhao liu;l xiao,z zhuang;dynam layer manag superp architectur;tpd;2005
+38712;22;yunhao liu;l ni,y lau,a patil;landmarc indoor locat sens us activ rfid;winet;2004
+38713;22;yunhao liu;z du,j huai,c hu,l lei;ipr autom interact process reconcili;webi;2005
+38714;22;yunhao liu;l xiao,l ni;build scalabl bipartit p2p overlai network;ipp;2004
+38715;22;yunhuai liu;y liu,l xiao,l ni;build effici overlai;grid;2004
+38716;22;yunhao liu;l xiao,x chen,x zhang;scalabl local awar web document share;jpdc;2003
+38717;22;yunhao liu;l ni,l xiao,a esfahanian;approach optim peer peer overlai;mascot;2005
+38718;23;yongmei liu;s cook;complet axiomat block world;logcom;2003
+38719;23;yongmei liu;;hoar style proof system robot program;aaai;2002
+38720;23;yongmei liu;s cook;complet axiomat block world;amai;2002
+38721;23;yongmei liu;g lakemeyer,h levesque;logic limit belief reason disjunct inform;kr;2004
+38722;23;yongmei liu;h levesque;tractabl result reason incomplet first order knowledg base;ijcai;2003
+38723;23;yongmei liu;h levesque;tractabl reason incomplet first order knowledg dynam system context depend action;ijcai;2005
+38724;23;yongmei liu;h levesque;tractabl reason first order knowledg base disjunct inform;aaai;2005
+38725;23;yongmei liu;m patterson,e ternovska,a gupta;ground model expans k guard formula induct definit;ijcai;2007
+38726;24;yong liu;x yao;ensembl structur evolutionari artifici neural network;icec;1996
+38727;24;yong liu;z pan,l kang,j he;evolutionari approach adapt model build;evow;1994
+38728;24;yong liu;x yao;make us popul inform evolutionari artifici neural network;tsmc;1998
+38729;24;yong liu;x yao;epnet chaotic time seri predict;seal;1996
+38730;24;yong liu;x yao;get evolutionari approach;eh;2002
+38731;24;yong liu;k liang,x yao,c newton,d hoffman;experiment investig self adapt evolutionari program;ep;1998
+38732;24;yong liu;x yao;learn evolut minim mutual inform;ppsn;2002
+38733;24;yong liu;x yao;ensembl learn via neg correl;nn;1999
+38734;24;yong liu;x yao,t higuchi;evolutionari ensembl neg correl learn;tec;2000
+38735;24;yong liu;x yao;scale evolutionari program algorithm;ep;1998
+38736;24;yong liu;x yao;evolv artifici neural network evolutionari program;ep;1996
+38737;24;yong liu;x yao;simultan train neg correl neural network ensembl;tsmc;1999
+38738;24;yong liu;x yao;time seri predict us neg correl neural network;seal;1998
+38739;24;yong liu;x yao;fast evolut strategi;ep;1997
+38740;24;yong liu;x yao;evolutionari design artifici neural network differ node;icec;1996
+38741;24;yong liu;x yao,g lin;evolutionari program made faster;tec;1999
+38742;24;yong liu;x yao;toward design neural network ensembl evolut;ppsn;1998
+38743;24;yong liu;x yao;maintain popul divers minim mutual inform;gecco;2002
+38744;24;yong liu;x yao;fast evolutionari program;ep;1996
+38745;25;yi liu;j pu,g xin,h zha,w liu,y uehara;robust method shape base 3d model retriev;pg;2004
+38746;26;yi liu;t khoshgoftaar;genet program model softwar qualiti classif;hase;2001
+38747;26;yi liu;t khoshgoftaar,n seliya;genet program base decis tree softwar qualiti classif;ictai;2003
+38748;26;yi liu;t khoshgoftaar;reduc overfit genet program model softwar qualiti classif;hase;2004
+38749;27;yu liu;x kong,h liu,d yang;object watermark digit imag video;ivc;2004
+38750;27;yu liu;f wu,k ngan;3d object base scalabl wavelet video code boundari effect suppress;isca;2007
+38751;27;yu liu;k ngan;fast lossless multi resolut motion estim scalabl wavelet video code;isca;2006
+38752;27;yu liu;x kong,h liu;adapt video watermark scheme;pcm;2001
+38753;28;yaxin liu;p stone;valu function base transfer reinforc learn us structur map;aaai;2006
+38754;28;yaxin liu;s koenig;sensor plan non linear util function;ecp;1999
+38755;28;yaxin liu;s koenig;function valu iter decis theoret plan gener util function;aaai;2006
+38756;28;yaxin liu;s koenig;interact represent plan object decis theoret plan task;jetai;2002
+38757;28;yaxin liu;s koenig,b szymanski;effici ineffici ant coverag method;amai;2001
+38758;28;yaxin liu;s koenig;exist finit condit risk sensit plan result conjectur;uai;2005
+38759;28;yaxin liu;s koenig;terrain coverag ant robot simul studi;agent;2001
+38760;28;yaxin liu;s koenig;risk sensit plan switch util function valu iter;aaai;2005
+38761;28;yaxin liu;s koenig;represent decis theoret plan task;aip;2000
+38762;28;yaxin liu;p stone,g kuhlmann,m taylor;keepawai soccer machin learn testb benchmark;robocup;2005
+38763;28;yaxin liu;m taylor,p stone;valu function rl base behavior transfer compar studi;aaai;2005
+38764;29;yueyi liu;l wei,s batzoglou,d brutlag,j liu,x liu;suit web base program search transcript regulatori motif;nar;2004
+38765;30;yu ting liu;t liu,t qin,z ma,h li;supervis rank aggreg;www;2007
+38766;31;yanpei liu;h ren;number loopless regular map project plane;jct;2002
+38767;31;yanpei liu;f dong;count root near triangul sphere;dm;1993
+38768;31;yanpei liu;h ren,d ma,j lu;gener cycl space graph surfac small genera;ejc;2004
+38769;31;yanpei liu;k berman;gener bicycl;dam;1997
+38770;31;yanpei liu;;number root c net;jct;1984
+38771;31;yanpei liu;h ren;bisingular map sphere project plane;dm;2000
+38772;31;yanpei liu;h ren;enumer near regular map sphere toru;dam;2001
+38773;31;yanpei liu;z li;chromat sum edg connect map plane;dm;2005
+38774;31;yan pei liu;y feng,m xu;isomorph caylei graph abelian group;jct;2002
+38775;31;yanpei liu;j dong,c zhang;determin star valenc graph;dam;2003
+38776;31;yanpei liu;j cai;enumer nonsepar planar map;ejc;2002
+38777;32;yi liu;r jin,j chai;maximum coher model dictionari base cross languag inform retriev;sigir;2005
+38778;32;yi liu;r jin;queri translat disambigu graph partit;aaai;2005
+38779;32;yi liu;y lu,b zhang,w xi,z chen,m lyu,w ma;powerrank web link analysi algorithm;www;2004
+38780;32;yi liu;r jin;framework incorpor class prior discrimin classif;pakdd;2005
+38781;32;yi liu;b zhang,h li,l ji,w xi,w fan,z chen,w ma;improv web search result us affin graph;sigir;2005
+38782;33;yu shen liu;h zhang,j yong,p yu,j sun;mesh blend;vc;2005
+38783;33;yu shen liu;j yong,h zhang,d yan,j sun;quasi mont carlo method comput area point sampl surfac;cad;2006
+38784;33;yu shen liu;p yu,j yong,h zhang,j sun;bilater filter mesh us new predictor;ci;2004
+38785;34;yu david liu;s smith;formal framework compon deploy;oopsla;2006
+38786;34;yu david liu;s smith;interact base program classag;oopsla;2005
+38787;35;yi liu;h cunningham,c zhang;us classic problem teach java framework design;scp;2006
+38788;35;yi liu;h cunningham;boxscript compon orient languag teach;acms;2005
+38789;35;yi liu;h cunningham,h xiong;architectur design fruit famili retarget user interfac tool;serp;2004
+38790;35;yi liu;h cunningham,c zhang;keep secret within famili rediscov parna;serp;2004
+38791;35;yi liu;h cunningham;map compon specif enterpris javabean implement;acms;2004
+38792;35;yi liu;h cunningham;java box implement boxscript compon languag;acms;2007
+38793;36;yong jin liu;m yuen;optim triangl mesh reconstruct unstructur point;vc;2003
+38794;36;yong jin liu;k tang;optim algorithm free form surfac partit base weight gaussian imag;cvgip;2005
+38795;36;yong jin liu;m yuen,k tang;manifold guarante core simplif larg mesh control topolog type;vc;2003
+38796;36;yong jin liu;m yuen,s xiong;featur base approach individu human head model;vc;2002
+38797;36;yong jin liu;k tang;maxim intersect spheric polygon arc applic axi machin;cad;2003
+38798;36;yong jin liu;k tang,m yuen;multiresolut free form object model point sampl geometri;jcst;2004
+38799;37;yi ping liu;b alspach,c zhang;nowher zero flow caylei graph solvabl group;siamdm;1996
+38800;37;yiping liu;g chen;hamiltonian graph larg neighborhood union;arscom;1997
+38801;37;yi ping liu;m darrah,c zhang;cycl length arc cyclic semicomplet digraph;dm;1997
+38802;38;yan liu;s chen,i gorton,a liu;perform predict compon base applic;jss;2005
+38803;38;yan liu;a fekete,i gorton;design level perform predict compon base applic;tse;2005
+38804;38;yan liu;i gorton;perform predict j2ee applic us messag protocol;cbse;2005
+38805;38;yan liu;l zhu,n bui,i gorton;revel8or model driven capac plan tool suit;ics;2007
+38806;38;yan liu;l zhu,i gorton,n bui;custom benchmark gener us mda;wicsa;2005
+38807;38;yan jenny liu;i gorton;empir evalu architectur altern j2ee web servic;apsec;2004
+38808;39;yi liu;c liu,d qian,k xiao;framework end end qo context transfer mobil ipv6;ifip6;2004
+38809;40;yingchun liu;m ringner;multiclass discoveri arrai data;bmcbi;2004
+38810;41;yurong liu;z wang,x liu;global exponenti stabil gener recurr neural network discret distribut delai;nn;2006
+38811;41;yurong liu;z wang,x liu;global exponenti stabil gener stochast neural network mix time delai;ijon;2006
+38812;42;yang liu;q liu,s lin;tree string align templat statist machin translat;acl;2006
+38813;42;yang liu;q liu,s lin;log linear model word align;acl;2005
+38814;43;y h liu;k siddiqui,d hay,c suen;featur select us proxim index optim model;prl;1994
+38815;43;yi hsin liu;j konvalina;bit string without q separ;bit;1991
+38816;44;yong liu;k connelly,d bulwinkle,a miller,i bobbitt;toolkit automat construct outdoor radio map;itcc;2005
+38817;45;yueyi liu;l wei,i dubchak,j shon,j park;compar genom approach studi organ similar differ;jbi;2002
+38818;46;yi liu;r jin,l yang;semi supervis multi label learn constrain non neg matrix factor;aaai;2006
+38819;47;yang liu;j sun;algorithm design us object z twig xml queri evalu;entc;2006
+38820;47;yang liu;j dong,j sun,x zhang;verif comput orchestr via time automata;icfem;2006
+38821;48;yi wen liu;c stuart,e selfridge field;search effect measur symbol music queri larg databas;ismir;2004
+38822;48;yi wen liu;j smith;multipl watermark power share better time share;icmc;2004
+38823;49;yang liu;z ben miled,o bukhres,m bem,r jones,r oppelt;effici schema design pharmaceut data repositori;cbm;2000
+38824;49;yang liu;z ben miled,d powers,o bukhres,m bem,r jones,r oppelt;effici implement drug candid databas;jcisd;2003
+38825;50;yan liu;j hao;enumer near perfect match factor critic graph;dm;2002
+38826;50;yan liu;;character maximum match graph certain type;dm;2005
+38827;51;yajun liu;m liu;prototyp mobil agent applic;cata;2000
+38828;52;yong liu;z gao,x he;flexibl embed sram compil;delta;2002

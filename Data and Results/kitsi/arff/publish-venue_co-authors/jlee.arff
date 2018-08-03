@@ -1,0 +1,207 @@
+@relation 'Dataset kitsi publish-venue_co-authors jlee'
+@attribute Text string
+@attribute class-att {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66}
+@data
+'ijpp s midkiff d padua',1
+'icpp w blume r eigenmann k faigin j grout t lawrence j hoeflinger d padua y paek p petersen w pottenger l rauchwerger p tu s weatherford',1
+'lcpc s midkiff d padua',1
+'comput w blume r doallo r eigenmann j grout j hoeflinger t lawrence d padua y paek w pottenger l rauchwerger p tu',1
+'tpd y solihin j torrellas',1
+'concurr s midkiff d padua',1
+'ppopp d padua s midkiff',1
+'lcpc z sura c wong x fang s midkiff d padua',1
+'tapsoft z manna n bjorner a browne e chang m colon l alfaro h devarajan a kapur h sipma t uribe',1
+'tc d padua',1
+'lcpc h moonesinghe',1
+'ieeepact d padua',1
+'isca y solihin j torrellas',1
+'hpca y solihin j torrellas',1
+'gcc h yoe',1
+'im y solihin j torrellas',1
+'tc y solihin j torrellas',1
+'ictai j lim s hong p park',2
+'ieeecit j lim s hong p park',2
+'aaai e durfee',3
+'icma e durfee',3
+'mswim y kim a helmy',4
+'sigmobil y kim a helmy',4
+'islp k choi n dutt',5
+'dt k choi n dutt',5
+'iccad k choi n dutt',5
+'isorc y nah s park h lee s kim m kim k han',6
+'word y nah w lee h lee m kim k han',6
+'isorc h lee j hwang s park c lee y nah s jeon m kim',6
+'arscom j kwak s hong m sohn',7
+'siamdm j kwak j chun',7
+'ejc i goulden j kwak',7
+'dm j kwak y shin',7
+'arscom j kwak',7
+'siamdm r feng j kwak j kim',7
+'dm j kwak',7
+'ejc j kwak m sohn',7
+'3dim b lee j yoo',8
+'iccsa b lee k kwon',8
+'iciap s ahn j yoo b lee',8
+'pe j choi c un',9
+'infocom m chiang a calderbank',9
+'ton r mazumdar n shroff',9
+'ton r mazumdar n shroff',9
+'wiopt a tang j huang m chiang a calderbank',9
+'infocom r mazumdar n shroff',9
+'infocom r mazumdar n shroff',9
+'infocom r mazumdar n shroff',9
+'ismir j downie',10
+'ismir j downie s cunningham',10
+'jcdl j downie a gruzd m jones',10
+'tcsv nan',11
+'tcsv h lai l chen',11
+'tcsv c lee',11
+'tmm nan',11
+'tpd j lui',11
+'ac r anderson f stajano',12
+'rcc j oh s hwang',12
+'kdd j oh s kote b bandi',12
+'comcom r anderson',12
+'mm j oh s hwang',12
+'spw r anderson',12
+'mm s hwang j oh y cao w tavanapong d liu j wong p groen',12
+'pakdd j oh s kote',12
+'ism nan',12
+'sigop r anderson f bergadano b crispo c manifavas r needham',12
+'sac j oh s shah x yuan s tang',12
+'sigmod j oh s hwang',12
+'giscienc nan',13
+'urban m kwan',13
+'kbse x deng robby',14
+'entc nan',14
+'sigpro t hsu',15
+'sc b tierney w johnston h herzog g hoo g jin l chen d rotem',16
+'hpdc b tierney b crowley d gunter m holding m thompson',16
+'hpdc b tierney d gunter m stoufer j evans',16
+'hpdc d gunter b tierney k jackson m stoufer',16
+'cluster b tierney b crowley d gunter m thompson',16
+'mm b tierney l chen h herzog g hoo g jin w johnston',16
+'fgc a antony j blom c laat w sjouw',16
+'hpdc b tierney b crowley m holding j hylton f drake',16
+'sc d gunter m stoufer b tierney',16
+'hicss g lim',17
+'aaai k lee h kim t kim c kim m yoon e hwang h park',17
+'aim k lee j hong w kim e kim s choi h kim o yang h choi',17
+'hicss m sohn',17
+'semweb j kang',17
+'comcom k cho s lee t kwon y choi',18
+'dasfaa j min c chung',19
+'dasfaa m park c lee j lin o serres c chung',19
+'ifip6 y ko s lee',20
+'sigmobil y ko s lee',20
+'asp v lifschitz',21
+'ai f lin',21
+'lpnmr nan',21
+'ai e giunchiglia v lifschitz n mccain h turner',21
+'aaai f lin',21
+'ai v akman s erdogan v lifschitz h turner',21
+'isci k whang',22
+'icd k whang m 0002 m lee k lee',22
+'dasfaa k lee s kim e whang',22
+'sigmod h lim m lee k whang i song',22
+'vldb m 0002 k whang m lee',22
+'sigmod j han k whang',22
+'icd k whang m lee m 0002 w han',22
+'sigpro y lee',23
+'sigpro y lee',23
+'europar d kim',24
+'ispan y rhee',24
+'ccgrid h yun s lee s maeng',24
+'ccgrid s lee h yun s maeng',24
+'isca u ramachandran',24
+'icmc m kim h lee',24
+'case s park d jung j kang j kim',24
+'spaa u ramachandran',24
+'icppw s lee m cho h yoon s eun h yoon j cho',24
+'cal k sihn j cho',24
+'euc e seo y koo',24
+'jci h roh j kim',24
+'emsoft j kang h jo j kim',24
+'ijpp i jung j hyun j ma',24
+'date e kim h saito d lee h nakamura t nanya',25
+'arvlsi e kim d lee',25
+'async e kim d lee',25
+'apcsac j lee e kim e paek',25
+'ieicet w shin h kim k sakurai',25
+'aspdac e kim d lee',25
+'jsa e kim d lee',25
+'glvlsi e jung j lee s kwak k jhang d har',25
+'siggraph j chai p reitsma j hodgins n pollard',26
+'tog j chai p reitsma j hodgins n pollard',26
+'tog r raskar p beardsley j baar y wang p dietz d leigh t willwacher',27
+'acmdi d avrahami s hudson j forlizzi p dietz d leigh',27
+'uist p dietz d leigh w yerazunis s hudson',27
+'tochi j fogarty s hudson c atkeson d avrahami j forlizzi s kiesler j yang',27
+'uist j forlizzi s hudson',27
+'chi j forlizzi s hudson',27
+'icccn y kim j chung t kim',28
+'futur m kim y lee',29
+'infsof k woo m kim y lee',29
+'dasfaa w kim m kim y lee',29
+'ecweb s choi s kim j song y lee',29
+'ipl m kim y lee',29
+'dasfaa y chung y lee m kim',29
+'ipm m kim y lee',29
+'ra z geng l haynes r carroll',30
+'rta k park',31
+'iscapdc s lim j hwang k kim k park',31
+'aina s lim j yoo k park h choi k park',31
+'cikm j jeon w croft',32
+'sigir j jeon w croft',32
+'sigir nan',32
+'sigir j jeon w croft s park',32
+'icmi d he g ritchie',33
+'prl h kim',34
+'eswa e jun',35
+'aim k lee h kim t kim',35
+'dss y chang',35
+'dss j kang',35
+'dss h lee',35
+'ijmm i lee h choi s ahn',35
+'eswa n lee',35
+'orl e lee',36
+'icd s lee s chun d kim c chung',37
+'ipl d kim s lee c chung g cha',37
+'dm d archdeacon j kwak m sohn',38
+'dm j kwak',38
+'dam y shin',38
+'dm i goulden j kwak',38
+'bib e gianchandani j papin',39
+'wmash y choi j paek s choi g lee h jung',40
+'monet y choi s park s choi g lee h jung',40
+'isbi m lustig j tsaig d donoho',41
+'isbi d nishimura b osgood',41
+'ijcpol nan',42
+'esa y lee v phadke a deshmukh',43
+'msn y lee v phadke a deshmukh',43
+'cvgip k lee',44
+'chi s dow c oezbek b macintyre j bolter m gandy',45
+'ijmm n moray',46
+'eswa j lee c jun s kim',47
+'icra s choi',48
+'chi nan',49
+'acms s bhatia c dahn m sampat d mccrickard',49
+'acms c chewar d mccrickard',49
+'acms s nair a kumar m sampat d mccrickard',49
+'dss w kim',50
+'pr t lin h ho',51
+'vrst s lee g kim',52
+'ewcbr s yang d robertson',53
+'psb m terribilini c yan r jernigan s carpenter',54
+'cj nan',55
+'ke h lee h lee',56
+'ictai c choi',57
+'npl t lee h jung s lee',58
+'hicss m huynh r kwok s pi',59
+'jc d kim k park y cho',60
+'vldb l winslow',61
+'gi w jr',62
+'icic s kim',63
+'acmdi s jun j forlizzi s hudson',64
+'sttt s iyer d hislop p jones f pearce s albert',65
+'iva s marsella',66

@@ -1,0 +1,256 @@
+@relation 'Dataset kitsi title jchen'
+@attribute Text string
+@attribute class-att {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61}
+@data
+'modif adaboost base detector partial occlud face',1
+'robust watermark method base wavelet zernik transform',1
+'face detect base manifold',1
+'train classifi base huge face databas',1
+'isomap base imag euclidean distanc',1
+'face sampl re light detect base harmon imag',1
+'resampl face detect self adapt genet algorithm',1
+'enhanc train set face detect',1
+'interact method fuzzi multipl attribut group decis make',2
+'polynomi time approxim scheme parameter complex',3
+'constrain minimum vertex cover bipartit graph improv algorithm',3
+'limit point averag genu connect connect simplici graph',3
+'guarante manifold properti mesh',3
+'approxim minimum vertex cover graph perfect match',3
+'label search tree amort analysi improv upper bound np hard problem',3
+'interact construct multi segment curv handl',3
+'differ tape two tape respect revers complex',3
+'strong menger connect star graph',3
+'construct reliabl network',3
+'vertex cover observ improv',3
+'gener distanc function',3
+'approxim minimum vertex cover graph perfect match',3
+'pfed predict base fair activ queue manag algorithm',3
+'two method creat chines paint',3
+'label search tree amort analysi improv upper bound np hard problem',3
+'us nondetermin design effici determinist algorithm',3
+'strong fault toler parallel rout network fault',3
+'hypercub network fault toler probabilist approach',3
+'optim parallel rout star network',3
+'linear fpt reduct comput lower bound',3
+'hypercub network fault toler probabilist approach',3
+'effici parameter algorithm m set pack',3
+'cost becom anonym particip payload crowd',3
+'approxim multiprocessor task schedul problem',3
+'minim complet set oper develop robust manifold mesh model',3
+'probabilist approach fault toler rout algorithm mesh network',3
+'limit point averag genu connect non simplici graph',3
+'improv parameter upper bound vertex cover',3
+'graph ear decomposit graph embed',3
+'nearli optim mani parallel rout star network',3
+'revers complex',3
+'note practic construct maximum bandwidth path',3
+'regular mesh',3
+'amount nondetermin power verifi',3
+'probabilist analysi connect mesh network',3
+'tight bound johnson s algorithm maximum satisfi',3
+'improv vertex cover low degre graph',3
+'separ topolog control quasi unit disk graph',3
+'strong menger connect star graph',3
+'algebra specif interconnect network relationship permut voltag graph map',3
+'linear time algorithm isomorph graph bound averag genu',3
+'constrain minimum vertex cover bipartit graph complex parameter algorithm',3
+'probabilist analysi mesh network fault toler',3
+'fault toler rout algorithm hypercub network load balanc support',3
+'vertex cover observ improv',3
+'prototyp system robust interact user friendli model orient manifold mesh',3
+'web base intuit effect design symmetr tile',3
+'optim parallel rout star graph',3
+'nearli optim mani parallel rout star network',3
+'input read mode altern ture machin',3
+'overlap matric total imbed distribut',3
+'simpl linear time approxim algorithm multi processor job schedul four processor',3
+'semi normal schedul improv goeman algorithm',3
+'cardin base infer control olap system inform theoret approach',3
+'note approxim graph genu',3
+'integr sampl driven pattern driven approach motif find',3
+'tight lower bound maximum genu simplici graph',3
+'new fault toler multicast commun multicomput',3
+'simpl linear time approxim algorithm multi processor job schedul four processor',3
+'maximum genu connect',3
+'advic class parameter tractabl',3
+'maximum partit match problem applic',3
+'handl hole improv us new corner cut subdivis scheme tension',3
+'nl hierarchi',3
+'tight lower bound certain parameter np hard problem',3
+'effect enumer np problem',3
+'algorithm graph embed',3
+'regular mesh construct algorithm us regular handl',3
+'parallel rout hypercub network faulti node',3
+'strong comput lower bound via parameter complex',3
+'rout hypercub network constant fraction faulti node',3
+'perform measur privaci preserv data mine',3
+'probabilist analysi mesh network fault toler',3
+'probabl model fault larg scale multicomput system',3
+'circuit bottom fan comput power',3
+'linear time algorithm isomorph graph bound averag genu',3
+'product cover tier suppli chain model natur complet problem w w',3
+'fault toler dimension mesh network',3
+'intuit effect new represent interconnect network structur',3
+'fix paramet tractabl approxim np hard optim problem',3
+'new paradigm chang topolog subdivis model',3
+'comput hard base linear fpt reduct',3
+'sa scalar anonym commun system',3
+'face trace base geograph rout nonplanar wireless network',3
+'greedi local color code improv match pack algorithm',3
+'character parallel hierarchi reduc',3
+'structur parameter problem np',3
+'local subcub connect hypercub network theoret analysi experiment result',3
+'improv algorithm path match pack problem',3
+'polynomi time approxim scheme gener multiprocessor job schedul',3
+'circuit bottom fan comput power',3
+'parametr dualiti kernel lower bound upper bound kernel size',3
+'polynomi time approxim scheme parameter complex',3
+'interact rind model',3
+'improv exact algorithm max sat',3
+'util base admiss control real time applic',3
+'fault toler dimension mesh network',3
+'payload analysi anonym commun system host base rerout mechan',3
+'strong fault toler parallel rout star network fault',3
+'tight lower bound certain parameter np hard problem',3
+'adapt transmiss scheme audio video synchron base real time transport protocol',4
+'error resili real time video commun ip base lan',4
+'adapt recoveri techniqu real time audio stream',4
+'gener result broadcast',4
+'multimedia ip thin client build collabor resourc share prototyp',4
+'design implement network applic architectur thin client',4
+'discret approach nonparametr model long term hiv dynam model',5
+'optim bayesian sampl accept plan random censor',5
+'chemdb public databas small molecul relat chemoinformat resourc',6
+'function censu mutat sequenc space exampl p53 cancer rescu mutant',6
+'kernel small molecul predict mutagen toxic anti cancer activ',6
+'effect densiti queri move object road network',7
+'model predict futur trajectori move object constrain network',7
+'track network constrain move object group updat',7
+'make subsequ time seri cluster meaning',8
+'program demonstr remov suboptim action partial known configur space',8
+'construct task level assembl strategi robot program demonstr',8
+'gener configur space represent assembl task demonstr',8
+'program demonstr construct task level plan hybrid dynam framework',8
+'distribut multi agent system collabor inform manag share',9
+'manag person group collect inform',9
+'collabor inform agent world wide web',9
+'learn subject relev facilit inform access',9
+'bookmark servic organ share url',9
+'user center index adapt inform access',9
+'adapt hypertext navig base user goal context',9
+'alloc cost minim period hard real time task energi constrain dv system',10
+'leakag awar energi effici schedul real time task multiprocessor system',10
+'procrastin leakag awar rate monoton schedul dynam voltag scale processor',10
+'approxim algorithm schedul multipl feasibl interv job',10
+'approxim algorithm schedul real time job multipl feasibl interv',10
+'analysi varianc compon gene express data',11
+'sampl size gene express microarrai experi',12
+'joint analysi two microarrai gene express data set select lung adenocarcinoma marker gene',13
+'even wire approach ball grid arrai packag rout',14
+'effici learn pseudo boolean function limit train data',15
+'strong semant logic program',15
+'new method circumscrib belief proposit case',15
+'automat correl calibr noisi sensor read us elit genet algorithm',15
+'rule fuzzi rule text concept extract usag',15
+'logic know unifi framework non monoton reason',15
+'sound complet fuzzi logic system us zadeh s implic oper',15
+'learn discov problem solv heurist experi',15
+'embed priorit circumscript logic program',15
+'sound complet proof theori gener logic know',15
+'fuzzi logic lukasiewicz logic clarif',15
+'logic know unifi framework non monoton reason',15
+'strong semant logic program',15
+'class stratifi program autoepistem logic knowledg belief',15
+'specif base test gui base applic',16
+'qualiti time analysi multi object evolutionari algorithm',17
+'design nearest neighbor classifi us intellig multi object evolutionari algorithm',17
+'intellig evolutionari algorithm larg paramet optim problem',17
+'meswarm memet particl swarm optim',17
+'fit inherit multi object optim',17
+'testb evalu navig text displai techniqu inform rich virtual environ',18
+'interact visibl human data us immersadesk',18
+'increas displai size resolut improv task perform inform rich virtual environ',18
+'new direct 3d user interfac',18
+'niagaracq scalabl continu queri system internet databas',19
+'design evalu altern select placement strategi optim continu queri',19
+'genom data model',20
+'similar join extend dbm bio specif oper',20
+'toward automat gener natur languag gener system',21
+'new model improv supertag disambigu',21
+'reduc complex decod ldpc code',22
+'correl mimo rayleigh fade system transmit channel state inform',22
+'model check real time valu pass system',23
+'make time automata commun',23
+'ada like softwar process languag',24
+'new object orient method integr jackson structur program method',24
+'integr object orient analysi design method emphas entiti class relationship oper find',24
+'execut specif languag specif understand object orient specif reus',24
+'counter exampl cluster heurist',24
+'enact object orient method process environ',24
+'behavior base classif retriev techniqu object orient specif reus',24
+'partit optim algorithm multipl sequenc align',25
+'adapt perceptu color textur imag segment',26
+'imag segment spatial adapt color textur featur',26
+'perceptu tune multiscal color textur segment',26
+'adapt imag segment base color textur',26
+'extend dbp m k firm base qo',27
+'experi studi dynam prioriti schedul wireless sensor network',27
+'type intermedi languag compil multipl inherit',28
+'simpl type intermedi languag object orient languag',28
+'decid subclass bound quantif',28
+'garbag collect type assembl languag',28
+'choos among altern futur',29
+'dynam verif tempor constraint fly workflow system',30
+'kei research issu grid workflow verif valid',30
+'flexibl tempor consist fix time constraint verif grid workflow system',30
+'featur tree visual featur track distribut amr dataset',31
+'hardwar softwar coverif distribut embed system',32
+'feedback base schedul back end databas share dynam content server cluster',33
+'local awar dynam load manag massiv multiplay game',33
+'wireless lan base indoor posit technolog',33
+'aspect base instrument locat memori leak java program',34
+'avoid local optima singl particl reconstruct',35
+'locat price schedul integr energi reserv market',36
+'locat base schedul price energi reserv respons reserv market propos',36
+'scalabl fidel contain potemkin virtual honeyfarm',37
+'rout internet scale network emul',37
+'heap bit',38
+'comput maximum score segment almost linear time',38
+'heap bit',38
+'discov reliabl protein interact high throughput experiment data us network topolog',39
+'rat genom databas rgd develop toward phenom databas',40
+'overlai mesh construct us interleav span tree',41
+'fast construct overlai network',41
+'learn hidden hypergraph',41
+'learn hidden hypergraph',41
+'learn hidden graph us log n queri edg',41
+'learn larg alphabet analog circuit valu inject queri',41
+'sprite simpl cheat proof credit base system mobil ad hoc network',41
+'architectur tsinghuaeolu',41
+'learn circuit inject valu',41
+'deal node mobil ad hoc wireless network',42
+'fluid flow analysi tcp westwood red',42
+'web base collabor tool geospati data explor',43
+'challeng mobil voic ip',44
+'delai reduct techniqu playout buffer',44
+'shape sensit construct represent',45
+'defin soft sorted abstract interpret',46
+'soft sort logic program',46
+'implement minim multivari pkc low resourc embed system',47
+'theoret analysi xl small field',47
+'secur efficaci tt signatur scheme',47
+'quantifi privaci leakag answer databas queri',48
+'damag compens privaci leakag',48
+'custom geograph rout protocol wireless sensor network',49
+'topolog base classif us artifici gene network',50
+'segment registr deform analysi 3d mr imag mice',51
+'solv anisotrop transport equat misalign grid',52
+'quasi threshold graph',53
+'natur wai construct ident base identif scheme',54
+'design analysi low power access protocol wireless mobil atm network',55
+'induct food servic industri',56
+'analysi nonsmooth vector valu function associ second order cone',57
+'web base virtual laboratori frequenc modul experi',58
+'design onlin auction past perform inform',59
+'asymptot analysi mimo wireless system spatial correl receiv',60
+'visual discov web navig pattern',61

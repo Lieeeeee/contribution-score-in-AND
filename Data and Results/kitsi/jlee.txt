@@ -1,0 +1,203 @@
+14492;1;jaejin lee;s midkiff,d padua;constant propag algorithm explicitli parallel program;ijpp;1998
+14493;1;jaejin lee;w blume,r eigenmann,k faigin,j grout,t lawrence,j hoeflinger,d padua,y paek,p petersen,w pottenger,l rauchwerger,p tu,s weatherford;restructur program high speed comput polari;icpp;1996
+14494;1;jaejin lee;s midkiff,d padua;concurr static singl assign form constant propag explicitli parallel program;lcpc;1997
+14495;1;jaejin lee;w blume,r doallo,r eigenmann,j grout,j hoeflinger,t lawrence,d padua,y paek,w pottenger,l rauchwerger,p tu;parallel program polari;comput;1996
+14496;1;jaejin lee;y solihin,j torrellas;correl prefetch user level memori thread;tpd;2003
+14497;1;jaejin lee;s midkiff,d padua;compil multipl memori model;concurr;2004
+14498;1;jaejin lee;d padua,s midkiff;basic compil algorithm parallel program;ppopp;1999
+14499;1;jaejin lee;z sura,c wong,x fang,s midkiff,d padua;automat implement program languag consist model;lcpc;2002
+14500;1;jaejin lee;z manna,n bjorner,a browne,e chang,m colon,l alfaro,h devarajan,a kapur,h sipma,t uribe;step stanford tempor prover;tapsoft;1995
+14501;1;jaejin lee;d padua;hide relax memori consist compil;tc;2001
+14502;1;jaejin lee;h moonesinghe;adapt increas perform scalabl automat parallel program;lcpc;2002
+14503;1;jaejin lee;d padua;hide relax memori consist compil;ieeepact;2000
+14504;1;jaejin lee;y solihin,j torrellas;us user level memori thread correl prefetch;isca;2002
+14505;1;jaejin lee;y solihin,j torrellas;automat map code intellig memori architectur;hpca;2001
+14506;1;jaejin lee;h yoe;design vdsl network high speed internet servic;gcc;2003
+14507;1;jaejin lee;y solihin,j torrellas;adapt map code intellig memori architectur;im;2000
+14508;1;jaejin lee;y solihin,j torrellas;automat code map intellig memori architectur;tc;2001
+14509;2;jinseok lee;j lim,s hong,p park;algorithm detect local multi target wireless acoust sensor network;ictai;2006
+14510;2;jinseok lee;j lim,s hong,p park;track object d space us particl filter base sensor arrai;ieeecit;2006
+14511;3;jaeho lee;e durfee;structur circuit semant reactiv plan execut system;aaai;1994
+14512;3;jaeho lee;e durfee;microeconom approach intellig resourc share multiag system;icma;1995
+14513;4;jae joon lee;y kim,a helmy;impact locat inconsist geograph rout wireless network;mswim;2003
+14514;4;jae joon lee;y kim,a helmy;model analyz impact locat inconsist geograph rout wireless network;sigmobil;2004
+14515;5;jong eun lee;k choi,n dutt;energi effici instruct set synthesi applic specif processor;islp;2003
+14516;5;jong eun lee;k choi,n dutt;compil approach coars grain reconfigur architectur;dt;2003
+14517;5;jong eun lee;k choi,n dutt;effici instruct encod automat instruct set design configur asip;iccad;2002
+14518;6;joonwoo lee;y nah,s park,h lee,s kim,m kim,k han;tmo structur distribut locat inform system prototyp;isorc;2005
+14519;6;joonwoo lee;y nah,w lee,h lee,m kim,k han;distribut scalabl locat data manag system base gali architectur;word;2005
+14520;6;joonwoo lee;h lee,j hwang,s park,c lee,y nah,s jeon,m kim;long term locat data manag distribut move object databas;isorc;2006
+14521;7;jaeun lee;j kwak,s hong,m sohn;isoperimetr number bisect width doubl cover complet graph;arscom;2000
+14522;7;jaeun lee;j kwak,j chun;enumer regular graph cover finit abelian cover transform group;siamdm;1998
+14523;7;jaeun lee;i goulden,j kwak;distribut regular branch surfac cover;ejc;2004
+14524;7;jaeun lee;j kwak,y shin;balanc regular cover sign graph regular branch orient surfac cover non orient surfac;dm;2004
+14525;7;jaeun lee;j kwak;isomorph class bipartit cycl permut graph;arscom;1998
+14526;7;jaeun lee;r feng,j kwak,j kim;isomorph class concret graph cover;siamdm;1998
+14527;7;jaeun lee;j kwak;isomorph class cycl permut graph;dm;1992
+14528;7;jaeun lee;j kwak,m sohn;bartholdi zeta function graph bundl regular fiber;ejc;2005
+14529;8;joon jae lee;b lee,j yoo;effici scatter data approxim us multilevel b spline base quasi interpol;3dim;2005
+14530;8;joon jae lee;b lee,k kwon;quasi interpol base multilevel b spline surfac reconstruct scatter data;iccsa;2005
+14531;8;joon jae lee;s ahn,j yoo,b lee;3d surfac reconstruct scatter data us move least squar method;iciap;2005
+14532;9;jang wong lee;j choi,c un;perform analysi input queue atm switch two prioriti class;pe;1998
+14533;9;jang won lee;m chiang,a calderbank;util optim medium access control revers forward engin;infocom;2006
+14534;9;jang won lee;r mazumdar,n shroff;downlink power alloc multi class wireless system;ton;2005
+14535;9;jang won lee;r mazumdar,n shroff;non convex optim rate control multi class servic internet;ton;2005
+14536;9;jang won lee;a tang,j huang,m chiang,a calderbank;revers engin mac;wiopt;2006
+14537;9;jangwon lee;r mazumdar,n shroff;opportunist power schedul multi server wireless system minimum perform constraint;infocom;2004
+14538;9;jangwon lee;r mazumdar,n shroff;downlink power alloc multi class cdma wireless network;infocom;2002
+14539;9;jangwon lee;r mazumdar,n shroff;non convex issu internet rate control multi class servic stabil optim;infocom;2004
+14540;10;jin ha lee;j downie;survei music inform need us seek behaviour preliminari find;ismir;2004
+14541;10;jin ha lee;j downie,s cunningham;challeng cross cultur multilingu music inform seek;ismir;2005
+14542;10;jin ha lee;j downie,a gruzd,m jones;toward understand similar judgment music digit librari evalu;jcdl;2007
+14543;11;j y b lee;;optim channel alloc unifi video demand system;tcsv;2002
+14544;11;jack yiu bun lee;h lai,l chen;monoton decreas rate schedul variabl bit rate video stream;tcsv;2005
+14545;11;jack y b lee;c lee;design perform analysi implement super scalar video demand system;tcsv;2002
+14546;11;j y b lee;;unifi architectur video demand servic;tmm;2002
+14547;11;jack y b lee;j lui;automat recoveri disk failur continu media server;tpd;2002
+14548;12;jong hyeon lee;r anderson,f stajano;secur polici;ac;2001
+14549;12;jeongkyu lee;j oh,s hwang;effici method detect kei object video shot camera motion;rcc;2003
+14550;12;jeongkyu lee;j oh,s kote,b bandi;multimedia data mine framework raw video sequenc;kdd;2002
+14551;12;jong hyeon lee;r anderson;jikzi new framework secur polici trust publish electron commerc;comcom;2000
+14552;12;jeongkyu lee;j oh,s hwang;scenario base dynam video abstract us graph match;mm;2005
+14553;12;jong hyeon lee;r anderson;jikzi new framework secur publish;spw;1999
+14554;12;jeongkyu lee;s hwang,j oh,y cao,w tavanapong,d liu,j wong,p groen;automat measur qualiti metric colonoscopi video;mm;2005
+14555;12;jeongkyu lee;j oh,s kote;real time video data mine surveil video stream;pakdd;2003
+14556;12;jeongkyu lee;;graph base approach model index video data;ism;2006
+14557;12;jong hyeon lee;r anderson,f bergadano,b crispo,c manifavas,r needham;new famili authent protocol;sigop;1998
+14558;12;jeongkyu lee;j oh,s shah,x yuan,s tang;automat classif digest organ wireless capsul endoscopi video;sac;2007
+14559;12;jeongkyu lee;j oh,s hwang;strg index spatio tempor region graph index larg video databas;sigmod;2005
+14560;13;jiyeong lee;;3d gi geo code human activ micro scale urban environ;giscienc;2004
+14561;13;jiyeong lee;m kwan;emerg respons potenti real time 3d gi quick emerg respons micro spatial environ;urban;2005
+14562;14;jooyong lee;x deng,robby;bogor kiasan k bound symbol execut check strong heap properti open system;kbse;2006
+14563;14;jooyong lee;;dynam revers code gener backward execut;entc;2007
+14564;15;ju hong lee;t hsu;adapt beamform multipl beam constraint presenc coher jammer;sigpro;2000
+14565;16;jason lee;b tierney,w johnston,h herzog,g hoo,g jin,l chen,d rotem;us high speed network enabl distribut parallel imag server system;sc;1994
+14566;16;jason lee;b tierney,b crowley,d gunter,m holding,m thompson;monitor sensor manag system grid environ;hpdc;2000
+14567;16;jason lee;b tierney,d gunter,m stoufer,j evans;enabl network awar applic;hpdc;2001
+14568;16;jason lee;d gunter,b tierney,k jackson,m stoufer;dynam monitor high perform distribut applic;hpdc;2002
+14569;16;jason lee;b tierney,b crowley,d gunter,m thompson;monitor sensor manag system grid environ;cluster;2001
+14570;16;jason lee;b tierney,l chen,h herzog,g hoo,g jin,w johnston;distribut parallel data storag system scalabl approach high speed imag server;mm;1994
+14571;16;jason lee;a antony,j blom,c laat,w sjouw;microscop examin tcp flow transatlant link;fgc;2003
+14572;16;jason lee;b tierney,b crowley,m holding,j hylton,f drake;network awar distribut storag cach data intens environ;hpdc;1999
+14573;16;jason lee;d gunter,m stoufer,b tierney;monitor data archiv grid environ;sc;2002
+14574;17;jae kyu lee;g lim;perform evalu model buyer cart b2b ec;hicss;2004
+14575;17;jae kyu lee;k lee,h kim,t kim,c kim,m yoon,e hwang,h park;case constraint base apart construct project plan system fastrak apt;aaai;1997
+14576;17;jae kyu lee;k lee,j hong,w kim,e kim,s choi,h kim,o yang,h choi;intellig schedul system shipbuild;aim;1995
+14577;17;jae kyu lee;m sohn;enhanc knowledg manag extens rule markup languag;hicss;2003
+14578;17;jae kyu lee;j kang;extract structur rule web page mainten mutual consist xrml approach;semweb;2003
+14579;18;jeongkeun lee;k cho,s lee,t kwon,y choi;distribut energi effici target local track wireless sensor network;comcom;2006
+14580;19;jihyun lee;j min,c chung;effici encod label dynam xml data;dasfaa;2007
+14581;19;jihyun lee;m park,c lee,j lin,o serres,c chung;effici scalabl manag ontolog;dasfaa;2007
+14582;20;jun beom lee;y ko,s lee;ad hoc rout earli unidirection detect avoid;ifip6;2004
+14583;20;jun beom lee;y ko,s lee;euda detect avoid unidirect link ad hoc network;sigmobil;2004
+14584;21;joohyung lee;v lifschitz;addit fluent;asp;2001
+14585;21;joohyung lee;f lin;loop formula circumscript;ai;2006
+14586;21;joohyung lee;;nondefinit vs definit causal theori;lpnmr;2004
+14587;21;joohyung lee;e giunchiglia,v lifschitz,n mccain,h turner;nonmonoton causal theori;ai;2004
+14588;21;joohyung lee;f lin;loop formula circumscript;aaai;2004
+14589;21;joohyung lee;v akman,s erdogan,v lifschitz,h turner;repres zoo world traffic world languag causal calcul;ai;2004
+14590;22;jae gil lee;k whang;secur queri process encrypt xml data us queri awar decrypt;isci;2006
+14591;22;jae gil lee;k whang,m 0002,m lee,k lee;odysseu high perform ordbm tightli coupl spatial databas featur;icd;2007
+14592;22;jae gil lee;k lee,s kim,e whang;practition s approach normal xqueri express;dasfaa;2006
+14593;22;jae gil lee;h lim,m lee,k whang,i song;continu queri process data stream us dualiti data queri;sigmod;2006
+14594;22;jae gil lee;m 0002,k whang,m lee;n gram 2l space time effici two level n gram invert index structur;vldb;2005
+14595;22;jae gil lee;j han,k whang;trajectori cluster partit group framework;sigmod;2007
+14596;22;jae gil lee;k whang,m lee,m 0002,w han;odysseu high perform ordbm tightli coupl ir featur;icd;2005
+14597;23;ju hong lee;y lee;novel direct find method cyclostationari signal;sigpro;2001
+14598;23;ju hong lee;y lee;robust techniqu estim bear cyclostationari signal;sigpro;2003
+14599;24;joonwon lee;d kim;virtual physic chip cach share memori multiprocessor;europar;1997
+14600;24;joonwon lee;y rhee;scalabl cach coher architectur larg scale mesh connect multiprocessor;ispan;1997
+14601;24;joonwon lee;h yun,s lee,s maeng;effici lock protocol home base lazi releas consist;ccgrid;2001
+14602;24;joonwon lee;s lee,h yun,s maeng;adapt prefetch techniqu share virtual memori;ccgrid;2001
+14603;24;joonwon lee;u ramachandran;synchron multiprocessor cach;isca;1990
+14604;24;joonwon lee;m kim,h lee;proport share schedul multimedia applic;icmc;1997
+14605;24;joonwon lee;s park,d jung,j kang,j kim;cflru replac algorithm flash memori;case;2006
+14606;24;joonwon lee;u ramachandran;architectur primit scalabl share memori multiprocessor;spaa;1991
+14607;24;joonwon lee;s lee,m cho,h yoon,s eun,h yoon,j cho;design implement multi thread tmn agent system;icppw;1999
+14608;24;j lee;k sihn,j cho;specul coher scheme us decoupl synchron multiprocessor system;cal;2003
+14609;24;joonwon lee;e seo,y koo;dynam repartit real time schedul multicor processor energi effici;euc;2006
+14610;24;joonwon lee;h roh,j kim;design optimist oper peer peer replic;jci;2006
+14611;24;joonwon lee;j kang,h jo,j kim;superblock base flash translat layer nand flash memori;emsoft;2006
+14612;24;joonwon lee;i jung,j hyun,j ma;two phase barrier synchron primit improv processor util;ijpp;2001
+14613;25;jeong gun lee;e kim,h saito,d lee,h nakamura,t nanya;distribut synchron control unit dataflow graph alloc telescop arithmet unit;date;2003
+14614;25;jeong gun lee;e kim,d lee;build distribut asynchron control unit automat deriv hierarch decompos afsm cdfg;arvlsi;2001
+14615;25;jeong gun lee;e kim,d lee;automat process orient control circuit gener asynchron high level synthesi;async;2000
+14616;25;jeong a lee;j lee,e kim,e paek;effici buffer alloc asynchron linear pipelin design space local;apcsac;2004
+14617;25;jeong gun lee;w shin,h kim,k sakurai;procedur constraint extend rbac colour petri net model;ieicet;2005
+14618;25;jeong gun lee;e kim,d lee;imprecis data comput high perform asynchron processor;aspdac;2001
+14619;25;jeong gun lee;e kim,d lee;instruct level redund number comput fast data intens process asynchron processor;jsa;2005
+14620;25;jeong a lee;e jung,j lee,s kwak,k jhang,d har;high perform asynchron chip bu multipl issu order order complet;glvlsi;2005
+14621;26;jehee lee;j chai,p reitsma,j hodgins,n pollard;interact control avatar anim human motion data;siggraph;2002
+14622;26;jehee lee;j chai,p reitsma,j hodgins,n pollard;interact control avatar anim human motion data;tog;2002
+14623;27;johnny c lee;r raskar,p beardsley,j baar,y wang,p dietz,d leigh,t willwacher;rfig lamp interact self describ world via photosens wireless tag projector;tog;2004
+14624;27;johnny c lee;d avrahami,s hudson,j forlizzi,p dietz,d leigh;calder toolkit wire wireless compon rapidli prototyp interact devic;acmdi;2004
+14625;27;johnny c lee;p dietz,d leigh,w yerazunis,s hudson;haptic pen tactil feedback stylu touch screen;uist;2004
+14626;27;johnny c lee;j fogarty,s hudson,c atkeson,d avrahami,j forlizzi,s kiesler,j yang;predict human interrupt sensor;tochi;2005
+14627;27;johnny c lee;j forlizzi,s hudson;kinet typographi engin extens system anim express text;uist;2002
+14628;27;johnny c lee;j forlizzi,s hudson;kinedit system affect messag us dynam text;chi;2003
+14629;28;jong kwon lee;y kim,j chung,t kim;adapt acknowledg scheme effici error control atm cluster system;icccn;1998
+14630;29;joon ho lee;m kim,y lee;knowledg base approach rank document boolean queri;futur;1992
+14631;29;jeong hoon lee;k woo,m kim,y lee;findit fast intellig subspac cluster algorithm us dimens vote;infsof;2004
+14632;29;joon ho lee;w kim,m kim,y lee;enhanc fuzzi set model posit compensatori oper;dasfaa;1993
+14633;29;jinwon lee;s choi,s kim,j song,y lee;acceler databas process commerc site;ecweb;2004
+14634;29;joon ho lee;m kim,y lee;analysi fuzzi oper high qualiti inform retriev;ipl;1993
+14635;29;j lee;y chung,y lee,m kim;predic base cach mobil client continu partial match queri;dasfaa;2001
+14636;29;joon ho lee;m kim,y lee;rank document thesauru base boolean retriev system;ipm;1994
+14637;30;james d lee;z geng,l haynes,r carroll;dynam model kinemat analysi class stewart platform;ra;1992
+14638;31;jupyung lee;k park;delai lock techniqu improv real time perform embed linux predict timer interrupt;rta;2005
+14639;31;jupyung lee;s lim,j hwang,k kim,k park;resourc manag share file system san environ;iscapdc;2003
+14640;31;jupyung lee;s lim,j yoo,k park,h choi,k park;ubiquit fashion comput throw devic locat base servic environ;aina;2007
+14641;32;joon ho lee;j jeon,w croft;find similar question larg question answer archiv;cikm;2005
+14642;32;joon ho lee;j jeon,w croft;find semant similar question base answer;sigir;2005
+14643;32;jong hak lee;;analys multipl evid combin;sigir;1997
+14644;32;joon ho lee;j jeon,w croft,s park;framework predict qualiti answer non textual featur;sigir;2006
+14645;33;john lee;d he,g ritchie;resolv refer graphic object multimod queri constraint satisfact;icmi;2000
+14646;34;jae young lee;h kim;imag code fit rbf surfac subimag;prl;2002
+14647;35;jae kyu lee;e jun;quasi optim case select neural network model softwar effort estim;eswa;2001
+14648;35;jae kyu lee;k lee,h kim,t kim;case constraint base project plan apart construct;aim;1998
+14649;35;jae kyu lee;y chang;case base modif optim agent agent opt;dss;2004
+14650;35;jae kyu lee;j kang;rule identif web page xrml approach;dss;2005
+14651;35;jae kyu lee;h lee;effect custom procedur configur standard model;dss;2005
+14652;35;jae kyu lee;i lee,h choi,s ahn;automat rule gener transform expert s diagram lift;ijmm;1990
+14653;35;jae kyu lee;n lee;least modif principl case base reason softwar project plan experi;eswa;2006
+14654;36;jiyeon lee;e lee;optim proport perfect repair;orl;1999
+14655;37;ju hong lee;s lee,s chun,d kim,c chung;similar search multidimension data sequenc;icd;2000
+14656;37;ju hong lee;d kim,s lee,c chung,g cha;distribut similar search algorithm distribut heterogen multimedia databas;ipl;2000
+14657;38;jaeun lee;d archdeacon,j kwak,m sohn;bipartit cover graph;dm;2000
+14658;38;jaeun lee;j kwak;enumer graph embed;dm;1994
+14659;38;jaeun lee;y shin;achromat number union cycl;dam;2004
+14660;38;jaeun lee;i goulden,j kwak;enumer branch orient surfac cover non orient surfac;dm;2005
+14661;39;jong min lee;e gianchandani,j papin;flux balanc analysi metabolom;bib;2006
+14662;40;jae hwan lee;y choi,j paek,s choi,g lee,h jung;enhanc wlan base internet servic korea;wmash;2003
+14663;40;jaehwan lee;y choi,s park,s choi,g lee,h jung;enhanc wlan base internet servic;monet;2005
+14664;41;jin hyung lee;m lustig,j tsaig,d donoho;fast spiral fourier transform iter mr imag reconstruct;isbi;2004
+14665;41;jin hyung lee;d nishimura,b osgood;optim variabl densiti k space sampl mri;isbi;2004
+14666;42;jong hyeok lee;;guest editor s introduct;ijcpol;2004
+14667;43;jin wook lee;y lee,v phadke,a deshmukh;kei manag wireless sensor network;esa;2004
+14668;43;jin wook lee;y lee,v phadke,a deshmukh;secur local locat verif sensor network;msn;2005
+14669;44;jehee lee;k lee;precomput avatar behavior human motion data;cvgip;2006
+14670;45;jaemin lee;s dow,c oezbek,b macintyre,j bolter,m gandy;wizard oz interfac mix realiti applic;chi;2005
+14671;46;john d lee;n moray;trust self confid oper adapt autom;ijmm;1994
+14672;47;jaewook lee;j lee,c jun,s kim;classif base collabor filter us market basket data;eswa;2005
+14673;48;jang myung lee;s choi;optim move window real time road imag process;icra;2001
+14674;49;jason chong lee;;embrac agil develop usabl softwar system;chi;2006
+14675;49;jason chong lee;s bhatia,c dahn,m sampat,d mccrickard;vtassist locat base feedback notif system disabl;acms;2006
+14676;49;jason chong lee;c chewar,d mccrickard;imag everyth advanc hci knowledg interfac design us system imag;acms;2005
+14677;49;jason chong lee;s nair,a kumar,m sampat,d mccrickard;alumni campu tour captur fourth dimens locat base notif system;acms;2006
+14678;50;jae kyu lee;w kim;agent busi model;dss;2003
+14679;51;jack c lee;t lin,h ho;fast supervis learn normal mixtur model miss inform;pr;2006
+14680;52;janghan lee;s lee,g kim;observ effect attent presenc fmri;vrst;2004
+14681;53;john lee;s yang,d robertson;us case base reason domain build regul;ewcbr;1994
+14682;54;jae hyung lee;m terribilini,c yan,r jernigan,s carpenter;identifi interact site recalcitr protein predict protein rna bind site rev protein hiv eiav agre experiment data;psb;2006
+14683;55;john a n lee;;formal definit basic languag;cj;1972
+14684;56;junseok lee;h lee,h lee;comparison featur extract techniqu watermark synchron;ke;2005
+14685;57;jimmy ho man lee;c choi;control salin potabl water suppli system us constraint program approach;ictai;2005
+14686;58;jong hwan lee;t lee,h jung,s lee;effici speech featur extract base independ compon analysi;npl;2002
+14687;59;jae nam lee;m huynh,r kwok,s pi;evolut outsourc research next issu;hicss;2000
+14688;60;jee soo lee;d kim,k park,y cho;effici algorithm approxim string match swap;jc;1999
+14689;61;j c lee;l winslow;optim choic data restructur point;vldb;1975
+14690;62;jay lee;w jr;spatial analysi linguist data gi function;gi;1993
+14691;63;julian lee;s kim;doubl optim design protein energi function;icic;2006
+14692;64;joonhwan lee;s jun,j forlizzi,s hudson;us kinet typographi convei emot text base interperson commun;acmdi;2006
+14693;65;jaime lee;s iyer,d hislop,p jones,f pearce,s albert;introductori paper;sttt;2004
+14694;66;jina lee;s marsella;nonverb behavior gener embodi convers agent;iva;2006

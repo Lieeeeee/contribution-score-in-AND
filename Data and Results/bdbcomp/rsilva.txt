@@ -1,0 +1,27 @@
+350;206;romano j m silva;e corseuil,a raposo,m pinto,g wagner,m gattass;vr tool visual cad model;realidad virtual;0
+351;207;ricardo antonio camara da silva;r maranhao,r barros;aplicacao utilizando xml area adocao pesquisa crianca disponivei adocao pesquisa pre inscricao pretendent;informatica publica;0
+352;208;ricardo m a silva;c garrozi;uso tecnologia movel auxilio reeducacao alimentar;journal comput scienc;0
+353;209;ricardo m a silva;a rocha,a schneider,j alves;wxproc simulador politica escalonamento multiplataforma;journal comput scienc;0
+354;210;ricardo m a silva;h oliveira,m souza,g alvarenga;adaptacao algoritmo genetico tratamento problema roteamento veiculo janela tempo;journal comput scienc;0
+355;210;ricardo m de a silva;g alvarenga,r sampaio;hybrid algorithm vehicl rout problem time window;journal comput scienc;0
+356;210;ricardo m de a silva;m souza,h oliveira;softwar ensino protocolo janela deslizant;journal comput scienc;0
+357;211;renato a c silva;;inteligencia artifici aplicada ambient engenharia softwar visao geral;journal comput scienc;0
+358;212;ronaldo p silva;s amo,n silva,f pereira;constraint base tree pattern mine;banco dado;0
+359;213;roberto da silva;c solana,l fernandes,e justino,m oliveira,l oliveira,f bortolozzi,g crespo;document reconstruct base featur match;computacao grafica processamento imagen;0
+360;213;r da silva;g wirth,j koh,r thewes,r brederlow;low frequenc nois deep submicron mosfet;symposium microelectron technolog devic;0
+334;192;roseli maria da silva;e moreira;prototipo servidor modem rede tcp ip;rede computador;0
+335;193;r m da silva;s wu;reconstruct 3d model rang imag us radial flow model;computacao grafica processamento imagen;0
+336;194;rafael guilherme r da silva;m andrade,h andrade,j nogueira;metodologia desenvolvimento implementaco agent supervisao elemento rede plataforma distribuida si;rede computador;0
+337;195;ricardo pereira e silva;r price;suport desenvolvimento uso component flexivei;engenharia softwar;0
+338;195;ricardo pereira e silva;e freiberger;suport uso framework orientado objeto base historico desenvolvimento aplicaco;qualidad softwar;0
+339;196;roberta scaramussa da silva;c nascimento,p barbosa;dimensao socio afetiva interacao distancia;informatica educacao;0
+340;197;romildo jose da silva;j gomes,c mota,l velho;imag effect us contract map;computacao grafica processamento imagen;0
+341;198;rosana marques da silva;s wu;reconstrucao objeto 3d usando modelo deformavei;computacao grafica processamento imagen;0
+342;199;rodrigo silva;e strauss,w jimenez,g giraldi,a oliveira;semi automat surfac reconstruct framework base t surfac isosurfac extract method;computacao grafica processamento imagen;0
+343;200;rodrigo da silva;e silva,m abreu;orion construcao coletiva comunidad onlin conhecimento;informatica educacao;0
+344;201;r i da silva;j leite,m fernandez;extensao tempo vida rede ad hoc;rede computador;0
+345;202;robson teixeira da silva;r filho,m pequeno;revisao sintatica semantica logica defaut;encontro nacion inteligencia artifici;0
+346;203;ricardo m a silva;g ramalho;asnod scp new version ant system set cover problem;encontro nacion inteligencia artifici;0
+347;204;rafael araujo silva;j mayer;inform embed multibit watermark;computacao grafica processamento imagen;0
+348;205;rogerio e da silva;a silva,a fiorese,g santos;an arvor n aria espalhamento naturalment balanceada;journal comput scienc;0
+349;206;romano j m da silva;t bastos,a raposo,m gattass;viral framework desenvolvimento aplicaco realidad virtual;realidad virtual;0

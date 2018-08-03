@@ -1,0 +1,222 @@
+@relation 'Dataset kitsi publish-venue_co-authors sjajodia'
+@attribute Text string
+@attribute class-att {1, 2}
+@data
+'ai c bettini x wang',1
+'dbsec s chapin d faatz',1
+'toc p ammann',1
+'dke y li p ning x wang',1
+'dbsec l wang c yao a singhal',1
+'cp c bettini x wang',1
+'icd d mutchler',1
+'vldb s vimercati s foresti s paraboschi p samarati',1
+'comcom l wang s noel',1
+'time y li p ning x wang',1
+'esor d marks a motro',1
+'csfw nan',1
+'acn s zhu c yao d liu s setia',1
+'sigmod c bettini x wang e bertino',1
+'ngc s zhu s setia',1
+'entc e damiani s vimercati s foresti s paraboschi p samarati',1
+'cc e bertino p samarati',1
+'comput p ammann c mccollum',1
+'mobiquit s zhu s setia s xu',1
+'compsec r sandhu',1
+'tc11 g rumolo',1
+'tissec p samarati m reiter',1
+'csfw j lin x wang',1
+'isci h guo y li a liu',1
+'cc i ray e bertino l mancini',1
+'comput n johnson',1
+'infsof v atluri e bertino',1
+'icdcit k sarda d wijesekera',1
+'dpd a singhal',1
+'dbsec s chen d wijesekera',1
+'compsec r sandhu',1
+'foik y li s zhu l wang',1
+'sdmw c bettini x wang',1
+'sec j yang p ning x wang',1
+'dagstuhl y wu x wang',1
+'oopsla e bertino p samarati',1
+'comcom p ning x wang',1
+'cc l wang d wijesekera',1
+'tkde p ammann p mavuluri',1
+'isci r mukkamala',1
+'drm y li v swarup',1
+'jc y li n wu x wang',1
+'tod r mukkamala',1
+'dbsec c meadows',1
+'cais y li l wang x wang',1
+'polici l zhang a brodsky',1
+'esor l wang d wijesekera',1
+'sp p ammann i ray',1
+'sac d barbara y li j lin j couto',1
+'tod p ammann i ray',1
+'sp l wang d wijesekera',1
+'dpd c bettini x wang',1
+'dagstuhl c bettini x wang',1
+'ijait x wang s mohavni',1
+'csur nan',1
+'dsn p liu p ning',1
+'ih n johnson',1
+'toi e bertino p samarati',1
+'pod o wolfson',1
+'sec a fayad d faatz v doshi',1
+'dbsec v atluri e bertino',1
+'cc nan',1
+'cais i ray p ammann',1
+'tse d mutchler',1
+'dbsec p liu c mccollum',1
+'time c bettini x wang',1
+'dbsec r mukkamala i ray',1
+'sigmod c jensen j clifford r elmasri s gadia p hayes',1
+'isci y li s zhu x wang',1
+'tkde a brodsky c farkas',1
+'dbsec p ammann',1
+'cc b zhu s setia',1
+'pomc r pietro l mancini',1
+'sac m calagna h guo l mancini',1
+'wpe n zannone f massacci d wijesekera',1
+'amai p ning x wang',1
+'tissec a ceselli e damiani s vimercati s paraboschi p samarati',1
+'adhoc s zhu s xu s setia',1
+'sigmod d mutchler',1
+'acsac s noel e robertson',1
+'tkde p samarati e bertino',1
+'csfw l mancini s setia',1
+'sec r pietro l mancini',1
+'sp p samarati v subrahmanian',1
+'jc s zhu s setia s xu',1
+'comcom p ning x wang',1
+'polici c bettini x wang d wijesekera',1
+'dbsec r sandhu',1
+'jod c bettini x wang',1
+'csfw p liu',1
+'cc p ammann',1
+'cc d wijesekera',1
+'sensi s zhu s setia',1
+'dbsec s gadia g bhargava e sibley',1
+'acsac a fayad c mccollum',1
+'icdcsw s zhu s xu s setia',1
+'cc d wijesekera',1
+'sdmw e damiani s vimercati s foresti s paraboschi p samarati',1
+'sp b kogan',1
+'sigkdd c farkas',1
+'cikm k smith v swarup d faatz t cornett j hoyt',1
+'cc p samarati p ammann',1
+'tkde d mutchler',1
+'time s mascetti c bettini x wang',1
+'jc l wang d wijesekera',1
+'sigmod r sandhu',1
+'sdmw c yao l wang x wang',1
+'sacmat d keppler v swarup',1
+'sp r sandhu',1
+'sigmod p samarati v subrahmanian e bertino',1
+'isci i ray p ammann',1
+'tkde e bertino l mancini i ray',1
+'mi n johnson z duric',1
+'dss p liu p ning',1
+'sec k smith d faatz a fayad',1
+'dsn h sengar d wijesekera h wang',1
+'sasn s roy s setia',1
+'sigmod d barbara j couto n wu',1
+'cais g wiederhold w litwin',1
+'sp x wang s chen',1
+'sp p ammann c mccollum b blaustein',1
+'sp r sandhu',1
+'dbsec d wijesekera',1
+'jodl c bettini x wang d wijesekera',1
+'dbsec r mukkamala',1
+'esor s chen d wijesekera',1
+'jc i ray p ammann',1
+'ipl o wolfson',1
+'csfw r sandhu',1
+'csfw o hagstrom f parisi presicce d wijesekera',1
+'pet y li l wang',1
+'dbsec r sandhu r thomas',1
+'sdmw c bettini x wang',1
+'dbsec l wang d wijesekera',1
+'mobiquit d liu p ning s zhu',1
+'dni s vimercati p samarati',1
+'tc c zhang k lam',1
+'dke s chapin d faatz a fayad',1
+'tkde v atluri e bertino',1
+'waim nan',1
+'dpd l mancini i ray e bertino',1
+'drm y li h guo',1
+'pe s setia s zhu',1
+'acsac s noel',1
+'cc x wang s chen',1
+'vizsec s noel',1
+'dood e bertino',1
+'tc11 p ammann',1
+'tissec d wijesekera',1
+'edbt d barbara r goel',1
+'dbsec l mancini i ray',1
+'cc e damiani s vimercati s paraboschi p samarati',1
+'wmrd o wolfson',1
+'tod p samarati m sapino v subrahmanian',1
+'acsac p liu c mccollum',1
+'tpd a mei l mancini',1
+'comcom l wang a liu',1
+'sp e ferrari p samarati e bertino',1
+'tod o wolfson y huang',1
+'dbsec v atluri t keefe c mccollum r mukkamala',1
+'sp b kogan',1
+'sec v doshi',1
+'tod x wang c bettini a brodsky',1
+'tpd p ammann p frankl',1
+'icd k candan v subrahmanian',1
+'icdc p liu p ammann',1
+'csfw r sandhu t lunt',1
+'icdcit d wijesekera',1
+'nan e bertino p samarati',1
+'mmmacn v swarup j pamula',1
+'dke p samarati p ammann',1
+'isci h guo y li',1
+'pod c bettini x wang',1
+'jc p liu c mccollum',1
+'dbsec n zannone d wijesekera',1
+'cc s vimercati s paraboschi p samarati',1
+'esor a motro d marks',1
+'dpd p liu p ammann',1
+'tkde e bertino p samarati',1
+'dbsec l wang a singhal',1
+'sisw e damiani s vimercati m finetti s paraboschi p samarati',1
+'jnsm c bettini x wang d wijesekera',1
+'amai c bettini x wang',1
+'acsac s noel b o berry m jacobs',1
+'acsac v doshi a fayad r maclean',1
+'dbsec j yang d wijesekera',1
+'dbsec v atluri e bertino',1
+'tod d mutchler',1
+'sp s setia s koussih e harder',1
+'sigmod d barbara a brodsky l kerschberg a motro e sibley x wang',1
+'dbsec v atluri e bertino',1
+'cc s zhu s setia',1
+'tkde p samarati e bertino a ciampichetti',1
+'tkde c bettini x wang j lin',1
+'iwdc s zhu',1
+'dbsec y li v swarup',1
+'cacm c mccollum p ammann',1
+'vldb p ammann i ray',1
+'tsdm y li x wang',1
+'dbsec d barbara r goel',1
+'sp e bertino p samarati',1
+'tissec p ning x wang',1
+'dbsec c mccollum b blaustein',1
+'tdsc y li v swarup',1
+'tod d wijesekera f parisi presicce o hagstrom',1
+'tse f springsteel',2
+'icd nan',2
+'bit h burgdorff f springsteel y zalcstein',2
+'jss p ng',2
+'tse s tripathi y huang',2
+'tse p ng f springsteel',2
+'tse j liu p ng',2
+'er p ng f springsteel',2
+'fsttc nan',2
+'vldb d mutchler',2
+'tse nan',2
+'icd c meadows',2
+'tse p ng',2

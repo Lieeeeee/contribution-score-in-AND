@@ -1,0 +1,38 @@
+@relation 'Dataset bdbcomp publish-venue_co-authors jsouza'
+@attribute Text string
+@attribute class-att {128, 129, 130, 131, 132, 133, 134, 135, 136, 125, 126, 127}
+@data
+'rede computador w albano w araujo f cavalcanti r andrade',125
+'rede computador j silva m campos p cunha',125
+'rede computador a diniz m oliveira j nogueira',125
+'rede computador c rocha a braga',125
+'rede computador d gomes n agolmine n fonseca',125
+'rede computador j monteiro',125
+'rede computador a oliveira m stanton',125
+'informatica educacao nan',126
+'banco dado s amo f silva m fernandes',127
+'banco dado i silva r moura b ribeiro neto',128
+'banco dado i silva k santos',128
+'banco dado m moreira i silva',128
+'banco dado g zimbrao r monteiro l azevedo',129
+'banco dado g zimbrao r miranda m estolano f neto',129
+'geoinformatica l azevedo r monteiro g zimbrao',129
+'banco dado g zimbrao v almeida',129
+'geoinformatica l azevedo g zimbrao',129
+'engenharia softwar g silva v almeida a sulaiman f neto',129
+'engenharia softwar g zimbrao r miranda f neto',129
+'geoinformatica m ramirez',129
+'geoinformatica w meyer m ramirez',129
+'geoinformatica w meyer m ramirez',129
+'banco dado r rocha l cardoso',129
+'computacao grafica processamento imagen m campos',130
+'rede neurai m barbosa t ludermir m santos f santos c melo',131
+'seguranca sistema computacionai g silva',132
+'xxxi seminario integrado softwar hardwar a reboucas a furtado e argollo e luque d rexachs',133
+'internacion melhoria processo softwar r cuattrin',134
+'rede neurai e meza m filho m schilling j carvalho',135
+'escola region banco dado e battistella n lemke j mombach',136
+'rede computador a patel b bhushan',125
+'test tolerancia falha r correia a lages l pirmez l granville e duarte jr r andrade',125
+'computacao grid aplicaco f martins m maia r andrade a santos',125
+'gerencia operacao rede servico r holanda a santos',125

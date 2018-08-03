@@ -1,0 +1,37 @@
+@relation 'Dataset bdbcomp publish-venue_title_co-authors lsilva'
+@attribute Text string
+@attribute class-att {138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155}
+@data
+'rede computador utilizacao tecnica estel gerar sequencia test protocolo comunicacao v mazzola',138
+'engenharia softwar meta modelo especificacao arquitetura softwar camada v paula',139
+'engenharia softwar enriquecendo codigo cenario m sayao j leite k breitman',139
+'engenharia softwar integracao caracteristica transversai durant modelagem requisito j leite',139
+'engenharia requisito geracao ontologia subsidiada engenharia requisito c felicissimo k breitman j leite',139
+'engenharia requisito linguagem modelagem requisito orientada aspecto j leite',139
+'engenharia softwar requisito arquitetura softwar orientada aspecto integracao sinergica a medeiros t batista l minora',139
+'latin american aspect orient softwar develop marisa ferramenta mapeamento bidirecion modelo orientado aspecto requisito arquitetura softwar a medeiros t batista l minora',139
+'computacao grafica processamento imagen effici fill algorithm non simpl close curv us point contain paradigm a fabris a forrest',140
+'computacao grafica processamento imagen stroke discret polynomi bezier curv via point contain paradigm a fabris a forrest',140
+'computacao grafica processamento imagen estudo detecao borda imagen profundidad d weingaertner o bellon',141
+'computacao grafica processamento imagen robust multiview rang imag registr o bellon k boyer',141
+'algoritmo mineracao dado ferramenta mineracao imagen suport calculo idad gestacion recem nascido o bellon m cat e vieira a araujo',141
+'revista informatica teorica aplicada mineracao imagen e vieira o bellon',141
+'seminario integrado softwar hardwar gerenciamento integrado moden via snmp estudo caso a cervieiri a nacul j neto l granville l ulbrich',142
+'linguagen programacao isamadapt ambient desenvolvimento aplicaco novo paradigma definido computacao pervasiva i augustin j lima a yamin r real c geyer',143
+'xxxii seminario integrado softwar hardwar disseminando informaco arquitetura isam m moraes a filho i augustin a yamin c geyer',143
+'rede neurai us neural network uncertainti inform core point fingerprint classif e costa e jr',144
+'encontro nacion inteligencia artifici expert coop++ ambient desenvolvimento sistema multiagent a costa g bittencourt e goncalves',145
+'encontro nacion inteligencia artifici aprendizagem participativa agrupamento nebuloso dado f gomide',146
+'xxx seminario integrado softwar hardwar verificacao formal etapa particionamento co design usando sistema reescrita bobj m menezes a silva',147
+'xxxi seminario integrado softwar hardwar monitoramento pe diabetico suport computacion m carvalho k rezende n melo y lobao d mallerbi',147
+'qualidad softwar inspeco requisito softwar utilizando pbr apoio ferrament w chapetta g travassos',148
+'banco dado modelagem biblioteca digitai usando abordagem 5s estudo caso d pozo a laender m goncalves',149
+'informatica publica servico auto arquivamento publicaco cientifica compativel padrao oai nan',149
+'symposium integr circuit system design solv satisfi combin circuit bactrack search recurs learn j marques silva',150
+'realidad virtual multius system kennet world s venturelli f anastacio j lira a rezende',151
+'engenharia requisito elicit requir identifi workflow categori f pinheiro',152
+'informatica publica mapeando estrutura organizacionai categoria workflow f pinheiro',152
+'geoinformatica cartograph data treatment analysi real time three dimension terrain visual f mello',153
+'informatica publica computador producao servico publico resultado investigacao prefeitura belo horizont e albuquerque l barros l guerra',154
+'latin american aspect orient softwar develop controlando evolucao sistema orientado aspecto meio aspect awar interfac m valente',155
+'latin american aspect orient softwar develop estudo emprego quantificacao sistema orientado aspecto resultado preliminar m malta t melo m valente',155

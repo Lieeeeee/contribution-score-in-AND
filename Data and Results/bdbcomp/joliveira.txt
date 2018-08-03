@@ -1,0 +1,48 @@
+143;83;jorge r souza de oliveira;l lung,j fraga,j farines;experiencia comunicacao grupo especificaco fault toler corba;rede computador;0
+144;84;j oliveira;m kapp,c freitas,j carvalho,r sabourin;handwritten recognit multipl classifi restrict lexicon;computacao grafica processamento imagen;0
+145;85;jose palazzo moreira de oliveira;m souto,r viccari;construindo ambient educacion web;informatica educacao;0
+146;85;jose palazzo moreira de oliveira;m souto,r viccari,e diehl,m madeira,r verdin,r wainer,s imoneengler;modelo ensino adaptativo internet baseado estilo cognitivo aprendizagem;informatica educacao;0
+147;85;jose palazzo moreira de oliveira;m souto,f bica,m warpechowski,r vicari,r zanella,a sonntag;ferramenta suport monitoracao aluno ambient inteligent ensino web;informatica educacao;0
+148;85;jose palazzo moreira de oliveira;f bica,m souto,r vicari,r zanella,g vier,k souza,a sonntag,r verdin,m madeira,s charczuk,m barbosa;metodologia construcao materi instrucion ambient ensino inteligent web;informatica educacao;0
+149;85;jose palazzo moreira de oliveira;m souto,m madeira,r wainer,r verdin,r viccari;estudo empirico comportamento navegacao estilo cognitivo aprendizagem ambient treinamento web;informatica educacao;0
+150;85;jose palazzo moreira de oliveira;v freitas,m camargo brunetto,m proenca jr,c ribeiro,m warpechowski;tecnica adaptacao materi instrucion ambient adaptweb;informatica educacao;0
+151;85;jose palazzo moreira de oliveira;m warpechowski;obtencao metadado objeto aprendizagem adaptweb r;escola region banco dado;0
+152;85;jose palazzo m de oliveira;n edelweiss,c ribeiro;sidi sistema distribuido intercambio dado saud;informatica publica;0
+153;85;jose palazzo moreira de oliveira;d musa,f bica,r vicari;agent auxilio avaliacao aprendizagem ambient ensino web;informatica educacao;0
+154;85;jose palazzo moreira de oliveira;d musa;uso web servic compartilhamento dado contido modelo aluno;informatica educacao;0
+155;85;jose palazzo moreira de oliveira;m weschenfelder,d musa;comportamento ativo web servic;escola region banco dado;0
+156;85;jose palazzo moreira de oliveira;d musa;integr distribut learner inform web servic;ifip academi state softwar theori practic phd colloquium;0
+157;85;jose palazzo moreira de oliveira;r galante,d musa,n edelweiss;proposta editoracao indexacao busca documento cientifico processo avaliacao aberta;biblioteca digitai;0
+158;86;jose oliveira;m oliveira;treinamento rede neurai utilizando variant filtro kalman ekf ukf predicao seri heterocedastica;rede neurai;0
+159;87;jose palazzo moreira de oliveira;d contessa,d lazzarotto;provedor dado biblioteca digitai compativel padrao oai;biblioteca digitai;0
+160;87;jose palazzo m de oliveira;l lamb;revista informatica teorica aplicada;revista informatica teorica aplicada;0
+161;87;jose palazzo m de oliveira;l lamb;revista informatica teorica aplicada;revista informatica teorica aplicada;0
+162;87;jose palazzo m de oliveira;l lamb;revista informatica teorica aplicada;revista informatica teorica aplicada;0
+163;87;jose palazzo m de oliveira;l lamb;revista informatica teorica aplicada;revista informatica teorica aplicada;0
+164;87;jose palazzo m de oliveira;l lamb;revista informatica teorica aplicada;revista informatica teorica aplicada;0
+165;87;jose palazzo m de oliveira;l lamb;revista informatica teorica aplicada;revista informatica teorica aplicada;0
+166;87;jose palazzo m de oliveira;l lamb;revista informatica teorica aplicada;revista informatica teorica aplicada;0
+167;87;jose palazzo m de oliveira;l lamb;revista informatica teorica aplicada;revista informatica teorica aplicada;0
+168;87;jose palazzo m de oliveira;l lamb;revista informatica teorica aplicada;revista informatica teorica aplicada;0
+169;87;jose palazzo m de oliveira;l lamb;revista informatica teorica aplicada 10;revista informatica teorica aplicada 10;0
+170;87;jose palazzo moreira de oliveira;s rigo,m schwertner;mineracao uso sistema informacao;escola region banco dado;0
+171;88;jose m parente de oliveira;c fernandes;arquitetura adaptacao sistema hipermidia adaptativo;informatica educacao;0
+172;89;joaquim pedro carvalho de oliveira;r campelo;implantacao processo gerencia configuracao softwar baseado kpa softwar configur manag cmm nivel;internacion melhoria processo softwar;0
+173;90;joao batista s de oliveira;l figueiredo;robust approxim offset bisector plane curv;computacao grafica processamento imagen;0
+174;90;joao batista oliveira;h lopes,l figueiredo;robust adapt approxim implicit curv;computacao grafica processamento imagen;0
+175;91;juliano lopes de oliveira;a silva,b hall;plan brazilian urban traffic geograph applic softwar;geoinformatica;0
+176;91;juliano lopes oliveira;c medeiros;tecnica modelo ferramenta suport construcao interfac sistema aplicaco geografica;engenharia softwar;0
+177;92;jose carlos martins oliveira;m souto,t ludermir;implement probabilist automata weightless neural network;rede neurai;0
+178;93;julio cesar oliveira;;neural control non linear process gain schedul;rede neurai;0
+179;94;jose palazzo moreira de oliveira;;ifip academi state softwar theori practic phd colloquium;ifip academi state softwar theori practic phd colloquium;0
+180;95;jean w a oliveira;a laender,m goncalves;remocao ambiguidad identificacao autoria objeto bibliografico;banco dado;0
+181;96;joao batista s de oliveira;;backward mode slope evalu remark backward method interv variabl;revista informatica teorica aplicada;0
+182;97;joao ricardo de f oliveira;j santos,l dutra;uso algoritmo genetico selecao atributo classificacao regio;geoinformatica;0
+183;98;jeisa oliveira;i cananea,d mariz,d sadok,g fodor;analysi access select algorithm multi access network elast traffic;rede computador;0
+184;99;jose auricio oliveira;p pinheiro;ambient www construcao tabela horario professor aplicado escola ensino medio estadu;informatica publica;0
+185;100;j a oliveira;p carvalho,d oliveira,a guaracy,a gomes,f conceicao,j freire;estudo teorico experiment algoritmo classico busca texto;journal comput scienc;0
+186;101;jose pallazzo m de oliveira;c gomide;automacao processo meio workflow caso procempa;informatica publica;0
+187;102;jairo coutinho de oliveira;k sias,d filho,d sadok;arquitetura analis carga sinalizacao rede comunicacao movel celular;rede computador;0
+188;103;joao paulo f de oliveira;t brito,s jr,g elias;servico repositorio compartilhado distribuido suport desenvolvimento baseado component;engenharia softwar;0
+189;103;joao p f de oliveira;t brito,a oliveira,s jr,g elias;extensao framework componentforg desenvolvimento distribuido softwar;desenvolvimento distribuido softwar;0
+190;104;j p oliveira;n oki;programm analog gaussian function synthes;symposium microelectron technolog devic;0

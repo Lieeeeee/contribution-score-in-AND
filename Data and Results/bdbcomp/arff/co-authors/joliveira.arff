@@ -1,0 +1,52 @@
+@relation 'Dataset bdbcomp co-authors joliveira'
+@attribute Text string
+@attribute class-att {83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104}
+@data
+'l lung j fraga j farines',83
+'m kapp c freitas j carvalho r sabourin',84
+'m souto r viccari',85
+'m souto r viccari e diehl m madeira r verdin r wainer s imoneengler',85
+'m souto f bica m warpechowski r vicari r zanella a sonntag',85
+'f bica m souto r vicari r zanella g vier k souza a sonntag r verdin m madeira s charczuk m barbosa',85
+'m souto m madeira r wainer r verdin r viccari',85
+'v freitas m camargo brunetto m proenca jr c ribeiro m warpechowski',85
+'m warpechowski',85
+'n edelweiss c ribeiro',85
+'d musa f bica r vicari',85
+'d musa',85
+'m weschenfelder d musa',85
+'d musa',85
+'r galante d musa n edelweiss',85
+'m oliveira',86
+'d contessa d lazzarotto',87
+'l lamb',87
+'l lamb',87
+'l lamb',87
+'l lamb',87
+'l lamb',87
+'l lamb',87
+'l lamb',87
+'l lamb',87
+'l lamb',87
+'l lamb',87
+'s rigo m schwertner',87
+'c fernandes',88
+'r campelo',89
+'l figueiredo',90
+'h lopes l figueiredo',90
+'a silva b hall',91
+'c medeiros',91
+'m souto t ludermir',92
+'nan',93
+'nan',94
+'a laender m goncalves',95
+'nan',96
+'j santos l dutra',97
+'i cananea d mariz d sadok g fodor',98
+'p pinheiro',99
+'p carvalho d oliveira a guaracy a gomes f conceicao j freire',100
+'c gomide',101
+'k sias d filho d sadok',102
+'t brito s jr g elias',103
+'t brito a oliveira s jr g elias',103
+'n oki',104

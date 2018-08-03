@@ -1,0 +1,52 @@
+@relation 'Dataset bdbcomp publish-venue_title joliveira'
+@attribute Text string
+@attribute class-att {83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104}
+@data
+'rede computador experiencia comunicacao grupo especificaco fault toler corba',83
+'computacao grafica processamento imagen handwritten recognit multipl classifi restrict lexicon',84
+'informatica educacao construindo ambient educacion web',85
+'informatica educacao modelo ensino adaptativo internet baseado estilo cognitivo aprendizagem',85
+'informatica educacao ferramenta suport monitoracao aluno ambient inteligent ensino web',85
+'informatica educacao metodologia construcao materi instrucion ambient ensino inteligent web',85
+'informatica educacao estudo empirico comportamento navegacao estilo cognitivo aprendizagem ambient treinamento web',85
+'informatica educacao tecnica adaptacao materi instrucion ambient adaptweb',85
+'escola region banco dado obtencao metadado objeto aprendizagem adaptweb r',85
+'informatica publica sidi sistema distribuido intercambio dado saud',85
+'informatica educacao agent auxilio avaliacao aprendizagem ambient ensino web',85
+'informatica educacao uso web servic compartilhamento dado contido modelo aluno',85
+'escola region banco dado comportamento ativo web servic',85
+'ifip academi state softwar theori practic phd colloquium integr distribut learner inform web servic',85
+'biblioteca digitai proposta editoracao indexacao busca documento cientifico processo avaliacao aberta',85
+'rede neurai treinamento rede neurai utilizando variant filtro kalman ekf ukf predicao seri heterocedastica',86
+'biblioteca digitai provedor dado biblioteca digitai compativel padrao oai',87
+'revista informatica teorica aplicada revista informatica teorica aplicada',87
+'revista informatica teorica aplicada revista informatica teorica aplicada',87
+'revista informatica teorica aplicada revista informatica teorica aplicada',87
+'revista informatica teorica aplicada revista informatica teorica aplicada',87
+'revista informatica teorica aplicada revista informatica teorica aplicada',87
+'revista informatica teorica aplicada revista informatica teorica aplicada',87
+'revista informatica teorica aplicada revista informatica teorica aplicada',87
+'revista informatica teorica aplicada revista informatica teorica aplicada',87
+'revista informatica teorica aplicada revista informatica teorica aplicada',87
+'revista informatica teorica aplicada 10 revista informatica teorica aplicada 10',87
+'escola region banco dado mineracao uso sistema informacao',87
+'informatica educacao arquitetura adaptacao sistema hipermidia adaptativo',88
+'internacion melhoria processo softwar implantacao processo gerencia configuracao softwar baseado kpa softwar configur manag cmm nivel',89
+'computacao grafica processamento imagen robust approxim offset bisector plane curv',90
+'computacao grafica processamento imagen robust adapt approxim implicit curv',90
+'geoinformatica plan brazilian urban traffic geograph applic softwar',91
+'engenharia softwar tecnica modelo ferramenta suport construcao interfac sistema aplicaco geografica',91
+'rede neurai implement probabilist automata weightless neural network',92
+'rede neurai neural control non linear process gain schedul',93
+'ifip academi state softwar theori practic phd colloquium ifip academi state softwar theori practic phd colloquium',94
+'banco dado remocao ambiguidad identificacao autoria objeto bibliografico',95
+'revista informatica teorica aplicada backward mode slope evalu remark backward method interv variabl',96
+'geoinformatica uso algoritmo genetico selecao atributo classificacao regio',97
+'rede computador analysi access select algorithm multi access network elast traffic',98
+'informatica publica ambient www construcao tabela horario professor aplicado escola ensino medio estadu',99
+'journal comput scienc estudo teorico experiment algoritmo classico busca texto',100
+'informatica publica automacao processo meio workflow caso procempa',101
+'rede computador arquitetura analis carga sinalizacao rede comunicacao movel celular',102
+'engenharia softwar servico repositorio compartilhado distribuido suport desenvolvimento baseado component',103
+'desenvolvimento distribuido softwar extensao framework componentforg desenvolvimento distribuido softwar',103
+'symposium microelectron technolog devic programm analog gaussian function synthes',104

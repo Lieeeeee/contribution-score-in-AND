@@ -1,0 +1,416 @@
+@relation 'Dataset dblp publish-venue_title mmiller'
+@attribute Text string
+@attribute class-att {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12}
+@data
+'sigucc special interest group univers comput servic bring electron mail mass phase eudora',10
+'sigucc special interest group univers comput servic world wide web develop notr dame s easier ask forgiv permiss',10
+'sigucc special interest group univers comput servic manag mac made painless leverag right tool job',10
+'ieee visual terascal visual approach pitfal issu panel',11
+'scientif visual multiresolut adapt render techniqu structur curvilinear data',11
+'comput network educ metadata us',12
+'comput network cool link ride wave',12
+'bulletin ica integr sum number cocktail parti graph symmetr complet bipartit graph',1
+'discussion mathematica graph theori survei certain valuat graph',1
+'proceed cocoon comput combinator sydnei lectur note comput scienc d z du p ead estivil castro lin ed monoton minimum diamet respect order maximum degre',1
+'journal graph theori complet characteris almost moor digraph degre three',1
+'australasian journal combinator antimag valuat gener petersen graph',1
+'proceed ninth intern confer scientif statist databas manag usabl compromis free statist databas',1
+'j graph theori digraph degre close moor bound',1
+'jcmcc two conjectur concern d antimag label antipr',1
+'proceed awoca hunter vallei usabl k commpromis free statist databas',1
+'ar combinatoria result almost moor digraph',1
+'itb bandung jurnal mihmi open problem graph theori label extrem graph plenari address combinator prosid komperensi nasion matematika',1
+'proceed awoca perth spectrum prematur partial latin squar',1
+'discret mathemat sum number wheel',1
+'proceed fourteenth australasian combinatori algorithm seoul korea open problem exclus sum graph label',1
+'hic confer adelaid utilis secret share access medic databas',1
+'proceed awoca open problem mod sum graph',1
+'bulletin ica applic symmetr chain optim problem secur statist databas',1
+'seventh australasian databas confer proceed australian comput scienc commun toward practic audit method prevent statist databas compromis',1
+'proceed awoca hunter vallei us graph label store linkag relat databas',1
+'intern confer softwar engin research practic serp la vega comparison industri site project univers site project final year student',1
+'australasian journal combinator edg magic total label',1
+'softwar engin research practic comparison industri site project univers site project final year student',1
+'ssdbm statist scientif databas manag usabl compromis free statist databas',1
+'discret mathemat characteris strongli chordal graph',1
+'utilita math vertex magic total label graph',1
+'kolloquium uber kombinatorik braunschweig komplexitat von eisenbahnrangierproblemen',1
+'utilita math vertex magic total label wheel relat graph',1
+'proceed awoca hunter vallei algorithm combinatori problem relat train marshal',1
+'j combinatori theori note larg graph diamet two given maximum degre',1
+'proceed fourteenth australasian combinatori algorithm seoul korea nan',1
+'proceed awoca frazer island construct techniqu diregular non diregular larg direct network',1
+'discret mathemat digraph degre two miss moor bound two',1
+'australasian j combin distanc magic label graph',1
+'jcmcc label wheel minimum sum number',1
+'discret mathemat almost moor digraph diregular',1
+'nan model statist databas compromis incorpor supplementari knowledg databas s',1
+'proceed awoca darwin gener cliqu cover circular arc graph',1
+'jcmcc larg digraph small diamet voltag assign approach',1
+'graph combinator ramsei number tree versu wheel five six vertic',1
+'proceed awoca perth problem magic total label',1
+'proceed th australian comput scienc confer construct network minimum diamet',1
+'bulletin ica prevent rel compromis us audit expert',1
+'graph combinator structur digraph order close moor bound',1
+'re print imia yearbook medic informat secur consider present futur medic databas',1
+'acta mathematica universitati comeniana lxvi note almost moor digraph degre three',1
+'intern journal bio medic comput secur consider present futur medic databas',1
+'proceed th awoca ubud open problem construct digraph minim diamet',1
+'hiansw third annual confer hunter vallei secur issu medic databas',1
+'bulletin ica procedur construct minimum diamet digraph',1
+'tatra mountain mathemat public open problem optim digraph',1
+'inform process letter maximum h color subgraph problem balanc graph',1
+'australasian journal combinator regular digraph diamet maximum order',1
+'proceed fourteenth australasian combinatori algorithm seoul korea sum number disjoint union graph',1
+'ar combinatoria parallel algorithm generalis cliqu transvers problem',1
+'proceed softvi sydnei extend graph model softwar visual',1
+'bulletin ica sum number cocktail parti graph',1
+'discret appli mathemat train marshal problem',1
+'proceed awoca frazer island iter eccentr digraph',1
+'discret appli mathemat transvers partit balanc hypergraph',1
+'intern journal bio medic comput australian healthcar smart card clever countri',1
+'proceed twent graph combinatori optim ensched transvers partit balanc hypergraph',1
+'ar comb mod sum number wheel',1
+'proceed fifth confer comput geometri domin draw bipartit graph',1
+'nordic journal comput two domin set minimum intersect chordal graph',1
+'proceed th new zealand annual comput scienc confer data integr relat databas',1
+'world scientif null valu relat dbm databas s b srinivasan j zeleznikow ed',1
+'lectur note comput scienc ed kratochvil algorithm draw compound graph',1
+'proceed awoca bandung indonesia eccentr digraph digraph',1
+'discret mathemat eccentr digraph',1
+'discret mathemat bound number isol sum graph label',1
+'inaugur confer asia pacif associ medic informat data infer medic databas',1
+'cccg canadian confer comput geometri domin draw bipartit graph',1
+'inaugur confer asia pacif associ medic informat secur measur medic databas',1
+'ar comb prematur partial latin squar',1
+'inaugur confer asia pacif associ medic informat australian healthcar smart card clever countri',1
+'australian comput journal rel compromis statist databas',1
+'discret appli mathemat combinatori problem databas secur',1
+'proceed awoca frazer island largest planar digraph diamet two',1
+'hic confer adelaid confidenti patient record data infer problem',1
+'jurnal mihmi survei d antimag graph label prosid komperensi nasion matematika itb bandung juli',1
+'proceed dbi sydnei null relat dbm',1
+'electron journal combinator r flatten antichain respect',1
+'proceed awoca hunter vallei two new d antimag label',1
+'proceed far east confer futur databas kyoto multivalu approach relat dbm',1
+'congr numer graph matric usabl statist databas',1
+'australasian databas confer toward practic audit method prevent statist databas compromis',1
+'proceed intern confer young comput scientist beij enhanc domain integr relat databas',1
+'discret mathemat edg antimag graph',1
+'bulletin ica edg magic total label wheel fan friendship graph',1
+'third intern confer young comput scientist beij intellig databas model',1
+'proceed awoca hunter vallei d antimag label plane graph',1
+'itb bandung jurnal mihmi diregular digraph close moor bound prosid komperensi nasion matematika',1
+'proceed baltic intern confer databas method riga propos toward data integr subsystem relat databas',1
+'jcmcc valuat certain class convex polytop',1
+'graph draw algorithm draw compound graph',1
+'jcmcc valuat plane quartic graph',1
+'comput j minimum diamet diregular digraph degre',1
+'int j comput mathemat issu vertex magic total label gener petersen graph',1
+'discret appli mathemat combinatori problem data secur',1
+'discussion mathematica graph theori vertex antimag total label graph',1
+'th australasian combinatori algorithm special issu int j comput mathemat issu nan',1
+'proceed awoca hunter vallei everi gener petersen graph vertex magic total label',1
+'jcmcc d magic label type prism',1
+'futur databas multivalu approach handl null rdb',1
+'proceed awoca bandung indonesia d antimag label honeycomb',1
+'australasian journal combinator larg graph small diamet voltag assign approach',1
+'proceed sicon newcash anonym payment receipt',1
+'th confer austr math societi armidal request public australian mathemat societi gazett applic combinator secur statist databas',1
+'proceed awoca bandung indonesia diregular digraph degre three order two less moor bound',1
+'siam societi industri appli mathemat j discret math optim problem statist databas',1
+'cocoon comput combinator monoton minimum diamet respect order maximum degre',1
+'siam societi industri appli mathemat journal discret mathemat optimis problem statist databas secur',1
+'bulletin ica two conjectur concern vertex magic total label gener petersen graph',1
+'int j comput mathemat issu rang queri usabl statist databas',1
+'proceed awoca open problem sum integr sum graph label',1
+'electron journal combinator r note construct larg caylei graph given degre diamet voltag assign',1
+'jurnal mihmi sum graph label relat problem',1
+'select topic cryptographi inform secur commun ccisa introduct statist databas secur special issu',1
+'indonesia confer comput geometri graph theori bandung indonesia d edg antimag total label',1
+'proceed awoca bandung indonesia direct graph closur properti languag',1
+'proceed awoca open problem secur statist databas',1
+'proceed awoca frazer island open problem secret share',1
+'nordic journal comput gener domin chordal graph',1
+'ar combinatoria prematur partial latin squar',1
+'discret mathemat connect graph mod sum graph',1
+'australasian journal combinator disjoint unfold domin graph',1
+'australasian journal combinator mod sum graph label hmn kn',1
+'nordic journal comput gener domin chordal graph',1
+'ar combinatoria mod sum number wheel',1
+'proceed awoca bandung indonesia sum graph label upper bound relat problem',1
+'proceed awoca bandung indonesia edg connect cage',1
+'proceed awoca frazer island generalis direct moor graph',1
+'bulletin ica vertex magic total label complet graph',1
+'proceed awoca hunter vallei magic antimag label wheel',1
+'ar combin d antimag label prism',1
+'proceed awoca bandung indonesia d antimag label prism antipr',1
+'utilita math new construct magic antimag graph label',1
+'discret mathemat irregular total label',1
+'lectur note pure appli mathemat maximum order digraph diamet degre pullman graph matric',1
+'journal combinatori mathemat combinatori comput antimag face label convex polytop base biprism',1
+'proceed awoca bandung indonesia distanc magic graph',1
+'ar combinatoria antimag label generalis petersen graph plane',1
+'ijcai intern joint confer artifici intellig integr artifici intellig databas sydnei expert system secur statist databas',1
+'utilita math antimag label hexagon plane map',1
+'poor schwartz editor proceed th confer inform scienc system univers global shape model anatom structur',2
+'ieee transact medic imag volumetr transform brain anatomi',2
+'ieee comput individu neuroanatom atlas us massiv parallel comput',2
+'ieee comput individu neuroanatom atlas us massiv parallel comput',2
+'unit state patent us patent offic method apparatu imag registr',2
+'proc th intl conf visual biomed comput individu anatom atlas head',2
+'j magn reson seri b mathemat signal model phase frequenc encod magnet reson imag data',2
+'nan automat analysi medic imag us deform textbook',2
+'proceed nation academi scienc mathemat textbook deform neuroanatomi',2
+'y bizai c braillot r di paola editor inform process medic imag th intern confer kluwer academ publish topolog properti smooth anatom map',2
+'ieee tran nucl sci evalu us siev produc estim radioact distribut algorithm positron emiss tomographi',2
+'proc spie intern societi optic engin algorithm synthet apertur radar zelnio ed accommod geometr thermodynam variabl forward look infrar sensor',2
+'proc spie intern societi optic engin advanc architectur algorithm altern maxim entropi likelihood function imag reconstruct spectrum estim',2
+'spie intern societi optic engin quadrat analysi inform measur object recognit',2
+'proc spie intern societi optic engin advanc algorithm architectur signal process algorithm direct arriv estim narrowband signal nois',2
+'proc intl conf multisourc multisensor inform fusion inform gain object recognit via sensor fusion',2
+'biotechniqu new method analysi electron microscop autoradiograph',2
+'j acoust soc new stochast model auditori nerv discharg',2
+'annual review biomed engin metric euler lagrang equat comput anatomi',2
+'maximum entropi bayesian method scienc engin kluwer academ publish applic likelihood entropi toeplitz constrain covari estim',2
+'spie intern societi optic engin confer algorithm synthet apertur radar imageri inform measur object recognit',2
+'ieee transact inform theori page inform measur object recognit accommod signatur variabl',2
+'proc third convent weapon atr u s armi missil command repres variat thermodynam state via princip compon analysi',2
+'world congress hippocamp shape variat predict cognit declin nondement elder subject',2
+'hear re represent voic pitch discharg pattern auditori nerv fiber',2
+'american journal psychiatri abnorm thalam shape schizophrenia',2
+'j acoust soc represent stop conson discharg pattern auditori nerv fiber',2
+'schizophrenia research comparison hippocampu schizophrenia control subject us autom method neuromorphometri',2
+'proc nato advanc re auditori frequenc select auditori frequenc select strategi represent broadband stimuli discharg pattern auditori nerv fiber',2
+'th annual meet acnp san juan puerto rico comparison hippocampu schizophrenia control subject us autom method neuromorphometri',2
+'j acoust soc strategi represent tone background nois tempor aspect discharg pattern auditori nerv fiber',2
+'intern journal psychopharmacolog suppl s computer brain map method detail analys neuroanatom shape volum',2
+'ieee tran inform theori larg deviat code markov chain gibb random field',2
+'statist method medic research statist method comput anatomi',2
+'european neuropsychopharmacolog suppl s hippocamp deform detect schizophrenia alzheim s diseas high dimension brain map',2
+'ieee tran inform theori larg deviat asymptot ziv lempel code d gibb field',2
+'j acoust soc statist studi cochlear nerv discharg pattern respons complex speech stimuli',2
+'american journal psychiatri hippocamp deform schizophrenia character high dimension brain map',2
+'human brain map curv match brain surfac us frenet distanc',2
+'onr gtri target track sensor fusion inform theori sensor fusion',2
+'proceed spie intern societi optic engin medic imag landmark match brain surfac via larg deform diffeomorph sphere',2
+'proc ieee intl inform theori sympo ieee inform theori group p applic maximum entropi maximum likelihood spectral estim',2
+'proceed spie intern societi optic engin medic imag imag process landmark match sphere via larg deform diffeomorph',2
+'proc ieee role likelihood entropi incomplet data problem applic estim point process intens toeplitz constrain covari',2
+'proceed th annual allerton confer commun control comput univers accommod anatom variabl function imag via deform templat',2
+'ieee transact imag process automat target recognit organ via jump diffus algorithm',2
+'ipmi inform process medic imag gaussian random field sub manifold character brain surfac',2
+'proceed joint statist meet statist test label cortic depth map identifi dementia progress',2
+'proc st annu conf inform sci syst gaussian convolut massiv parallel processor',2
+'neuroimag hippocamp shape predict cognit declin elderli',2
+'world alzheim congress stockholm hippocamp shape predict cognit declin elderli',2
+'societi neurosci abstract hippocamp morphometri dementia alzheim type comput algorithm',2
+'proceed nation academi scienc hippocamp morphometri schizophrenia high dimension brain map',2
+'proc th annu allerton conf commun contr comput iter maximum likelihood estim toeplitz constrain covari',2
+'neurolog earli dat distinguish ag high dimension map hippocampu',2
+'isit detect bound automat target recognit compress domain',2
+'first intern meet alzheim s imag consortium dc earli dat distinguish ag high dimension map hippocampu',2
+'confer record twenti seventh asilomar confer signal system comput likelihood base approach joint target track identif',2
+'quarterli j appli math ed d mumford w freiberg variat problem flow diffeomorph imag match',2
+'ieee transact aerospac electron system page sar atr perform us condition gaussian model',2
+'vision research map visual cortex monkei human us surfac base atlas',2
+'american journal psychiatri high dimension map hippocampu depress',2
+'spie intern societi optic engin proceed radar ladar signal process applic detect multipl airborn target multi sensor data',2
+'j opt soc regular linear method reconstruct d microscop object optic section',2
+'ieee tran inform theori exist posit definit maximum likelihood estim structur covari matric',2
+'journal american statist associ segment magnet reson imag via hierarch mixtur modell',2
+'proceed spie intern societi optic engin s geometr method appli imag san diego comput anim map hyperelast deform templat',2
+'nation partnership advanc comput infrastructur hand meet san diego supercomput center comput anatomi brain',2
+'neuroimag dynam program gener boundari local coordinat submanifold neocortex applic planum temporal',2
+'proc st annu conf inform sci syst singular maximum likelihood estim structur covari matric',2
+'journal mathemat imag vision special issu mathemat imag analysi landmark match via larg deform diffeomorph sphere',2
+'quarterli appli mathemat lvi comput anatomi emerg disciplin',2
+'featur articl statist comput graphic newslett comput anatomi emerg disciplin',2
+'neuroimag valid cortic surfac analysi medial prefront cortex',2
+'proceed cooper work group whole bodi d electron imag human bodi deform anatom data base us global shape model posit paper electron imag human bodi',2
+'digit signal process review journal ed j combin stochast syntact process analog comput method',2
+'ieee tran pattern analysi machin intellig hilbert schmidt lower bound estim matrix lie group atr',2
+'proc allerton conf grammar bay prior hierarchi imag process massiv parallel processor',2
+'journal royal statit societi represent knowledg complex system discuss section',2
+'ieee tran med imag parallel algorithm maximum posterori estim spin densiti spin spin decai magnet reson imag',2
+'ieee transact inform theori page asymptot perform analysi bayesian object recognit',2
+'proc assoc re otolaryngolog th midwint meet p stochast model fast slow compon synapt recoveri post synapt action potenti gener',2
+'spie intern societi optic engin proceed confer medic imag san diego comparison autom manual segment hippocampu mr imag',2
+'proc assoc re otolaryngolog th midwint research meet stochast intens hodgkin huxlei base spike gener model',2
+'comput neurosci academ press stochast intens neural spike discharg base activ channel dynam',2
+'y bizai c braillot r di paola editor inform process medic imag th intern confer kluwer academ publish precis accuraci high dimension transform segment mr imag hippocampu function structur map human cerebr cortex solut surfac',2
+'american physiolog societi stochast threshold character intens activ channel dynam action potenti gener',2
+'ieee transact inform theori page rate distort theoret codebook design automat object recognit',2
+'nip neural inform process system bayesian infer regular grammar markov sourc model',2
+'intl conf function map human brain high dimension transform pet mri atla space',2
+'radiolog hippocamp mr imag morphometri mean gener pattern match',2
+'poster american neuropsychopharmacolog confer san juan puerto rico mri segment us high dimension transform digit atla',2
+'epilepsia suppl page mr imag deform base segment hippocampu patient mesial tempor sclerosi tempor lobe epilepsi',2
+'proc annu conf inform sci syst constrain probabl densiti estim noisi data',2
+'radiolog mesial tempor sclerosi tempor lobe epilepsi mr imag deform base segment hippocampu five patient',2
+'spatial statist imag possolo ed monograph seri institut mathemat statist comput anim case studi statist imag process positron emiss tomographi',2
+'essrl monograph number essrl automat target recognit us sequenc high resolut radar rang profil',2
+'ieee tran med imag nois edg artifact maximum likelihood reconstruct emiss tomographi',2
+'ieee transact pattern analysi machin intellig inform theoret bound target recognit perform base degrad imag data',2
+'ed new springer verlag random point process time space',2
+'ieee transact pattern analysi machin intellig page inform theoret bound target recognit perform base degrad imag data',2
+'topic meet quantum limit imag imag process technic digest opt soc estim quantum limit condit',2
+'proc th annu allerton conf commun contr comput p us grenand s siev quantum limit imag',2
+'proc th armi compress perform bound atr base compress data',2
+'ieee tran inform theori us maximum likelihood estim form imag diffus radar target delai doppler data',2
+'proceed nation academi scienc function structur map human cerebr cortex solut surfac',2
+'ieee tran nucl sci us siev stabil imag produc algorithm emiss tomographi',2
+'handbook video imag process editor alan bovik bayesian autom target recognit',2
+'ieee transact pattern analysi machin intellig hilbert schmidt lower bound estim matrix lie group atr',2
+'vision geometri proceed spie intern societi optic engin s intern symposium optic scienc engin instrument san diego comput anim hierarch brain map via gener dirichlet solut map brain manifold',2
+'ieee transact imag process page landmark match via larg deform diffeomorph',2
+'optic societi america maximum posteriori estim good s rough optic section microsopi',2
+'vision geometri proceed spie intern societi optic engin s intern symposium optic scienc engin instrument san diego comput anim differenti geometri cortic surfac',2
+'journal statist plan infer issu page jump diffus markov process orthogon group object recognit',2
+'intern journal pattern recognit artifici intellig geometri shape brain sub manifold',2
+'ieee ho jump diffus process matrix lie group bayesian infer',2
+'basic issu hear ed h duifhui et academ press new method estim stimulu refractori relat function auditori nerv discharg',2
+'sixth digit signal process lie group parameter dynam base prior atr',2
+'ieee transact pattern analysi machin intellig dynam program gener curv brain surfac',2
+'ieee transact signal process multipl target direct arriv track',2
+'proc fusion multi sensor fusion perform analysi atr',2
+'ieee tran pattern analysi machin intellig dynam program gener geodes sulci brain surfac',2
+'sequenti mont carlo method practic ed arnaud doucet nando freita neil gordon springer verlag mont carlo techniqu autom target recognit',2
+'proc spie intern societi optic engin automat target recognit ed firooz sadjadi multispectr activ passiv sensor fusion ground base target orient estim',2
+'syst contr st centuri birkha ser ergod algorithm special euclidean group atr',2
+'proc spie intern societi optic engin automat target recognit ed firooz sadjadi multispectr sensor fusion ground base target orient estim flir ladar hrr',2
+'proceed mtn publish birkhaus ergod algorithm special euclidean group atr',2
+'ieee tran signal process maximum likelihood estim complex sinusoid toeplitz covari',2
+'proc st annu conf inform sci syst p simul result maximum likehood estim toeplitz constrain covari',2
+'npaci hand meet ucsd supercomput center comput geodes distanc anatomi',2
+'intern journal comput vision comput metric via geodes flow diffeomorph',2
+'ieee symposium biomed imag comput anatomi comput metric anatom shape',2
+'npaci hand meet san diego supercomput center ucsd metric comput anatomi imag analysi',2
+'npaci hand meet san diego supercomput center jolla comput anim enhanc tool manipul anatom imag step toward defer neurosci imag databas',2
+'proc sixth annual ground target model valid confer keweenaw research center tech univ automat target recognit via simul infrar scene',2
+'proc intl conf acoust speech signal process robust adapt transform coder kb s speech transmiss',2
+'proceed spie intern societi optic engin intern societi fo roptic engin issu estim pose locat ground target atr',2
+'ieee transact pattern analysi machin intellig clutter metric atr',2
+'j acoust soc bayesian model select minimum descript d length estim auditori nerv discharg rate',2
+'aerosens automat target recognit spie intern societi optic engin proceed fisher inform transport gener clutter model',2
+'imag model speech model cousin ed s levinson l shepp new springer verlag constrain stochast languag model',2
+'proceed th asilimor confer signal system comput empir gener metric space atr clutter',2
+'darpa speech natur languag paramet estim constrain context free languag model',2
+'aan patient specif deform brain atla account structur variabl individu patient',2
+'neuroimag bayesian construct geometr base cortic thick metric',2
+'ieee transact signal process condit mean estim via jump diffus process multipl target track recognit',2
+'ieee tran med imag d maximum posteriori estim spect massiv parallel comput',2
+'intern journal comput vision page group action homeomorph match gener framework',2
+'proceed nation academi scienc pg label cortic mantl distnac map quantifi differ dementia alzheim type healthi ag',2
+'ieee transact pattern analysi machin intellig bayesian segment via asymptot partit function',2
+'automat target recognit spie intern societi optic engin proc effici estim thermodynam state incorpor bayesian model order select',2
+'j opt engin gener metropoli hast jump diffus automat target recognit infrar scene',2
+'automat object recognit proc spie intern societi optic engin ed firooz j sadjadi jump diffus process autom understand flir scene',2
+'function neuroimag ed l thatcher et new academ press model data structur registr brain atla multidiment imag',2
+'optic engin kullback liebler distanc quantifi clutter model',2
+'neuroimag chang hippocamp shape across time distingui dementia alzheim type healthi ag',2
+'automat object recognit proc spie intern societi optic engin ed firooz sadjadi implement jump diffus algorithm understand flir scene',2
+'proceed first aachen confer neuropsycholog neurosurgeri psychiatri neurolog aachen construct statist templat cross modal map',2
+'neuroimag proceed fourth intern confer function map human brain montreal valid high dimension transform hippocampu',2
+'ieee tran medic imag extens good s rough maximum penal likelihood estim emiss tomographi',2
+'proceed intern symposium optic scienc engin instrument spie intern societi optic engin s rd annual meet san diego larg deform imag match via imageri',2
+'proc spie intern societi optic engin th annu intl sympo aerosp defens sens simul contr represent shape structur infer infrar scene',2
+'annual meet societi neurosci progress hippocamp atrophi distinguish dat healthi ag',2
+'automat object recognit proc spie intern societi optic engin ed firooz sadjadi represent thermodynam variabl autom understand flir scene',2
+'comput neuron neural system ed f eckman stochast model synapt transmiss auditori nerv discharg part',2
+'radar ladar process proc spie intern societi optic engin ed william j mice unif detect track recognit millimet wave infrar sensor',2
+'comput neuron neural system ed f eckman stochast model synapt transmiss auditori nerv discharg part',2
+'neuroimag statist analysi hippocamp asymmetri schizophrenia',2
+'annual meet societi neurosci new orlean statist analysi hippocamp asymmetri schizophrenia',2
+'aan determin ideal pallidotomi target incorpor intraop physiolog record deform patient specif brain atla',2
+'ieee tran med imag maximum posteriori estim spect us regular techniqu massiv parallel comput',2
+'phy med biol massiv parallel comput d singl photon emiss comput tomographi',2
+'spie intern societi optic engin asymptot perform atr infrar imag',2
+'j magn reson seri parallel algorithm maximum likelihood nuclear magnet reson spectroscopi',2
+'j acoust soc algorithm remov recoveri relat distort auditori nerv discharg pattern',2
+'physic med biol d brain map us deform neuroanatomi',2
+'brain warp academ press san diego comput anim larg deform fluid diffeomorph landmark imag match',2
+'proceed american associ artifici intellig symposium applic comput vision medic imag process univers d deform magnet reson textbook base elast',2
+'advanc appli statist ed k mardia england carfax membran mitochondria amoeba dimension shape model',2
+'invit paper princ runolfsson editor proceed confer inform scienc system john univers deform neuroanatomi textbook base viscou fluid mechan',2
+'nan maximum likelihood method toeplitz covari estim radar imag',2
+'vision geometri ed r metter y wu l j latecki spie intern societi optic engin deform anatom templat brachytherapi treatment plan radiotherapi cervic cancer',2
+'ieee acoust speech signal process maximum likelihood narrow band direct find algorithm',2
+'ieee transact imag process deform templat us larg deform kinemat',2
+'ieee tran nucl sci maximum likelihood reconstruct singl photon emiss comput tomographi',2
+'proc st annu conf inform sci syst maximum likelihood estim direct arriv multipl narrowband signal nois',2
+'j magn reson maximum likelihood estim nuclear magnet reson spectroscopi',2
+'j magn reson seri maximum likelihood estim algorithm d nmr spectroscopi',2
+'j electron microscopi techniqu maximum likelihood estim appli electron microscop autoradiographi',2
+'novarti foundat symposium silico simul biolog process univers london heart failur knowledgebas combin experiment data tool integr biolog model',2
+'intern journal comput vision group action homeomorph match gener framework',2
+'target detect heavi clutter clutter occlus perform analysi target detect',2
+'detect classif difficult target redston arsen clutter model perform analysi automat target recognit',2
+'ieee compcon proceed appear ecolog comput north press elsevi bet briberi bankruptci simul economi learn predict',3
+'oopsla confer object orient program system languag applic object concurr logic program languag',3
+'concurr prolog collect paper vulcan logic concurr object',3
+'nan languag design open system',3
+'nan compar ecolog comput perspect',3
+'proceed financi cryptographi springer verlag capabl base financi instrument',3
+'hp tech report hpl john tech report srl capabl myth demolish',3
+'proceed intern confer logic program iclp intern confer logic program concurr prolog collect paper logic secret',3
+'book review john s hidden order reason magazin learn curv',3
+'nan market comput agor open system',3
+'iclp intern confer logic program channel gener stream',3
+'oopsla confer object orient program system languag applic object concurr logic program languag',3
+'research direct object orient program definit group make sourc first class object',3
+'research direct object orient program vulcan logic concurr object',3
+'iclp intern confer logic program logic secret',3
+'nan incent engin comput resourc manag',3
+'research direct object orient program definit group make sourc first class object',3
+'financi cryptographi capabl base financi instrument',3
+'xerox parc tech report interm unifi keyword posit notat',3
+'agor tech report add p introduct agor comput',3
+'market base control sun lab tech report sml autom auction atm network bandwidth',3
+'hp tech report hpl john tech report srl proceed asian asian comput scienc confer edit vijai saraswat springer verlag paradigm regain abstract mechan access control',3
+'agor tech report add p architectur issu agor open system',3
+'agor tech report real time video deliveri market base resourc alloc',3
+'austrian perspect internet economi routledg digit path smart contract third world',3
+'iclp intern confer logic program channel gener stream',3
+'nan joul distribut applic foundat',3
+'prospect nanotechnolog open societi media',3
+'econom philosophi inform technolog intellectu contribut don lavoi edit jack high georg univers institut abstract boundari negoti categori self reorgan market order',3
+'hp tech report prepar auditor extens dynam code verif mechan',3
+'proceed fourth intern confer autonom agent barcelona accept rate knowledg base approach design intellig team train system',4
+'intellig tutor system train team collabor agent',4
+'aama autonom agent multiag system formal semant commun strategi proactiv inform deliveri among team base agent',4
+'advanc simul technolog confer astc dc tactic event resolut us softwar agent crisp rule genet algorithm',4
+'th world multi confer system cybernet informat train teamwork',4
+'proceed fifth intern confer intellig tutor system montreal train team collabor agent',4
+'proceed intern confer artifici intellig la vega accept rate collabor agent c teamwork simul',4
+'ijcai intern joint confer artifici intellig cast collabor agent simul teamwork',4
+'ictai intern confer tool artifici intellig human agent teamwork distribut team train',4
+'seventeenth intern joint confer artifici intellig accept rate cast collabor agent simul teamwork',4
+'agent knowledg base approach design intellig team train system',4
+'icip intern confer imag process inform embed exploit imag detector inform watermark insert',5
+'iwdw intern digit watermark intern inform embed multi bit watermark',5
+'adl advanc digit librari target test pichunt bayesian multimedia retriev system',5
+'cvpr comput vision pattern recognit optim interact strategi bayesian relev feedback',5
+'inform hide comput probabl fals watermark detect',5
+'journal comput aid molecular design flog system select quasi flexibl ligand complementari receptor known three dimension structur',6
+'journal comput aid molecular design flexibas wai enhanc us molecular dock method',6
+'journal chemic inform comput scienc comparison knowledg base distanc geometri approach gener molecular conform',6
+'journal chemic inform comput scienc method visual recurr topolog substructur set activ molecul',6
+'journal chemic inform comput scienc chemic similar us geometr atom pair descriptor',6
+'univers comput scienc technic report cs user guid netsolv',7
+'grid blueprint new comput infrastructur foster c kesselman ed morgan kaufman publish san francisco applic specif toolkit',7
+'journal parallel distribut comput virtual instrument support grid enabl scientif simul',7
+'scientif visual comput steer scirun integr problem solv environ',7
+'hpdc high perform distribut comput symposium simul steer scirun distribut environ',7
+'appli parallel comput simul steer scirun distribut environ',7
+'ppsc siam confer parallel process scientif comput scirun problem solv environ implement within distribut environ',7
+'proceed high perform comput symposium hpc advanc simul technolog confer societi model simul intern grid enabl problem solv environ case studi scirun netsolv',7
+'appli parallel comput th intern appli parallel comput b kagstrom j dongarra elmroth j wasniewski ed springer verlag simul steer scirun distribut environ',7
+'proceed seventh ieee intern symposium high perform distribut comput ieee press extend abstract poster present simul steer scirun distribut environ',7
+'proceed st intern confer system scienc hicss intern confer system scienc ieee press integr problem solv environ scirun comput steer system',7
+'icdm ieee intern confer data mine us artifici anomali detect unknown known network intrus',8
+'journal comput secur toward cost sensit model intrus detect respons',8
+'ecml european confer machin learn multipl model cost sensit approach intrus detect',8
+'fundam inform context shift clash dialogu activ logic perspect',9
+'journal appli non classic logic autom infer activ logic',9
+'journal logic comput plan meet deadlin now',9

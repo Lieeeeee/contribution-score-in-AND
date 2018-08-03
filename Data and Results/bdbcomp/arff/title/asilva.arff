@@ -1,0 +1,68 @@
+@relation 'Dataset bdbcomp title asilva'
+@attribute Text string
+@attribute class-att {21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58}
+@data
+'aspecto deteccao intruso rede sensor fio',54
+'deteccao intruso decentralizada rede sensor fio',54
+'case studi appli process project align methodolog',55
+'evalu method sentenc lexic align brazilian portugues english parallel text',56
+'compon base digit librari servic find miss document',57
+'environ aid synthesi threephas analgu waveform us ahdl',58
+'implementacao novo agent gerencia rede computador',21
+'proposta gerencia mail',21
+'multiscal segment enhanc mammogram',22
+'segment clinic structur imag human pelvic area',23
+'deby ferramenta extracao dado semi estruturado',24
+'interfac grafica consulta font dado xml',24
+'queri semistructur data exampl qsbye interfac',24
+'environ build maintain web view',24
+'web data sourc spatial databas',24
+'retrato web brasileira',24
+'deteccao sitio replicado utilizando conteudo estrutura',24
+'abordagem armazenamento dado semi estruturado banco dado relacionai',24
+'extract search us inform avail web faq',24
+'consultando banco dado disponivei web usando palavra chave',24
+'verificacao automatica qualidad dado extraido web',24
+'relato utilizacao agent tecnologico processo eleitor regiao amazonica',24
+'extracao dado metadado texto semi estruturado usando hmm',24
+'desenvolvimento sistema tutor inteligent baseado agent contexto aula virtual adaptada',25
+'arquitetura desenvolvimento ambient interativo aprendizagem baseado agent component framework',25
+'amam ambient aprendizagem multiparadigmatico',25
+'afm assistent tutor baseado agent ferramenta modelagem orientada objeto',25
+'ambient suport ensino processamento imagen usando linguagem python',26
+'automat method assess telangiectasia degre mathemat morpholog',26
+'classif microstructur morpholog analysi estim hydrat degre cement past concret',26
+'detect line us hierarch region base represent',26
+'modelo mobilidad representacao cenario ambient fechado',27
+'karytu softwar letramento crianca surda otica bilingu',28
+'mechan properti silicon oxid film deposit pecvd teo applic mem structur sensor',29
+'analysi electrospin nanofib function polyacrylonitril pan concentr',29
+'determin signatur skelet matur',30
+'semi automat identif optic disk imag process quantit funduscopi',31
+'wavelet base compar function base line signatur verif',32
+'plan brazilian urban traffic geograph applic softwar',33
+'interpretacao oraco simpl falibra tradutor portugu libra auxiliar aprendizagem crianca surda',34
+'tarca integr system diagnosi treatment cardiac arrhythmia',35
+'analis representatividad matriz u mapa auto organizavel kohonen',36
+'modelo avaliacao especificaco semi formai requisito softwar baseado teoria',36
+'verificacao formal etapa particionamento co design usando sistema reescrita bobj',37
+'tecnica solucao transient modelo fila fluido',38
+'calculo eficient distribuicao tamanho fila baseado modelo fluido',38
+'realist comput simul primari somatosensori cortex replic static properti topograph organ',39
+'hierarch neural model short term load forecast',40
+'an arvor n aria espalhamento naturalment balanceada',41
+'integracao ihc es processo planejamento reengenharia softwar guiado avaliacao usabilidad ppr u',42
+'ferramenta apoio construcao sistema ajuda onlin',43
+'geracao sistema transformacao programa',44
+'hwsproxygen gerador proxi web servic linguagem haskel',44
+'softwar control temperatura estufa',45
+'perform analysi data servic third gener mobil telecommun network',46
+'perform analysi data servic mobil telecommun network',46
+'desenvolvimento dispositivo gerenciador protocolo aplicaco ieee 1451',47
+'robust strategi handl linear featur topolog consist polylin simplif',48
+'preserv coincid incid topolog',48
+'avaliacao desempenho composicao web servic usando rede petri',49
+'servico taxi baseado localizacao ambient comunicacao fio',50
+'impacto desafio implementacao infra estrutura softwar livr organizaco estudo caso empresa setor siderurgico',51
+'meta gerencia agent procurador usando snmp',52
+'aplicacao simul anneal problema alocacao sala',53

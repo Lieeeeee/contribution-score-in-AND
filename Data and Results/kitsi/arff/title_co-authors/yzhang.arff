@@ -1,0 +1,212 @@
+@relation 'Dataset kitsi title_co-authors yzhang'
+@attribute Text string
+@attribute class-att {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56}
+@data
+'span trail degre sum condit m ellingham x zha',1
+'preserv user locat privaci mobil data manag infrastructur r cheng e bertino s prabhakar',2
+'new focu measur method us moment y zhang c wen',3
+'neural network base classif us blur degrad affin deform invari featur y zhang c wen',3
+'neural network base classif us blur degrad affin deform invari featur y zhang c wen y soh',3
+'estim motion paramet blur imag y zhang c wen',3
+'evalu jpeg 2000 encod option human model observ detect variabl signal rai coronari angiogram b pham m eckstein',3
+'autom optim jpeg 2000 encod option base model observ perform detect variabl signal rai coronari angiogram b pham m eckstein',3
+'simultan recov affin motion defocu blur us moment y zhang c wen',3
+'recognit symmetr imag us affin moment invari frequenc spatial domain c wen y zhang',3
+'choic consist canon form moment normal y zhang c wen y soh',3
+'model measur privaci risk qo web servic t yu k lin',4
+'pattern tool achiev predict perform real time java k raman m panahi j colmenares r klefstad',4
+'strategi effici syntact semant web servic t yu k raman k lin',4
+'account servic orient architectur comput reason reput k lin t yu',4
+'direct robust distribut broker framework trust reput manag k lin r klefstad',4
+'rtzen highli predict real time java middlewar distribut embed system k raman m panahi j colmenares r klefstad t harmon',4
+'delai stabil perform distribut congest control s kang d loguinov',5
+'oscil buffer overflow video stream non neglig queu delai d loguinov',5
+'multi layer activ queue manag congest control scalabl video stream s kang m dai d loguinov',5
+'zone balanc peer peer network analysi random node join x wang x li d loguinov',5
+'jetmax scalabl max min congest control high speed heterogen network d leonard d loguinov',5
+'investig autonom runtim manag strategi samr applic s chandra m parashar j yang s hariri',6
+'self deploy self configur pervas network servic h chen s hariri b kim m yousif',6
+'autonom comput paradigm s hariri b khargharia h chen j yang m parashar h liu',6
+'autonom proactiv runtim partit strategi samr applic j yang s hariri s chandra m parashar',6
+'logic properti belief revis base bargain solut d zhang',7
+'encod solut frame problem dynam logic n foo d zhang s chopra q vo',7
+'comput model logic base negoti d zhang',7
+'precis dynam slice algorithm x zhang r gupta',8
+'explor exploit adapt filter base bayesian activ learn w xu j callan',9
+'unsupervis learn tree align model inform extract p zigoris d eads',9
+'graph base rank algorithm mail expertis analysi b dom i eiron a cozzi',9
+'fast exact maximum likelihood estim mixtur languag model w xu',9
+'inform filter novelti detect name page find k collins thompson p ogilvie j callan',9
+'model updat ctl system y ding',10
+'logic base approach dynam access control v crescini',10
+'handl defeas action domain nan',10
+'artifici intellig databas secur y bai',10
+'monoton rule base updat nan',10
+'toward gener rule base updat n foo',10
+'toward gener logic analys network protocol h wang v varadharajan',10
+'handl defeas action domain nan',10
+'experiment comparison superquadr fit object function nan',10
+'implement priorit logic program c wu',10
+'algorithm ctl system modif y ding',10
+'semant consider knowledg base updat nan',10
+'comput aspect rule base databas updat y bai',10
+'deriv invari constraint action theori n foo',10
+'automat perform tune j2ee applic server system w qu a liu',10
+'multi agent system mobil environ j chen',10
+'implement priorit logic program c wu y bai',10
+'adapt self configur architectur j2ee base middlewar system w qu a liu',10
+'induct properti state n foo p peppas',10
+'logic approach ltl system modif y ding',10
+'answer set priorit logic program n foo',10
+'logic model tempor author deleg negat c ruan v varadharajan',10
+'updat logic program n foo',10
+'logic base reason delegat author c ruan v varadharajan',10
+'two result proirit logic program nan',10
+'dual space draw method cone r ding',10
+'intellig mosaic algorithm overlap imag w li y meng h chen t wang',10
+'elimin variat face imag us face symmetri j feng',10
+'two result priorit logic program nan',10
+'power issu relat branch predict d parikh k skadron m barcella m stan',10
+'unifi framework repres logic program updat n foo',10
+'repres action dynam domain n foo',10
+'repres defeas constraint observ action theori nan',10
+'specifi distribut author deleg us logic program s wang',10
+'rule base abduct s lakkaraju',10
+'complex logic program updat nan',10
+'robust statist method secur wireless local sensor network z li w trappe b nath',11
+'schedul best effort real time pipelin applic time share cluster a sivasubramaniam',11
+'failur data analysi larg scale heterogen server environ r sahoo a sivasubramaniam m squillante',11
+'decis support workload characterist cluster databas server perspect j zhang a sivasubramaniam c liu h franke',11
+'feasibl launch detect jam attack wireless network w xu w trappe t wood',11
+'enhanc sourc locat privaci sensor network rout p kamat w trappe c ozturk',11
+'integr approach parallel schedul us gang schedul backfil migrat h franke j moreira a sivasubramaniam',11
+'impact workload system paramet next gener cluster schedul mechan a sivasubramaniam j moreira h franke',11
+'gang schedul extens intens workload a yang a sivasubramaniam j moreira',11
+'filter failur log bluegen l prototyp y liang a sivasubramaniam r sahoo j moreira m gupta',11
+'improv parallel job schedul combin gang schedul backfil techniqu a sivasubramaniam h franke j moreira',11
+'impact migrat parallel job schedul distribut system h franke j moreira a sivasubramaniam',11
+'channel surf spatial retreat defens wireless denial servic w xu t wood w trappe',11
+'perform implic failur larg scale cluster schedul m squillante a sivasubramaniam r sahoo',11
+'synthes repres workload tpc h j zhang a sivasubramaniam h franke n gautam s nagar',11
+'simul base studi schedul mechan dynam cluster environ a sivasubramaniam j moreira h franke',11
+'model analysi dynam coschedul parallel distribut environ m squillante a sivasubramaniam n gautam h franke j moreira',11
+'sourc locat privaci energi constrain sensor network rout c ozturk w trappe',11
+'integr approach parallel schedul us gang schedul backfil migrat h franke j moreira a sivasubramaniam',11
+'analysi resourc increas decreas algorithm wireless sensor network j kang b nath',11
+'facial express understand imag sequenc us dynam activ visual inform fusion q ji',12
+'sensor select activ inform fusion q ji',12
+'empir comparison random algorithm larg join queri optim s louis',12
+'camera calibr genet algorithm q ji',12
+'camera calibr genet algorithm q ji',12
+'robust stabil analysi discret time system us genet algorithm m fadali s louis',12
+'activ dynam inform fusion multisensor system dynam bayesian network q ji',12
+'multi resolut admiss solut approach diffus optic tomographi d brooks d boas',13
+'reduct physiolog interfer optic function neuroimag us eigenvector base spatial filter d brooks m franceschini d boas',13
+'spatio tempor reconstruct algorithm diffus optic tomographi base hemodynam respons function model d brooks d boas',13
+'analysi spatial tempor regular method linear invers problem common statist framework a ghodrati d brooks',13
+'semant approach mine hidden link complementari non interact biomed literatur x hu x zhang i yoo',14
+'rearrang graph q hu x shen',15
+'rearrang graph q hu x shen',15
+'distribut concurr control real time cooper edit system c sun y yang d chen',16
+'adapt qualiti 3d mesh imag data c bajaj b sohn',17
+'develop comput paradigm laser treatment cancer j oden k diller c bajaj j browne j hazle i babuska j bass l demkowicz y feng d fuentes s prudhomme m rylander r stafford',17
+'qualiti mesh implicit solvat model biomolecular structur g xu c bajaj',17
+'specif verif hybrid dynam system time foral automata a mackworth',18
+'six degre freedom sens dock us ir led emitt receiv k roufas d duff m yim',18
+'sequenti local algorithm activ sensor network deploy q huang j liu',18
+'distribut minim time convergecast schedul wireless sensor network s gandham q huang',18
+'constraint program constraint net a mackworth',18
+'local mere connect y shang w ruml m fromherz',18
+'robust distribut node local error manag j liu f zhao',18
+'mobil sensor network self local base multi dimension scale c wu w sheng',18
+'local connect sensor network y shang w ruml m fromherz',18
+'improv ant rout sensor network l kuhn m fromherz',18
+'constrain flood robust effici rout framework wireless sensor network m fromherz',18
+'constraint net semant model hybrid dynam system a mackworth',18
+'comb needl haystack balanc push pull discoveri larg scale sensor network x liu q huang',18
+'minimum power configur wireless sensor network g xing c lu q huang r pless',18
+'minimum power configur wireless commun sensor network g xing c lu q huang r pless',18
+'specif verif constraint base dynam system a mackworth',18
+'modular reconfigur robot space applic m yim k roufas d duff c eldershaw s homans',18
+'distribut control 3d metamorphosi m yim j lamping e mao',18
+'synthesi hybrid constraint base control a mackworth',18
+'parallel splat algorithm base pc cluster j zhang j sun q han z jin',19
+'resourc alloc multimedia stream internet q zhang w zhu',20
+'video broadcast mimo ofdm system z ji q zhang w zhu j lu',20
+'later error recoveri applic level multicast k wong s chan w wong q zhang w zhu',20
+'peer peer base multimedia distribut servic z xiang q zhang w zhu z zhang',20
+'power minim bit alloc video commun wireless channel q zhang z ji w zhu',20
+'power optim joint sourc channel code scalabl video stream wireless channel q zhang w zhu z ji',20
+'network adapt scalabl video stream 3g wireless network q zhang w zhu',20
+'network adapt cach manag scheme mix media f yu q zhang w zhu',20
+'channel adapt unequ error protect scalabl video transmiss wireless channel g wang q zhang w zhu',20
+'qo adapt proxi cach multimedia stream internet f yu q zhang w zhu',20
+'network adapt rate control tcp friendli protocol multipl video object q zhang w zhu',20
+'later error recoveri media stream applic level multicast w yiu k wong s chan w wong q zhang w zhu',20
+'proactiv scan fast handoff smart trigger 802 wireless lan h wu k tan q zhang',20
+'studi optim time synchron accuraci wireless sensor network q ye l cheng',21
+'fourier base forward back projector iter fan beam tomograph imag reconstruct j fessler',22
+'algorithm complex result decomposit biolog network monoton subsystem b dasgupta g enciso e sontag',23
+'invers protein fold problem 2d 3d lattic p berman b dasgupta d mubayi r sloan g turan',23
+'semant text classif diseas report b liu',23
+'puma2 grid base high throughput analysi genom metabol pathwai n maltsev e glass d sulakhe a rodriguez m syed t bompada m d souza',23
+'sentra databas signal transduct protein compar genom analysi m d souza e glass m syed a rodriguez n maltsev m galperin',23
+'protein sequenc design problem canon model 2d 3d lattic p berman b dasgupta d mubayi r sloan g turan',23
+'optim lock assign alloc method exploit concurr among critic section v sreedhar w zhu v sarkar g gao',24
+'barrier match program textual unalign barrier e duesterwald',24
+'sequenti consist revisit suffici condit method reason consist model multiprocessor chip architectur w zhu f chen z hu g gao',24
+'preliminari measur effect server adapt web content deliveri b krishnamurthy c wills',25
+'traffic engin estim traffic matric m roughan m thorup',25
+'us perform content distribut network b krishnamurthy c wills',25
+'toward fault toler multiag system nan',26
+'monitor agent us declar plan j dix t eiter m fink a polleres',26
+'distribut algorithm dynam surviv multiag system v subrahmanian s kraus',26
+'monitor agent us declar plan j dix t eiter m fink a polleres',26
+'secur mobil ad hoc network certificateless public kei w liu w lou y fang',27
+'access control wireless sensor network y zhou y fang',27
+'led provid locat awar end end data secur wireless sensor network k ren w lou',27
+'anonym commun mobil ad hoc network w liu w lou',27
+'energi conserv resourc awar movement heterogen mobil ad hoc network w liu y fang k lu',27
+'robust energi effici data dissemin framework wireless sensor network w liu w lou y fang',27
+'high order fast sweep method static hamilton jacobi equat h zhao j qian',28
+'delai analysi prioriti queue modul traffic p harrison',29
+'effici resourc alloc scheme spatial multius access mimo ofdm system k letaief',30
+'cluster categor data a fu c cai p heng',31
+'entropi base subspac cluster mine numer data c cheng a fu',31
+'complet converg competit neural network differ time scale m ye',31
+'pentamidin inhibit catalyt activ group intron ca lsu alter rna fold z li d pilch m leibowitz',32
+'genet program classifi larg scale data ensembl method s bhattacharyya',33
+'genom scale comput approach memori intens applic system biologi f abu khzam n baldwin e chesler m langston n samatova',34
+'autom design flow 3d microarchitectur evalu j cong a jagannathan y ma g reinman j wei',35
+'mar multilevel full chip gridless rout system j cong j fang m xie',35
+'enhanc multilevel rout system j cong m xie',35
+'thermal driven floorplan algorithm 3d ic j cong j wei',35
+'thermal driven multilevel rout d ic j cong',35
+'transform rdb schema well structur oodb schema x zhang j fong x jia',36
+'local xml document xslt y yu j lu j xue w sun',37
+'design synthesi microelectromechan system us genet algorithm compon base genotyp represent r kamalian a agogino c sequin',38
+'robust inflat subscript multicast congest control s gorinsky s jain h vin',39
+'space effici rel error order sketch data stream x lin j xu f korn w wang',40
+'summar order statist data stream duplic x lin y yuan m kitsuregawa x zhou j yu',40
+'select star k repres skylin oper x lin y yuan q zhang',41
+'program simplif genet program object classif m zhang w smart',42
+'salient featur select visual concept learn f xu l zhang w ma',43
+'quantum algorithm set group theoret problem s fenner',44
+'bound power constant depth quantum circuit s fenner f green s homer',44
+'complet lax logic relat cryptograph lambda calculi j goubault larrecq s lasota d nowak',45
+'logic relat dynam name creation d nowak',45
+'number span tree circul graph x yong m golin',46
+'3d sound feedback act task aid virtual assembl environ t fernando',47
+'evalu auditori visual feedback task perform virtual assembl environ t fernando h xiao a travis',47
+'fast stabl approach restor warp document imag k chu l zhang c tan',48
+'scalabl grid applic schedul via decoupl resourc select schedul a mandal h casanova a chien y kee k kennedy c koelbel',49
+'rel perform schedul algorithm grid environ c koelbel k kennedy',49
+'share classifi among ensembl relat problem domain w street s burer',50
+'asymptot bound bipartit graph complet graph ramsei number y caro y li c rousseau',51
+'larg scale assess util low resolut protein structur biochem function assign a arakaki j skolnick',52
+'model locat manag wireless network gener distribut paramet j zheng l zhang y chen m ma',53
+'adapt region base video registr j xiao m shah',54
+'motion layer base object remov video j xiao m shah',54
+'or type condit cyclabl y chen k zhang',55
+'ramsei number star versu wheel y chen k zhang',55
+'ebsd measur elast strain field gan sapphir structur j luo y ji t zhong j wang j liu n niu j han x guo g shen',56

@@ -1,0 +1,280 @@
+0;212;k tanaka;e shinohara,h matsumura,h sunaga,m takemoto;ubiquit servic orient network uson approach ubiquit world p p technolog;peer peer comput;0
+1;212;kenichiro tanaka;c hong,s honda,t yoneda,y matsushita;multimedia commun network architectur model high speed network;lcn ieee local comput network;0
+2;213;k tanaka;k yoda,k tajima;access control author cg multipl detail level;system comput;0
+3;213;k tanaka;m yoshikawa,r hull;behavior analysi object orient databas method structur execut tree reachabl extend abstract;fodo foundat data organ algorithm;0
+4;213;k tanaka;m yoshikawa,k ishihara;schema design view incomplet inform object orient databas;english tran ipsj;0
+5;213;k tanaka;h schek,m ozsu,y zhang;special issu nd web inform engin confer wise;world wide web;0
+6;213;k tanaka;r hull,m yoshikawa;behavior analysi object orient databas method structur execut tree reachabl extend abstract;proc rd int conf foundat data organ algorithm lectur note comput scienc springer verlag;0
+7;213;k tanaka;y kambayashi,k takeda,s yajima;design problem unnorm relat util semant constraint relat databas japanes;tran ipsj;0
+8;213;k tanaka;y kambayashi;interfer problem between relat queri depend constraint japanes;tran ipsj;0
+9;213;k tanaka;y kambayashi,s yajima;problem relat databas design lectur note comput scienc;springer verlag;0
+10;213;k tanaka;y kambayashi,s yajima;properti embed multivalu depend relat databas;tran iec e;0
+11;213;k tanaka;y kambayashi,k takeda,s yajima;represent relat databas output util depend;proc th int conf system scienc u s;0
+12;213;k tanaka;y kambayashi,s yajima;us abstract characterist relat databas;proc ieee rd int comput softwar applic conf;0
+13;213;k tanaka;y kambayashi,s yajima;semant aspect depend their applic relat databas design;proc ieee rd int comput softwar applic conf;0
+14;213;k tanaka;y kambayashi,k takeda;synthesi unnormal relat incorpor more mean;inform scienc elsevi scienc pub inc;0
+15;213;k tanaka;h kawagishi,k koiso,t matsumoto,t mori;infolod landmark spatial present attribut inform comput repres object spatial;int j cooper inf syst;0
+16;213;k tanaka;s kitamura;design implement orient medicin expert japanes;tran the institut system control inform engin;0
+17;213;k tanaka;;tree structur organ consecut retriev properti base file organ;academ press proc conf consecut retriev properti;0
+18;213;k tanaka;s kitamura,s tsuji;visibl control orient medicin expert;proc the th ieee annual int comput softwar applic conf;0
+19;213;k tanaka;s ceri,d tsur;dood deduct object orient databas;springer verlag;0
+20;213;k tanaka;s nishio;obas object databas model toward more flexibl object orient databas;proc int symp next gener databas system their applic nda fukuoka cpp;0
+21;213;k tanaka;e oomoto;continu object model multi media databas japanes;proc the jssst object orient comput workshop appear object orient comput i kindai kagakusha;0
+22;213;k tanaka;e oomoto;design implement visual queri languag histor databas;databas system next gener applic advanc databas research develop seri world scientif publish;0
+23;213;k tanaka;e oomoto;historychart visual queri languag histor databas;proc int symp databas system advanc applic dasfaa databas system advanc applic;0
+24;213;k tanaka;e oomoto;propag view instanc inherit mechan parial order relationship object orient databas japanes;tran ipsj;0
+25;213;k tanaka;s pradhan,t jozen;navig instanc object databas dynam inherit capabl;proc int symp advanc databas technolog thier integr adti nara japancpp;0
+26;213;k tanaka;q qiang,m tanizaki;abstract inherit hyperlink object orient hypertext databas textlink gem;proc int symp advanc databas technolog thier integr adti nara;0
+27;213;k tanaka;n sanada;ad method relat databas construct;proc th annual int comput softwar applic conf compsac intern comput softwar applic ieee comput societi press;0
+28;213;k tanaka;y sugiyama,y kidawara;cost model copyright manag d digit content multilevel complex object;system comput;0
+29;213;k tanaka;k sumiya,r noda;tempor link mechan hypermedia broadcast;system comput;0
+30;213;k tanaka;k tajima,m kitagawa,y mizuuchi;cut as queri unit www netnew e mail;hypertext;0
+31;213;k tanaka;s nishio,k kagakusha;object orient comput i japanes;;0
+32;213;k tanaka;;fundament concept object orient databas japanes;inform process ipsj;0
+33;213;k tanaka;;histor databas model tupl sequenc it integr constraint japanes;inform process ipsj select ipsj th anniversari paper;0
+34;213;k tanaka;;integr hypermedia object orient databas technolog japanes;proc int symp comput world;0
+35;213;k tanaka;;store manipul multimedia databas object postscript relat databas;proc int symp interoper inform system intap tokyo;0
+36;213;k tanaka;s ghosh,y kambayashi;foundat organ;plenum press;0
+37;213;k tanaka;;toward integr environ edit view publish multimedia databas object;proc int symp comput world;0
+38;213;k tanaka;;tutori object orient databas;int symp databas system advanc applic seoul korea;0
+39;213;k tanaka;s yajima,y kambayashi;bibliograph inform process facil relat databas ari;proc th int conf system scienc;0
+40;213;katsumi tanaka;;advanc applic futur research issu oodb;dasfaa databas system advanc applic;0
+41;213;katsumi tanaka;s ginsburg;comput tupl sequenc object histori;acm tran databas system;0
+42;213;katsumi tanaka;s yajima,y kambayashi;relat languag simplifi binari relat handl capabl;vldb veri larg data base;0
+43;213;katsumi tanaka;m yoshikawa,k ishihara;schema virtual object orient databas;proc the th ieee int conf data engin;0
+44;213;katsumi tanaka;m yoshikawa;toward abstract complex databas object gener reduct unif set type object extend abstract;proc int conf databas theori lectur note comput scienc springer verlag;0
+45;213;katsumi tanaka;k zettsu,y kidawara;imag retriev web context fill gap between imag keyword usag keyword;dexa databas expert system applic;0
+46;213;katsumi tanaka;k zettsu,k uehara;semant structur video index;amcp advanc multimedia content process;0
+47;213;katsumi tanaka;k zettsu,k uehara,n kimura;time stamp author graph video databas;dexa databas expert system applic;0
+48;213;katsumi tanaka;s ginsburg;comput tupl sequenc object histori extend abstract;proc int conf foundat data organ kyoto plenum press;0
+49;213;katsumi tanaka;s ginsburg;interv queri object histori;theor comput sci;0
+50;213;katsumi tanaka;s ginsburg;interv queri object histori extend abstract;proc th int conf veri larg data base;0
+51;213;katsumi tanaka;c harris,e saberdoti,f bancilhon,m kifer,m brodie,y masunaga;next gener databas manag technolog panel;dood deduct object orient databas;0
+52;213;katsumi tanaka;k harumoto,k tajima,m tsukamoto,m arikawa,s shimojo,s nishio,y ariki;advanc process environ manag continu semistructur featur multimedia content;adbi advanc databas inform system dasfaa databas system advanc applic;0
+53;213;katsumi tanaka;k hatano,r sano,y duan;interact classif web document self organ map search engin;dasfaa databas system advanc applic;0
+54;213;katsumi tanaka;k hatano,q qian;som inform organ text video;dasfaa databas system advanc applic;0
+55;213;katsumi tanaka;t hirose,t hata,y nakanishi;queri multipl perspect video camera metaphor;dasfaa databas system advanc applic;0
+56;213;katsumi tanaka;;tree structur organ consecut retriev properti;fodo foundat data organ algorithm;0
+57;213;katsumi tanaka;t hirose,y nakanishi;model structur multipl perspect video brows;er intern conceptu model entiti relationship approach;0
+58;213;katsumi tanaka;t hirose,t hata;skim multipl perspect video tempo spatial import measur;vdb visual databas system;0
+59;213;katsumi tanaka;k ishihara,m yoshikawa;schema virtual object orient databas;icd intern data engin;0
+60;213;katsumi tanaka;y kambayashi;logic integr local independ relat databas distribut databas;proc th int conf veri larg data base cann;0
+61;213;katsumi tanaka;y kambayashi,s yajima;organ quasi consecut retriev file;inform system pergamon press;0
+62;213;katsumi tanaka;;tea time museum croquet as brows search environ digit librari;c;0
+63;213;katsumi tanaka;y kambayashi,s yajima;relat languag simplifi binari relat handl capabl;proc rd int conf veri larg data base tokyo;0
+64;213;katsumi tanaka;y kambayashi;test join depend preserv modifi chase method;mfc mathemat foundat comput scienc;0
+65;213;katsumi tanaka;h kawagishi,k koiso;dynam zone retriev landmark comput spatial;digit citi;0
+66;213;katsumi tanaka;h kawagishi,k koiso,t matsumoto;infolod landmark brows retriev spatial;coda second intern symposium cooper databas system advanc applic;0
+67;213;katsumi tanaka;h kiyomitsu;navig depend web view defin control semant unit web page;icsc intern comput scienc confer;0
+68;213;katsumi tanaka;s kobayashi,t sakanoue;uncertainti manag object orient databas;proc int conf databas expert system applic dexa springer verlag;0
+69;213;katsumi tanaka;k koiso,k kawakatsu,t mori;dynam gener virtual space increment queri formul spatial brows;dexa databas expert system applic workshop;0
+70;213;katsumi tanaka;k koiso,t matsumoto;spatial present aggreg georeferenc;dasfaa databas system advanc applic;0
+71;213;katsumi tanaka;h kondo,t matsukura,y hirata;discoveri semant relationship among web page web topic structur;ds discoveri scienc;0
+72;213;katsumi tanaka;c matsumoto,m qiang;local filter search web page;apweb;0
+73;213;katsumi tanaka;c matsumoto,m qiang;web inform retriev local degre;dexa databas expert system applic;0
+74;213;katsumi tanaka;a nadamoto,h kondo,k sumiya,m kusahara,t hattori;back tv inform visual interfac tv program metaphor;ieee intern multimedia expo iii;0
+75;213;katsumi tanaka;a nadamoto;compar web browser cwb brows compar web page;www world wide web seri;0
+76;213;katsumi tanaka;a nadamoto,k sumiya,m shikata;mwm retriev automat present manual mobil termin;dexa databas expert system applic;0
+77;213;katsumi tanaka;a nadamoto,h kondo;webcarrousel restructur web search result passiv view mobil environ;dasfaa databas system advanc applic;0
+78;213;katsumi tanaka;a nadamoto,h kondo;webcarousel automat present semant restructur web search result mobil environ;dexa databas expert system applic;0
+79;213;katsumi tanaka;a nadamoto,k koiso;associ present metadata digit archiv object virtual space as synchron multimedia content;kyoto intern digit librari;0
+80;213;katsumi tanaka;a nadamoto,a iizawa,k sumiya,t hattori,t hashimoto,y shirota;tv program gener digest video scene script markup languag;hicss intern system scienc;0
+81;213;katsumi tanaka;k nanba,n nishikawa,s hirayama;queri pair as hypertext link;icd intern data engin;0
+82;213;katsumi tanaka;n nishikawa,s hirayama,k nanba;queri pair as hypertext link;proc the th int conf data engin ieee comput societi;0
+83;213;katsumi tanaka;e ohmoto;historychart visual languag histor databas;dasfaa databas system advanc applic;0
+84;213;katsumi tanaka;h oiso,j morishita,k ohtsuki,q qian,s ueshima;increment organ ancient document databas;dasfaa databas system advanc applic;0
+85;213;katsumi tanaka;t chang;altern object object orient databas;proc int symp databas system advanc applic dasfaa databas system advanc applic;0
+86;213;katsumi tanaka;h oiso,k tajima,m kamiura;spatial view lod access control vrml object databas;wwca worldwid comput it applic;0
+87;213;katsumi tanaka;e oomoto;ovid design implement video object databas;ieee tran knowledg data engin;0
+88;213;katsumi tanaka;e oomoto;video databas recent trend research develop activ;handbook multimedia inform manag;0
+89;213;katsumi tanaka;q qian;two level schemata gener link hypertext databas model;futur databas;0
+90;213;katsumi tanaka;t chang;natur join object orient databas;proc st int conf deduct object orient databas dood elsevi scienc publish b v north;0
+91;213;katsumi tanaka;m qiang,s miyazaki;webscan discov notifi import chang web site;dexa databas expert system applic;0
+92;213;katsumi tanaka;y shoham;dynam theori incent multi agent;ijcai intern joint artifici intellig;0
+93;213;katsumi tanaka;k sumiya,s oyama,s nakajima;context depend web bookmark their usag as queri;wise web inform system engin;0
+94;213;katsumi tanaka;k sumiya,r noda;hypermedia broadcast tempor link;dexa databas expert system applic;0
+95;213;katsumi tanaka;k tajima,s pradhan,t sogo;algebra retriev fragmentarili index video;new gener comput;0
+96;213;katsumi tanaka;k tajima,s pradhan;queri model retriev relev interv within video stream;icmc intern multimedia comput system;0
+97;213;katsumi tanaka;a doi,k sumiya,k uehara,t kawaguchi;scoopcast dynam video product deliveri from index live video stream;icsc intern comput scienc confer;0
+98;213;katsumi tanaka;k tajima,s pradhan;queri model synthes answer interv from index video unit;ieee tran knowl data eng;0
+99;213;katsumi tanaka;k tajima,s pradhan,t sogo;new algebra approach retriev meaning video interv from fragmentarili index video shot;vdb visual databas system;0
+100;213;katsumi tanaka;k tajima;new techniqu discoveri logic document web;dant deliveri advanc network technolog europ;0
+101;213;katsumi tanaka;k tajima,s pradhan;util prototyp object powerdomain support public author video databas;coda second intern symposium cooper databas system advanc applic;0
+102;213;katsumi tanaka;a takeuchi,h kiyomitsu;web reconfigur spatio tempor page person rule access;saint symposium applic the internet;0
+103;213;katsumi tanaka;k uehara,y kidawara;encapsul multimedia content copyright protect mechan distribut object;dexa databas expert system applic;0
+104;213;katsumi tanaka;c viet,s yajima,y kambayashi;file organ suitabl relat databas oper;mathemat studi inform process;0
+105;213;katsumi tanaka;c viet,y kambayashi,s yajima;file organ suitabl relat databas oper;lectur note comput scienc springer verlag;0
+106;213;katsumi tanaka;t yabe;similar retriev human motion as multi stream time seri;dant deliveri advanc network technolog europ;0
+107;213;katsumi tanaka;c yajima,y nakanishi;queri video spatio tempor relationship move object trace;vdb visual databas system;0
+108;213;katsumi tanaka;s yajima,y kambayashi;problem relat databas design;data base design techniqu i;0
+109;213;katsumi tanaka;s yajima,y kambayashi;organ quasi consecut retriev file;inf syst;0
+110;214;katsuya tanaka;k izaki,m takizawa;access control model object orient;dbsec;0
+111;214;katsuya tanaka;h higaki,m takizawa;protocol pseudo activ replic wide area network;icpp intern parallel process workshop;0
+112;214;katsuya tanaka;h higaki,m takizawa;checkpoint distribut object;icpp intern parallel process workshop;0
+113;214;katsuya tanaka;h higaki,m takizawa;quorum protocol group commun;icpp intern parallel process workshop;0
+114;214;katsuya tanaka;h higaki,m takizawa,m katsumoto;qualiti lock mode multimedia object;icpp intern parallel process workshop;0
+115;214;katsuya tanaka;m takizawa;quorum lock protocol replica object;isad intern symposium autonom decentr system;0
+116;214;katsuya tanaka;m takizawa;asynchron checkpoint protocol object;isorc ieee intern symposium object orient real time distribut comput;0
+117;214;katsuya tanaka;m takizawa,y timura;group protocol object;isorc ieee intern symposium object orient real time distribut comput;0
+118;214;katsuya tanaka;h higaki,m takizawa,n nemoto;pseudo activ replic protocol reliabl replica group;icdc intern distribut comput system workshop group commun comput;0
+119;214;katsuya tanaka;k shimamura,m takizawa;group protocol exchang multimedia object group;icdc intern distribut comput system workshop group commun comput;0
+120;214;katsuya tanaka;m takizawa,y timura;group commun protocol object;icdc intern distribut comput system workshop group commun comput;0
+121;214;katsuya tanaka;m takizawa;quorum replic object;dexa databas expert system applic workshop;0
+122;214;katsuya tanaka;k izaki,m takizawa;inform flow control role model distribut object;icpad intern parallel distribut system;0
+123;214;katsuya tanaka;m takizawa;checkpoint protocol object;icpad intern parallel distribut system;0
+124;214;katsuya tanaka;m takizawa;optim nest invoc replica object;icpad intern parallel distribut system;0
+125;214;katsuya tanaka;m takizawa;distribut checkpoint influenti messag;icpad intern parallel distribut system;0
+126;214;katsuya tanaka;k arai,m takizawa;group protocol quorum replic;icpad intern parallel distribut system;0
+127;214;katsuya tanaka;m takizawa,m yokoyama;qo method compens multimedia object;icpad intern parallel distribut system;0
+128;214;katsuya tanaka;m takizawa,y timura;causal preced relat among messag object;icpad intern parallel distribut system;0
+129;214;katsuya tanaka;m takizawa;reliabl nest invoc method distribut object;doa intern symposium distribut object applic;0
+130;214;katsuya tanaka;h higaki,m takizawa;pseudo activ replic distribut object wide area network;doa intern symposium distribut object applic;0
+131;214;katsuya tanaka;h higaki,m takizawa;quorum lock protocol replic object;doa intern symposium distribut object applic;0
+132;214;katsuya tanaka;h higaki,m takizawa;protocol pseudo activ replic wide area network;dexa databas expert system applic workshop;0
+133;214;katsuya tanaka;m takizawa,n nemoto;qualiti synchron method multimedia object;inf sci;0
+134;214;katsuya tanaka;k izaki,m takizawa;inform flow control among object role access control model;dexa databas expert system applic;0
+135;214;katsuya tanaka;h higaki,m takizawa;object order deliveri messag object;dexa databas expert system applic;0
+136;214;katsuya tanaka;m takizawa;protocol take object checkpoint;dexa databas expert system applic;0
+137;214;katsuya tanaka;m takizawa;quorum lock protocol nest invoc method;dexa databas expert system applic;0
+138;214;katsuya tanaka;m takizawa,n nemoto;qualiti synchron method multimedia object;dexa databas expert system applic;0
+139;214;katsuya tanaka;h higaki,m takizawa;signific checkpoint distribut;dexa databas expert system applic;0
+140;214;katsuya tanaka;m mitsuishi,t nagao,y yokokohji;remot rapid manufactur action media as advanc user interfac;icra intern robot autom;0
+141;214;katsuya tanaka;m takizawa,m yokoyama;qo method compens multimedia object;dexa databas expert system applic workshop;0
+142;214;katsuya tanaka;k izaki,m takizawa;author model object orient concept;icoin intern inform network;0
+143;214;katsuya tanaka;m takizawa;replica manag object;icoin intern inform network;0
+144;214;katsuya tanaka;k arai,m takizawa;group protocol deliv request replica;icoin intern inform network;0
+145;214;katsuya tanaka;k shimamura,m takizawa;object causal order group protocol distribut multimedia;icoin intern inform network;0
+146;214;katsuya tanaka;m takizawa,y timura;causal messag object;icoin intern inform network;0
+147;215;k tanaka;m mizumoto;properti fuzzi set type;inform control;0
+148;215;k tanaka;m mizumoto;fuzzi set their oper;inform control;0
+149;215;k tanaka;j toyoda,t tsuji;relat graph properti them;j comput syst sci;0
+150;215;k tanaka;j toyoda,m mizumoto;variou kind automata weight;j comput syst sci;0
+151;215;kokichi tanaka;m mizumoto,m umano;implement fuzzi set theoret structur abstract;vldb veri larg data base;0
+152;215;kokichi tanaka;j toyoda,m mizumoto;consider fuzzi automata;j comput syst sci;0
+153;215;kokichi tanaka;j toyoda,m mizumoto,y ezawa;interact languag;j comput syst sci;0
+154;216;k tanaka;;weak axiom determinaci subsystem analysi ii sigma game;ann pure appl logic;0
+155;216;k tanaka;m kikuchi;formal model theoret proof godel s theorem;notr dame journal formal logic;0
+156;216;k tanaka;t morita;diagrammat techniqu two dimension is model iii is model vertex model;journal the physic societi;0
+157;216;k tanaka;t morita;determin paramet imag recoveri statist mechan mean;physica;0
+158;216;k tanaka;t morita;gener heisenberg model spin s greater than equival those spin;journal the korean physic societi supplementari issu proceed workshop statist physic s s korea univers krea;0
+159;216;k tanaka;t morita;gener heisenberg model spin s greater than equival that spin;journal the physic societi;0
+160;216;k tanaka;t morita;gener t j model gener half odd integr spin s;physic letter;0
+161;216;k tanaka;t morita;lattic model flux line;physic letter see also physic letter p;0
+162;216;k tanaka;t morita,k hiroike;on dimens binari mixtur hard rod non addit distanc contact;molecular physic;0
+163;216;k tanaka;y murai,t morita;numer studi d annni model cluster variat method;physica;0
+164;216;k tanaka;t horiguchi,t morita;coher anomali analysi cluster variat method spin pair correl function is model;journal the physic societi;0
+165;216;k tanaka;t horiguchi,t morita;coher anomali analysi cluster variat method two dimension is model nearest neighbor next nearest neighbor interact;progress theoret physic supplement;0
+166;216;k tanaka;n hoshi,t horiguchi;color imag compress algorithm self organ featur map interdisciplinari;inform scienc postscript compress postscript;0
+167;216;k tanaka;h ebisawa,t morita;cluster variat method two dimension hubbard t j model physica c pt;proceed confer mareri mechan superconduct high temperatur superconductor iv mm htsc iv;0
+168;216;k tanaka;t morita;cluster variat method imag restor problem;physic letter;0
+169;216;k tanaka;d furusato,t horiguchi;coupl markov random field model phase as line field region field;ieic transact d ii j d ii japanes translat system comput english;0
+170;216;k tanaka;t morita;correl random field is model imag restor problem;edit m suzuki n kawashima world scientif publish copor press proceed intern symposium cofer approach fluctuat kyoto;0
+171;216;k tanaka;t morita,k hiroike;correl function on dimension lattic ga nearest neighbor next nearest neighbor interact;progress theoret physic;0
+172;216;k tanaka;;self embed theorem wkl non standard method;ann pure appl logic;0
+173;216;k tanaka;t morita,k hiroike;correl function on dimension lattic ga interact up third nearest neighbor;progress theoret physic supplement;0
+174;216;k tanaka;t horiguchi,t morita;critic indic two dimension is model nearest neighbor next nearest neighbor interact;physic letter;0
+175;216;k tanaka;t horiguchi,t morita;critic indic two dimension is model nearest neighbor next nearest neighbor interact ii strip cluster approxim;physica;0
+176;216;k tanaka;t morita;free energi layer free fermion model;journal the physic societi;0
+177;216;k tanaka;t horiguchi;quantum statist mechan iter method imag restor;ieic transact j japanes translat electron commun part fundament electron scienc english;0
+178;216;k tanaka;j inoue,d titterington;loopi belief propag probabilist imag process;neural network signal process xiii proceed the ieee signal process societi workshop toulous paper postscript present slide powerpoint;0
+179;216;k tanaka;;imag restor compound gauss markov random field model quantum line field;ieic transact d ii j d ii japanes;0
+180;216;k tanaka;j inoue;maximum likelihood hyperparamet estim solvabl markov random field model imag restor;ieic transact inform system e d;0
+181;216;k tanaka;;maximum margin likelihood estim constrain optim imag restor;transact japanes societi artifici intellig;0
+182;216;k tanaka;;maximum posterior margin estim statist method imag restor;ieic transact j japanes;0
+183;216;k tanaka;y honda,t horiguchi;critic behavior frustrat spin is model;physic review b;0
+184;216;k tanaka;t morita;applic cluster variat method imag restor problem;theori applic the cluster variat path probabl method ed j l mor l opez j m sanchez plenum press new proceed the intern workshop theori applic the cluster variat path probabl method teotihuacan;0
+185;216;k tanaka;y takane,h ebisawa,t morita;applic cluster variat method three dimension t j model;journal the physic societi;0
+186;216;k tanaka;t morita;applic culster variat method three dimension t j model ii;journal the korean physic societi supplementari issu proceed workshop statist physic s s korea univers krea;0
+187;216;k tanaka;;approxim optim algorithm markov random field model statist mechan techniqu;proceed intern workshop soft comput industri muroran institut technolog press muroran;0
+188;216;k tanaka;;probabilist comput method imag restor statist mechan texhniqu;y suzuki s ovaska t furuhashi r y dote ed soft comput industri applic springer verlag press london proceed th line world soft comput industri applic;0
+189;216;k tanaka;j inoue,d titterington;probabilist imag process mean beth approxim q is model;journal physic mathemat gener;0
+190;216;k tanaka;;probabilist infer mean cluster variat method linear respons theori;ieic transact inform system e d;0
+191;216;k tanaka;t horiguchi;probabilist iter quantum iter comput method grai level imag restrat;interdisciplinari inform scienc postscript;0
+192;216;k tanaka;t horiguchi;solvabl markov random field model color imag restor;physic review e articl postscript;0
+193;216;k tanaka;t morita,k hiroike;spin pair correl function is model brickwork lattic second neighbor interact;physica;0
+194;216;k tanaka;t horiguchi,t morita;coher anomali method wave number depend suscept;journal the physic societi;0
+195;216;k tanaka;;staistic mechan iter algorithm mean cluster variat method compound gauss markov random field model;transact japanes societi artifici intellig;0
+196;216;k tanaka;m ichioka,t morita;statist mechan algorithm mrf model variat principl;proceed the th intern pattern recognit ii track b pattern recognit signal analysi ieee comput societi press lo alamo carifornia file;0
+197;216;k tanaka;t morita;statist mechan studi imag restor markov random field model;proceed intern workshop soft comput industori muroran institut technolog press muroran;0
+198;216;k tanaka;t morita;statist mechan iter algorithm imag restor grai level imag;ieic transact j japanes;0
+199;216;k tanaka;m ichioka,t morita;statist mechan iter method imag restor;ieic transact j japanes;0
+200;216;k tanaka;t morita;asymptot behavior spin pair correl function is model checkerboard lattic;progress theoret physic;0
+201;216;k tanaka;t morita;asymptot behavior spin pair correl function is model gener kagom lattic;journal the physic societi;0
+202;216;k tanaka;t morita;asymptot behavior modifi block toeplitz determin;progress theoret physic;0
+203;216;k tanaka;t morita;asymptot form block toeplitz determin;progress thoeret physic;0
+204;216;k tanaka;y takane,h ebisawa,t morita;three dimension t j model cluster variat method physica b;proceed xx intern low temperatur physic univers;0
+205;216;k tanaka;t horiguchi,t morita;low temperatur behavior antiferromagnet is model triangular lattic;journal the physic societi;0
+206;216;k tanaka;;theoret studi hyperparamet estim maxim margin likelihood imag restor mean cluster variat method;ieic transact j japanes translat electron commun part fundament electron scienc english;0
+207;216;k tanaka;;automat hyperparamet estim probabilist imag restor algorithm gibb microcanon distribut;ieic transact d ii j d ii be translat system comput;0
+208;216;k tanaka;t yamazaki;non standard construct haar measur weak konig s lemma;j symb log;0
+209;216;k tanaka;j inoue;dynam properti imag restor hyper paramet estim neural network signal process xi;proceed the ieee signal process societi workshop;0
+210;216;k tanaka;j inoue;dynam maximum likelihood hyper paramet estim imag restor gradient descent versu expect maxim algorithm;physic review e articl postscript;0
+211;216;k tanaka;j inoue;mean field theori em algorithm bayesian grai scale imag restor;journal physic mathemat gener;0
+212;216;kazu tanaka;t morita;cluster ztp recoveri imag;pattern recognit letter;0
+213;216;kazuyuki tanaka;;non standard analysi wklo;math log q;0
+214;216;kazuyuki tanaka;n shioji;fix point theori weak second order arithmet;ann pure appl logic;0
+215;216;kazuyuki tanaka;s simpson,t yamazaki;conserv result week konig s lemma;ann pure appl logic;0
+216;217;k tanaka;;quantum bit commit small storag quantum on wai permut;new gener comput;0
+217;217;k tanaka;t nishino;complex negat limit boolean network symposium theori comput page montreal quebec canada mai;;0
+218;217;k tanaka;t nishino;negat limit circuit complex cliqu function;ieic transact inform system e d;0
+219;217;k tanaka;t nishino;relationship between number negat circuit size;ieic transact inform system e d;0
+220;217;k tanaka;m okada,m vlach;minim total complet time flow shop idl constraint;symposium oper research jena;0
+221;217;k tanaka;k omura;densiti attack knapsack cryptosystem enum sourc encod;ieic transact fundament electron commun comput scienc;0
+222;217;k tanaka;s sung;limit negat bound depth circuit extens markov s theorem;isaac th annual intern symposium algorithm comput kyoto;0
+223;217;k tanaka;s sung;lower bound negat limit invert;dmtc cat discret mathemat theoret comput scienc and th australasian theori symposium page auckland new zealand;0
+224;217;k tanaka;m vlach;singl machin schedul posit due releas date;intern symposium mathemat program lausann;0
+225;217;k tanaka;m vlach;minim maximum absolut late rang late gener due date singl machin;annal oper research;0
+226;217;k tanaka;m vlach;minim rang late singl machin gener due date;inform system oper research;0
+227;217;k tanaka;m vlach;improv algorithm singl machin schedul fuzzi due date;proceed the second intern symposium oper research it applic page guilin;0
+228;217;k tanaka;m vlach;singl machin schedul fuzzi due date;proceed the th intern fuzzi system associ world congress volum page pragu czech;0
+229;217;k tanaka;m vlach;singl machin schedul gener due date;symposium combinatori optim london;0
+230;217;k tanaka;m vlach;singl machin schedul posit due date posit releas time;intern optim optim control lambrecht;0
+231;217;k tanaka;m vlach;singl machin schedul minim maximum late both specif gener due date;ieic transact fundament electron commun comput scienc e;0
+232;217;k tanaka;m vlach;singl machin schedul minim maximum late both specif gener due date;proceed the second intern symposium oper research it applic page guilin;0
+233;217;k tanaka;r hayashi,t tatsuaki;rsa famili trap door permut common domain it applic;pkc th intern workshop practic theori public kei cryptographi;0
+234;217;k tanaka;t isshiki;effici anonym group identif scheme human memoriz secret kei;wisict winter intern symposium inform commun technolog cancun;0
+235;217;k tanaka;t isshiki;effici anonym group identif scheme short secret kei;ieic transact fundament electron commun comput scienc;0
+236;217;keisuke tanaka;t nishino,r beals;negat limit circuit complex symmetr function;inform process letter;0
+237;217;keisuke tanaka;t nishino;complex negat limit boolean network;stoc acm symposium theori comput;0
+238;217;keisuke tanaka;t okamoto,s uchiyama;quantum public kei cryptosystem;advanc cryptolog crypto lectur note comput scienc page santa barbara;0
+239;217;keisuke tanaka;t okamoto,s uchiyama;quantum public kei cryptosystem;erato workshop quantum inform scienc tokyo poster session refere;0
+240;217;keisuke tanaka;s sung;exponenti gap remov on negat gate;inf process lett;0
+241;217;keisuke tanaka;r beals,t nishino;more complex negat limit circuit;proceed the th annual acm symposium theori comput page la vega;0
+242;217;keisuke tanaka;s sung;exponenti gap remov on negat gate;inform process letter;0
+243;217;keisuke tanaka;s uchiyama,t okamoto;quantum public kei cryptosystem;crypto intern crytolog;0
+244;217;keisuke tanaka;r beals,t nishino;negat limit circuit complex symmetr function;inf process lett;0
+245;217;keisuke tanaka;r beals,t nishino;complex negat limit boolean network;siam societi industri appli mathemat journal comput;0
+246;217;keisuke tanaka;m halldorsson;approxim special case common subtre edit distanc;proceed the th intern symposium algorithm comput lectur note comput scienc page osaka;0
+247;217;keisuke tanaka;m halldorsson;approxim special case common subtre edit distanc;isaac intern symposium algorithm comput;0
+248;218;k tanaka;e aguirre,t sugimura;acceler imag halfton techniqu improv genet algorithm;ieic tran fundament e;0
+249;218;k tanaka;e matsui;video steganographi how secretli emb d signatur pictur;proc technolog strategi protect intellectu properti network multimedia environ;0
+250;218;k tanaka;e takano,t sugimura;hide via steganograph ic imag transform;ieic tran fundament e;0
+251;218;k tanaka;e takano,t sugimura;hide fractal imag gener via fourier filter method;ieic tran inform system e d;0
+252;218;k tanaka;e tanigaki,t sugimura,s kondo;color wat ermark color vision model;ieic tran j d ii japanes;0
+253;218;k tanaka;e umemura,h aguirre;multi level imag halftoni ng techniqu genet algorithm;ieic tran fundament e;0
+254;218;k tanaka;e yano;imag encrypt scheme truncat b aker transform;ieic tran fundament e;0
+255;218;k tanaka;e aguirre;genet algorithm nk landscap effec ts select drift mutat recombin;lectur note comput scienc springer;0
+256;218;k tanaka;e aguirre,t sugimura;empir model coopera tive competit genet oper improv ga perform investig multipl knapsack problem;ip sj journal;0
+257;218;k tanaka;e aguirre,s oshita;perform studi di stribut genet algorithm parallel cooper competit genet oper;ieic tran fundament e;0
+258;218;k tanaka;e aguirre,t sugimura,s oshita;simultan eou halfton imag gener improv multiobject genet algorithm;ieic tran fundament e;0
+259;218;k tanaka;h aguirre;genet algorithm nk landscap effect select drift mutat recombin;evoworkshop;0
+260;218;kiyoshi tanaka;h aguirre,s oshita,t sugimura;halfton imag gener improv multiobject genet algorithm;emo evolutionari multi criterion optim;0
+261;218;kiyoshi tanaka;h aguirre;parallel vari mutat determinist self adapt ga;ppsn parallel problem solv from natur;0
+262;218;kiyoshi tanaka;k ichikawa,k fukami,k hiroshima,m ichikawa,s kondo,s tanabe;web page color modif barrier free color vision genet algorithm;gecco genet evolutionari comput;0
+263;218;kiyoshi tanaka;e myodo,h aguirre;improv imag halfton techniqu ga concurr inter block evalu;gecco genet evolutionari comput;0
+264;218;kiyoshi tanaka;e aguirre,t sugimura,s oshita;halfton imag gener improv multiobject genet algorithm;lectur note comput scienc springer;0
+265;218;kiyoshi tanaka;e aguirre;parallel vari mutat determinist self adapt ga;lectur note comput scienc springer;0
+266;218;kiyoshi tanaka;h aguirre,t sugimura;cooper crossov mutat oper genet algorithm;gecco genet evolutionari comput;0
+267;219;k tanaka;a yokota,h taki,n abe,y watanabe,y kinoshita;measur fragment mri relic restor virtual realiti technolog;system comput;0
+268;219;k tanaka;j zheng,n abe,t ohtsuka;multipl visual featur identif integr d recoveri rotat object;system comput;0
+269;219;kazuaki tanaka;h taki,n abe;understand mechan assembl instruct manual integr vision languag process simul;icra intern robot autom;0
+270;219;kazuaki tanaka;a yokota,h taki,n abe,y watanabe,y kinoshita;surfac model gener relic from slice imag approach automat restor;ichim intern hypermedia interact museum;0
+271;219;kazuaki tanaka;h taki,n abe;understand mechan assembl instruct manual virtual space;ismi intern syposium methodolog intellig system;0
+272;220;k tanaka;h abe,m sasaki,s sasaki,t yamasaki,y kudo;conveni notat organ structur basi connect stack;journal chemic inform comput scienc;0
+273;220;kazuo tanaka;k kubota;memori learner model it applic game coach;ecai european artifici intellig;0
+274;220;kazuo tanaka;;advanc fuzzi control trailer type mobil robot stabil analysi model fuzzi control;ictai intern tool artifici intellig;0
+275;220;kazuo tanaka;h wang,t hori;dual design problem via multipl lyapunov function;fuzz ieee;0
+276;220;kazuo tanaka;d niemann,h wang,j li;dynam parallel distribut compens takagi sugeno fuzzi lmi approach;inf sci;0
+277;221;kenichiro tanaka;s hudson;provid visual rich resiz imag user interfac compon;uist user interfac softwar technolog;0
+278;221;kenichiro tanaka;j heiner,s hudson;link messag from real paper paper pda;acm symposium user interfac softwar technolog;0
+279;221;kenichiro tanaka;j heiner,s hudson;inform percol ambient inform displai decor object;acm symposium user interfac softwar technolog;0

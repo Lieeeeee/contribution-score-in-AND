@@ -1,0 +1,52 @@
+@relation 'Dataset bdbcomp publish-venue_title_co-authors joliveira'
+@attribute Text string
+@attribute class-att {83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104}
+@data
+'rede computador experiencia comunicacao grupo especificaco fault toler corba l lung j fraga j farines',83
+'computacao grafica processamento imagen handwritten recognit multipl classifi restrict lexicon m kapp c freitas j carvalho r sabourin',84
+'informatica educacao construindo ambient educacion web m souto r viccari',85
+'informatica educacao modelo ensino adaptativo internet baseado estilo cognitivo aprendizagem m souto r viccari e diehl m madeira r verdin r wainer s imoneengler',85
+'informatica educacao ferramenta suport monitoracao aluno ambient inteligent ensino web m souto f bica m warpechowski r vicari r zanella a sonntag',85
+'informatica educacao metodologia construcao materi instrucion ambient ensino inteligent web f bica m souto r vicari r zanella g vier k souza a sonntag r verdin m madeira s charczuk m barbosa',85
+'informatica educacao estudo empirico comportamento navegacao estilo cognitivo aprendizagem ambient treinamento web m souto m madeira r wainer r verdin r viccari',85
+'informatica educacao tecnica adaptacao materi instrucion ambient adaptweb v freitas m camargo brunetto m proenca jr c ribeiro m warpechowski',85
+'escola region banco dado obtencao metadado objeto aprendizagem adaptweb r m warpechowski',85
+'informatica publica sidi sistema distribuido intercambio dado saud n edelweiss c ribeiro',85
+'informatica educacao agent auxilio avaliacao aprendizagem ambient ensino web d musa f bica r vicari',85
+'informatica educacao uso web servic compartilhamento dado contido modelo aluno d musa',85
+'escola region banco dado comportamento ativo web servic m weschenfelder d musa',85
+'ifip academi state softwar theori practic phd colloquium integr distribut learner inform web servic d musa',85
+'biblioteca digitai proposta editoracao indexacao busca documento cientifico processo avaliacao aberta r galante d musa n edelweiss',85
+'rede neurai treinamento rede neurai utilizando variant filtro kalman ekf ukf predicao seri heterocedastica m oliveira',86
+'biblioteca digitai provedor dado biblioteca digitai compativel padrao oai d contessa d lazzarotto',87
+'revista informatica teorica aplicada revista informatica teorica aplicada l lamb',87
+'revista informatica teorica aplicada revista informatica teorica aplicada l lamb',87
+'revista informatica teorica aplicada revista informatica teorica aplicada l lamb',87
+'revista informatica teorica aplicada revista informatica teorica aplicada l lamb',87
+'revista informatica teorica aplicada revista informatica teorica aplicada l lamb',87
+'revista informatica teorica aplicada revista informatica teorica aplicada l lamb',87
+'revista informatica teorica aplicada revista informatica teorica aplicada l lamb',87
+'revista informatica teorica aplicada revista informatica teorica aplicada l lamb',87
+'revista informatica teorica aplicada revista informatica teorica aplicada l lamb',87
+'revista informatica teorica aplicada 10 revista informatica teorica aplicada 10 l lamb',87
+'escola region banco dado mineracao uso sistema informacao s rigo m schwertner',87
+'informatica educacao arquitetura adaptacao sistema hipermidia adaptativo c fernandes',88
+'internacion melhoria processo softwar implantacao processo gerencia configuracao softwar baseado kpa softwar configur manag cmm nivel r campelo',89
+'computacao grafica processamento imagen robust approxim offset bisector plane curv l figueiredo',90
+'computacao grafica processamento imagen robust adapt approxim implicit curv h lopes l figueiredo',90
+'geoinformatica plan brazilian urban traffic geograph applic softwar a silva b hall',91
+'engenharia softwar tecnica modelo ferramenta suport construcao interfac sistema aplicaco geografica c medeiros',91
+'rede neurai implement probabilist automata weightless neural network m souto t ludermir',92
+'rede neurai neural control non linear process gain schedul nan',93
+'ifip academi state softwar theori practic phd colloquium ifip academi state softwar theori practic phd colloquium nan',94
+'banco dado remocao ambiguidad identificacao autoria objeto bibliografico a laender m goncalves',95
+'revista informatica teorica aplicada backward mode slope evalu remark backward method interv variabl nan',96
+'geoinformatica uso algoritmo genetico selecao atributo classificacao regio j santos l dutra',97
+'rede computador analysi access select algorithm multi access network elast traffic i cananea d mariz d sadok g fodor',98
+'informatica publica ambient www construcao tabela horario professor aplicado escola ensino medio estadu p pinheiro',99
+'journal comput scienc estudo teorico experiment algoritmo classico busca texto p carvalho d oliveira a guaracy a gomes f conceicao j freire',100
+'informatica publica automacao processo meio workflow caso procempa c gomide',101
+'rede computador arquitetura analis carga sinalizacao rede comunicacao movel celular k sias d filho d sadok',102
+'engenharia softwar servico repositorio compartilhado distribuido suport desenvolvimento baseado component t brito s jr g elias',103
+'desenvolvimento distribuido softwar extensao framework componentforg desenvolvimento distribuido softwar t brito a oliveira s jr g elias',103
+'symposium microelectron technolog devic programm analog gaussian function synthes n oki',104

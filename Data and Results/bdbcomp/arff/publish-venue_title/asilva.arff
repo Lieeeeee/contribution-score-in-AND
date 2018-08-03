@@ -1,0 +1,68 @@
+@relation 'Dataset bdbcomp publish-venue_title asilva'
+@attribute Text string
+@attribute class-att {21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58}
+@data
+'rede computador aspecto deteccao intruso rede sensor fio',54
+'rede computador deteccao intruso decentralizada rede sensor fio',54
+'journal brazilian comput societi case studi appli process project align methodolog',55
+'inteligencia artifici evalu method sentenc lexic align brazilian portugues english parallel text',56
+'banco dado compon base digit librari servic find miss document',57
+'symposium integr circuit system design environ aid synthesi threephas analgu waveform us ahdl',58
+'rede computador implementacao novo agent gerencia rede computador',21
+'rede computador proposta gerencia mail',21
+'computacao grafica processamento imagen multiscal segment enhanc mammogram',22
+'computacao grafica processamento imagen segment clinic structur imag human pelvic area',23
+'banco dado deby ferramenta extracao dado semi estruturado',24
+'banco dado interfac grafica consulta font dado xml',24
+'intern inform integr web queri semistructur data exampl qsbye interfac',24
+'intern inform integr web environ build maintain web view',24
+'geoinformatica web data sourc spatial databas',24
+'seminario integrado softwar hardwar retrato web brasileira',24
+'banco dado deteccao sitio replicado utilizando conteudo estrutura',24
+'banco dado abordagem armazenamento dado semi estruturado banco dado relacionai',24
+'banco dado extract search us inform avail web faq',24
+'banco dado consultando banco dado disponivei web usando palavra chave',24
+'banco dado verificacao automatica qualidad dado extraido web',24
+'xxxi seminario integrado softwar hardwar relato utilizacao agent tecnologico processo eleitor regiao amazonica',24
+'banco dado extracao dado metadado texto semi estruturado usando hmm',24
+'informatica educacao desenvolvimento sistema tutor inteligent baseado agent contexto aula virtual adaptada',25
+'informatica educacao arquitetura desenvolvimento ambient interativo aprendizagem baseado agent component framework',25
+'informatica educacao amam ambient aprendizagem multiparadigmatico',25
+'informatica educacao afm assistent tutor baseado agent ferramenta modelagem orientada objeto',25
+'informatica educacao ambient suport ensino processamento imagen usando linguagem python',26
+'computacao grafica processamento imagen automat method assess telangiectasia degre mathemat morpholog',26
+'computacao grafica processamento imagen classif microstructur morpholog analysi estim hydrat degre cement past concret',26
+'computacao grafica processamento imagen detect line us hierarch region base represent',26
+'rede computador modelo mobilidad representacao cenario ambient fechado',27
+'informatica educacao karytu softwar letramento crianca surda otica bilingu',28
+'symposium microelectron technolog devic mechan properti silicon oxid film deposit pecvd teo applic mem structur sensor',29
+'symposium microelectron technolog devic analysi electrospin nanofib function polyacrylonitril pan concentr',29
+'computacao grafica processamento imagen determin signatur skelet matur',30
+'computacao grafica processamento imagen semi automat identif optic disk imag process quantit funduscopi',31
+'computacao grafica processamento imagen wavelet base compar function base line signatur verif',32
+'geoinformatica plan brazilian urban traffic geograph applic softwar',33
+'informatica educacao interpretacao oraco simpl falibra tradutor portugu libra auxiliar aprendizagem crianca surda',34
+'inteligencia artifici tarca integr system diagnosi treatment cardiac arrhythmia',35
+'encontro nacion inteligencia artifici analis representatividad matriz u mapa auto organizavel kohonen',36
+'engenharia requisito modelo avaliacao especificaco semi formai requisito softwar baseado teoria',36
+'xxx seminario integrado softwar hardwar verificacao formal etapa particionamento co design usando sistema reescrita bobj',37
+'desempenho sistema computacionai comunicacao tecnica solucao transient modelo fila fluido',38
+'rede computador calculo eficient distribuicao tamanho fila baseado modelo fluido',38
+'rede neurai realist comput simul primari somatosensori cortex replic static properti topograph organ',39
+'rede neurai hierarch neural model short term load forecast',40
+'journal comput scienc an arvor n aria espalhamento naturalment balanceada',41
+'fator humano sistema computacionai integracao ihc es processo planejamento reengenharia softwar guiado avaliacao usabilidad ppr u',42
+'fator humano sistema computacionai ferramenta apoio construcao sistema ajuda onlin',43
+'linguagen programacao geracao sistema transformacao programa',44
+'linguagen programacao hwsproxygen gerador proxi web servic linguagem haskel',44
+'journal comput scienc softwar control temperatura estufa',45
+'journal brazilian comput societi perform analysi data servic third gener mobil telecommun network',46
+'rede computador perform analysi data servic mobil telecommun network',46
+'xxxii seminario integrado softwar hardwar desenvolvimento dispositivo gerenciador protocolo aplicaco ieee 1451',47
+'geoinformatica robust strategi handl linear featur topolog consist polylin simplif',48
+'geoinformatica preserv coincid incid topolog',48
+'rede computador avaliacao desempenho composicao web servic usando rede petri',49
+'informatica publica servico taxi baseado localizacao ambient comunicacao fio',50
+'informatica publica impacto desafio implementacao infra estrutura softwar livr organizaco estudo caso empresa setor siderurgico',51
+'gerencia operacao rede servico meta gerencia agent procurador usando snmp',52
+'journal comput scienc aplicacao simul anneal problema alocacao sala',53

@@ -1,0 +1,1423 @@
+@relation 'Dataset dblp title jlee'
+@attribute Text string
+@attribute class-att {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100}
+@data
+'visual translat nativ languag sign languag',100
+'notat represent sign languag structur descript hand configur',100
+'memori side correl prefetch us gener purpos core memori',10
+'prefetch intellig memori architectur us helper thread',10
+'automat code map intellig memori architectur',10
+'correl prefetch user level memori thread',10
+'adapt map code intellig memori architectur',10
+'automat code map intellig memori architectur',10
+'automat map code intellig memori architectur',10
+'pensiev project compil infrastructur memori model',10
+'step stanford tempor prover',10
+'basic compil algorithm explicitli parallel program',10
+'basic compil algorithm parallel program',10
+'automat map code intellig memori architectur',10
+'compil techniqu explicitli parallel program',10
+'compil multipl memori model',10
+'concurr static singl assign form constant propag explicitli parallel program',10
+'basic compil algorithm parallel program',10
+'constant propag algorithm explicitli parallel program',10
+'concurr static singl assign form constant propag explicitli parallel program',10
+'hide relax memori consist compil',10
+'constant propag algorithm explicitli parallel program',10
+'hide java memori model compil',10
+'hide relax memori consist compil',10
+'parallel static singl assign form constant propag explicitli parallel program',10
+'hide relax memori consist compil',10
+'parallel program polari',10
+'restructur program high speed comput polari',10
+'adapt map code intellig memori architectur',10
+'desiderata agent architectur coordin multi agent system',11
+'reactiv system approach agent architectur',11
+'cooper distribut problem solv',11
+'distribut problem solv',11
+'distribut problem solv multi agent system comparison exampl',11
+'overeag reciproc ration mix strategi equilibria',11
+'hierarchi multi agent organ text databas discoveri',11
+'explicit plan languag coordin multiag plan execut',11
+'structur circuit semant reactiv plan execut system',11
+'taip tactic assist interact plan execut',11
+'trend cooper distribut problem solv',11
+'bliss ignor know just enough coordin well',11
+'comput realli need know learn kindergarten',11
+'plan distribut artifici intellig',11
+'distribut artifici intellig melt pot',11
+'handl continu valu attribut decis tree neural network model',11
+'instanc base method extract rule neural network',11
+'rule reduct numer attribut decis tree us multilay perceptron',11
+'adapt dialog interfac agent us meta rule',11
+'hierarch organ neural net agent distribut web inform retriev',11
+'perform analysi pull base parallel video server',12
+'recurs patch effici techniqu multicast video stream',12
+'redund arrai inexpens server rai demand multimedia servic',12
+'unifi architectur video demand servic',12
+'perform analysi pull base parallel video server',12
+'parallel video server tutori',12
+'optim channel alloc unifi video demand system',12
+'server arrai approach video demand servic local area network',12
+'support server level fault toler concurr push base parallel video server',12
+'effect function nois gp effici',12
+'studi server less architectur video demand applic',12
+'design server arrai system multimedia world wide web servic',12
+'stagger push linearli scalabl architectur push base parallel video server',12
+'server arrai approach video demand servic local area network',12
+'automat recoveri disk failur continu media server',12
+'storag rebuild automat failur recoveri video demand server',12
+'design analysi fault toler mechan server less video demand system',12
+'server less architectur build scalabl reliabl cost effect video demand system',12
+'parallel video server tutori',12
+'effici disk arrai base server design multicast video stream system',12
+'transmiss schedul server less video demand system',12
+'novel redund data updat algorithm fault toler server less video demand system',12
+'row permut data reorgan algorithm grow server less video demand system',12
+'monoton decreas rate schedul variabl bit rate video stream',12
+'row permut data reorgan algorithm server less video demand system',12
+'transpar rate adapt algorithm stream video internet',12
+'transposit redund data updat algorithm grow server less video stream system',12
+'buffer manag dimens pull base parallel video server',12
+'slice patch algorithm support vbr video stream multicast base video demand system',12
+'channel fold algorithm improv effici multicast video demand system',12
+'vbr video deliveri us monoton decreas rate schedul',12
+'constrain conson broadcast gener period broadcast scheme larg scale video stream',12
+'concurr push schedul algorithm push base parallel video server',12
+'automat recoveri disk failur continu media server',12
+'design analysi fault toler mechan server less video demand system',12
+'redund arrai inexpens server canada june',12
+'design perform evalu multimedia web server',12
+'multiplex scheme h voic ip applic',12
+'design perform analysi implement super scalar video demand system',12
+'packet loss recoveri scheme continu media stream internet',12
+'uvod unifi architectur video demand servic',12
+'slice patch algorithm support vbr video stream multicast base video demand system',12
+'improv uvod system effici batch',12
+'slice patch algorithm support vbr video stream multicast base video demand system',12
+'winner determin algorithm electron auction framework design',13
+'visual page catalog interfac analyt product select',13
+'design implement visual onlin product catalog interfac',13
+'us starfield visual analyz product perform onlin store',13
+'visual analysi clickstream data onlin store parallel coordin system',13
+'visual analysi clickstream data onlin store understand web merchandis',13
+'analysi visual metric onlin merchandis',13
+'framework winner determin algorithm internet auction',13
+'agent base electron commerc opportun challeng',13
+'updat timestamp interv dynam adjust serial order optimist concurr control time interv occti protocol',13
+'absolut inform visual system decis support sourc',13
+'video segment index classif interact view base queri',14
+'experiment video databas manag system base advanc object orient techniqu',14
+'net comparison fast effect method classifi imag sequenc',14
+'novel techniqu automat kei frame comput',14
+'automat video data structur shot partit kei frame comput',14
+'automat domin camera motion annot video retriev',14
+'vim video inform manag system',14
+'motion compens color video classif us markov random field',14
+'dynam object cluster video databas manipul',14
+'automat classif tenni video high level content base retriev',14
+'color imag segment paramet estim markovian framework',14
+'partit chip virtual cach fast processor',15
+'rate regur scheme scheme schedul multimedia system',15
+'buddi coher adapt granular handl scheme page base dsm',15
+'design implement multi thread tmn agent system',15
+'scalabl cach coher architectur larg scale mesh connect multiprocessor',15
+'lock directori weak memori recip scalabl share memori multiprocessor',15
+'scalabl cach coher scheme exploit wormhol rout network',15
+'analysi deadlock detect scheme multidatabas system',15
+'memori multiprocessor',15
+'integr buffer manag scheme larg file',15
+'high avail softwar dsm',15
+'perform comparison deadlock scheme multidatabas system',15
+'analysi buffer replac polici www proxi',15
+'perform evalu three parallel algorithm scalabl multiprocessor',15
+'design system support secur commun web proxi cgi program base pki',15
+'proport share schedul multimedia applic',15
+'design implement multi thread tmn agent system',15
+'prefetch file system www server',15
+'two phase barrier synchron primit improv processor util',15
+'virtual cach architectur retain process work set multiprogram environ',15
+'virtual cach scheme improv cach affin multiprogram share memori multiprocessor',15
+'virtual physic chip cach share memori multiprocessor',15
+'virtual physic chip cach share memori multiprocessor',15
+'analysi buffer replac polici www proxi',15
+'proport share schedul multimedia applic',15
+'partit chip cach reduc memori access latenc share memori multiprocessor',15
+'architectur primit scalabl share memori multiprocessor',15
+'recip scalabl share memori multiprocessor',15
+'synchron multiprocessor cach',15
+'meta data updat polici flash memori file system',15
+'cach base synchron share memori multiprocessor',15
+'architectur primit scalabl share memori multiprocessor',15
+'synchron multiprocessor cach',15
+'lock directori synchron share memori multiprocessor',15
+'prefetch scheme imag comput',15
+'scalabl cach coher architectur larg scale mesh connect multiprocessor',15
+'improv mpi io output perform activ buffer plu thread',16
+'activ buffer plu compress migrat integr solut parallel simul data transport need',16
+'declust larg multidimension data set rang queri heterogen disk',16
+'effici input output scientif simul',16
+'faster collect output activ buffer',16
+'improv mpi io output perform activ buffer plu thread',16
+'enhanc data migrat perform via parallel data compress',16
+'new gdm base declust method parallel rang queri',16
+'parallel scientif applic heterogen cluster resourc util approach',16
+'parallel support hpf comput grid',16
+'tune high perform scientif code us perform model control resourc usag data migrat',16
+'activ buffer plu compress migrat integr solut parallel simul data transport need',16
+'declust larg multidimension data set rang queri heterogen disk',16
+'enhanc data migrat perform via parallel data compress',16
+'faster collect output activ buffer',16
+'expand chip dese grai scale morpholog oper',17
+'high throughput rate architectur d dct',17
+'graph theoret character reliabl gener boolean n cube network',17
+'enhanc multipl fault detect singl fault test set',17
+'adapt reduct procedur piecewis linear approxim digit curv',17
+'bit parallel systol multipli gf m field defin equal space polynomi',17
+'new approach deriv robust set stuck open fault cmo combin logic circuit',17
+'fault analysi method synchron sequenti circuit',17
+'investig represent compet secondari school student',18
+'vicari learn dialogu discours control comparison',18
+'cad line',18
+'design net',18
+'theori diagrammat reason distinguish compon problem',18
+'disambigu visual displai repres domain multimod interfac',18
+'refer displai multimod interfac',18
+'resolv refer graphic object multimod queri constraint satisfact',18
+'automat gener diagrammat web site map',18
+'automat gener diagrammat web site map',18
+'graphic natur languag design instruct',18
+'graphic natur languag multi modal dialogu',18
+'vicari learn dialogu multimod',18
+'observ dialogu mai benefit learn',18
+'knowledg base graphic dialogu',18
+'vicari learner discuss learn resourc learn task',18
+'learn vicari distribut environ',18
+'vicari learner help student listen learn',18
+'modal represent educ technolog',18
+'introduct interact graphic commun',18
+'anaphora multimod discours',18
+'convers graphic implic design natur languag graphic interfac',18
+'word pictur goodman revisit',18
+'cognit base approach comput integr design system',18
+'integr graphic natur languag dialogu',18
+'know user know matter',18
+'design inform super highwai roadwork ahead',18
+'exampl generalis us surfac versu structur recal bias probe conceptu storag',18
+'repli gall product model year stalem',18
+'intellig multimod multimedia interfac research applic',18
+'intellig interfac uim',18
+'review mark platt wai mean nd edn',18
+'role intellig multimedia report immi',18
+'vicari learn educ dialogu',18
+'similar depict',18
+'anaphora multimod discours',18
+'support student discuss isn t just talk',18
+'visual reason formal semant applic',18
+'user centr design amp develop appli web base',18
+'pictori concept concept support graphic system',18
+'toward affect tutor system',18
+'reason diagrammat represent',18
+'multimedia multimod interact structur',18
+'integr natur languag graphic dialogu',18
+'develop tertiari coursewar captur task direct discuss lee',18
+'new collabor filter method us repres attribut neighborhood bayesian estim valu',19
+'predict user prefer recommend system us associ user cluster bayesian estim valu',19
+'fdra fashion design recommend agent system us extract repres sensibl two wai combin filter textil',19
+'optim associ word knowledg base genet algorithm',19
+'user prefer mine collabor filter content base filter recommend system',19
+'bayesian web document classif optim associ word',19
+'featur select us associ word mine classif',19
+'extend genet non binari csp s',1
+'lagrangian reconstruct genet',1
+'increment queri concurr clp languag ifd constraint pandora',1
+'propag redund redund model',1
+'us stochast method guid search clp preliminari report',1
+'wam base abstract machin interv constraint logic program',1
+'adapt clp float point arithmet',1
+'spectrum compens aggreg oper',1
+'execut scheme interact problem solv concurr constraint logic program languag page',1
+'interv comput deduct chip',1
+'theori properti selfish protocol multi agent meet schedul us fuzzi constraint',1
+'interv comput deduct chip',1
+'toward effici stochast constraint solver',1
+'perform comprehens effici constraint librari us local search',1
+'object logic integr multiparadigm design methodolog program languag',1
+'prune search tree cylindr closur',1
+'overview oli multiparadigm program languag semant',1
+'us stochast method guid search clp preliminari report',1
+'framework integr artifici neural network logic program',1
+'box constraint collect adhoc constraint',1
+'toward integr artifici neural network constraint logic program',1
+'constraint base nurs roster system us redund model approach',1
+'perform comprehens effici constraint librari base local search',1
+'increas constraint propag redund model experi report',1
+'construct wysiwyg latex typeset system us object orient design',1
+'nurs roster system us constraint program redund model',1
+'speed constraint propag redund model',1
+'tabl user interfac logic program',1
+'constraint base interact train reschedul tool',1
+'constraint base interact train reschedul tool',1
+'constraint base interact train reschedul tool page',1
+'tabl user interfac logic program',1
+'reduc search space local search constraint satisfact',1
+'solv finit domain constraint hierarchi local consist tree search',1
+'fuzzifi constraint hierarchi framework',1
+'oli multiparadigm program languag semant',1
+'algebra properti csp model oper',1
+'toward effici stochast constraint solver',1
+'model induct new sourc csp model redund',1
+'toward integr artifici neural network constraint logic program',1
+'object logic integr multiparadigm design methodolog program languag',1
+'fuzzi constraint base model bilater multi issu negoti semi competit environ',1
+'object logic integr scheme multiparadigm design program',1
+'real time agent architectur design implement evalu',1
+'iq toward increment queri process non determinist concurr constraint logic program',1
+'construct wysiwyg latex typeset system us object orient design',1
+'increment queri concurr clp languag ifd constraint pandora',1
+'adapt clp r float point arithmet',1
+'weight prioritis compensatori aggreg',1
+'execut scheme interact problem solv concurr constraint logic program languag',1
+'new axiomat framework priorit fuzzi constraint satisfact problem',1
+'prioritis fuzzi constraint satisfact problem axiom instanti valid',1
+'effici interv linear equal solv constraint logic program page',1
+'extend hclp partial order hierarchi composit constraint',1
+'interv linear constraint solv us pre condit interv gauss seidel method',1
+'toward practic interv constraint solv logic program',1
+'toward practic interv constraint solv logic program logic program',1
+'fault simul prolog softwar re engin experi',1
+'lagrangian reconstruct class local search method',1
+'iq toward increment queri process non determinist concurr constraint logic program',1
+'motion fair',20
+'hierarch approach interact motion edit human like figur',20
+'robust motion watermark base multiresolut analysi',20
+'plan bipe locomot us motion captur data probabilist roadmap',20
+'comput puppetri import base approach',20
+'gener construct time domain filter orient data',20
+'interact control avatar anim human motion data',20
+'u circuit structur ordinari peri net',21
+'function approxim hierarch fuzzi system constraint fuzzi role',21
+'evolutionari comput base identif monoton takagi sugeno kang fuzzi system',21
+'univers approxim hierarch fuzzi system constraint fuzzi rule',21
+'paramet condit monoton takagi sugeno kang fuzzi system',21
+'adapt fuzzi learn control class nonlinear dynam system',21
+'stochast map build method mobil robot us d laser rang finder',21
+'electron commerc manageri perspect',22
+'artifici intellig applic electron commerc',22
+'automat rule gener transform expert s diagram lift',22
+'case constraint base project plan apart construct',22
+'case constraint base apart construct project plan system fastrak apt',22
+'intellig schedul system shipbuild',22
+'develop expert system unik',22
+'oper expert system applic far east',22
+'electron commerc busi revolut',22
+'rd electron commerc',22
+'manag inform system',22
+'enhanc knowledg manag extens rule markup languag',22
+'manag inform system user s perspect',22
+'extens rule markup languag',22
+'artifici intellig financ invest',22
+'state art portfolio select us knowledg base system',22
+'boolean quadric pack uncapacit facil locat polytop',23
+'block matric multispher structur distanc matric',23
+'min polytop',23
+'new upper bound maximum entropi sampl',23
+'boolean quadric forest polytop',23
+'geometr comparison combinatori polytop',23
+'polyhedr method piecewis linear function lambda method',23
+'comparison spectral hadamard bound d optim',23
+'spectral method concord polyhedr face',23
+'exact algorithm maximum entropi sampl',23
+'facet fenc linear order acycl subgraph polytop',23
+'separ type odd cycl inequ binari encod edg color formul',23
+'relax boolean quadric cut polytop',23
+'continu relax constrain maximum entropi sampl',23
+'character dimens class concord polytop',23
+'implement exact algorithm cut stock problem us compon coin',23
+'maximum entropi remot sampl',23
+'canon equat set class concord polytop',23
+'polyhedr method piecewis linear function lambda method',23
+'constrain maximum entropi sampl',23
+'crop cube',23
+'discuss state space model approach optim spatial sampl design base entropi',23
+'differ polytop',23
+'continu relax constrain maximum entropi sampl',23
+'crash maximum weight complementari basi',23
+'maximum entropi remot sampl',23
+'mask spectral bound maximum entropi sampl',23
+'us continu nonlinear relax solv constrain maximum entropi sampl problem',23
+'classif two person ordin bimatrix game',23
+'evalu multipl attribut item us queri',23
+'polyhedron product linear function variabl',23
+'character orient ternari matroid',23
+'comparison two edg color formul',23
+'first cours combinatori optim',23
+'geometr comparison combinatori polytop',23
+'hoffman s circl untangl',23
+'gener maximum entropi sampl',23
+'differ polytop',23
+'local bipartit turan graph graph partit',23
+'maximum entropi sampl',23
+'linear integ program bound maximum entropi sampl',23
+'constrain bottleneck extrema',23
+'parsimoni color formul',23
+'orient matroid represent gf gf',23
+'matroid applic algorithm',23
+'subspac well scale frame',23
+'indivis divis polytop',23
+'semidefinit program experiment design',23
+'spectral approach polyhedr dimens',23
+'incid structur subspac well scale frame',23
+'turan s triangl theorem binari matroid',23
+'parsimoni binari encod integ program',23
+'order select singl machin high set cost',23
+'fuzzi artmap higher order statist base blind equal',24
+'block histogram compress method select estim high dimens',24
+'collect fusion algorithm distribut multimedia databas pp',24
+'blind equal us rbf ho',24
+'design analysi web base coursewar word processor',24
+'distribut similar search algorithm distribut heterogen multimedia databas',24
+'data collect techniqu central traffic manag system local exchang',24
+'dynam construct categori hierarchi us fuzzi relat product',24
+'dynam updat cube rang sum queri',24
+'effici process method olap rang sum queri ina dynam warehous environ',24
+'effect similar search method larg video data stream',24
+'fuzzi artmap higher order statist base blind equal',24
+'horizont partit object orient databas effici cluster',24
+'heterogen imag databas select web',24
+'vdcluster video segment cluster algorithm larg video sequenc pp',24
+'model k nearest neighbor queri process cost multidimension data space',24
+'multi dimension select estim us compress histogram inform',24
+'approxim aggreg queri guarante error bound',24
+'select estim optim similar queri multimedia databas',24
+'similar search multidimension data sequenc',24
+'studi similar measur multidimension data sequenc us semant inform',24
+'studi intellig backtrack horn claus program',24
+'approxim aggreg queri guarante error bound',24
+'distribut similar search algorithm distribut heterogen multimedia databas',24
+'dynam updat cube rang sum queri',24
+'model k nearest neighbor queri process cost multidimension data space',24
+'multi dimension select estim us compress histogram inform',24
+'similar search multidimension data sequenc',24
+'view specif interact virtual realiti applic',25
+'view visual databas',25
+'architectur retain analyz visual explor databas',25
+'case studi virtual realiti environ',25
+'virtual realiti environ rapid prototyp',25
+'databas issu data visual support interact databas explorart',25
+'data explor interact exbas system',25
+'view visual databas',25
+'next frontier bio cheminformat visual',25
+'exploratori visual research univers massachusett lowel',25
+'exploratori visual research univers massachusett lowel',25
+'architectur retain analyz visual explor databas',25
+'databas issu data visual interact user interfac present',25
+'describ visual interact databas close loop user data',25
+'databas explor interact exbas system',25
+'concept guidelin featur model product line softwar engin',26
+'us market product plan kei driver product line asset develop',26
+'featur orient engin pbx softwar',26
+'featur orient engin pbx softwar adapt reuseabl',26
+'featur orient project line engin',26
+'form featur orient reus method domain specif refer architectur',26
+'vertic handoff procedur algorithm ieee wlan cdma cellular network',26
+'analysi statist characterist www traffic ip level',27
+'channel assign qo guarante multi class multi code cdma system',27
+'captur delai power random spread spectrum cdma slot aloha system',27
+'qo guarante code alloc scheme multi code cdma network',27
+'effect spread gain control cdma slot aloha system',27
+'method deriv singl efsm commun multi efsm data part test',27
+'test select non determinist fsm',27
+'integr automat tool gener test case specif written estel',27
+'method deriv singl efsm commun multi efsm data part test',27
+'load balanc us modifi cost function constraint base rout mpl network',27
+'enhanc micro mobil scheme',27
+'perform analysi qo rout network depend delai cost',27
+'well defin estel specif automat test gener',27
+'approach automat conform test specif written estel',27
+'automat test gener techniqu specif written estel',27
+'network configur manag framework us wbem',27
+'perform comparison bridg algorithm interconnect local area network',27
+'perform bride algorithm interconnect local area network',27
+'optim page cach map effici locat manag',27
+'architectur multichannel dqdb network',27
+'optim handoff manag method consid micro mobil wireless access network',27
+'channel alloc scheme us fuzzi reason method multimedia pc environ',27
+'perform evalu tcp wcdma rlc',27
+'effici explicit mobil multicast rout protocol mmp',27
+'hybrid perform manag scheme oam function atm network',27
+'hybrid perform manag scheme oam function support qo manag atm network',27
+'load balanc us modifi cost function constraint base rout mpl network',27
+'link control scheme us self reflect signal global beam satellit network',27
+'test gener specif written estel',27
+'perform evalu tcp wcdma rlc',27
+'test gener specif written estel protocol specif',27
+'perform evalu telecommun network servic',27
+'central approach multi channel access scheme singl hop wdm network',27
+'dynam bandwidth manag vbr mpeg traffic us atm oam cell',27
+'cdma cellular network',27
+'conferenc system real time multiparti multimedia servic',27
+'design implement cfg gener estel specif',27
+'flexibl commun architectur support multimedia servic high speed network',27
+'flexibl commun architectur support multimedia servic high speed network',27
+'internet traffic measur anaysi high speed network environ workload flow characterist',27
+'real time multimedia synchron mechan base level variat fix length buffer',27
+'studi optim timestamp aodv protocol adhoc network',27
+'tcp enhanc wireless internet',27
+'automat test case gener real protocol framework methodolog',27
+'test case gener commun protocol adapt state explor',27
+'test case gener protocol fault coverag analysi',27
+'test gener commun protocol efsm model',27
+'new rout cach scheme demand',27
+'protocol machin configur highli flexibl transport protocol',27
+'conform testig framework appli test purpos protocol test system',27
+'automat test case gener real protocol framework methodolog',27
+'crossbar base gigabit packet switch input poll share bu arbitr mechanithm',27
+'suggest tcp algorithm diffserv us mpl',27
+'adapt time base locat manag scheme us fuzzi logic',27
+'variabl locat manag scheme adapt mobil characterist',27
+'new ring protocol atm man',27
+'ring protocol atm lan man y ring protocol',27
+'dynam resourc alloc algorithm base multipl traffic structur atm network',27
+'input poll arbitr mechan gigabit packet switch',27
+'perform input queu atm switch even odd switch plane',27
+'gener reliabl optim test case data flow test formal approach',27
+'mcdqdb multi channel dqdb us wdm wavelength divis multiplex',27
+'multi channel dqdb architectur man',27
+'hierarch perform manag atm network us oam mib',27
+'hierarch perform manag us oam mib atm network',27
+'oam base atm network manag inform architectur snmp agent',27
+'oam mib end end perform manag solut atm',27
+'method gather end end manag inform',27
+'slot alloc analysi qo satellit atm mak protocol',27
+'cost evalu disjoint protect scheme dynam bandwidth control',27
+'design implement gigabit packet switch multi path rout capabl',27
+'effici restor scheme vp base atm network',27
+'fa lan protocol implement develop integr fa network',27
+'formal model protocol conform test',27
+'loop expand fast restor',27
+'qo restor us disjoint path group atm network',27
+'multimedia traffic characterist internet',27
+'perform analysi input poll arbitr method fiber channel base gigabit lan',27
+'master slave measur techniqu oper ethernet network',27
+'build distribut manag applic qo monitor us jmx ietf disman ping mib',27
+'method deriv control flow graph specif written estel',27
+'novel mac protocol slot wdm ring network',27
+'experi collabor applic support distribut model',28
+'user experi collabor write us collaboratu internet base collabor work',28
+'support group creation formal inform graphic busi process model',28
+'group tool method support data model develop standard review',28
+'model group model tool group support model qualiti valid',28
+'enabl effect involv multipl user method tool collabor softwar engin',28
+'technolog support group process model',28
+'cold spa tool collabor process model develop',28
+'cold spa tool collabor process model develop',28
+'group base approach distribut model construct',28
+'tool method group data model kei enabl enterpris model',28
+'current advanc group support busi process reengin',28
+'current advanc group support busi process reengin',28
+'support group creation formal inform graphic busi process model',28
+'group enabl dev model construct methodolog distribut organ',28
+'re engin enterpris analyz',28
+'collabor design organiz system',28
+'group base approach distribut model construct',28
+'stock trade system us reinforc learn cooper agent',29
+'multi agent q learn framework optim stock trade system',29
+'construct larg scale bayesian network local global search',29
+'topic extract text document us multipl caus network',29
+'pati approach identifi resolv ambigu',29
+'two phase stock trade system us distribut differ',29
+'compil support specul multithread architectur probabilist point analysi',2
+'case studi infrastructur c atla environ object orient design xml represent',2
+'commun set gener csd calculu express rewrit framework',2
+'probabilist point analysi',2
+'function composit approach synthes fortran arrai oper',2
+'runtim composit optim parallel javabean program cluster environ',2
+'express rewrit framework gener commun set hpf program block cyclic distribut',2
+'specif architectur support compon adapt distribut environ',2
+'express rewrit framework gener commun set hpf program block cyclic distribut',2
+'toward automat support parallel spars comput java continu compil',2
+'laguag environ support parallel object distribut memori environ',2
+'arrai oper synthesi scheme optim fortran program',2
+'sampl analyt techniqu data distribut parallel spars comput',2
+'model three dimension ga turbin combustor model flow parallel machin distribut memori',2
+'arrai oper synthesi scheme optim fortran program',2
+'toward parallel pressur correct method unstructur grid',2
+'parallel arrai object support distribut environ',2
+'integr automat data align arrai oper synthesi optim data parallel program',2
+'probabilist infer scheme sparsiti structur fortran arrai intrins',2
+'probabilist point analysi',2
+'program astrophys applic object orient parallel languag',2
+'compil optim dsp specif semant descript',2
+'arrai oper synthesi optim hpf program ieee copyright materi',2
+'compil analysi support leakag power reduct microprocessor',2
+'parallel pressur correct method unstructr grid',2
+'arrai oper synthesi optim hpf program distribut memori machin',2
+'rea time task schedul dynam variabl voltag processor',2
+'real time gang schedul workload model parallel comput',2
+'xthread librari design implement applic',2
+'sigma tool kit build parallel compil perform analysi system',2
+'comput three dimension evolv jet vortex method parallel machin distribut memori',2
+'object orient parallel program experi result',2
+'object orient parallel pc++ idea experi',2
+'object orient parallel pc++ idea experi',2
+'us object orient parallel program build distribut algebra abstract',2
+'segment align enhanc model align data parallel program hpf',2
+'program environ parallel comput perform debug parallel algorithm',2
+'arrai oper synthesi scheme optim fortran program',2
+'sigma tool kit build parallel compil perform analysi system',2
+'integr automat data align arrai oper synthesi optim data parallel program',2
+'static analysi runtim support parallel execut c',2
+'arrai oper synthesi optim hpf program',2
+'sigma system tool parallel program design',2
+'load balanc strategi parallel vortex method distribut adapt data structur',2
+'object orient parallel program experi result',2
+'data distribut analysi optim pointer base distribut program',2
+'parallel vortex method three dimension evolv jet distribut memori machin',2
+'compil object orient languag parallel machin',2
+'compil support specul multithread architectur probabilist point analysi',2
+'implement vortex filament method parallel machin distribut adapt data structur',2
+'compil optim vliw instruct schedul low power',2
+'real time gang schedul workload model parallel comput',2
+'compil optim instruct schedul low power',2
+'compil optim parallel spars program arrai intrins fortran',2
+'languag environ support parallel arrai object distribut environ',2
+'compil optim vliw instruct schedul low power',2
+'compil optim parallel spars program arrai intrins fortran ieee copyright materi',2
+'parallel arrai object support distribut environ',2
+'data distribut analysi optim pointer base distribut program ieee copyright materi origin paper award icpp',2
+'effici support parallel spars comput arrai intrins function fortran',2
+'support optim java rmi bluetooth environ',2
+'probabilist infer scheme sparsiti structur fortran arrai intrins',2
+'support optim java rmi bluetooth environ',2
+'perform parallel spars support fortran pc base network cluster',2
+'bytecod optim engin bytecod perform',2
+'parallel spars support arrai intrins function fortran',2
+'sampl analyt techniqu data distribut parallel spars comput',2
+'bytecod optim engin bytecod perform',2
+'toward automat support parallel spars comput java continu compil',2
+'build ontolog composit optim parallel javabean program',2
+'build ontolog optim composit parallel javabean program',2
+'compil support specul multithread architectur probabilist point analysi',2
+'easili access gml base geograph inform system multipl data server web',30
+'content adapt transmiss strategi spatial inform www mobil applic',30
+'dpr dynam partial replic protocol base group commun web enabl databas cluster',30
+'improv line scale scheme scalabl highli avail databas',30
+'effici render multi represent spatial featur internet gi',30
+'improv disk perform us raw disk web proxi server',30
+'optim strategi vector spatial data transmiss internet',30
+'scale depend transmiss spatial vector data internet',30
+'spatial linear featur simplif us wavelet',30
+'effici spatial transmiss web base gi',30
+'signal driven discret relax techniqu architectur level test gener',31
+'compar studi design testabl method us high level gate level descript',31
+'hierarch test gener intens global function constraint',31
+'artest architectur level test gener data path fault control fault',31
+'instruct sequenc assembl methodolog test microprocessor',31
+'design testabl us architectur descript',31
+'high perform nand type flash memori packag smart buffer cach system',32
+'low power tlb system dynam search mechan embed processor',32
+'adapt multi modul cach hardwar prefetch mechan multimedia applic',32
+'new cach architectur base tempor spatial local',32
+'new cach architectur embed processor',32
+'new nand type flash memori packet real time applic',32
+'intellig cach system hardwar prefetch high perform',32
+'applic adapt intellig cach memori system',32
+'applic specif data cach system high perform',32
+'run time adapt cach memori system',32
+'research trend low power chip memori system',32
+'select block buffer tlb system embed processor',32
+'select filter bank tlb system',32
+'select tempor aggress spatial cach system base time interv',32
+'cach memori system calmrisc',32
+'tlb system support multipl page size regardless oper system',32
+'select access dual tlb low power embed system',32
+'select access tlb high perform low power consumpt',32
+'cooper cach system low power cach structur embed processor',32
+'low power tlb structur embed system',32
+'advanc filter tlb low power consumpt',32
+'bank promot tlb high perform low power',32
+'bank promot translat lookasid buffer system',32
+'dual cach architectur low cost high perform',32
+'dual cach system base local detect mechan',32
+'dual tlb structur support two page size',32
+'dynam select low power tlb system',32
+'dynam tlb manag structur support differ page size',32
+'adapt multi modul cach hardwar prefetch mechan multimedia applic',32
+'energi effici cach memori architectur embed system',32
+'appliact specif data cach system',32
+'intellig cach system hardwar prefetch high perform',32
+'applic adapt intellig cach memori system',32
+'high perform low power bank promot tlb structur',32
+'high perform extern comput us user control',33
+'bada web integr web oodbm',33
+'user control parallel scientif applic',33
+'high perform extern stencil comput us user control',33
+'memori effici matrix multipl user control parallel',33
+'implement option time seri data',34
+'eer base conceptu model queri languag time seri data',34
+'specif calendar time seri tempor databas',34
+'integr tempor data model incorpor time seri concept',34
+'tempor algebra er base tempor data model',34
+'adapt vote faulti vff node scheme distribut self diagnosi',35
+'psim period shift interleav memori system',35
+'adapt unanim vote uv scheme distribut self diagnosi',35
+'effici dictionari machin us hexagon processor arrai',35
+'formal verif industri system chip',35
+'aspect orient design aod techniqu develop distribut object orient system internet',36
+'autom refactor approach design pattern base program transform java program',36
+'develop common oper environ militari applic',36
+'toward cope role bind anomali',36
+'enhanc role model allevi role bind anom',36
+'form miss piec effect real time system specif simul',37
+'co develop real time system simul environ',37
+'real world object model method creat simul environ real time system',37
+'asad sim increment multi level simul analysi tool real time softwar specif',37
+'ad form real time system specif simul',37
+'comparison varianc correl sampl',38
+'cumul logit model ordin respons variabl applic biomed research',38
+'covari adjust surviv curv base cox s proport hazard regress model',38
+'basic program assess extent pattern agreement two procedur',38
+'basic program polynomi regress smooth',38
+'adapt dialog interfac agent us meta rule',39
+'learn predict user behavior particular resourc us',39
+'partial plan recognit us predict agent',39
+'predict user action us interfac agent individu user model',39
+'predict resourc us case base plan recognit',39
+'task base conceptu graph basi autom softwar develop',3
+'fuzzi decis make trade analysi criteria',3
+'new approach requir trade analysi complex system',3
+'note current approach extend fuzzi logic object orient model',3
+'note current approach extend fuzzi logic object orient model',3
+'fuzzi logic basi reus task base specif',3
+'note state model inherit',3
+'task base approach verifi conceptu model',3
+'interweav knowledg data guest editor s introduct',3
+'task base specif conceptu graph',3
+'applic fuzzi theori complex system guest editor s introduct',3
+'acquir task base knowledg specif',3
+'prefac',3
+'possibilist logic base approach integr imprecis uncertain inform',3
+'fuzzi decis make trade analysi criteria',3
+'analyz user requir us case goal driven approach',3
+'rule base approach produc z specif jackson system develop',3
+'fuzzi petri net base expert system applic damag assess bridg',3
+'fuzzi petri net base mechan fuzzi rule reason',3
+'specifi soft requir knowledg base system',3
+'specifi verifi tempor behavior high asur system us reachabl tree logic',3
+'oosz integr bailin s object orient analysi formal specif',3
+'specifi verifi tempor behavior high assur system us reachabl tree logic',3
+'structur requir specif goal',3
+'guest editor s introduct interweav knowledg data',3
+'expert system design method support verif',3
+'tool task base knowledg specif acquisit',3
+'introduct extend fuzzi theori object orient model',3
+'tame integr environ task base knowledg specif acquisit',3
+'express jsd z',3
+'task base methodolog specifi expert system',3
+'xml base approach process imprecis requir',3
+'bridg damag assess fuzzi petri net base expert system',3
+'fuzzi logic applic complex system',3
+'model imprecis requir fuzzi object',3
+'model softwar architectur goal virtual univers environ',3
+'structur requir specif goal interact',3
+'fuzzi petri net model rule base reasonig',3
+'high level petri net base approach verifi task structur',3
+'verifi task base specif conceptu graph',3
+'model imprecis requir fuzzi object',3
+'task base conceptu graph basi autom softwar develop',3
+'model user requir front end analysi',3
+'task base specif conceptu graph',3
+'enhanc softwar life cycl knowledg base system us task base specif methodolog',3
+'task structur basi model knowledg base system',3
+'analyz user requir us case goal driven approach',3
+'specifi verifi tempor behavior high assur system us reachabl tree logic',3
+'new approach verifi conceptu model',3
+'fuzzi petri net model rule base reason',3
+'new approach requir trade analysi complex system',3
+'high level fuzzi petri net basi manag symbol numer inform',3
+'integr combin jsd formal notat',3
+'high level petri net basi manag symbol numer inform',3
+'model uncertainti reason possibilist petri net',3
+'verifi scenario time petri net',3
+'toward verif scenario time petri net',3
+'real time transact process pessimist optimist hybrid approach',40
+'us dynam adjust serial order real time databas system',40
+'optimist concurr control protocol real time databas system',40
+'perform concurr control algorithm real time databas system',40
+'hybrid protocol us dynam adjust serial order real time concurr control',40
+'visual track us snake object s discret motion',41
+'balanc select pressur migrat scheme parallel genet algorithm plan multipl path',41
+'system gait rehabilit mobil manipul approach',41
+'fault detect robust fault recoveri control robot manipul actuat failur',41
+'evolutionari optim fuzzi model asymmetr rbf membership function us simplifi fit farrugia',41
+'himalaya hierarch compact system minim constraint set',42
+'signal bound problem time analysi',42
+'algorithm increment time analysi',42
+'layout compact algorithm multipl grid constraint',42
+'select compress memori system line data decompress',43
+'bank promot tlb high perform low power',43
+'bank promot translat lookasid buffer system',43
+'dual tlb structur support two page size',43
+'adapt method minim decompress overhead compress chip cach',43
+'model perform analysi dual head disk structur',43
+'new cach architectur base tempor spatial local',43
+'chip cach compress techniqu reduc decompress overhead design complex',43
+'intellig cach system hardwar prefetch high perform',43
+'applic adapt intellig cach memori system',43
+'perform analysi select compress memori system',43
+'real time java virtual machin inform applianc',43
+'select block buffer tlb system embed processor',43
+'select tempor aggress spatial cach system base time interv',43
+'resourc manag method cooper web comput comput grid',43
+'design implement dynam commun mpi librari grid',43
+'float point adder subtractor perform ieee rout addit subtract parallel',43
+'float point multipli perform ieee round addit parallel',43
+'method improv perform instruct prefetch balanc improv two primari perform factor',43
+'effici collect commun method grid scale network',43
+'non referenc prefetch npr cach instruct prefetch',43
+'configur method multipl cluster comput grid',43
+'limit impos mix mode perform optim phax due tempor juxtaposit',43
+'multipl quadrat form case studi design data parallel algorithm',43
+'low power tlb structur embed system',43
+'design evalu scalabl java internet comput environ',43
+'effect configur method java internet comput environ',43
+'section cach vliw architectur',43
+'design evalu select compress memori system',43
+'model overlap oper control unit process element simd machin',43
+'impact memori interfac structur memori processor integr architectur comput vision',43
+'map neural network onto memori processor integr architectur',43
+'adapt parallel comput vision system',43
+'dynam threshold scheme base definit cross product n diment linear space',44
+'new scheme id base cryptosystem signatur',44
+'design singl kei lock mechan base newton s interpol polynomi',44
+'determin locat orient label cylind us point pair estim algorithm',44
+'addi action model matrix tool decis maker distanc educ',45
+'incorpor web base virtual realiti instruct distanc educ cours us addi model instruct design',45
+'fruit addi instruct product web base distanc educ seminar us virtual realiti',45
+'pre class plan scaffold student onlin collabor learn activ',45
+'valu assess servic provis within organ',46
+'cognit complex method train enhanc suppress creativ',46
+'cours structur student prefer consum base approach design introductori mi coursework',46
+'examin differ method amethod inform system develop',46
+'explor cognit structur inform system develop',46
+'explor impact formal train isd method cognit structur novic inform system develop',46
+'invest inform technolog human resourc impact perform firm',46
+'impact inform technolog spend staff develop perform firm',46
+'impact spend staff develop perform firm',46
+'relationship inform technolog spend corpor revenu',46
+'relationship spend corpor revenu',46
+'cognit complex method train enhanc suppress creativ',46
+'adapt guidanc mobil robot intellig infrastructur',47
+'design data access servic real time vision servic resourc share architectur',47
+'design polici local mobil robot gener environ',47
+'design polici intellig space',47
+'field servic robot',47
+'human comprehens intellig space',47
+'mobil robot control distribut sensor',47
+'mobil robot control intellig space support human',47
+'mobil robot architectur intellig space',47
+'need mobil robot move intellig space mobil robot',47
+'new architectur mobil robot home network environ us jini',47
+'intellig interact human oper mobil robot',47
+'intellig space',47
+'intellig space mobil robot',47
+'intellig space concept content',47
+'intellig space past futur',47
+'physic agent intellig space function role mobil robot sensor network think space',47
+'physic agent sensor network think space',47
+'physic agent intellig space',47
+'appli intellig space warehous first step intellig space project',47
+'mobil robot control human follow intellig space',47
+'mobil robot control human follow intellig space',47
+'evalu ccd camera arrang posit system intellig space',47
+'evalu human local us color model intellig space',47
+'build topolog map look peopl exampl cooper intellig space robot',47
+'physic agent sensor network think space',47
+'human center robot intellig space',47
+'intellig space mobil robot',47
+'intellig space robot new develop robot',47
+'chapter perform mobil robot control web',47
+'cooper intellig mobil robot physic agent intellig space extend sensor mobil robot',47
+'outsourc strategi process success innov seminar',48
+'test causal model outsourc success structur equat model approach',48
+'test causal model outsourc success structur equat model approach',48
+'inform system outsourc method forthcom case book',48
+'commerc environ asia pacif region',48
+'us crm unifi view custom',48
+'crm commerc empir studi custom valu',48
+'empir studi custom valu electron commerc',48
+'exporatori studi teach case method onlin',48
+'role gss collabor learn studi qualiti feedback',48
+'evolut outsourc research next issu',48
+'outsourc evolut past present futur',48
+'explor causal model understand outsourc partnership',48
+'partnership qualiti outsourc',48
+'nan',48
+'current futur direct inform system outsourc',48
+'effect partnership qualiti outsourc success conceptu framework empir valid',48
+'fuzzi gss framework organiz knowledg acquisit',48
+'inform system outsourc strategi affili firm korean conglomer group',48
+'inform system outsourc strategi affili firm korean conglomer group',48
+'inform system outsourc strategi ministri construct transport',48
+'inform system outsourc',48
+'partnership qualiti outsourc empir valid',48
+'partnership qualiti outsourc social theori perspect',48
+'risk analysi inform system integr framework',48
+'strateg outsourc process seminar',48
+'outsourc strategi affili firm korean conglomer group',48
+'evolut outsourc research next issu',48
+'impact knowledg share organiz capabl partnership qualiti inform system outsourc success',48
+'import partnership outsourc',48
+'solv d geometr constraint assembl model',49
+'cellular topolog base approach gener progress solid model featur centric model',49
+'d geometr constraint solv us dof base graph reduct',49
+'d geometr constraint solver parametr design us graph analysi reduct',49
+'featur base approach extract machin featur',49
+'geometr reason knowledg base parametr design us graph reduct',49
+'gener altern interpret machin featur',49
+'hybrid approach geometr constraint solv graph analysi reduct advanc engin softwar sci expand',49
+'web enabl featur base model distribut design environ',49
+'web enabl approach featur base model distribut collabor design environ',49
+'d geometr constraint solver parametr design us graph analysi reduct',49
+'web base product data manag part catalog public system collabor product develop',49
+'d geometr constraint solver us dof base graph reduct',49
+'framework share product inform across enterpris',49
+'featur base approach extract machin featur',49
+'network centric featur base model',49
+'process centric distribut collabor design base web',49
+'solv d geometr constraint close loop assembl',49
+'solv d geometr constraint model close loop assembl',49
+'network centric cad',49
+'network centric featur base model',49
+'interoper shape represent network centric virtual prototyp',49
+'interoper shape represent geometr process network enabl virtual prototyp',49
+'progress solid model internet base design collabor',49
+'shape represent interoper virtual prototyp distribut design environ',49
+'methodolog construct predic transit net specif',4
+'posit altern report acm panel hack',4
+'ifip tc tc joint task group histori comput curriculum',4
+'howard aiken s third machin harvard mark calcul aiken dahlgren electron calcul',4
+'rise sale gener electr comput depart look',4
+'us bomb ncr joseph desch wave first reunion us naval comput machin laboratori',4
+'review us bomb full version avail onlin',4
+'vdl definit system level',4
+'formal definit basic languag',4
+'standard',4
+'consider futur program languag standard activ',4
+'respons feder trade commiss s propos rule standard certif',4
+'great myth histori comput',4
+'gentlemen escap histori studi histori comput',4
+'biographi',4
+'biographi',4
+'obituari nichola constantin metropoli',4
+'biographi',4
+'biographi',4
+'biographi',4
+'integr predic transit net first order tempor logic specif verif concurr system',4
+'compon contract base process high level design',50
+'analysi object interact enterpris javabean lifecycl us formal specif techniqu',50
+'compon contract base interfac specif techniqu us z',50
+'binari classif tree multi class classif problem',51
+'class modular charact recognit',51
+'analysi class separ combin class depend featur handwrit recognit',51
+'region split strategi physic databas design multidimension file organ',52
+'d chi tunabl two dimension class hierarchi index object orient databas',52
+'physic databas design method multidimension file organ',52
+'estim vehicl pose road curvatur base percept net',53
+'experi decis make strategi lane departur warn system',53
+'new data fusion method applic state estim nonlinear dynam system',53
+'big brother ballot',54
+'new famili authent protocol',54
+'jikzi new framework secur publish',54
+'big red cornel small leagu robot soccer team',55
+'big red cornel small leagu robot soccer team',55
+'cornel big red small size leagu winner',55
+'attent enhanc system us virtual realiti eeg biofeedback',56
+'ecg acquisit manag system knowledg discoveri databas data model design implement',56
+'analysi scale expon waken sleep stage eeg',56
+'optim quadtre variabl block size motion estim',57
+'optim frequenc domain bit alloc video code',57
+'optim quadtre karhunen loev transform multispectr imag code',57
+'rate distort optim frame type select mpeg encod',57
+'rate distort optim motion smooth mpeg encod',57
+'rate distort optim parametr quantiz matrix mpeg encod',57
+'subband video code scene adapt hierarch motion estim',57
+'subband video code tempor adapt motion interpol',57
+'scene adapt motion interpol structur base tempor mask human visual percept',57
+'studi nois model mpeg encod statist',57
+'tempor adapt motion interpol exploit tempor mask visual percept',57
+'automat prefilt control video encod statist',57
+'rate distort optim parametr quantiz matrix mpeg encod',57
+'joint optim frame type select bit alloc mpeg video encod',57
+'multiresolut video index subband code video databas',57
+'adapt frame type select low bit rate video code',57
+'frequenc offset resist channel estim wcdma',57
+'fast frame type select techniqu low bit rate code us mpeg',57
+'hierarch video index retriev subband code video',57
+'joint optim block size quantiz quadtre base motion estim',57
+'joint optim frame type select bit alloc mpeg video encod',57
+'kalman filter base jump detector imag reconstruct project',57
+'quadtre base least squar predict multispectr imag code',57
+'quadtre base transform code multispectr imag compress',57
+'log likelihood ratio calcul without snr estim forward link ds cdma receiv',57
+'least squar approach predict code d imag',57
+'imag sequenc code us tempor segment motion interpol base tempor mask human visual system',57
+'multiresolut video index subband code video databas',57
+'motion compens subband code scene adapt',57
+'motion interpol us optim space tempor segment base tempor mask human visual system imag multidimension signal process',57
+'new mpeg rate control algorithm base motion estim statist',57
+'new predict code approach multispectr imageri compress',57
+'radix multipli regular layout structur',58
+'singl chip programm platform base multithread processor configur logic cluster',58
+'classic n heurist algorithm microcod bit optim base incomplet relat',58
+'synthesi applic specif instruct embed dsp softwar',58
+'design verif complex microprocessor',58
+'datapath layout optim us genet algorithm simul anneal',58
+'sewd cach architectur speed misalign instruct prefetch d',58
+'fir filter synthesi algorithm minim delai number adder',58
+'sat base unbound symbol model check',58
+'digit signal processor effici rgb interpol histogram accumul',58
+'high perform low power memori interfac architectur',58
+'metacor applic specif dsp develop system',58
+'path metric memori manag minimis interconnect viterbi decod',58
+'arrai address translat sdram base video process applic',58
+'new singl clock flip flop half swing clock',58
+'hierarch circuit cluster algorithm stabl perform',58
+'exploit intellectu properti asip design embed dsp softwar',58
+'quadratur direct digit frequenc synthesi us fine grain angl rotat techniqu',58
+'low power variabl length decod consid success codeword',58
+'low power variabl length decod mpeg base success decod short codeword',58
+'loop address code optim digit signal processor',58
+'loop address code optim dsp instruct set architectur',58
+'perform enhanc embed softwar us regist promot',58
+'time compil code function simul embed softwar perform analysi soc design',58
+'improv dictionari base code compress vliw architectur',58
+'digit filter synthesi base algorithm gener minim sign digit represent',58
+'fast three step half pel motion estim algorithm us enlarg half pel search window',58
+'high perform memori mode control hdtv decod',58
+'path base branch predict us signatur analysi',58
+'time compil code simul embed softwar perform analysi soc design',58
+'fast precis interrupt handl without associ search multipl order issu processor',58
+'processor base turbo interleav multipl third gener wireless standar',58
+'simd processor base turbo decod support multipl third gener wireless standard',58
+'metacor applic specif dsp develop system',58
+'path classifi trace cach improv hit ratio wide issu processor',58
+'fix point mpeg audio processor operationg low frequenc',58
+'fuzzi identif unknown system base ga',59
+'comparison fuzzi valu continu domain',59
+'distribut cooper fuzzi control traffic intersect group',59
+'tcp tune daemon',5
+'dynam monitor high perform distribut applic',5
+'demand grid applic tune debug netlogg activ servic',5
+'netlogg toolkit distribut system perform analysi',5
+'high perform remot access climat simul data challeng problem data grid technolog',5
+'netlogg toolkit distribut system tune debug',5
+'cach base data intens distribut comput architectur grid applic',5
+'network character servic nc',5
+'distribut larg data object manag architectur',5
+'netest tool measur maximum burst size',5
+'distribut parallel data storag system scalabl approach high speed imag server',5
+'system capabl effect algorithm network bandwidth measur',5
+'us netlogg web tcp analysi',5
+'data intens distribut comput medic applic exampl',5
+'direct issu high data rate wide area network environ',5
+'system issu implement high speed distribut parallel storag system',5
+'data intens distribut comput architectur grid applic',5
+'distribut environ larg data object broadband network new view high perform larg scale storag base applic',5
+'tcp tune guid distribut applic wide area network',5
+'dynam monitor high perform distribut applic',5
+'infrastructur passiv network monitor applic data stream',5
+'imag server system high speed parallel distribut data server',5
+'monitor data archiv grid environ',5
+'high perform remot access climat simul data challeng problem data grid technolog',5
+'netlogg methodolog high perform distribut system perform analysi',5
+'monitor sensor manag system grid environ',5
+'microscop examin tcp flow transatlant link',5
+'us high speed wan network data cach enabl remot distribut visual',5
+'monitor sensor manag system grid environ',5
+'giggl framework construct scalabl replica locat servic',5
+'monitor sensor manag system grid environ',5
+'monitor sensor manag system grid environ',5
+'netlogg toolkit distribut system perform analysi',5
+'network awar distribut storag cach data intens environ',5
+'distribut parallel storag architectur potenti applic within eosdi',5
+'high speed distribut data handl line instrument system',5
+'real time gener catalogu larg data object wide distribut environ',5
+'comparison gsiftp rfio wan',5
+'enabl network awar applic',5
+'data intens distribut comput medic applic exampl',5
+'end end perform analysi high speed distribut storag system wide area atm network',5
+'monitor data archiv grid environ',5
+'instrument monitor',5
+'appli techniqu high bandwidth data transfer across wide area network',5
+'netlogg toolkit distribut system perform tune debug',5
+'enabl network measur portabl hierarchi characterist',5
+'network awar distribut storag cach data intens environ',5
+'experi tcp ip atm oc wan',5
+'perform analysi high speed wide area atm network top bottom end end monitor',5
+'high perform remot access climat simul data challeng problem data grid technolog',5
+'real time digit librari base widlei distribut high perform manag larg data object',5
+'us high speed wan network data cach enabl remot distribut visual',5
+'us high speed network enabl distribut parallel imag server system',5
+'us netlogg distribut system perform analysi babar data analysi system',5
+'network channel buffer schedul algorithm interact vod server',60
+'schedul hard aperiod task hybrid static dynam prioriti system',60
+'schedul soft aperiod task adapt fix prioriti system',60
+'vlsi architectur imag process address map',61
+'m hop intercept fh lpi signal us autocorrel techniqu',61
+'pipelin implement cordic rotat processor',61
+'float point vector algorithm base fast rotat',61
+'float point vector algorithm base fast rotat',61
+'float point vector algorithm base fast rotat',61
+'fast low cost float point vector algorithm base cordic',61
+'analysi erlang capac multimedia ds cdma system',61
+'clock multipli us digit cmo standard cell high speed digit commun system',61
+'comput architectur dft base hf band energi detect',61
+'comput architectur imag address mapper',61
+'cordic base fast approxim rotat qr decomposit',61
+'cordic base fast approxim rotat slide window',61
+'pipelin architectur direct kinemat comput us cordic',61
+'fpga solut invers kinemat comput engin',61
+'float point vector algorithm base fast rotat',61
+'simul model solenoid detector collabor data acquisit system',61
+'observ n valu disjointli separ function',61
+'comparison redund cordic rotat engin',61
+'comput architectur dft base energi measur',61
+'comput structur geometr map problem',61
+'constant factor redund cordic angl calcul rotat',61
+'cordic base discret fourier transform desgin',61
+'direct kinemat solut architectur industri robot manipul bit serial versu parallel',61
+'fulli pipelin vlsi architectur robot kinemat problem',61
+'vlsi implement cordic angl unit us lager tool',61
+'vlsi architectur geometr map problem high definit imag processor',61
+'low cost float point vector algorithm base cordic',61
+'implement gener singular valu decomposit us line cordic',61
+'matrix triangular fix point redund cordic constant scale factor',61
+'novel hybrid cdma tdma protocol reserv request slot wireless atm network',61
+'novel processor design signal process new redund cordic',61
+'numer error constant factor redund cordic base behaviro simul',61
+'redund cordic constant scale svd',61
+'simul fly convers sign digit implement cordic rotat processor',61
+'multi qo servic atm switch system',61
+'implement comparison srt divis fpga',61
+'cordic base fast approxim rotat slide window applic discret transform',61
+'modifi joint cdma prma protocol access channel voic data servic',61
+'constant factor redund cordic angl calcul rotat',61
+'simul model sdc line process farm',61
+'earli deploy strategi public wireless lan servic us ipv technolog',62
+'implement nat pt siit enhanc alg perform analysi',62
+'talk ipv transit toolbox',62
+'updat risk base approach ttl estim web cach',63
+'cost base replac algorithm object buffer',63
+'cost base buffer replac algorithm object orient databas system',63
+'semnet semant network integr databas',64
+'semant integr databas us linguist knowledg',64
+'semql semant queri languag multidatabas system',64
+'comput asynchron updat cellular automata',65
+'uniqu parsabl unif grammar parser implement prolog',65
+'lai circuit asynchron cellular arrai step toward feasibl nanocomput',65
+'simul dimension cellular automata uniqu parallel parsabl grammar',65
+'embed univers delai insensit circuit asynchron cellular space',65
+'revers comput asynchron cellular automata',65
+'simul dimension cellular automata uniqu parallel parsabl grammar',65
+'revers comput asynchron cellular automata',65
+'sensor fusion calibr motion captur us acceleromet',66
+'invers kinemat solut base decompos manipul',66
+'recurs dimens grow method comput robot manipul polytop',66
+'experi mpi rt',67
+'motion analysi us competit learn neural network fuzzi reason',67
+'motion analysi us competet neural network fuzzi reason',67
+'reliabl heterogen applic',67
+'replic strategi live check comput resili',67
+'assur consist increas reliabl group commun mechan comput resili',67
+'multithread messag pass system high perform distribut comput applic',67
+'effici group commun architectur atm network',67
+'perform evalu atm gigabit network',67
+'resili imag fusion',67
+'resili remot sens fuse remot sens inform resili',67
+'resili imag fusion',67
+'resili imag fusion',67
+'multithread messag pass system high perform distribut comput applic',67
+'effici group commun architectur atm network',67
+'comput resili',67
+'advanc comput resili',67
+'fuzzi expert system autonom vehicl',67
+'agreement protocol comput resili',67
+'high perform data mine',67
+'precis lock algorithm nest transact system',68
+'multi granular lock nest transact system',68
+'b tree concurr control algorithm nest transact system',68
+'effici pole zero sensit calcul aw',69
+'numer integr algorithm asymptot waveform evalu aw',69
+'awesymbol compil analysi linear iz circuit us asymptot waveform evalu',69
+'resolv ambigu inter chunk depend pars',6
+'corpu base learn method compound noun index rule korean',6
+'compar evalu document translat us mt system queri translat base transfer dictionari',6
+'conceptu cross languag text retriev base document translat us japanes korean mt system',6
+'korean text gener databas homeshop site',6
+'cross languag text retriev base document translat us japanes korean mt system',6
+'xexplain tool gener descript text databas',6
+'evalu categori featur text structur inform text categor us memori base reason',6
+'text categor base k nearest neighbor approach web site classif',6
+'cross languag text retriev queri translat us term reweight',6
+'identifi syntact role anteced korean rel claus us corpu thesauru inform',6
+'depend parser korean base connectionist symbol techniqu',6
+'multi level post process korean charact recognit us morpholog analysi linguist analysi',6
+'skope connectionist symbol architectur spoken korean process',6
+'syllabl pattern base unknown morphem segment estim hybrid part speech tag korean',6
+'conceptu graph gener syntact depend structur mt environ',6
+'identifi syntact role anteced korean rel claus us corpu thesauru inform',6
+'lexic transfer ambigu resolut us automat extract concept co occurr inform',6
+'us abstract knowledg automat sens tag corpu lexic transfer ambigu resolut',6
+'word sens disambigu us neural network concept co occurr inform',6
+'corpu base modal gener korean predic',6
+'colloc base transfer method japanes korean machin translat',6
+'noun phrase index us shallow depend pars korean document',6
+'multi level linguist approach disambigu japanes connect end',6
+'build descript text gener system korean databas',6
+'resolv noun sens ambigu korean base concept co occurr inform',6
+'cross languag text retriev queri translat us term re weight',6
+'two phase automat extract semant knowledg larg corpu',6
+'gener korean predic base modal featur order lexic tabl japanes korean machin translat',6
+'morphem base graphem phonem convers us phonet pattern morphophonem connect inform',6
+'unlimit vocabulari graphem phonem convers korean tt',6
+'dev model simul new layer middlewar',70
+'space base commun data manag scalabl distribut simul',70
+'quantiz base filter distribut discret event simul',70
+'scalabl multicast base filter trace servic framework defeat distribut attack',71
+'ip multicast resourc topolog discoveri us fan decrement mechan',71
+'resourc topolog discoveri ip multicast us fan decrement mechan',71
+'dsr base energi awar rout protocol ad hoc network',71
+'fastreplica effici larg file distribut within content deliveri network',71
+'fastreplica effici larg file distribut within content deliveri network',71
+'complet lineariz class nonlinear siso system uncertainti',71
+'observ nonlinear system unknown input',71
+'observ nonlinear system unknown input',71
+'control design singl link robot flexibl joint us nonlinear observ',71
+'evalu topolog sensit subgroup commun larg scale multicast applic',71
+'ip multicast resourc topolog discoveri us fan decrement mechan',71
+'resourc topolog discoveri ip multicast us fan decrement mechan',71
+'perform analysi hybrid prioriti control scheme input output queue atm switch',72
+'rtmw applic bring multicast audio video web',72
+'perform analysi input queue combin push state depend schedul scheme nonblock atm switch',72
+'unr unit residu forc field energi base predict protein structur orgin signific multibodi term',73
+'evolut physic base methodolog explor conform energi landscap protein',73
+'new optim method conform energi calcul polypeptid conform space anneal',73
+'local mobil robot us imag move target',74
+'studi featur base visual servo control eight ax dual arm robot util redund featur',74
+'optim move window real time road imag process',74
+'model base d face captur shape silhouett',75
+'transfer function bake',75
+'salient iso surfac detect model independ statist signatur',75
+'transfer function bake',75
+'design implement content base imag retriev system us interact genet algorithm',75
+'design implement dsssl processor style control sgml document',75
+'virtual environ share techniqu support multius www',75
+'silhouett base d face shape recoveri',75
+'studi virtual environ share techniqu support multius www',75
+'style control structur document us dsssl',75
+'design implement vrml author tool snapshot',75
+'salient iso surfac detect model independ statist signatur',75
+'minim commun recircul biton sort network',76
+'minim commun biton sort',76
+'minim commun biton sort softwar',76
+'optim design actuat size redundantli actuat omni direct mobil robot',77
+'singular free algorithm design scheme new dof parallel haptic devic',77
+'impuls measur base perform analysi saw task dual arm',77
+'mobil pki pki base authent framework next gener mobil commun',78
+'pki base authent framework next gener mobil internet',78
+'new adapt trust model ddo back ca mesh pki',78
+'vericdf new verif methodolog charg devic failur',79
+'high perform low power skew static logic deep submicron vdsm technolog',79
+'understand address nois induc electrostat discharg multipl power suppli system',79
+'tight analysi self approach strategi onlin kernel search problem',7
+'improv gossip short messag dimension mesh',7
+'carri umbrella onlin reloc game graph',7
+'carri umbrella onlin reloc game graph',7
+'optim embed multipl direct hamiltonian ring d dimension mesh',7
+'direct hamiltonian pack d dimension mesh applic',7
+'visibl base pursuit evas polygon room door',7
+'onlin schedul parallel commun individu deadlin',7
+'new competit strategi search unknown star shape polygon',7
+'polygon search conjectur',7
+'character room searchabl two guard',7
+'visibl base pursuit evas polygon region searcher',7
+'approxim curvatur constrain shortest path sequenc point',7
+'visibl base pursuit evas polygon room door',7
+'onlin schedul parallel commun individu deadlin',7
+'approxim curvatur constrain shortest path sequenc point',7
+'optim algorithm sweep polygon region mobil guard',7
+'simpl algorithm search polygon flashlight',7
+'search polygon room door searcher',7
+'search room two guard',7
+'optim embed multipl direct hamiltonian ring d dimension mesh',7
+'simpl algorithm search polygon flashlight',7
+'search polygon room door searcher',7
+'tight analysi self approach strategi onlin kernel search problem',7
+'character room searchabl two guard',7
+'character class polygon searchabl searcher',7
+'carri umbrella onlin reloc problem graph',7
+'visibl base pursuit evas polygon region searcher',7
+'direct hamiltonian pack d dimension mesh applic extend abstract',7
+'new competit strategi search unknown star shape polygon',7
+'index retriev xml encod structur document dynam environ',80
+'data model algebra document centric xml document',80
+'fast updat index scheme structur xml document',80
+'characterist polynomi graph semifre action',81
+'genu distribut bouquet dipol',81
+'characterist polynomi graph bundl',81
+'count finit fold cover graph',81
+'genu polynomi dipol',81
+'enumer connect graph cover',81
+'enumer graph embed',81
+'enumer regular graph cover finit abelian cover transform group',81
+'regular pq fold cover graph',81
+'isomorph class bipartit cycl permut graph',81
+'enumer graph cover',81
+'bipartit cover graph',81
+'line graph cover graph cover graph',81
+'characterist polynomi graph bundl',81
+'enumer regular graph cover finit abelian cover transform group',81
+'isomorph class concret graph cover',81
+'bipartit graph bundl connect fibr',81
+'regular graph cover whose cover transform group isomorph extens properti',81
+'note graph larg girth small minu domin number',81
+'isomorph class concret graph cover',81
+'isomorph class cycl permut graph',81
+'isomorph class graph bundl',81
+'isoperimetr number graph bundl',81
+'isoperimetr number bisect width doubl cover complet graph',81
+'characterist polynomi complement graph bundl applic',81
+'characterist polynomi weight graph bundl applic link',81
+'permut graph graph',81
+'note graph larg girth small minu domin number',81
+'object orient design main memori dbm real time applic',82
+'main memori databas locat manag telecommun',82
+'extens architectur main memori real time storag system',82
+'differenti log commut associ log scheme highli parallel main memori databas',82
+'databas architectur locat trajectori manag telecommun',82
+'high perform spatial storag base main memori databas architectur',82
+'high perform spatial storag system base main memori databas architectur',82
+'xma extens main memori storag system',82
+'xma extens main memori storag system high perform applic',82
+'extens main memori dbm kernel high perform embed applic',82
+'feedforward modul dynam behaviour anthropomorph robot via forc redund',83
+'design new dof parallel haptic devic',83
+'optim design five bar finger redund actuat',83
+'new multi layer copyright protect us digit watermark',84
+'multi bit imag watermark techniqu geometr attack',84
+'fingerprint algorithm digit imag video',84
+'point stabil mobil robot via state space exact feedback linear',85
+'parallel algorithm solv tridiagon toeplitz linear system',85
+'nan',85
+'tcp pr tcp persist packet reorderin',86
+'hybrid model tcp congest control',86
+'hybrid system model framework fast accur simul data commun network',86
+'applic standard robot method water analysi',87
+'blackboard strategi laboratori robot',87
+'expert system analyt data manag',87
+'data manag issu trade off cscw system',88
+'softwar architectur uarc web base collaboratori',88
+'support multi user multi applet workspac cbe',88
+'maximum entropi principl inform retriev',89
+'studi probabilist inform retriev system case inconsist expert judgment',89
+'test maximum entropi principl inform retriev',89
+'tool invent organ toward handbook organiz process',8
+'goal base process analysi',8
+'goal base process analysi',8
+'virtual environ',8
+'goal base process analysi method systemat process redesign',8
+'partial share view scheme commun among group us differ type hierarchi',8
+'import increment rational manag',8
+'import increment rational manag',8
+'tool invent organ toward handbook organiz process',8
+'extend pott brun model record design rational',8
+'us unifi mediat environ distribut heterogen databas',8
+'increment approach design rational manag',8
+'reengin softwar review process fpa function base process analysi method',8
+'end user perspect file share system',8
+'defin special dataflow diagram',8
+'rational manag system concurr engin',8
+'sibyl tool manag group decis rational',8
+'sibyl tool manag group design rational',8
+'summari report aaai design rational',8
+'extend pott brun model record design rational',8
+'us unifi mediat environ distribut heterogen databas',8
+'s design rational',8
+'us process handbook design organiz process',8
+'increment approach design rational manag',8
+'design rational captur us',8
+'integr softwar lifecycl process standard secur engin',8
+'tool invent organ toward handbook organiz process',8
+'appli special process model',8
+'partial share view scheme commun among group us differ type hierarchi',8
+'research design rational',8
+'agent base framework build dss',8
+'templat base methodolog disast manag inform system',8
+'rational manag system concurr engin',8
+'sibyl qualit decis manag system',8
+'sibyl tool manag group decis rational',8
+'summari report aaai design rational',8
+'us process handbook design organiz process',8
+'ontolog applic design introduct',8
+'inform technolog fashion lifecycl phase analysi',8
+'drl task specif argument represent languag',8
+'effect self ident social ident technolog accept',8
+'design rational captur us',8
+'aaai design rational captur us',8
+'design rational system understand issu',8
+'drl task specif argument represent languag',8
+'pif work group process interchang format',8
+'function base process analysi',8
+'design rational captur us',8
+'pif work group process interchang format framework',8
+'design rational system understand issu',8
+'motion estim incomplet inform us omni direct vision',90
+'augment virtual environ av dynam fusion imageri d model',90
+'track unprepar environ augment realiti system',90
+'bound geometri fractal low distort embed',91
+'intrins dimension graph',91
+'hard approxim vertex connect network design problem',91
+'effici graphic shot verifi incorpor visual rhythm',92
+'visual rhythm shot verif',92
+'tunabl class hierarchi index object orient databas us multidimension index structur',93
+'corrigendum tunabl class hierarchi index object orient databas us multidimension index structur',93
+'estim restrict site observ optic map us revers jump markov chain mont carlo',94
+'estim restrict site observ optic map us revers jump markov chain mont carlo',94
+'design sharp fir filter prescrib group delai',95
+'minimax design two dimension fir digit filter us interior point algorithm',95
+'select multi resolut motion estim us half pixel accuraci characterist motion vector',96
+'new bock artifact reduct algorithm us adapt filter base classif block boundari area',96
+'resist cast like encrypt algorithm linear differenti cryptanalysi',97
+'petri net base model specif analysi cryptograph protocol',97
+'adopt hierarch categori dimens multidimension inform retriev engin',98
+'design evalu multi dimension approach inform retriev',98
+'us case base reason domain build regul',99
+'kic knowledg intens case base reason system statutori build regul case histori',99
+'us n gram korean text retriev',9
+'n gram base index korean text retriev',9
+'statist model korean text segment us syllabl level bigram',9
+'evalu boolean oper extend boolean retriev framework',9
+'rank document thesauru base boolean retriev system',9
+'studi util ocr technolog build text databas',9
+'effect posit compens retriev effect',9
+'combin multipl evid differ properti weight scheme',9
+'combin multipl evid differ relev feedback method',9
+'knowledg base approach rank document boolean queri',9
+'combin multipl evid differ properti weight scheme',9
+'combin multipl evid differ relev feedback network',9
+'effect index method korean text retriev',9
+'combin evid differ relev feedback method inform retriev',9
+'n gram base index effect retriev korean text',9
+'properti extend boolean model inform retriev',9
+'enhanc fuzzi set model posit compensatori oper',9
+'us n gram korean text retriev',9
+'multikei access method base term descrimin signatur cluster',9
+'knowledg base approach rank document boolean queri',9
+'enhanc fuzzi set model posit compensatori oper',9
+'analysi fuzzi oper high qualiti inform retriev',9
+'analys multipl evid combin',9
+'evalu boolean oper extend boolean retriev framework',9
+'properti extend boolean model inform retriev',9
+'us multipl relev feedback method high retriev effect',9

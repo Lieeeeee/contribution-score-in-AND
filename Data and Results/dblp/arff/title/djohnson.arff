@@ -1,0 +1,372 @@
+@relation 'Dataset dblp title djohnson'
+@attribute Text string
+@attribute class-att {197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211}
+@data
+'public kei extens common cryptograph architectur',197
+'transact secur extens common cryptograph architectur',197
+'common cryptograph architectur cryptograph applic program interfac',197
+'design commerci mask facil privaci algorithm',197
+'distribut hardwar mechan process synchron share bu multiprocessor',198
+'circul activ barrier synchron mechan',198
+'low cost high perform barrier synchron network workstat',198
+'formal secur proof signatur scheme partial messag recoveri',199
+'ae futur resili more thought question',199
+'spert ii vector microprocessor',200
+'spert ii vector microprocessor it applic larg problem backpropag train',200
+'trap architectur lisp',201
+'case read barrier',201
+'object orient project manag panel',202
+'manag object orient project panel session',202
+'commun process',203
+'graph restrict their effect',203
+'rectilinear steiner tree problem np complet',203
+'rectilinear steiner tree problem is np complet',203
+'theorem bin pack',203
+'two processor schedul start time deadlin',203
+'proceed th th dimac implement challeng',203
+'simul result capac cellular',203
+'knapsack linear program gamut problem',203
+'th dimac implement challeng travel salesman problem',203
+'challeng theoret comput scienc draft june',203
+'stoc foc bibliographi',203
+'cliqu color satisfi proceed nd dimac implement challeng',203
+'comput complex',203
+'catalogu complex class',203
+'discret algorithm complex proceed japan us joint seminar june kyoto japan',203
+'hypergraph planar complex draw venn diagram',203
+'experiment analysi heurist stsp',203
+'experiment analysi heurist atsp',203
+'more approach travel salesman guid',203
+'knapsack partit new dynam program techniqu tree',203
+'np complet ongo guid',203
+'properti b r',203
+'embed problem',203
+'near opim solut veri larg travel salesman problem',203
+'worst case behavior graph color algorithm',203
+'worst case perform bound simpl on dimension pack algorithm',203
+'network flow match proceed st dimac implement challeng',203
+'perform guarante heurist',203
+'optim conjunct queri that contain untyp variabl',203
+'optim simul anneal experiment evalu part i graph partit',203
+'slow ant',203
+'uniqu',203
+'complex network design problem',203
+'genealog theoret comput scienc',203
+'travel salesman problem case studi local optim',203
+'theoretician s guid experiment analysi algorithm',203
+'announc updat greatest hit',203
+'optim conjunct queri that contain untyp variabl',203
+'schedul file transfer',203
+'scalabl accur identif as level forward path',203
+'network design',203
+'interact proof fun profit',203
+'complex multitermin cut',203
+'schedul unit time task arbitrari releas time deadlin',203
+'updat updat updat',203
+'comput math depart part i',203
+'parallel process',203
+'partit cover pack problem',203
+'oracl bin pack order problem',203
+'random algorithm complex class',203
+'rout problem',203
+'solv np hard problem quickli averag',203
+'mani face polynomi time',203
+'stori so far',203
+'comput on hand ti behind your back',203
+'tale second prover',203
+'twelv open problem from g j',203
+'cut stock approach bin pack theori experi',203
+'optim simul anneal experiment evalu part ii graph color number partit',203
+'experiment studi bin pack',203
+'unexpect behavior result bin pack',203
+'concurr process',203
+'note bisect minimum span tree',203
+'schedul equal length task treelik preced constraint minim maximum late',203
+'pack two dimension bin',203
+'two result concern multicolor',203
+'asymmetr travel salesman problem algorithm instanc gener test',203
+'bin pack divis item size',203
+'bin pack discret item size part iii averag case behavior ffd bfd',203
+'bin pack discret item size part i perfect pack theorem averag case behavior optim pack',203
+'dynam bin pack',203
+'fundament discrep between averag case analys discret continu distribut bin pack case studi',203
+'averag case behavior ffd optim bin pack u distribut',203
+'markov chain comput proof averag case analysi best fit bin pack',203
+'applic bin pack multiprocessor schedul',203
+'approxim algorithm bin pack updat survei',203
+'approxim algorithm bin pack survei',203
+'probabilist analysi pack relat partit problem',203
+'perfect pack theorem averag case behavior optim onlin bin pack',203
+'perform bound level orient two dimension pack algorithm',203
+'schedul file transfer',203
+'unit disk graph',203
+'bin pack discret item size part i perfect pack theorem averag case behavior optim pack',203
+'fundament discrep between averag case analys discret continu distribut bin pack case studi',203
+'complex multitermin cut',203
+'fun game',203
+'comput complex infer root phylogeni parsimoni',203
+'worst case perform bound simpl on dimension pack algorithm',203
+'complex checker nxn board preliminari report',203
+'complex result bandwidth minim',203
+'complex result multiprocessor schedul resourc constraint',203
+'compos function minim imag size',203
+'cross number is np complet',203
+'algorithm set partit problem aris design multi purpos unit',203
+'number theoret bin pack conjectur',203
+'applic graph color print circuit test',203
+'note note simplifi np complet graph problem',203
+'approxim algorithm bin pack problem survei',203
+'approxim algorithm combinatori problem annot bibliographi',203
+'perform guarante schedul algorithm',203
+'resourc constrain schedul as gener bin pack',203
+'schedul unit time task arbitrari releas time deadlin',203
+'schedul oppos forest',203
+'fast alloc algorithm',203
+'np complet geometr problem',203
+'strong np complet result motiv exampl implic',203
+'complex color circular arc chord',203
+'complex comput steiner minim tree',203
+'complex flowshop jobshop schedul',203
+'complex gener lloyd max problem',203
+'planar hamiltonian circuit problem is np complet',203
+'effici robust stream provis vpn',203
+'effici robust stream provis vpn',203
+'triangul simpl polygon',203
+'algorithm set partit problem aris design multipurpos unit',203
+'bound space line bin pack best is better than first',203
+'bound space line bin pack best is better than first',203
+'fast algorithm bin pack',203
+'how easi is local search',203
+'local optim travel salesman problem',203
+'local optim travel salesman problem',203
+'minim channel densiti later shift compon',203
+'gener all maxim independ set',203
+'what ar least tractabl instanc max independ set',203
+'approxim algorithm combinatori problem',203
+'asymptot experiment analysi held karp travel salesman bound',203
+'densest hemispher problem',203
+'prize collect steiner tree problem theori practic',203
+'test contain conjunct queri function inclus depend',203
+'better approxim algorithm bin cover',203
+'sum squar algorithm bin pack',203
+'self organ bin pack heurist',203
+'dual version on dimension bin pack problem',203
+'optim conjunct queri when attribut domain ar not disjoint extend abstract',203
+'test contain conjunct queri function inclus depend',203
+'test contain conjunct queri function inclus depend',203
+'minim channel densiti later shift compon',203
+'schedul file transfer distribut network',203
+'unexpect expect behavior result bin pack',203
+'complex search graph',203
+'prize collect steiner tree problem theori practic',203
+'structur travel salesmen',203
+'structur travel salesmen',203
+'how easi is local search',203
+'how easi is local search extend abstract',203
+'gener all maxim independ set',203
+'complex search graph',203
+'complex search graph preliminari version',203
+'densest hemispher problem',203
+'triangul simpl polygon',203
+'asymptot experiment analysi held karp travel salesman bound',203
+'applic graph color print circuit test work paper',203
+'simplifi np complet graph problem',203
+'simplifi np complet problem',203
+'what ar least tractabl instanc max tndepend set',203
+'near optim intraprocedur branch align',203
+'approxim algorithm combinatori problem',203
+'approxim algorithm combinatori problem',203
+'np complet column ongo guid',203
+'travel salesman problem report state art',203
+'dual version on dimension bin pack problem',203
+'geometr maximum travel salesman problem',203
+'maximum travel salesman problem polyhedr norm',203
+'gener planar match',203
+'perform effici driven evalu scheme',203
+'catalog complex class',203
+'bin pack discret item size part ii tight bound first fit',203
+'structur travel salesmen abstract',203
+'bound space line bin pack best is better than first',203
+'better approxim algorithm bin cover',203
+'sum squar algorithm bin pack',203
+'self organ bin pack heurist',203
+'structur travel salesmen',203
+'comput intract guid theori np complet',203
+'fast algorithm bin pack',203
+'schedul task nonuniform deadlin two processor',203
+'simplifi np complet graph problem',203
+'complex near optim graph color',203
+'complex multiwai cut extend abstract',203
+'complex checker n n board preliminari report',203
+'connect compon o lg v parallel time crew pram',204
+'connect compon o log n parallel time crew pram',204
+'find all elementari circuit direct graph',204
+'o n log n algorithm maximum flow undirect planar network',204
+'erratum gener select rank sort matric',204
+'gener select rank sort matric',204
+'select kth element x y x x x m',204
+'complex network reliabl optim resourc placement problem',204
+'optim algorithm singl multipl vertex updat problem minimum span tree',204
+'minim access cost replic distribut abstract',204
+'gener select rank preliminari version',204
+'find k th path p center gener search good structur',204
+'parallel algorithm comput minimum span tree',204
+'toward multimedia confer proceed',204
+'effect replic avail',204
+'complex select rank x y matric sort column',204
+'tight upper bound benefit replica control protocol',204
+'parallel algorithm minimum cut maximum flow planar network preliminari version',204
+'prioriti queue updat find minimum span tree',204
+'sort number linear expect time optim extra space',204
+'note dijkstra s shortest path algorithm',204
+'effici algorithm shortest path spars network',204
+'parallel algorithm minimum cut maximum flow planar network',204
+'partit planar flow network preliminari version',204
+'new algorithm preemptiv schedul tree',204
+'reduc among float point graph',204
+'lower bound select x y other multiset',204
+'prioriti queue which initi queue oper take o log log d time',204
+'find optim quorum assign distribut databas',204
+'optim algorithm vertex updat problem minimum span tree',204
+'tight upper bound benefit replic consist control protocol',204
+'parallel algorithm comput minimum span tree',204
+'gener search set induc network',204
+'editori',205
+'editori mobil network internet',205
+'transpar optimist rollback recoveri',205
+'mobil support ipv',205
+'adapt demand driven multicast rout multi hop wireless ad hoc network',205
+'packet leash defens against wormhol attack wireless network',205
+'imhp mobil host protocol internet',205
+'mobil host protocol support rout optim authent',205
+'rout optim mobil ip',205
+'complet asynchron optimist recoveri minim rollback',205
+'internet support wireless mobil network',205
+'recoveri distribut asynchron messag log checkpoint',205
+'effici transpar optimist rollback recoveri distribut applic program',205
+'power mode schedul ad hoc network',205
+'perform consist checkpoint',205
+'minim timestamp size complet asynchron optimist recoveri minim rollback',205
+'recoveri distribut optimist messag log checkpoint',205
+'peregrin high perform rpc',205
+'survei rollback recoveri protocol messag pass',205
+'scalabl robust internetwork rout mobil host',205
+'ubiquit mobil host internetwork',205
+'ensur cach fresh demand ad hoc network rout protocol',205
+'sead secur effici distanc vector rout mobil wireless ad hoc network',205
+'design evalu metropolitan area multiti wireless ad hoc network architectur',205
+'cach strategi demand rout protocol wireless ad hoc network',205
+'perform comparison multi hop wireless ad hoc network rout protocol',205
+'implicit sourc rout demand ad hoc network rout',205
+'improv method haptic trace sculptur surfac',206
+'six degre freedom haptic render complex polygon model',206
+'spatial normal cone hierarchi',206
+'haptic manipul virtual mechan from mechan cad design belgium leuven mai',206
+'haptic render surfac surfac sculpt model interact',206
+'haptic interfac virtual prototyp mechan cad design',206
+'framework effici minimum distanc comput belgium leuven mai',206
+'minimum distanc queri polygon parametr model',206
+'bound coher minimum distanc comput',206
+'haptic manipul virtual mechan from mechan cad design',206
+'six degre freedom haptic render complex polygon model',206
+'direct haptic render sculptur model',206
+'framework effici minimum distanc comput',206
+'spatial normal come hierarchi',206
+'direct haptic render sculptur model',206
+'bound coher minimum distanc comput',206
+'paint textur haptic interfac',206
+'paint textur haptic interfac',206
+'cryptographi retent panopticon societi abstract',207
+'anonym pseudonym inescap ident net abstract',207
+'democraci global inform infrastructur',207
+'ethic issu comput scientist engin',207
+'ethic onlin shape social behavior onlin take more than new law modifi edict',207
+'account comput decis',207
+'new acm code ethic decis make',207
+'layer boundari protect experi inform assur',208
+'three applic formal method at mitr',208
+'inform flow nondeterminist',208
+'state secur requir toler set',208
+'secur composit machin',208
+'secur properti consist test semant commun process',208
+'wh question unif type featur structur grammar vs featur check minimalist program',209
+'overview stratifi featur grammar',209
+'arc pair grammar',209
+'relat grammar gener jet japanes english machin translat',209
+'stratifi featur structur multistrat relat analys',209
+'text categor toolkit',209
+'featur structur formal relat grammar',209
+'govern rule geni english gener',209
+'gener jet',209
+'geni transport english gener',209
+'multimod natur languag interfac cross applic task',209
+'linguist design post analysi jet japanes english machin translat',209
+'relat grammar approach machin translat',209
+'technic infrastructur',209
+'toward theori relation grammar',209
+'revolut confus repli our critic',209
+'revolut maxim confus',209
+'structur unscientif revolut',209
+'kitcat text categor toolkit',209
+'dynam interpret constraint grammar formal',209
+'decis tree symbol rule induct text categor',209
+'boost text mine perform',209
+'natur languag understand grammar construct',209
+'critiqu minimalist program',209
+'dynam interpret constraint formal',209
+'grammar formal view as evolv algebra',209
+'evolv algebra mathemat model languag',209
+'local constraint vs economi',209
+'linguist philosophi special issu mathemat languag',209
+'design post analysi jet japanes english machin translat',209
+'unif parser relat grammar',209
+'formal properti stratifi featur grammar',209
+'unif parser relat grammar',209
+'formal properti stratifi featur grammar',209
+'text chunk regular winnow',209
+'text chunk regular winnow',209
+'asymptot m hypothesi bayesian detect',210
+'relat between kullback leibler distanc fisher inform',210
+'when doe interv code occur',210
+'optim stimulu code neural popul rate code',210
+'optim physic layer transmiss minim signal distort',210
+'symmetr kullback leibler distanc',210
+'basic inform process',210
+'dialogu concern neural code inform theori',210
+'from signal inform process present',210
+'four top reason why mutual inform doe not assess neural inform process',210
+'limit popul code',210
+'inform process perform limit neural popul',210
+'new multivari depend measur applic neural ensembl',210
+'neural popul structur consequ neural code',210
+'point process model singl neuron discharg',210
+'optim linear detector addit nois channel',210
+'origin equival circuit concept current sourc equival',210
+'origin equival circuit concept voltag sourc equival',210
+'signal encod fire pattern auditori neuron',210
+'fractal nois strength auditori nerv fiber record',210
+'inform process linear block decod',210
+'inform process approach distribut detect',210
+'new look at inform gain soft decis',210
+'optim binari decis manipul transmiss interv',210
+'visual respons crayfish ocular motoneuron inform theoret analysi',210
+'visual signal optomotor reflex inform theoret analysi',210
+'inform process dure transient respons crayfish visual',210
+'toward theori inform process',210
+'linear transform symbol',210
+'optim binaur process point process model preprocess cue',210
+'singl neuron model lso unit respons',210
+'correl neural inform code fidel effici',210
+'differ first cours electr engin',210
+'comparison optim suboptim spike sort algorithm theoret limit',210
+'visual signal optomotor reflex inform theoret analysi',210
+'inform theoret analysi neural code',210
+'correl neural inform code fidel effici',210
+'quantifi inform transfer spike gener',210
+'quantifi inform transfer spike gener',210
+'inform theoret analysi neural code',210
+'appli cmm project plan practic divers environ',211
+'realiti reward softwar process improv',211
+'what small busi small organ sai cmm experi report',211
+'softwar process improv approach tailor small organ small project tutori',211
+'return invest roi from softwar process improv as measur us industri',211

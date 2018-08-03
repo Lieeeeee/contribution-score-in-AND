@@ -1,0 +1,264 @@
+@relation 'Dataset dblp title mjones'
+@attribute Text string
+@attribute class-att {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13}
+@data
+'multiview project object orient view technolog applic',10
+'symbol intersect detect method improv spatial intersect join',10
+'improv spatial intersect join us symbol intersect detect',10
+'view materi techniqu complex hierarch object',10
+'schema independ xml databas system',11
+'manag heterogen ecolog data us morpho',11
+'manag scientif metadata',11
+'appear base structur motion us linear class d model',12
+'mont carlo algorithm fast project cluster',12
+'toward ghdl eval framework deepli embed simpl hdl hol',13
+'brief introduct formal method',13
+'alexandria librari abstract verifi hardwar modul',13
+'alexandria tool heirarch verif',13
+'verifi transact order properti unbound bu network combin deduct algorithm method',13
+'verifi transact order properti unbound bu network combin deduct algorithm method',13
+'pyramid broadcast fast forward rewind',13
+'restrict type hol',13
+'toward autom abstract protocol branch network',13
+'formal proof solut pci bu transact order problem',13
+'increment proof produc consum properti pci protocol',13
+'simplifi improv qualifi type',1
+'reactiv object',1
+'us parameter signatur express modular structur',1
+'polymorph type system extens record variant',1
+'us type pars natur languag',1
+'monad transform modular interpret',1
+'system constructor class overload implicit higher order polymorph',1
+'us type pars natur languag',1
+'implement gofer function program system',1
+'theori qualifi type',1
+'type class explor design space',1
+'type class function depend',1
+'comput lattic applic type class',1
+'dictionari free overload partial evalu',1
+'dictionari free overload partial evalu',1
+'function program overload higher order polymorph',1
+'first class polymorph type infer',1
+'ml type explicit polymorph qualifi type',1
+'integr program properti valid',1
+'program constructor class abstract',1
+'program constructor class preliminari summari',1
+'coher qualifi type',1
+'compos monad',1
+'comput lattic applic type class',1
+'dictionari free overload partial evalu',1
+'type haskel haskel',1
+'function program overload higher order polymorph',1
+'function java bytecod',1
+'hindlei milner type first class structur',1
+'monad transform modular interpret',1
+'first class polymorph type infer',1
+'implement type class',1
+'hug haskel user s gofer system user manual',1
+'implement type class',1
+'lightweight extens record haskel',1
+'qualifi type theori practic',1
+'simplifi improv qualifi type',1
+'us parameter signatur express modular structur',1
+'system constructor class overload implicit higher order polymorph',1
+'theori qualifi type',1
+'theori qualifi type',1
+'ml type explicit polymorph qualifi type',1
+'type class function depend',1
+'implicit explicit parallel program haskel',1
+'oper system direct next millennium',2
+'cpu reserv time constraint effici predict schedul independ activ',2
+'support user centric modular real time resourc manag rialto oper system',2
+'cpu reserv time constraint implement experi window nt',2
+'futur distribut embed real time applic will adapt mean challeng research paradigm panel',2
+'modular real time resourc manag rialto oper system',2
+'mach matchmak kernel languag support object orient distribut system',2
+'overview rialto real time architectur',2
+'oper system support multimedia program model matter',2
+'predict schedul digit audio',2
+'problem re mai problem think re result latenc studi window nt',2
+'predict schedul soft modem',2
+'problem re mai problem think re result latenc studi window nt',2
+'predict requir soft modem',2
+'two case studi predict applic schedul us rialto nt',2
+'cpu reserv time constraint effici predict schedul independ activ',2
+'predict requir soft modem',2
+'overlook scalabl name servic overlai network',2
+'issu us commod oper system time depend task experi studi window nt',2
+'problem re mai problem think re result latenc studi window nt',2
+'two case studi predict applic schedul us rialto nt',2
+'bring c librari us multi thread futur',2
+'matchmak interfac specif languag distribut process',2
+'consum real time system applic',2
+'evalu scalabl applic level multicast built us peer peer overlai',2
+'adapt real time resourc manag support composit independ author time critic servic',2
+'skipnet scalabl overlai network practic local properti',2
+'inherit unlik place us object build deriv implement flat interfac',2
+'interposit agent transpar interpos user code system interfac',2
+'microsoft interact tv system experi report',2
+'transpar interpos user code system interfac',2
+'consum real time system',2
+'adapt real time resourc manag support composit independ author time critic servic',2
+'adapt real time resourc manag support modular composit digit multimedia servic',2
+'interposit agent transpar interpos user code system interfac',2
+'interposit agent transpar interpos user code system interfac',2
+'toolkit interpos user code system interfac abstract',2
+'simpl effici implement small databas',2
+'oper system direct next millennium',2
+'tiger video fileserv',2
+'herald achiev global event notif servic',2
+'vassal loadabl schedul support multi polici schedul',2
+'nan',3
+'toward activ hardwar',3
+'evalu rapid context switch csrc devic',3
+'commun electron textil system',3
+'solut larg spars system linear equat massiv parallel applic',3
+'servic backplan textil',3
+'implement api distribut adapt comput system',3
+'task distribut sensor network',3
+'two stage multisplit method overlap block',3
+'examin commun requir remot scientif visual',3
+'model piezoelectr crystal intel delta',3
+'us configur comput scientif simul',3
+'factor indefinit matric high perform architectur',3
+'vector parallel vector implement lanczo s method gener eigenvalu problem',3
+'nan',3
+'parallel adapt mesh refin techniqu plastic problem',3
+'script base approach commerc applic',3
+'us piezoelectr materi wearabl electron textil',3
+'us piezoelectr materi wearabl electron textil',3
+'parallel algorithm mesh smooth',3
+'parallel algorithm mesh smooth',3
+'scalabl mesh improv algorithm',3
+'parallel heurist improv balanc graph color',3
+'comput result parallel unstructur mesh comput',3
+'adapt refin unstructur finit element mesh',3
+'algorithm fortran subroutin comput improv incomplet choleski factor',3
+'improv incomplet choleski factor',3
+'unstructur mesh comput network workstat',3
+'parallel heurist improv balanc graph color',3
+'parallel algorithm adapt mesh refin',3
+'parallel solut unstructur spars system linear equat',3
+'recent result model type superconductor massiv parallel comput',3
+'scalabl iter solut spars linear system',3
+'spatial hypertext reader tool digit librari',4
+'sort search small screen devic',4
+'hyperat hci web author',4
+'m tool',4
+'us rel durat larg vocabulari speech recognit',4
+'new user interfac metaphor mobil person technolog',4
+'search interfac handheld web browser',4
+'digit librari convers express help profoundli disabl user commun',4
+'sort search small screen devic',4
+'chang pace search support background inform need',4
+'site base outlin small screen web access',4
+'convent art web exhibit new electron art form',4
+'hyperat hci web author',4
+'us acoust level prosod larg vocabulari speech recognit',4
+'larg small screen digest',4
+'lost hyperspac psycholog problem bad design',4
+'ubiquit comput cellular handset menu best wai forward',4
+'evalu webtwig site outlin handheld web access',4
+'improv conceptu design better hypertext',4
+'ubiquit comput cellular handset menu best wai forward',4
+'reduc inform overload compar studi hypertext system',4
+'data structur design interfac',4
+'nan',4
+'explor small screen digit librari access greenston digit librari',4
+'obituari fax',4
+'improv mobil internet usabl',4
+'empow consum usabl certif',4
+'usabl analysi markov model',4
+'lost hyperspac lost controversi',4
+'creativ digit librari',4
+'mobil interfac web access web mobil',4
+'model syllabl characterist improv larg vocabulari speech recognis',4
+'exploit variabl width featur larg vocabulari speech recognit',4
+'improv web interact small screen displai',4
+'improv web interact small displai',4
+'improv web search small screen devic',4
+'success user interfac design effici comput algorithm',4
+'unit author reader activ link world wide web',4
+'us mobil devic vari pace search',4
+'natur languag knowledg base m phil',4
+'us algorithm interfac design',4
+'product paradox',4
+'special issu social issu',4
+'prepar new ubiquit comput',4
+'us auditori feedback call centr comput human human interact',4
+'us mobil devic vari pace search',4
+'children design partner tester children s digit librari',4
+'cognit task graph execut user model better hypertext',4
+'ethic govern internet',4
+'children design partner tester children s digit librari',4
+'spatial hypertext reader tool digit librari',4
+'design children s digit librari children',4
+'special issu multimod interact mobil wearabl comput',4
+'nan',4
+'design tool hypertext author',4
+'design children s digit librari children',4
+'explor small screen digit librari access greenston digit librari',4
+'evalu webtwig site outlin handheld web access',4
+'spatial hypertext reader tool digtial librari',4
+'nan',5
+'don t emancip exagger rhetor realiti reengin',5
+'groupwar social infrastructur commun',5
+'limit knowabl organiz design knowledg system develop',5
+'structur develop structur analysi develop execut inform system',5
+'long wind road collabor organis chang',5
+'import nearest nearshor softwar outsourc global discours',5
+'interorganiz system trust strateg allianc',5
+'move finger us social theori wg confer paper',5
+'probabilist parser appli softwar test document',6
+'conceptu depend montagu grammar step toward concili',6
+'kitss knowledg base translat system test scenario',6
+'flexibl list manag directori',6
+'us descript logic kbse system experi report',6
+'us descript logic kbse system',6
+'activ base pars',6
+'feedback coindex mechan connectionist architectur',6
+'model base match line draw linear combin prototyp',7
+'multidimension morphabl model',7
+'robust real time face detect',7
+'cluster base statist model object detect',7
+'fast robust classif us asymmetr adaboost detector cascad',7
+'statist color model applic skin detect',7
+'hierarch morphabl model',7
+'statist color model applic skin detect',7
+'extend hypertextur non geometr defin data',8
+'volum express artist model render dataset',8
+'shape represent us space fill sub voxel distanc field',8
+'method metamorphosi',8
+'voxelis model graphic',8
+'new approach construct surfac contour data',8
+'theori practis comput graphic',8
+'th eurograph uk confer',8
+'acceler techniqu render',8
+'acceler techniqu render',8
+'direct surfac render gener genet bred implicit surfac',8
+'facial reconstruct us volumetr data',8
+'fast cut oper three dimension dataset',8
+'space subdivis finit element mesh',8
+'glossari',8
+'volum express artist model render dataset',8
+'voxelis polygon mesh',8
+'global illumin volumetr data set',8
+'voxelis model graphic',8
+'melt object',8
+'effici shadow detect algorithm direct surfac render visualis model',8
+'new approach construct surfac contour data',8
+'shape represent us space fill sub voxel distanc field',8
+'us distanc field object represent render',8
+'product data triangular mesh us voxelis',8
+'hybrid distanc field comput',8
+'hypertextur complex object',8
+'hypertextur complex object',8
+'facial reconstruct us volumetr data',8
+'vector citi vector distanc transform',8
+'product data triangular mesh us voxelis',8
+'distort morph us disk field',8
+'enhanc instruct capabl intellig tutor system',9
+'comput analog',9
+'ai approach educ editori',9
+'bring marketplac success experi minimalist design',9
+'student model genet graph approach',9

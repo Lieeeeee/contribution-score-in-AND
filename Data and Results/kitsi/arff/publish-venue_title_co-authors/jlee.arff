@@ -1,0 +1,207 @@
+@relation 'Dataset kitsi publish-venue_title_co-authors jlee'
+@attribute Text string
+@attribute class-att {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66}
+@data
+'ijpp constant propag algorithm explicitli parallel program s midkiff d padua',1
+'icpp restructur program high speed comput polari w blume r eigenmann k faigin j grout t lawrence j hoeflinger d padua y paek p petersen w pottenger l rauchwerger p tu s weatherford',1
+'lcpc concurr static singl assign form constant propag explicitli parallel program s midkiff d padua',1
+'comput parallel program polari w blume r doallo r eigenmann j grout j hoeflinger t lawrence d padua y paek w pottenger l rauchwerger p tu',1
+'tpd correl prefetch user level memori thread y solihin j torrellas',1
+'concurr compil multipl memori model s midkiff d padua',1
+'ppopp basic compil algorithm parallel program d padua s midkiff',1
+'lcpc automat implement program languag consist model z sura c wong x fang s midkiff d padua',1
+'tapsoft step stanford tempor prover z manna n bjorner a browne e chang m colon l alfaro h devarajan a kapur h sipma t uribe',1
+'tc hide relax memori consist compil d padua',1
+'lcpc adapt increas perform scalabl automat parallel program h moonesinghe',1
+'ieeepact hide relax memori consist compil d padua',1
+'isca us user level memori thread correl prefetch y solihin j torrellas',1
+'hpca automat map code intellig memori architectur y solihin j torrellas',1
+'gcc design vdsl network high speed internet servic h yoe',1
+'im adapt map code intellig memori architectur y solihin j torrellas',1
+'tc automat code map intellig memori architectur y solihin j torrellas',1
+'ictai algorithm detect local multi target wireless acoust sensor network j lim s hong p park',2
+'ieeecit track object d space us particl filter base sensor arrai j lim s hong p park',2
+'aaai structur circuit semant reactiv plan execut system e durfee',3
+'icma microeconom approach intellig resourc share multiag system e durfee',3
+'mswim impact locat inconsist geograph rout wireless network y kim a helmy',4
+'sigmobil model analyz impact locat inconsist geograph rout wireless network y kim a helmy',4
+'islp energi effici instruct set synthesi applic specif processor k choi n dutt',5
+'dt compil approach coars grain reconfigur architectur k choi n dutt',5
+'iccad effici instruct encod automat instruct set design configur asip k choi n dutt',5
+'isorc tmo structur distribut locat inform system prototyp y nah s park h lee s kim m kim k han',6
+'word distribut scalabl locat data manag system base gali architectur y nah w lee h lee m kim k han',6
+'isorc long term locat data manag distribut move object databas h lee j hwang s park c lee y nah s jeon m kim',6
+'arscom isoperimetr number bisect width doubl cover complet graph j kwak s hong m sohn',7
+'siamdm enumer regular graph cover finit abelian cover transform group j kwak j chun',7
+'ejc distribut regular branch surfac cover i goulden j kwak',7
+'dm balanc regular cover sign graph regular branch orient surfac cover non orient surfac j kwak y shin',7
+'arscom isomorph class bipartit cycl permut graph j kwak',7
+'siamdm isomorph class concret graph cover r feng j kwak j kim',7
+'dm isomorph class cycl permut graph j kwak',7
+'ejc bartholdi zeta function graph bundl regular fiber j kwak m sohn',7
+'3dim effici scatter data approxim us multilevel b spline base quasi interpol b lee j yoo',8
+'iccsa quasi interpol base multilevel b spline surfac reconstruct scatter data b lee k kwon',8
+'iciap 3d surfac reconstruct scatter data us move least squar method s ahn j yoo b lee',8
+'pe perform analysi input queue atm switch two prioriti class j choi c un',9
+'infocom util optim medium access control revers forward engin m chiang a calderbank',9
+'ton downlink power alloc multi class wireless system r mazumdar n shroff',9
+'ton non convex optim rate control multi class servic internet r mazumdar n shroff',9
+'wiopt revers engin mac a tang j huang m chiang a calderbank',9
+'infocom opportunist power schedul multi server wireless system minimum perform constraint r mazumdar n shroff',9
+'infocom downlink power alloc multi class cdma wireless network r mazumdar n shroff',9
+'infocom non convex issu internet rate control multi class servic stabil optim r mazumdar n shroff',9
+'ismir survei music inform need us seek behaviour preliminari find j downie',10
+'ismir challeng cross cultur multilingu music inform seek j downie s cunningham',10
+'jcdl toward understand similar judgment music digit librari evalu j downie a gruzd m jones',10
+'tcsv optim channel alloc unifi video demand system nan',11
+'tcsv monoton decreas rate schedul variabl bit rate video stream h lai l chen',11
+'tcsv design perform analysi implement super scalar video demand system c lee',11
+'tmm unifi architectur video demand servic nan',11
+'tpd automat recoveri disk failur continu media server j lui',11
+'ac secur polici r anderson f stajano',12
+'rcc effici method detect kei object video shot camera motion j oh s hwang',12
+'kdd multimedia data mine framework raw video sequenc j oh s kote b bandi',12
+'comcom jikzi new framework secur polici trust publish electron commerc r anderson',12
+'mm scenario base dynam video abstract us graph match j oh s hwang',12
+'spw jikzi new framework secur publish r anderson',12
+'mm automat measur qualiti metric colonoscopi video s hwang j oh y cao w tavanapong d liu j wong p groen',12
+'pakdd real time video data mine surveil video stream j oh s kote',12
+'ism graph base approach model index video data nan',12
+'sigop new famili authent protocol r anderson f bergadano b crispo c manifavas r needham',12
+'sac automat classif digest organ wireless capsul endoscopi video j oh s shah x yuan s tang',12
+'sigmod strg index spatio tempor region graph index larg video databas j oh s hwang',12
+'giscienc 3d gi geo code human activ micro scale urban environ nan',13
+'urban emerg respons potenti real time 3d gi quick emerg respons micro spatial environ m kwan',13
+'kbse bogor kiasan k bound symbol execut check strong heap properti open system x deng robby',14
+'entc dynam revers code gener backward execut nan',14
+'sigpro adapt beamform multipl beam constraint presenc coher jammer t hsu',15
+'sc us high speed network enabl distribut parallel imag server system b tierney w johnston h herzog g hoo g jin l chen d rotem',16
+'hpdc monitor sensor manag system grid environ b tierney b crowley d gunter m holding m thompson',16
+'hpdc enabl network awar applic b tierney d gunter m stoufer j evans',16
+'hpdc dynam monitor high perform distribut applic d gunter b tierney k jackson m stoufer',16
+'cluster monitor sensor manag system grid environ b tierney b crowley d gunter m thompson',16
+'mm distribut parallel data storag system scalabl approach high speed imag server b tierney l chen h herzog g hoo g jin w johnston',16
+'fgc microscop examin tcp flow transatlant link a antony j blom c laat w sjouw',16
+'hpdc network awar distribut storag cach data intens environ b tierney b crowley m holding j hylton f drake',16
+'sc monitor data archiv grid environ d gunter m stoufer b tierney',16
+'hicss perform evalu model buyer cart b2b ec g lim',17
+'aaai case constraint base apart construct project plan system fastrak apt k lee h kim t kim c kim m yoon e hwang h park',17
+'aim intellig schedul system shipbuild k lee j hong w kim e kim s choi h kim o yang h choi',17
+'hicss enhanc knowledg manag extens rule markup languag m sohn',17
+'semweb extract structur rule web page mainten mutual consist xrml approach j kang',17
+'comcom distribut energi effici target local track wireless sensor network k cho s lee t kwon y choi',18
+'dasfaa effici encod label dynam xml data j min c chung',19
+'dasfaa effici scalabl manag ontolog m park c lee j lin o serres c chung',19
+'ifip6 ad hoc rout earli unidirection detect avoid y ko s lee',20
+'sigmobil euda detect avoid unidirect link ad hoc network y ko s lee',20
+'asp addit fluent v lifschitz',21
+'ai loop formula circumscript f lin',21
+'lpnmr nondefinit vs definit causal theori nan',21
+'ai nonmonoton causal theori e giunchiglia v lifschitz n mccain h turner',21
+'aaai loop formula circumscript f lin',21
+'ai repres zoo world traffic world languag causal calcul v akman s erdogan v lifschitz h turner',21
+'isci secur queri process encrypt xml data us queri awar decrypt k whang',22
+'icd odysseu high perform ordbm tightli coupl spatial databas featur k whang m 0002 m lee k lee',22
+'dasfaa practition s approach normal xqueri express k lee s kim e whang',22
+'sigmod continu queri process data stream us dualiti data queri h lim m lee k whang i song',22
+'vldb n gram 2l space time effici two level n gram invert index structur m 0002 k whang m lee',22
+'sigmod trajectori cluster partit group framework j han k whang',22
+'icd odysseu high perform ordbm tightli coupl ir featur k whang m lee m 0002 w han',22
+'sigpro novel direct find method cyclostationari signal y lee',23
+'sigpro robust techniqu estim bear cyclostationari signal y lee',23
+'europar virtual physic chip cach share memori multiprocessor d kim',24
+'ispan scalabl cach coher architectur larg scale mesh connect multiprocessor y rhee',24
+'ccgrid effici lock protocol home base lazi releas consist h yun s lee s maeng',24
+'ccgrid adapt prefetch techniqu share virtual memori s lee h yun s maeng',24
+'isca synchron multiprocessor cach u ramachandran',24
+'icmc proport share schedul multimedia applic m kim h lee',24
+'case cflru replac algorithm flash memori s park d jung j kang j kim',24
+'spaa architectur primit scalabl share memori multiprocessor u ramachandran',24
+'icppw design implement multi thread tmn agent system s lee m cho h yoon s eun h yoon j cho',24
+'cal specul coher scheme us decoupl synchron multiprocessor system k sihn j cho',24
+'euc dynam repartit real time schedul multicor processor energi effici e seo y koo',24
+'jci design optimist oper peer peer replic h roh j kim',24
+'emsoft superblock base flash translat layer nand flash memori j kang h jo j kim',24
+'ijpp two phase barrier synchron primit improv processor util i jung j hyun j ma',24
+'date distribut synchron control unit dataflow graph alloc telescop arithmet unit e kim h saito d lee h nakamura t nanya',25
+'arvlsi build distribut asynchron control unit automat deriv hierarch decompos afsm cdfg e kim d lee',25
+'async automat process orient control circuit gener asynchron high level synthesi e kim d lee',25
+'apcsac effici buffer alloc asynchron linear pipelin design space local j lee e kim e paek',25
+'ieicet procedur constraint extend rbac colour petri net model w shin h kim k sakurai',25
+'aspdac imprecis data comput high perform asynchron processor e kim d lee',25
+'jsa instruct level redund number comput fast data intens process asynchron processor e kim d lee',25
+'glvlsi high perform asynchron chip bu multipl issu order order complet e jung j lee s kwak k jhang d har',25
+'siggraph interact control avatar anim human motion data j chai p reitsma j hodgins n pollard',26
+'tog interact control avatar anim human motion data j chai p reitsma j hodgins n pollard',26
+'tog rfig lamp interact self describ world via photosens wireless tag projector r raskar p beardsley j baar y wang p dietz d leigh t willwacher',27
+'acmdi calder toolkit wire wireless compon rapidli prototyp interact devic d avrahami s hudson j forlizzi p dietz d leigh',27
+'uist haptic pen tactil feedback stylu touch screen p dietz d leigh w yerazunis s hudson',27
+'tochi predict human interrupt sensor j fogarty s hudson c atkeson d avrahami j forlizzi s kiesler j yang',27
+'uist kinet typographi engin extens system anim express text j forlizzi s hudson',27
+'chi kinedit system affect messag us dynam text j forlizzi s hudson',27
+'icccn adapt acknowledg scheme effici error control atm cluster system y kim j chung t kim',28
+'futur knowledg base approach rank document boolean queri m kim y lee',29
+'infsof findit fast intellig subspac cluster algorithm us dimens vote k woo m kim y lee',29
+'dasfaa enhanc fuzzi set model posit compensatori oper w kim m kim y lee',29
+'ecweb acceler databas process commerc site s choi s kim j song y lee',29
+'ipl analysi fuzzi oper high qualiti inform retriev m kim y lee',29
+'dasfaa predic base cach mobil client continu partial match queri y chung y lee m kim',29
+'ipm rank document thesauru base boolean retriev system m kim y lee',29
+'ra dynam model kinemat analysi class stewart platform z geng l haynes r carroll',30
+'rta delai lock techniqu improv real time perform embed linux predict timer interrupt k park',31
+'iscapdc resourc manag share file system san environ s lim j hwang k kim k park',31
+'aina ubiquit fashion comput throw devic locat base servic environ s lim j yoo k park h choi k park',31
+'cikm find similar question larg question answer archiv j jeon w croft',32
+'sigir find semant similar question base answer j jeon w croft',32
+'sigir analys multipl evid combin nan',32
+'sigir framework predict qualiti answer non textual featur j jeon w croft s park',32
+'icmi resolv refer graphic object multimod queri constraint satisfact d he g ritchie',33
+'prl imag code fit rbf surfac subimag h kim',34
+'eswa quasi optim case select neural network model softwar effort estim e jun',35
+'aim case constraint base project plan apart construct k lee h kim t kim',35
+'dss case base modif optim agent agent opt y chang',35
+'dss rule identif web page xrml approach j kang',35
+'dss effect custom procedur configur standard model h lee',35
+'ijmm automat rule gener transform expert s diagram lift i lee h choi s ahn',35
+'eswa least modif principl case base reason softwar project plan experi n lee',35
+'orl optim proport perfect repair e lee',36
+'icd similar search multidimension data sequenc s lee s chun d kim c chung',37
+'ipl distribut similar search algorithm distribut heterogen multimedia databas d kim s lee c chung g cha',37
+'dm bipartit cover graph d archdeacon j kwak m sohn',38
+'dm enumer graph embed j kwak',38
+'dam achromat number union cycl y shin',38
+'dm enumer branch orient surfac cover non orient surfac i goulden j kwak',38
+'bib flux balanc analysi metabolom e gianchandani j papin',39
+'wmash enhanc wlan base internet servic korea y choi j paek s choi g lee h jung',40
+'monet enhanc wlan base internet servic y choi s park s choi g lee h jung',40
+'isbi fast spiral fourier transform iter mr imag reconstruct m lustig j tsaig d donoho',41
+'isbi optim variabl densiti k space sampl mri d nishimura b osgood',41
+'ijcpol guest editor s introduct nan',42
+'esa kei manag wireless sensor network y lee v phadke a deshmukh',43
+'msn secur local locat verif sensor network y lee v phadke a deshmukh',43
+'cvgip precomput avatar behavior human motion data k lee',44
+'chi wizard oz interfac mix realiti applic s dow c oezbek b macintyre j bolter m gandy',45
+'ijmm trust self confid oper adapt autom n moray',46
+'eswa classif base collabor filter us market basket data j lee c jun s kim',47
+'icra optim move window real time road imag process s choi',48
+'chi embrac agil develop usabl softwar system nan',49
+'acms vtassist locat base feedback notif system disabl s bhatia c dahn m sampat d mccrickard',49
+'acms imag everyth advanc hci knowledg interfac design us system imag c chewar d mccrickard',49
+'acms alumni campu tour captur fourth dimens locat base notif system s nair a kumar m sampat d mccrickard',49
+'dss agent busi model w kim',50
+'pr fast supervis learn normal mixtur model miss inform t lin h ho',51
+'vrst observ effect attent presenc fmri s lee g kim',52
+'ewcbr us case base reason domain build regul s yang d robertson',53
+'psb identifi interact site recalcitr protein predict protein rna bind site rev protein hiv eiav agre experiment data m terribilini c yan r jernigan s carpenter',54
+'cj formal definit basic languag nan',55
+'ke comparison featur extract techniqu watermark synchron h lee h lee',56
+'ictai control salin potabl water suppli system us constraint program approach c choi',57
+'npl effici speech featur extract base independ compon analysi t lee h jung s lee',58
+'hicss evolut outsourc research next issu m huynh r kwok s pi',59
+'jc effici algorithm approxim string match swap d kim k park y cho',60
+'vldb optim choic data restructur point l winslow',61
+'gi spatial analysi linguist data gi function w jr',62
+'icic doubl optim design protein energi function s kim',63
+'acmdi us kinet typographi convei emot text base interperson commun s jun j forlizzi s hudson',64
+'sttt introductori paper s iyer d hislop p jones f pearce s albert',65
+'iva nonverb behavior gener embodi convers agent s marsella',66

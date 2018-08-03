@@ -1,0 +1,372 @@
+@relation 'Dataset dblp co-authors djohnson'
+@attribute Text string
+@attribute class-att {197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211}
+@data
+'a le j wilkins s matyas',197
+'g dolan',197
+'a le g dolan m kelly s matyas',197
+'a le j wilkins s matyas',197
+'d lilja j riedl',198
+'d lilja j riedl',198
+'d lilja j anderson j riedl',198
+'d brown',199
+'nan',199
+'b kingsbury j beck j wawrzynek k asanovic n morgan',200
+'b kingsbury j beck j wawrzynek k asanovic n morgan',200
+'nan',201
+'nan',201
+'c berman j coplien j daniels k rubin l hill',202
+'c berman j coplien j daniels k rubin l hill',202
+'nan',203
+'nan',203
+'m garey',203
+'m garey',203
+'m garey',203
+'m garey',203
+'m goldwasser c editors',203
+'z haas j winters',203
+'nan',203
+'m maintainer',203
+'nan',203
+'nan',203
+'m editors',203
+'c papadimitriou',203
+'nan',203
+'t nishizeki a nozaki h editors',203
+'h pollack',203
+'l mcgeoch',203
+'g gutin l mcgeoch a yeo w zhang a zverovich',203
+'nan',203
+'k niemi',203
+'nan',203
+'nan',203
+'nan',203
+'j bentley l mcgeoch e rothberg',203
+'nan',203
+'m garey r graham a demers j ullman',203
+'c editors',203
+'c papadimitriou',203
+'a klug',203
+'c aragon l mcgeoch c shevon',203
+'nan',203
+'nan',203
+'j lenstra a kan',203
+'nan',203
+'l mcgeoch',203
+'nan',203
+'nan',203
+'a klug',203
+'a lapaugh e coffman m garey',203
+'z mao j rexford j wang r katz',203
+'nan',203
+'nan',203
+'c papadimitriou e dahlhaus m yannakakis p seymour',203
+'b simons m garey r tarjan',203
+'nan',203
+'nan',203
+'nan',203
+'nan',203
+'nan',203
+'nan',203
+'nan',203
+'nan',203
+'nan',203
+'nan',203
+'nan',203
+'nan',203
+'nan',203
+'d applegate l buriol b dillard p shor',203
+'c aragon l mcgeoch c schevon',203
+'j bentley f leighton c mcgeoch',203
+'j bentley f leighton c mcgeoch l mcgeoch',203
+'nan',203
+'w boyce m garey',203
+'p brucker m garey',203
+'f chung m garey',203
+'v chvatal m garey',203
+'j cirasella l mcgeoch w zhang',203
+'e coffman m garey',203
+'e coffman l mcgeoch p shor r weber',203
+'e coffman c courcoubetis m garey p shor r weber m yannakakis',203
+'e coffman m garey',203
+'e coffman c courcoubetis m garey l mcgeoch p shor r weber m yannakakis',203
+'e coffman f leighton p shor r weber',203
+'e coffman p shor r weber',203
+'e coffman m garey',203
+'e coffman m garey',203
+'e coffman m garey',203
+'e coffman g lueker p shor',203
+'e coffman c courcoubetis m garey p shor r weber m yannakakis',203
+'e coffman m garey r tarjan',203
+'e coffman m garey a lapaugh',203
+'c colbourn',203
+'c courcoubetis e coffman m garey m yannakakis p shor r weber',203
+'c courcoubetis e coffman l mcgeoch m garey m yannakakis p shor r weber',203
+'e dahlhaus c papadimitriou p seymour m yannakakis',203
+'nan',203
+'w day d sankoff',203
+'a demers j ullman m garey r graham',203
+'a fraenkel m garey t schaefer y yesha',203
+'m garey r graham d knuth',203
+'m garey',203
+'m garey',203
+'m garey',203
+'m garey f hwang',203
+'m garey r graham',203
+'m garey h so',203
+'m garey',203
+'m garey',203
+'m garey',203
+'m garey r graham',203
+'m garey r graham a yao',203
+'m garey b simons r tarjan',203
+'m garey r tarjan m yannakakis',203
+'nan',203
+'m garey r graham',203
+'m garey',203
+'m garey g miller c papadimitriou',203
+'m garey r graham',203
+'m garey r sethi',203
+'m garey h witsenhausen',203
+'m garey r tarjan',203
+'z mao o spatscheck j merwe j wang',203
+'j merwe j wang o spatscheck z mao',203
+'m garey f preparata r tarjan',203
+'f hwang m garey',203
+'j csirik',203
+'j csirik',203
+'nan',203
+'c papadimitriou m yannakakis',203
+'nan',203
+'nan',203
+'a lapaugh r pinter',203
+'c papadimitriou m yannakakis',203
+'m szegedy',203
+'nan',203
+'l mcgeoch e rothberg',203
+'f preparata',203
+'m minkoff s phillips',203
+'a klug',203
+'c kenyon j csirik',203
+'c kenyon j csirik j orlin p shor r weber',203
+'c kenyon j csirik p shor r weber',203
+'d kleitman j leung s assmann',203
+'a klug',203
+'a klug',203
+'a klug',203
+'a lapaugh r pinter',203
+'a lapaugh e coffman m garey',203
+'c mcgeoch f leighton j bentley l mcgeoch',203
+'n megiddo s hakimi m garey c papadimitriou',203
+'m minkoff s phillips',203
+'g ostheimer l mcgeoch m fredman',203
+'g ostheimer l mcgeoch m fredman',203
+'c papadimitriou m yannakakis',203
+'c papadimitriou m yannakakis',203
+'c papadimitriou',203
+'c papadimitriou m garey n megiddo s hakimi',203
+'c papadimitriou m garey n megiddo s hakimi',203
+'f preparata',203
+'f preparata m garey r tarjan',203
+'e rothberg l mcgeoch',203
+'h so m garey',203
+'l stockmeyer m garey',203
+'l stockmeyer m garey',203
+'m szegedy',203
+'c young d karger m smith',203
+'nan',203
+'nan',203
+'nan',203
+'nan',203
+'s assmann d kleitman j leung',203
+'a barvinok a tamir g woeginger r woodroofe s fekete',203
+'a barvinok g woeginger r woodroofe',203
+'f berman f leighton l snyder p shor',203
+'f berman',203
+'nan',203
+'e coffman p shor r weber',203
+'nan',203
+'j csirik',203
+'j csirik c kenyon',203
+'j csirik c kenyon j orlin p shor r weber',203
+'j csirik c kenyon p shor r weber',203
+'m fredman l mcgeoch g ostheimer',203
+'m garey w freeman',203
+'nan',203
+'m garey',203
+'m garey l stockmeyer',203
+'m garey',203
+'c papadimitriou e dahlhaus m yannakakis p seymour',203
+'a fraenkel m garey t schaefer y yesha',203
+'p metaxas',204
+'p metaxas',204
+'nan',204
+'r hassin',204
+'g frederickson',204
+'g frederickson',204
+'t mizoguchi',204
+'l raab',204
+'p metaxas',204
+'m goldweber',204
+'g frederickson',204
+'g frederickson',204
+'p metaxas',204
+'f makedon j matthews m cheyney p metaxas p gloor',204
+'l raab',204
+'g frederickson',204
+'l raab',204
+'s venkatesan',204
+'nan',204
+'t gonzalez',204
+'nan',204
+'nan',204
+'nan',204
+'s venkatesan',204
+'t gonzalez',204
+'b minnihan c wrathall w miller',204
+'s kashdan',204
+'nan',204
+'l raab',204
+'p metaxas',204
+'l raab',204
+'p metaxas',204
+'g frederickson',204
+'c rose',205
+'c perkins',205
+'w zwaenepoel',205
+'c perkins',205
+'j jetcheva',205
+'a perrig y hu',205
+'a myles c perkins',205
+'a myles c perkins',205
+'c perkins',205
+'j tygar s smith',205
+'nan',205
+'w zwaenepoel',205
+'nan',205
+'s palchaudhuri',205
+'e elnozahy w zwaenepoel',205
+'s smith',205
+'w zwaenepoel',205
+'w zwaenepoel',205
+'e elnozahy l alvisi y wang',205
+'nan',205
+'nan',205
+'y hu',205
+'a perrig y hu',205
+'a saha j jetcheva s palchaudhuri y hu',205
+'y hu',205
+'d maltz j jetcheva j broch y hu',205
+'y hu',205
+'e cohen',206
+'p willemsen',206
+'e cohen',206
+'a nahvi d nelson j hollerbach',206
+'d nelson e cohen',206
+'j hollerbach e cohen w thompson r freier a nahvi d nelson t ii s jacobsen',206
+'e cohen',206
+'e cohen',206
+'e cohen',206
+'a nahvi d nelson j hollerbach',206
+'p willemsen',206
+'e cohen t ii',206
+'e cohen',206
+'e cohen',206
+'t ii e cohen',206
+'e cohen',206
+'t ii m kaplan d nelson e cohen',206
+'d nelson e cohen m kaplan t ii',206
+'j blanchette',207
+'k miller',207
+'nan',207
+'k miller',207
+'nan',207
+'j mulvey',207
+'d gotterbarn j perolle r anderson',207
+'l benzinger',208
+'j guttman',208
+'j wittbold',208
+'f thayer',208
+'f thayer',208
+'f thayer',208
+'s lappin',209
+'l moss',209
+'p postal',209
+'h watanabe',209
+'l moss',209
+'t hampp',209
+'nan',209
+'nan',209
+'nan',209
+'nan',209
+'nan',209
+'nan',209
+'nan',209
+'nan',209
+'nan',209
+'s lappin r levine',209
+'s lappin r levine',209
+'s lappin r levine',209
+'t goetz f oles t zhang',209
+'l moss',209
+'f oles t goetz t zhang',209
+'s weiss c apte f damerau f oles t goetz t hampp',209
+'w zadrozny m szummer s jarecki l morgenstern',209
+'s lappin',209
+'l moss',209
+'l moss',209
+'l moss',209
+'s lappin',209
+'l eds',209
+'nan',209
+'a meyers l moss',209
+'l moss',209
+'a meyers l moss',209
+'l moss',209
+'f damerau t zhang',209
+'t zhang f damerau',209
+'c leang',210
+'a dabak',210
+'r glantz',210
+'w ray',210
+'h diaz',210
+'s sinanovic',210
+'nan',210
+'nan',210
+'nan',210
+'nan',210
+'nan',210
+'nan',210
+'i goodman',210
+'nan',210
+'nan',210
+'nan',210
+'nan',210
+'nan',210
+'nan',210
+'o kelly b delgutte p cariani',210
+'m lexa',210
+'a lexa',210
+'a lexa',210
+'a lexa',210
+'c miller j schroeter l myint r glantz',210
+'c miller j schroeter l myint r glantz',210
+'c rozell',210
+'s sinanovic',210
+'w wang',210
+'l yue',210
+'m zacksenhouse j williams c tsuchitani',210
+'c gruner',210
+'j wise',210
+'c gruner',210
+'c miller j schroeter l myint r glantz',210
+'c seshagiri c gruner k baggerly',210
+'c gruner',210
+'c gruner r glantz',210
+'c gruner r glantz',210
+'c gruner k baggerly c seshagiri',210
+'j brodman',211
+'j brodman',211
+'j brodman',211
+'j brodman',211
+'j brodman',211

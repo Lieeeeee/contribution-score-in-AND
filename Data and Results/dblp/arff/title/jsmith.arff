@@ -1,0 +1,908 @@
+@relation 'Dataset dblp title jsmith'
+@attribute Text string
+@attribute class-att {155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 182, 183, 184}
+@data
+'mafra java memet algorithm framework',155
+'emerg profit search strategi simpl inherit mechan',155
+'protein structur predict evolutionari algorithm',155
+'recent advanc memet algorithm',155
+'co evolut memet algorithm initi result',155
+'adapt parameteris evolutionari ststem self adapt recombin mutat steadi state genet algorithm',155
+'genet featur select cluster classif',155
+'genet algorithm',155
+'co evolut memet algorithm protein structur predict',155
+'microprocessor design verif two phase evolut variabl length test',155
+'model ga self adapt mutat rate',155
+'new method tunabl random landscap',155
+'paramet perturb mechan binari code ga self adapt mutat',155
+'oper paramet adapt genet algorithm',155
+'replac strategi steadi state genet algorithm dynam environ',155
+'adapt imag segment visual interact feedback learn',155
+'hybrid genet algorithm solv lot size schedul problem',155
+'modifi neocognitron network medic signal classif',155
+'altern approach evalu neocognitron',155
+'strategi paramet variat self adapt mutat rate',155
+'introduct evolutionari comput',155
+'appropri adapt level learn gene linkag',155
+'align protein structur memet evolutionari algorithm',155
+'co evolv memet algorithm initi investig',155
+'self adapt mutat rate steadi state genet algorithm',155
+'memet algorithm self adapt local search tsp as case studi',155
+'adapt poli parent recombin strategi',155
+'examin tuneabl random search landscap',155
+'recombin strategi adapt via evolut gene linkag',155
+'replac strategi steadi state genet algorithm static environ',155
+'self adapt mutat rate steadi state genet algorithm',155
+'strategi paramet varieti self adapt mutat rate',155
+'replac strategi steadi state genet algorithm static environ',155
+'adapt parameteris evolutionari self adapt recombin mutat genet algorithm',155
+'evolv softwar test ga s learn self express',155
+'adapt poli parent recombin strategi',155
+'recombin strategi adapt via evolut gene linkag',155
+'distribut queri process grid',156
+'valid cost model parallel oql queri process',156
+'parallel algebra object databas',156
+'experi object navig parallel object databas',156
+'speed up navig request parallel object databas',156
+'experiment perform evalu join algorithm parallel object databas',156
+'synchronis fault toler comput intens program network workstat',156
+'polar architectur parallel odmg compliant object databas',156
+'fault toler execut comput intens program network workstat',156
+'concurr oper comput',157
+'pilot new multipl comput',157
+'techniqu file recoveri',157
+'experi britton lee base machin csironet',157
+'implement base manag',157
+'base organis arrai processor',157
+'altern architectur design distribut base',157
+'simpl approach nearest neighbour problem',157
+'structur queri algorithm databas areal entiti',157
+'simul real time plan schedul control',158
+'simul as decis make tool real time control flexibl manufactur',158
+'distribut real time simul intrud detect analysi',158
+'discret event simul design evalu physic protect',158
+'design solid state physic model autom be us as test bed control applic',158
+'simul as plan schedul tool flexibl manufactur',158
+'advanc tutori simul schedul control',158
+'discret event simul shop floor control',158
+'m g c k block probabl model perform',159
+'quadrat assign problem m g c c state depend network flow',159
+'quadrat assign problem m g c c state depend network flow',159
+'buffer alloc class nonlinear stochast knapsack problem',159
+'evacu network',159
+'quadrat set pack problem steiner tree their integr',159
+'o nxn heurist steiner minim tree d',159
+'steiner ratio d',159
+'steiner minim tree d theori algorithm applic',159
+'buffer alloc problem gener finit buffer queueu network',159
+'euclidean steiner minim tree minimum energi configur embed problem weight graph e',159
+'steiner minim tree on polygon obstacl',159
+'topolog network design state depend queue network',159
+'path distanc heurist steiner problem undirect network',159
+'model circul build state depend queue model',159
+'advanc steiner tree new monograph steiner tree',159
+'model vehicular traffic flow m g c c state depend queue model',159
+'multi object rout within larg scale facil open finit queue network',159
+'design cellular network divers capac constraint',159
+'multi period network design problem cellular telecommun',159
+'topolog network design pedestrian network',159
+'applic expert technolog case law',160
+'us lexicon inform retriev legal databas',160
+'beyond boolean search flexicon legal tex intellig',160
+'flexicon evalu statist rank model adapt intellig legal text manag',160
+'artifici intellig legal discours flexlaw legal text manag',160
+'toward comprehens legal inform retriev',160
+'theoret aspect protein conform',161
+'effici calcul two dimension adiabat free energi map applic isomer c c c n bond retin bacteriorhodopsin',161
+'can calcul ligand bind free energi be improv continuum solvent electrostat ideal ga entropi correct journal comput chemistri',161
+'model simul light activ membran protein dynam transit bacteriorhodopsin',161
+'combin neutron scatter molecular dynam determin intern motion bio molecul',161
+'comput simul bio molecular principl practic',161
+'conform transit protein membran',161
+'direct measur hydrat relat dynam chang lysozym inelast neutron scatter spectroscopi',161
+'harmon anharmon dynam protein molecular crystal',161
+'empir forc field studi geometri conform transit organ molecul',161
+'quantum chemic free energi simul analysi retin conform energet',161
+'motion nativ denatur protein',161
+'inelast neutron scatter analysi low frequenc motion protein normal mode studi bovin pancreat trypsin inhibitor',161
+'inelast neutron scatter analysi low frequenc motion protein harmon damp harmon model bpti',161
+'configur access fold denatur protein',161
+'intern dynam globular protein comparison theoret model neutron scatter measur',161
+'protein hydrat water structur thermodynam',161
+'supramolecular interact atom dynam protein peptid crystal',161
+'temperatur depend myoglobin dynam neutron spectra calcul from molecular dynam simul myoglobin',161
+'dynam biomolecul simul versu x rai neutron scatter experi',161
+'x rai neutron scatter as probe dynam biolog molecul',161
+'protein fold dynam new insight from comput simul scatter experi',161
+'motion biomolecul compar simul experi',161
+'inelast quasielast neutron scatter complementar biomolecular simul',161
+'interact dynam protein molecular crystal probe quantum chemistri comput simul scatter experi',161
+'princip compon protein dynam transit',161
+'protein dynam comparison simul inelast neutron scatter experi',161
+'protein dynam studi inelast neutron scatter',161
+'protein interact dynam probe quantum chemistri comput simul neutron experi',161
+'oxid tetra hydro beta carbolin cytochrom p determin rationalis product distribut',161
+'pathwai larg scale conform chang annexin v',161
+'s protein annexin interact model anx p heterotetram complex',161
+'configur distribut denatur phosphoglycer kinas',161
+'dynam n nonadecan chain urea inclus compound as seen incoher quasielast neutron scatter comput simul',161
+'molecular dynam analysi charg fluctuat associ far infrar absorpt water',161
+'molecular dynam analysi alkan dynam urea inclus compound i comparison quasielast neutron scatter experi',161
+'molecular dynam analysi alkan dynam urea inclus compound ii rotat distribut elast incoher structur factor',161
+'simul collect dynam n nonadecan urea inclus compound',161
+'model photosystem ii reaction centr core includ structur primari donor p',161
+'structur model deriv molecular mechan core photosystem ii reaction centr includ redox compon',161
+'structur chang q b pocket photosynthet reaction center depend ph theoret analysi proton uptak upon q b reduct',161
+'structur ma toxin antibodi antigen complex combin model function map result',161
+'structur model complex between snake toxin antibodi that mimick acetylcholin receptor',161
+'how random is highli denatur protein biophys chemistri',161
+'potenti function develop conform search strategi simul biomolecular recognit process',161
+'structur model anti snake toxin antibodi ma',161
+'comput simul intern flexibl seri cyclic peptid analog',161
+'potenti energi function drug design lexitropsin dna minor groov binder',161
+'influenc helix morpholog cooper polyamid backbon conform flexibl peptid nucleic acid complex',161
+'solvent cage intern motion myoglobin at low temperatur',161
+'time resolv comput protein biochemistri solvent effect interact conform transit equilibrium fluctuat',161
+'translat hydrat water dynam drive protein glass transit',161
+'fluoresc quench dye tryptophan interact at atom detail from combin experi comput simul',161
+'molecular mechan forc field parameter fluoresc probe rhodamin g autom frequenc match',161
+'structur protein denatur guanidinium chlorid journal de physiqu iv c',161
+'conform distribut hepta alanin analysi new mont carlo chain growth method',161
+'structur model pro ocytocin neurophysin precursor',161
+'engin protein epitop singl delet gener full bind capac previous unrecogn antibodi',161
+'deriv molecular mechan forc field cholesterol',161
+'effici calcul two dimension adiabat free energi map applic isomer c c c n bond retin bacteriorhodopsin',161
+'structur basi antibodi cross reactiv solut conform immunogen peptid fragment deriv from snake toxin b epitop',161
+'low frequenc dynam bpti studi inelast neutron scatter',161
+'collect vibrat crystallin alanin dipeptid at veri low temperatur',161
+'low frequenc dynam protein studi neutron time flight spectroscopi',161
+'inelast neutron scatter analysi picosecond intern protein dynam comparison harmon theori experi',161
+'enzym activ below dynam transit at k',161
+'enzym dynam activ timescal depend dynam transit glutam dehydrogenas solut',161
+'dynam transit enzym mai have simpl explan',161
+'role dynam enzym activ',161
+'collect dynam photosynthet protein probe neutron spin echo spectroscopi molecular dynam simul',161
+'radial soften diffus motion globular protein',161
+'dynam pure sodium dope polyacetylen',161
+'dynam sodium dope polyacetylen',161
+'from sequenc structur function model simul light activ membran protein',161
+'polar densiti state crystallin polyacetylen molecular dynam analysi comparison neutron scatter result',161
+'polar densiti state pristin sodium dope polyacetylen',161
+'enzym dynam activ xylanas activ absenc fast anharmon motion',161
+'lattic vibrat crystallin l alanin',161
+'pathwai conform chang seryl t rna synthetas from thermu thermophilu',161
+'correl motion x rai diffus scatter lysozym',161
+'structur dynam bacteriorhodopsin comparison simul experi feb letter',161
+'dissect vibrat entropi chang protein ligand bind burial water molecul bovin pancreat trypsin inhibitor',161
+'conform energet partial symmetr photosynthet reaction center',161
+'potenti energi function photosynthet reaction centr chromophor energi minim crystallin bacteriopheophytin analog',161
+'hydrogen bond cooper f q barrier n methylacetamid',161
+'structur model photosynthet reaction center rhodobact capsulatu protein structur function genet',161
+'low frequenc vibrat helic helicoid analysi polyalanin deoxymyoglobin molecular dynam trajectori',161
+'picosecond time scale rigid bodi helix side chain motion myoglobin',161
+'protein simul supercomput',161
+'comparison new mont carlo peptid conform search procedur high temperatur molecular dynam',161
+'torsion dynam methyl ammonium group crystallin l alanin',161
+'fluctuat correl crystallin lysozym',161
+'comput simul protein unfold',161
+'molecular dynam simul reveal surfac salt bridg form kinet trap unfold truncat staphylococc nucleas',161
+'dynam simul mous prion protein',161
+'quantum chemic free energi simul analysi retin conform energet',161
+'dynam crystallin acetanilid analysi inelast neutron scatter comput simul',161
+'molecular dynam decomposit temperatur depend elast neutron scatter protein solut',161
+'us comput simul understand elast neutron scatter from complex small protein variou solvent',161
+'temperatur depend protein dynam comput simul analysi neutron scatter properti',161
+'dynam biomolecul simul versu x rai far infrar experi',161
+'dynam protein correl diffus',161
+'fluctuat correl crystallin lysozym',161
+'x rai diffus scatter rigid bodi motion crystallin lysozym probe molecular dynam simul',161
+'molecular dynam simul isol domain i annexin i',161
+'simul analysi retin conform equilibrium dark adapt bacteriorhodopsin',161
+'protein unfold transit intrins unstabl annexin domain molecular dynam simul comparison nuclear magnet reson',161
+'structur dynam function hydrogen bond network protein relat',161
+'dynam structur modif staphylococc nucleas c termin truncat',161
+'neutron inelast scatter as high resolut vibrat spectroscopi new tool studi protein dynam',161
+'potenti energi function molecular simul',161
+'liquid like side chain dynam myoglobin',161
+'methyl group dynam crystallin alanin dipeptid combin comput simul inelast neutron scatter analysi',161
+'denatur truncat staphylococc nucleas molecular dynam simul at k',161
+'high resolut vibrat inelast neutron scatter new spectroscop tool globular protein',161
+'simul evid experiment detect low temperatur vibrat inhomogen globular protein',161
+'energi resolut dynam heterogen effect elast incoher neutron scatter from molecular',161
+'all atom empir potenti molecular model dynam studi protein',161
+'serotonin bind site human murin ht b receptor molecular model site direct mutagenesi',161
+'calcul small angl scatter intens from molecular dynam simul',161
+'method calcul small angl x rai neutron scatter associ molecular envelop from explicit atom model solvat protein',161
+'is first hydrat shell lyzozym higher densiti than bulk water proceed nation academi scienc u',161
+'collect vibrat crystallin l alanin',161
+'serena program calcul x rai diffus scatter from molecular dynam trajectori',161
+'comput simul energi transduc protein peptid membran interact',161
+'converg peptid fold simul multipl trajectori potenti aid pharmacophor',161
+'molecular dynam simul cyclic decapeptid antibiot gramicidin s dimethyl sulfoxid solut',161
+'protein dynam glass transit mechan function',161
+'solut structur put hiv immunogen peptid comput simul princip cd bind domain gp',161
+'atom detail peptid membran inter action molecular dynam simul gramicidin s dmpc bilay',161
+'hydrat depend far infrar absorpt lysozym detect synchrotron radiat',161
+'dynam alkan chain includ organ matrix molecular dynam simul comparison neutron experi',161
+'structur human annexin i comparison homolog model crystallograph experi',161
+'dynam trna experiment neutron spectra compar normal mode analysi',161
+'detect individu p autoantibodi quench peptid molecular probe',161
+'ab initio quantum chemic analysi retin schiff base hydrat bacteriorhodopsin',161
+'function interact bacterio rhodopsin theoret analysi retin hydrogen bond water',161
+'ground state potenti surfac calcul butadien retin',161
+'nanosecond protein dynam first detect neutron incoher spin echo signal',161
+'comput tool analyz structur chang protein solut',161
+'radial distribut water water distanc protein crystal',161
+'chang backbon torsion angl distribut protein fold',161
+'exclud volum configur distribut strongli denatur protein',161
+'small angl neutron scatter strongli denatur protein analysi random polym theori',161
+'cryosolv us protein enzym studi below oc',161
+'solvent depend dynam transit protein solut',161
+'picosecond dynam chang phospho glycer kinas denatur reveal quasielast neutron scatter',161
+'dynam protein spectroscopi scatter simul',161
+'thermodynam stabil water molecul bacteriorhodopsin proton channel molecular dynam free energi perturb studi',161
+'can calcul ligand bind free energi be improv continuum solvent electrostat ideal ga entropi correct',161
+'how well doe charg reparametris account solvent screen molecular mechan calcul exampl myosin',161
+'how well doe charg reparametris account solvent screen molecular mechan calcul exampl myosin',161
+'field mice extract hand geometri from electr field measur',162
+'modul inform hide imag',162
+'develop steganographi',162
+'appli electr field sens human comput interfac',162
+'design biomorph interact genet algorithm',162
+'extend unifi model languag ontolog develop',163
+'map applic control architectur specif problem',163
+'consist check rm odp specif',163
+'formal verif uml diagram first step toward code gener',163
+'extend uml support ontolog engin semant web',163
+'geometri bayesian graphic model hidden variabl',164
+'approxim learn complex dynam bayesian network',164
+'find train packag assess forens fibr evid',164
+'fast bay dynam junction forest',164
+'report purdu workshop grand challeng comput architectur support high perform comput',165
+'dynam verif cach coher protocol',165
+'dynam microarchitectur adapt via co design virtual machin',165
+'integr perform power thermal model',165
+'save restor implement context co design virtual machin',165
+'vector architectur past present futur',165
+'concurr garbag collect hardwar assist profil',165
+'select dual path execut',165
+'dynam instruct schedul astronaut zs',165
+'character coars grain reus comput',165
+'achiev high perform via co design virtual machin',165
+'trace processor move fourth gener microarchitectur',165
+'zs central processor',165
+'powerpc alpha tale two risc',165
+'character comput perform singl number',165
+'instruct level distribut process',165
+'instruct level distribut process adapt futur technolog',165
+'instruct level distribut process',165
+'exist combin logic circuit exhibit multipl redund',165
+'retrospect decoupl access execut architectur',165
+'retrospect implement precis interrupt pipelin processor',165
+'retrospect studi branch predict strategi',165
+'studi branch predict strategi',165
+'rapid profil via stratifi sampl',165
+'veri low power pipelin signific compress',165
+'comment redund test combin network',165
+'complex verifi memori coher',165
+'manag multi configur hardwar via dynam work set analysi',165
+'out order vector architectur',165
+'cach perform vector supercomput',165
+'vector instruct set support condit oper',165
+'decoupl access execut comput architectur',165
+'dual path instruct process',165
+'veri low power pipelin signific compress',165
+'instruct cach replac polici organ',165
+'studi instruct cach organ replac polici',165
+'specul version cach',165
+'improv branch predictor correl valu',165
+'relat profil enabl thread level parallel virtual machin',165
+'diagnosi asymmetr invalid',165
+'detect fault programm logic arrai',165
+'self diagnosi distribut',165
+'futur gener purpos supercomput architectur',165
+'perform cach dram organ vector supercomput',165
+'perform studi instruct cach prefetch method',165
+'prefetch supercomput instruct cach',165
+'assign confid condit branch predict',165
+'instruct pre process trace processor',165
+'path next trace predict',165
+'trace preconstruct',165
+'complex effect superscalar processor',165
+'instruct set microarchitectur instruct level distribut process',165
+'pipelin regist storag architectur',165
+'optim pipelin supercomput',165
+'theori total self check design',165
+'studi partit vector regist file',165
+'strongli fault secur logic network',165
+'model superscalar processor via statist simul',165
+'statist simul symmetr multiprocessor',165
+'complex effect superscalar processor',165
+'measur effect fault signatur analysi',165
+'decoupl integ execut superscalar processor',165
+'simul studi decoupl architectur comput',165
+'implement precis interrupt pipelin processor',165
+'implement precis interupt pipelin processor',165
+'implement precis interrupt pipelin processor',165
+'control independ trace processor',165
+'path next trace predict',165
+'assign confid condit branch predict',165
+'studi control independ superscalar processor',165
+'trace cach low latenc approach high bandwidth instruct fetch',165
+'univers diagnosi algorithm',165
+'trace cach microarchitectur evalu',165
+'model superscalar processor via statist simul',165
+'exploit idl float point resourc integ execut',165
+'rapid profil via stratifi sampl',165
+'limit valu predict',165
+'model program predict',165
+'predict valu',165
+'control flow specul multiscalar processor',165
+'necessari suffici condit multipl fault undetect',165
+'vector instruct set support condit oper',165
+'instruct level distribut process',165
+'restrict fetch phi oper parallel process',165
+'specul version cach',165
+'specul version cach',165
+'vector architectur past present futur',165
+'out order vector architectur',165
+'separ unord code',165
+'perform potenti depend specul collaps',165
+'instruct issu logic pipelin supercomput',165
+'instruct issu logic pipelin supercomput',165
+'studi scalar compil techniqu pipelin supercomput',165
+'studi scalar compil techniqu pipelin supercomput',165
+'trace processor',165
+'hypermedia support collabor requir analysi',166
+'multimedia architectur support requir analysi',166
+'evalu inquiri requir analysi internet servic',166
+'architectur distribut media server support guarante qo media index',166
+'align protein structur memet evolutionari algorithm',167
+'memet algorithm schedul plan mainten nation grid',167
+'appropri adapt level learn gene linkag',167
+'polynomi method compon match verif',168
+'autom composit hardwar compon',168
+'polynomi method alloc complex compon',168
+'cellbas databas manag control cell line storag',169
+'quantit analysi on dimension gel electrophoresi profil',169
+'oligoget computer databas control oligonucleotid product',169
+'modal theori partial order digit geometri',170
+'charact finit quasigroup iii quotient fusion',170
+'associ scheme',170
+'endocent it applic quasigroup represent theori',170
+'three kei question complex',170
+'time biolog',170
+'time biologi physic',170
+'two enumer principl free algebra',170
+'tri restrict number power permut represent',170
+'charact finit quasigroup ii induc charact',170
+'coalgebra approach quasigroup permut represent',170
+'classic quantum statist mechan permut represent',170
+'class quasigroup solv problem ergod theori',170
+'combinatori charact quasigroup',170
+'commun process entrop algebra',170
+'commut moufang loop bessel function',170
+'commut moufang loop first year',170
+'competit canon ensembl',170
+'comtran algebra bilinear form',170
+'comtran algebra their physic applic',170
+'canon distribut phase transit',170
+'canon ensembl',170
+'continu fraction',170
+'centralis ring multipl group quasigroup',170
+'differenti groupoid',170
+'dualiti free mode',170
+'dualiti semilattic represent',170
+'demographi canon ensembl',170
+'distribut lattic',170
+'affin space algebra subalgebra',170
+'finit code groupoid word',170
+'finit distribut quasigroup',170
+'finit equation complet entrop quasigroup',170
+'from affin project geometri via convex',170
+'greedi loop transvers code',170
+'greedi loop transvers code confer report',170
+'greedi loop transvers code correct error burst',170
+'homotopi semisymmetri quasigroup',170
+'bisemilattic subsemilattic',170
+'vector lattic root tree',170
+'v v goldberg',170
+'vladislav v goldberg',170
+'left loop sphere',170
+'logarithm syndrom function inform rate greedi loop transvers code',170
+'loop quasigroup aspect current work prospect futur',170
+'loop transvers code',170
+'loop transvers linear code',170
+'quasigroup action markov chain',170
+'quasigroup homogen space linear represent',170
+'abstract space time their lorentz group',170
+'quasigroup permut represent',170
+'quasigroup',170
+'quasigroup quandl',170
+'quasiprimit quasigroup',170
+'altern approach altern algebra',170
+'embed sum cancel mode functori sum affin space',170
+'macroscop approach demographi',170
+'modal theori',170
+'mode modal',170
+'multilinear algebra lie s theorem formal n loop',170
+'charact finit quasigroup',170
+'minim tree given search number',170
+'exterior algebra represent commut moufang loop',170
+'induc class function ar condit expect',170
+'defenc eponymi',170
+'inform theori it applic biologi',170
+'wreath product along period doubl rout chao',170
+'combinator multi restrict number',170
+'dimens finit permut group action',170
+'evolut semiot capac',170
+'uniqu mal cev polynomi',170
+'charact finit quasigroup vi critic exampl doubleton',170
+'nilpot class commut moufang loop',170
+'structur barycentr algebra',170
+'structur subalgebra idempot entrop algebra',170
+'structur semilattic sum',170
+'note charact induct associ scheme',170
+'entropi',170
+'entropi inform evolv biolog',170
+'plane cubic curv',170
+'permut represent loop',170
+'charact finit quasigroup v linear charact',170
+'orbit decomposit subset action',170
+'regular orbit power permut represent',170
+'represent theori comtran algebra',170
+'orthogon ternari algebra thoma sum',170
+'subdifferenti monoton function from semilattic distribut lattic',170
+'subalgebra idempot entrop algebra',170
+'second grammar associ',170
+'skein polynomi entrop right quasigroup',170
+'observ concept inform theoret entropi random',170
+'semilattic dualiti',170
+'charact finit quasigroup iv product superschem',170
+'simpl algebra hermitian oper',170
+'simpl algebra invari oper',170
+'simpl multilinear algebra',170
+'simpl multilinear algebra hermitian oper',170
+'simpl ternari grassman algebra',170
+'speed s orbit problem variat theme burnsid',170
+'split extens represent moufang loop',170
+'support function gener convex set',170
+'support function ordin product',170
+'separ mode',170
+'greedi loop transvers code correct error burst',170
+'unimod combinator bessel number',170
+'unimod combinator bessel number',170
+'pipelin architectur factor larg integ quadrat siev algorithm',171
+'paramet driven router',171
+'new idea factor larg integ',171
+'user s guid shadowi crystal ball practic tip techniqu plan futur',172
+'make standard work whole product approach',172
+'trace processor',173
+'multiscalar as new architectur paradigm',173
+'trace embodi immers interact semi autonom avatar',174
+'trace wireless full bodi track cave',174
+'model truss structur optimizationa',174
+'three applic optim comput graphic',174
+'fast control simul shatter brittl object',174
+'creat model truss structur optim',174
+'fast control simul shatter brittl object',174
+'ensembl genom databas project',175
+'ensembl accommod compar genom',175
+'interact technolog econom cultur as basi understand academ comput support need',176
+'practic manag comput ethic comput center comput scienc depart approach',176
+'trace processor',165
+'multiscalar as new architectur paradigm',177
+'columbia digit new proc intl conf advanc digit librari adl',178
+'trec video track inform retriev digit video inform',178
+'content access imag video librari',178
+'content queri color imag databas',178
+'decod imag semant composit region templat',178
+'digit video librari internet',178
+'adapt storag retriev larg compress imag',178
+'descript collect model audio visual content',178
+'integr featur model semant trec video retriev',178
+'dynam assembl view cube proc acm principl databas pod',178
+'frequenc spatial adapt wavelet packet',178
+'joint adapt space frequenc graph basi select',178
+'video index retriev mpeg',178
+'videozoom spatio tempor video browser internet',178
+'video textur index spatio tempor wavelet',178
+'visual search web content',178
+'visual annot tool multimedia content descript',178
+'statist model approach content video retriev',178
+'local color textur extract spatial queri',178
+'quadtre segment textur imag queri',178
+'quantit assess imag retriev evalu',178
+'learn concept from video multi modal featur',178
+'queri vector project access method',178
+'queri color region visualseek content visual queri',178
+'imag classif queri composit region templat',178
+'imag retriev evalu',178
+'multi object multi featur search mpeg',178
+'multimedia content manag mpeg framework',178
+'metadata driven multimedia access',178
+'multimedia databas',178
+'multimedia resourc transcod mpeg digit item adapt',178
+'multimedia semant index model vector',178
+'multimedia signal process',178
+'multi stage classif imag from featur relat text',178
+'mpeg multimedia content descript interfac standard',178
+'mpeg multimedia content descript interfac standard',178
+'mpeg multimedia content descript standard',178
+'mpeg s path intellig multimedia futur',178
+'mpeg standard',178
+'navig access multimedia content',178
+'mpeg standard multimedia databas',178
+'enhanc imag search divers environ',178
+'univers multimedia access',178
+'imag video search engin world wide web',178
+'applic perspect univers multimedia access mpeg',178
+'integr spatial featur imag retriev analysi compress',178
+'integr featur model semant content',178
+'integr featur model semant trec video retriev',178
+'object multimedia content descript scheme applic mpeg',178
+'interact content retriev video proc ieee intl conf imag process ic ip',178
+'interact search fusion method video databas retriev',178
+'interoper content access multimedia digit librari',178
+'safe gener framework integr spatial featur imag search',178
+'simpl video format mobil pervas devic',178
+'singl color extract imag queri',178
+'space adapt wavelet packet imag compress',178
+'spatial featur normal content retriev',178
+'search imag video world wide web',178
+'statist model retriev video content',178
+'statist techniqu video analysi search video mine kluwer academ publish',178
+'autom binari textur featur set imag retriev',178
+'transcod internet content heterogen client devic',178
+'inform technolog multimedia content descript interfac part conform',178
+'inform technolog multimedia content descript interfac part multimedia descript scheme',178
+'video person summar',178
+'video person usag environ',178
+'real time video surveil traffic monitor virtual line analysi',178
+'summar person pervas mobil devic',178
+'multimedia inform retriev manag part i',178
+'differenti compress optim cach method content imag search',178
+'medianet multimedia inform network knowledg represent',178
+'quantit assess imag retriev effect',178
+'imka intellig multimedia knowledg',178
+'mpeg md content descript tool applic',178
+'new frontier intellig content retriev',178
+'proc spie photon east multimedia storag archiv iv boston ma sept',178
+'progress content retriev satellit imag databas through internet',178
+'develop advanc imag video server video demand testb',178
+'effici multidimension index structur linear maxim queri',178
+'mpeg standard multimedia databas',178
+'visual queri project',178
+'visual search web content',178
+'queri taxonomi multimedia databas',178
+'extract multi dimension signal featur content visual queri',178
+'issu solut storag retriev search mpeg document',178
+'univers tuner video stream cpu power constrain mobil devic',178
+'transcod internet multimedia univers access',178
+'uma wireless mobil video deliveri architectur',178
+'2894',178
+'modal keyword ontolog reason video understand',178
+'semi automat',178
+'combin index learn iter refin',178
+'compar textur featur set retriev core imag petroleum applic',178
+'framework effici process content fuzzi cartesian queri',178
+'model mine remot sens environment public health applic',178
+'ibm research trec video retriev',178
+'multimedia content descript infopyramid',178
+'epi spire bio surveil environment public health activ monitor',178
+'videoal end end mpeg video automat label',178
+'improv text overlai detect video fusion classifi',178
+'content adapt framework bring internet inform applianc',178
+'multimedia content custom univers acccess',178
+'framework moder vocabulari semant visual concept detect',178
+'learn visual model semant concept',178
+'learn region semant concept from incomplet annot',178
+'learn semant multimedia represent from small set exampl',178
+'learn annot video databas',178
+'model semant concept support queri keyword video',178
+'multimedia semant machin learn',178
+'statist model approach content video retriev',178
+'constrain queri multimedia databas issu approach',178
+'activ select multi exampl queri content',178
+'explor semant depend scalabl concept detect',178
+'studi imag retriev anchor',178
+'detect imag purpos world wide web document',178
+'proc nsf workshop multimedia content index retriev pari fr oct',178
+'perceptu imag similar',178
+'overview mpeg multimedia descript scheme',178
+'mpeg multimedia descript scheme',178
+'videozoom spatio tempor video browser',178
+'conceptu model audio visual content',178
+'content transcod imag internet',178
+'adapt synthesi progress retriev audio visual',178
+'videozoom spatio tempor video browser',178
+'visualseek fulli autom content imag queri',178
+'adapt view element framework multi dimension manag',178
+'integr spatial featur imag queri',178
+'scalabl multimedia deliveri pervas comput',178
+'conceptu model audio visual content',178
+'tool techniqu color imag retriev',178
+'toward semant univers multimedia access',178
+'transform featur textur classif discrimin larg imag databas',178
+'cpu power constrain mobil devic',178
+'visual inform retriev from larg distribut onlin repositori',178
+'imka multimedia organ combin perceptu semant knowledg',178
+'spire digit librari scientif inform',178
+'effici techniqu featur imag video access manipul',178
+'joint adapt space frequenc basi select',178
+'visual inform retriev from larg distribut onlin repositori',178
+'visualseek fulli autom content imag queri',178
+'imag video search engin world wide web',178
+'explor imag function www applic develop imag video search edit engin',178
+'integr spatial featur imag queri',178
+'interoper content access multimedia digit librari invit talk',178
+'onion techniqu index linear optim queri',178
+'tool techniqu color imag retriev',178
+'transform featur textur classif discrimin larg imag databas',178
+'toward semant univers multimedia access',178
+'dynam assembl view cube',178
+'content transcod imag internet',178
+'adapt synthesi progress retriev audio visual',178
+'adapt content client resourc internet',178
+'adapt multimedia internet content univers access',178
+'model multi modal inform retriev from larg archiv',178
+'adapt view element framework multi dimension manag',178
+'scalabl multimedia deliveri pervas comput',178
+'secur transcod internet content',178
+'sequenti process content retriev composit object',178
+'spire digit librari scientif inform',178
+'spire progress content spatial imag retriev engin',178
+'search progress imag retriev from distribut imag video databas spire project',178
+'search dynam bundl good pairwis relat',178
+'columbia digit new project environ brief search multimedia inform',178
+'s stir similar search through iter refin',178
+'onion techniqu index linear optim queri',178
+'effici techniqu featur imag video access manipul',178
+'explor imag function www applic develop imag video search edit engin',178
+'adapt content client resourc internet',178
+'adapt multimedia internet content univers access',178
+'columbia digit new environ brief search multimedia inform',178
+'hybrid framework detect semant concept context',178
+'columbia digit new environ brief search multimedia inform',178
+'support increment join queri rank input',178
+'user trainabl video annot multimod cue',178
+'quad tree segment textur imag queri',178
+'secur qualiti servic handl sqosh',179
+'select challeng comput network',179
+'survei process migrat mechan',179
+'impact atm oper',179
+'survei activ network research',179
+'implement perform atm host interfac workstat',179
+'perform model high perform atm link adapt',179
+'safeti secur programm network infrastructur',179
+'price safeti activ network',179
+'switchwar activ network implement',179
+'switchwar activ network architectur',179
+'effici packet monitor network manag',179
+'dhcp appli effici implement method fail stop cryptograph protocol',179
+'secur reliabl bootstrap architectur',179
+'secur virtual privat intranet',179
+'autom recoveri secur bootstrap process',179
+'gigabit telerobot appli advanc inform infrastructur',179
+'stripe within network subsystem',179
+'programm network select challeng comput network',179
+'event signal within higher perform network subsystem',179
+'host interfac atm network',179
+'aurora experi gigabit network technolog',179
+'memori as network abstract',179
+'memori as network abstract',179
+'secur virtual privat intranet',179
+'taxonomi comparison sever distribut share memori',179
+'protocol booster',179
+'u synthesi distribut control network induc delai',179
+'telerobot commun network control network issu',179
+'hardwar virus',179
+'fly programm hardwar network',179
+'survei process migrat mechan',179
+'p platform fpga implement protocol booster',179
+'secur plan extend version',179
+'sub oper new approach applic secur',179
+'disk respons time measur',179
+'implement ipsec',179
+'scalabl secur mechan internet',179
+'process migrat effect scientif comput',179
+'oper support protocol booster',179
+'protocol booster appli programm network infrastructur',179
+'function divis piglet multiprocessor oper',179
+'support continu media piglet os',179
+'asymo asymmetr multiprocessor oper',179
+'design implement experi omega end point architectur',179
+'qo negoti robot environ',179
+'integr multimedia architectur high speed network',179
+'applic driven approach network multimedia',179
+'qo broker',179
+'embed high speed atm unix ip',179
+'activ network progress report',179
+'3032',179
+'state cach ero kernel implement orthogon persist pure capabl',179
+'measur perform fast local ipc',179
+'cryptograph support gigabit network',179
+'activ interconnect let s have gut',179
+'activ network progress report',179
+'gigabit network',179
+'secur activ network environ architectur realiz switchwar',179
+'give applic access gb s network',179
+'guest editori',179
+'implement remot fork checkpoint restart',179
+'explor',179
+'measur respons time page size fetch network',179
+'interrupt',179
+'process migrat effect scientif comput',179
+'protect distribut share memori',179
+'pdi inform highwai',179
+'rapid locat mount point',179
+'softwar design laboratori',179
+'traffic characterist distribut memori',179
+'transpar concurr execut mutual exclus altern',179
+'high perform host interfac atm network',179
+'secur activ network',179
+'architectur alien',179
+'practic network applic lightweight activ manag environ',179
+'scalabl resourc control activ network',179
+'practic problem cryptograph protect scheme',179
+'design implement virtual privat servic',179
+'high perform host interfac atm network',179
+'hardwar softwar organ high perform atm host interfac',179
+'exploit parallel hardwar implement de',179
+'exploit parallel hardwar implement de',179
+'overview aurora gigabit testb',179
+'aurora gigabit testb',179
+'ero fast capabl',179
+'rapid locat mount point',179
+'state cach ero kernel',179
+'traffic characterist distribut memori',179
+'flexibl ip activ network architectur',179
+'fpga virus',179
+'implement distribut firewal',179
+'effect copi write memori manag respons time unix fork oper',179
+'explor multipl world parallel',179
+'transpar concurr execut mutual exclus altern',179
+'overview aurora gigabit testb',179
+'aurora gigabit testb',179
+'softwar design laboratori',179
+'design implement virtual privat servic',179
+'implement distribut firewal',179
+'scalabl resourc control activ network',179
+'secur flexibl global file share',179
+'secur activ network',179
+'activ bridg',179
+'new algorithm admiss control schedul support multimedia feedback remot control applic',179
+'servic kernel multimedia endstat',179
+'ero fast capabl',179
+'effect copi write memori manag respons time unix fork oper',179
+'pdi inform highwai',179
+'practic problem cryptograph protect scheme',179
+'relat base machin',180
+'larg scale knowledg',180
+'normal form abstract syntax',180
+'design rotat associ arrai memori relat databas manag applic',180
+'comment paper base design theori practic bo sundgren',180
+'principl databas conceptu design',180
+'base abstract',180
+'optim perform relat algebra base interfac abstract',180
+'optim perform relat algebra databas interfac',180
+'databas abstract aggreg',180
+'databas abstract aggreg gener',180
+'design rotat associ arrai memori relat databas manag applic',180
+'expert databas databas perspect',180
+'comment paper base design theori practic bo sundgren',180
+'comment paper softwar engin view base manag i wasserman softwar engin view base h weber',180
+'larg scale knowledg',180
+'conclud remark from databas perspect',180
+'probe knowledg orient databas manag',180
+'consist model discuss',180
+'abstract databas',180
+'on framework two flexibl abduct method problem space paradigm appli antibodi identif biopsi interpret',182
+'explor relationship between ration bound ration medic knowledg',182
+'guest editor s introduct',182
+'stratifi approach specifi design build knowledg',182
+'peirc tool experi abduct',182
+'design human center distribut inform',182
+'cope complex multipl solut problem case studi',182
+'catalog error',182
+'task structur analysi knowledg model',182
+'mdx relat medic decis make',182
+'task structur analysi knowledg model',182
+'tenth annual workshop artifici intellig medicin overview',182
+'differ methodolog perspect artifici intellig',182
+'intellig search full text databas',183
+'search improv via automat queri reformul',183
+'www hypertext research panel',183
+'tutori we experiment studi',183
+'comput gener protocol studi writer s plan strategi',183
+'write environ studi writer strategi',183
+'shakespear annot world bibliographi',183
+'comput finnish histor geograph method',183
+'distribut storag servic support group collabor',183
+'distribut graph storag artifact group collabor',183
+'tao subgraph model abc distribut graph storag',183
+'unc graph server distribut hypermedia manag',183
+'cognit basic comput write environ',183
+'overview architectur we',183
+'cognit basi comput write environ',183
+'cognit grammar write version',183
+'cognit mode strategi write',183
+'collect intellig comput collabor',183
+'collect intellig comput collabor introduct',183
+'comput critic',183
+'comput literari theori',183
+'comput studi human intellectu educ social implic',183
+'hypermedia vs paper user strategi brows sna materi',183
+'hypertext',183
+'microarra overview',183
+'imageri mind stephen dedalu',183
+'unc collaboratori project overview',183
+'we write environ profession',183
+'write think comput',183
+'interact home media privaci',183
+'rhythm speech formula structur four fundamentalist sermon',183
+'random access text associ text analysi',183
+'arra new environ literari analysi',183
+'arra user s manual',183
+'ratsal languag analysi eighti',183
+'rat middl level text util',183
+'lucubr specif natur languag analyz',183
+'strateg method write',183
+'themat structur complex',183
+'queri reformul strategi intellig search intermediari',183
+'autom protocol analysi',183
+'autom protocol analysi tool methodolog',183
+'toward marxist poetic',183
+'yet there is method it',183
+'overview architectur microarra',183
+'structur analysi cognit design analysi softwar',183
+'toward structur analysi environ cognit design',183
+'expert automat queri reformul',183
+'expert automat queri reform',183
+'intellig inform retriev introduct',183
+'comput gener analogu mental structur from languag',183
+'architectur artifact collabor matrix',183
+'architectur artifact collabor matrix',183
+'design theori case studi',183
+'king is dead long live king keynot',183
+'process discoveri hypertext scholarship',183
+'author s argument assist aaa hypertext author tool argument text',183
+'architectur implement distribut hypermedia storag',183
+'abc hypermedia artifact collabor',183
+'comput gener analogu mental structur from languag',183
+'design theori case studi',183
+'hypertext write environ it cognit basi',183
+'format text access randomli',183
+'hypertext write environ it cognit basi',183
+'microarra advanc full text retriev analysi',183
+'architectur artifact collabor matrix',183
+'format text access randomli',183
+'hypertext introduct special issu',183
+'formal topolog set first order formula',184
+'formal topolog set first order formula',184
+'nonconstruct type theori program deriv',184
+'interpret kleen s slash type theori logic environ',184
+'interpret martin lof s type theori type free theori proposit',184
+'proposit function famili type',184
+'interpret martin lof s type theori type free theori proposit',184
+'proposit type specif martin lof s type theori',184
+'identif proposit type martin lof s type theori',184
+'independ peano s fourth axiom from martin lof s type theori without univers',184
+'proposit function famili type',184
+'independ peano s fourth axiom from martin lof s type theori without univers',184
+'type theori program',184
+'kleen s slash exist valu open term type theori',184
+'strength subset type martin lof s type theori',184
+'kleen s slash exist valu open term type theori',184
+'applic construct complet',184
+'program deriv type theori partit problem',184
+'optim encod fragment type theori first order logic',184
+'strength subset type martin lof s type theori',184
+'type theoret semant declar languag',184
+'optim encod fragment type theori first order logic',184
+'optim encod fragment type theori first order logic',184
+'type theoret semant declar languag',184
+'applic construct complet',184
+'program deriv type theori partit problem',184
+'identif proposit type martin lof s type theori program exampl',184
+'proposit specif program martin lof type theori',184

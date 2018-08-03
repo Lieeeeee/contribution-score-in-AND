@@ -1,0 +1,25 @@
+@relation 'Dataset bdbcomp publish-venue_title msilva'
+@attribute Text string
+@attribute class-att {160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 157, 158, 159}
+@data
+'rede computador especificacao sistema supervisao gerencia equipamento comunicacao dado',157
+'geoinformatica visual geospati data compon plane u matrix',158
+'rede neurai semi automat geospati data cluster self organ map',158
+'banco dado past direct evalu dynam integr constraint tempor databas',159
+'inteligencia artifici system aid discoveri mechan knowledg gener',160
+'encontro nacion inteligencia artifici hybrid train morpholog neural network appli function approxim',160
+'banco dado optim rank calcul web search engin case studi',161
+'banco dado geograph knowledg base text process',161
+'internacion melhoria processo softwar implantacao melhoria processo engenharia requisito empresa formula informatica',162
+'geoinformatica spatial measur residenti segreg',163
+'inteligencia artifici skdql structur languag specifi knowledg discoveri process queri',163
+'rede neurai blind hybrid decis feedback equal',164
+'rede neurai estudo comparativo bag rede mlp treinamento multi objetivo',165
+'xxxii seminario integrado softwar hardwar par qo estrategia provimento computacao paralela ambient distribuido proposito geral',166
+'xxxii seminario integrado softwar hardwar rede fio metropolitana baseada padrao 802 estudo caso belem pa',167
+'rede computador mecanismo selecao dinamica canal rede ieee 802 infra estruturada',168
+'rede computador perform analysi messag orient middlewar us stochast petri net',169
+'latin american aspect orient softwar develop monitoramento baseado aspecto contrato eletronico',170
+'symposium microelectron technolog devic nano mechan properti silk low k dielectr materi',171
+'symposium microelectron technolog devic improv focus ion beam micro machin interconnect materi',171
+'symposium microelectron technolog devic radiat toler cmo ap arrai',172

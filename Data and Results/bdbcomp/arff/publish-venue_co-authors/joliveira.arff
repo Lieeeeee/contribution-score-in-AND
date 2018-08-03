@@ -1,0 +1,52 @@
+@relation 'Dataset bdbcomp publish-venue_co-authors joliveira'
+@attribute Text string
+@attribute class-att {83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104}
+@data
+'rede computador l lung j fraga j farines',83
+'computacao grafica processamento imagen m kapp c freitas j carvalho r sabourin',84
+'informatica educacao m souto r viccari',85
+'informatica educacao m souto r viccari e diehl m madeira r verdin r wainer s imoneengler',85
+'informatica educacao m souto f bica m warpechowski r vicari r zanella a sonntag',85
+'informatica educacao f bica m souto r vicari r zanella g vier k souza a sonntag r verdin m madeira s charczuk m barbosa',85
+'informatica educacao m souto m madeira r wainer r verdin r viccari',85
+'informatica educacao v freitas m camargo brunetto m proenca jr c ribeiro m warpechowski',85
+'escola region banco dado m warpechowski',85
+'informatica publica n edelweiss c ribeiro',85
+'informatica educacao d musa f bica r vicari',85
+'informatica educacao d musa',85
+'escola region banco dado m weschenfelder d musa',85
+'ifip academi state softwar theori practic phd colloquium d musa',85
+'biblioteca digitai r galante d musa n edelweiss',85
+'rede neurai m oliveira',86
+'biblioteca digitai d contessa d lazzarotto',87
+'revista informatica teorica aplicada l lamb',87
+'revista informatica teorica aplicada l lamb',87
+'revista informatica teorica aplicada l lamb',87
+'revista informatica teorica aplicada l lamb',87
+'revista informatica teorica aplicada l lamb',87
+'revista informatica teorica aplicada l lamb',87
+'revista informatica teorica aplicada l lamb',87
+'revista informatica teorica aplicada l lamb',87
+'revista informatica teorica aplicada l lamb',87
+'revista informatica teorica aplicada 10 l lamb',87
+'escola region banco dado s rigo m schwertner',87
+'informatica educacao c fernandes',88
+'internacion melhoria processo softwar r campelo',89
+'computacao grafica processamento imagen l figueiredo',90
+'computacao grafica processamento imagen h lopes l figueiredo',90
+'geoinformatica a silva b hall',91
+'engenharia softwar c medeiros',91
+'rede neurai m souto t ludermir',92
+'rede neurai nan',93
+'ifip academi state softwar theori practic phd colloquium nan',94
+'banco dado a laender m goncalves',95
+'revista informatica teorica aplicada nan',96
+'geoinformatica j santos l dutra',97
+'rede computador i cananea d mariz d sadok g fodor',98
+'informatica publica p pinheiro',99
+'journal comput scienc p carvalho d oliveira a guaracy a gomes f conceicao j freire',100
+'informatica publica c gomide',101
+'rede computador k sias d filho d sadok',102
+'engenharia softwar t brito s jr g elias',103
+'desenvolvimento distribuido softwar t brito a oliveira s jr g elias',103
+'symposium microelectron technolog devic n oki',104

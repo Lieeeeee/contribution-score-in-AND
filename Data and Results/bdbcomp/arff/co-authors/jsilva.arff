@@ -1,0 +1,39 @@
+@relation 'Dataset bdbcomp co-authors jsilva'
+@attribute Text string
+@attribute class-att {106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123}
+@data
+'c kirner',106
+'j bezerra f maciel r braquehais m fernandez j jr',107
+'e costa e ferneda',108
+'s labidi n costa e costa',108
+'b feijo',109
+'c avila l madeira',110
+'r orbolato v almeida',111
+'v almeida r orbolato',111
+'s junior a silva m ribeiro',111
+'c tozzi',112
+'p simoni k bharadwaj',113
+'p simoni',113
+'k bharadwaj',113
+'p simoni',113
+'k bharadwaj',113
+'f cunha c oliveira',113
+'l hoffmann a castro',113
+'e shiguemori h velho j carvalho',113
+'i tronto n santanna',113
+'r fidalgo v times f sousa r barros',114
+'r fidalgo v times f souza a salgado',114
+'v times r fidalgo r barros',114
+'v times a salgado r fidalgo',114
+'a vera a oliveira r fidalgo a salgado v times',114
+'r fonseca r fidalgo v times',114
+'r leao',115
+'s veloso',116
+'p abrahao v lima',117
+'p simoni',118
+'m campos p cunha',119
+'m campos p cunha j souza',119
+'n mendonca',120
+'f tonidandel t vaquero',121
+'h lieberman a carvalho v neris m godoi m tsutsumi j espinosa a neto s zem mascarenhas',122
+'l silveira',123

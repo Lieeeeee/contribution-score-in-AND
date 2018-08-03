@@ -1,0 +1,272 @@
+@relation 'Dataset kitsi publish-venue_title hwang'
+@attribute Text string
+@attribute class-att {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36}
+@data
+'sdm atla nativ extens sql data mine',1
+'kai catch moment maintain close frequent itemset data stream slide window',1
+'sigmod cluster pattern similar larg data set',1
+'tkde discov frequent close partial order string',1
+'icdm mine associ pattern structur larg relat tabl',1
+'dmkd databas system extens decis support axl approach',1
+'icd locat base spatial queri data share wireless broadcast environ',1
+'kdd pattern base similar search microarrai data',1
+'ijait improv biclust method analyz gene express profil',1
+'sigmod nativ extens sql mine data stream',1
+'icd comput compress multidimension skylin cube effici',1
+'sdm loadstar load shed scheme classifi data stream',1
+'cikm data stream languag system design power extens',1
+'icd index weight sequenc larg databas',1
+'icd sequenc tree structur xml index',1
+'icdc fulli distribut framework cost sensit data mine',1
+'icdm fast relev discoveri time seri',1
+'cikm compact reachabl label graph structur data',1
+'kdd suppress model overfit mine concept drift data stream',1
+'dasfaa stai current relev data mine research',1
+'edbt fast comput reachabl label larg graph',1
+'icdm loci load shed class preserv data acquisit',1
+'kdd mine concept drift data stream us ensembl classifi',1
+'pod find global iceberg distribut data set',1
+'icd gstring novel approach effici search graph databas',1
+'dmdw extend sql decis support applic',1
+'icd landmark new model similar base pattern queri time seri databas',1
+'sigmod xseq index infrastructur tree pattern queri',1
+'waim estim select xml path express predic histogram',1
+'sigmod blink rank keyword search graph',1
+'icd semant data manag toward queri data mean',1
+'icdm progress model',1
+'icd user defin aggreg object relat system',1
+'ssdbm fast algorithm subspac cluster pattern similar',1
+'icdm empir comparison variou reinforc learn strategi sequenti target market',1
+'dmkd user defin aggreg datamin',1
+'sdm near neighbor search pattern distanc space',1
+'icd optim timestamp manag data stream manag system',1
+'pkdd random method quantifi chang distribut data stream',1
+'sigmod vist dynam index method queri xml data tree structur',1
+'vldb queri languag data model databas sequenc data stream',1
+'sdm activ mine data stream',1
+'vldb loadstar load shed data stream mine',1
+'icdm farm framework explor mine space multipl attribut',1
+'deduct user defin aggreg logic data languag',1
+'icd adapt load diffus multiwai window stream join',1
+'aaai prune dynam schedul cost sensit ensembl',1
+'icdm mapl fast algorithm maxim pattern base cluster',1
+'vldb atla small complet sql extens data mine data stream',1
+'kai demand driven frequent itemset mine us pattern structur',1
+'icdm reduc classifi granular mine concept drift data stream',1
+'icdm user direct explor mine space multipl attribut',1
+'icdm balanc ensembl approach weight classifi text classif',1
+'icdm moment maintain close frequent itemset stream slide window',1
+'dbpl user defin aggreg databas languag',1
+'jsyml logic mani sort theori',2
+'jsyml new theori element number',2
+'jsyml axiomat arithmet',2
+'jacm word histori ture machin fix input',2
+'jacm variant ture s theori comput machin',2
+'jsyml note quin s principl quantif',2
+'jsyml formal mathemat',2
+'jsyml undecid sentenc gener semant paradox',2
+'jsyml set theoret basi real number',2
+'jsyml altern proof theorem kleen',2
+'jsyml certain predic defin induct schemata',2
+'jsyml formal system logic',2
+'jsyml exist class valu specif variabl',2
+'dicta fals peak avoid mean shift method unsupervis peak vallei slide imag segment',3
+'icpr effici visual track probabilist fusion multipl cue',3
+'pami robust adapt scale parametr model estim comput vision',3
+'eccv robust fit adapt scale residu consensu',3
+'pr consensu base method track model background scenario foreground appear',3
+'prl us symmetri robust model fit',3
+'eccv effect appear model similar measur particl filter visual track',3
+'icip track segment peopl occlus sampl consensu base method',3
+'dicta color imag segment us global inform local homogen',3
+'accv smooth foreground background segment video process',3
+'icpr background subtract base robust consensu method',3
+'ijcv mdpe robust estim model fit rang imag segment',3
+'accv novel robust statist method background initi visual surveil',3
+'icip gradient adapt imag restor enhanc',4
+'icpr compact represent multidimension data us tensor rank decomposit',4
+'icpr seamless video edit',4
+'tog core tensor approxim multi dimension matric visual data',4
+'iccv mutual inform regular bayesian framework multipl imag restor',4
+'cvpr rank r approxim tensor us imag matrix represent',4
+'iccv facial express decomposit',4
+'scp strider black box state base approach chang configur manag support',5
+'lisa strider black box state base approach chang configur manag support',5
+'imc passiv network tomographi us bayesian infer',6
+'infocom evalu scalabl applic level multicast built us peer peer overlai',6
+'icnp resili peer peer stream',6
+'ndss privaci preserv friend troubleshoot network',6
+'osdi automat misconfigur troubleshoot peerpressur',6
+'sigmod onlin aggreg',6
+'raid virtual playground worm behavior investig',6
+'infocom signal system us lightweight call session',6
+'imc find divers remot code inject exploit',6
+'sigmetr peerpressur automat troubleshoot',6
+'sigcomm shield vulner driven network filter prevent known vulner exploit',6
+'sp shieldgen automat data patch gener unknown vulner inform probe',6
+'wmcsa polici enabl handoff across heterogen wireless network',6
+'sp systemat approach uncov secur flaw gui logic',6
+'iptp support heterogen congest control peer peer multicast stream',6
+'iptp friend troubleshoot network toward privaci preserv automat troubleshoot',6
+'cc applic secur electron vote autom privaci preserv troubleshoot',6
+'osdi browsershield vulner driven filter dynam html',6
+'infocom server base infer internet link lossi',6
+'sp subvirt implement malwar virtual machin',6
+'nossdav distribut stream media content us cooper network',6
+'combinatorica vertex disjoint triangl claw free graph minimum degre least three',7
+'dm partit bipartit graph cycl',7
+'dm extens theorem cycl contain specifi independ edg',7
+'dm k1 k factor complet bipartit graph',7
+'arscom direct bipartit graph contain everi possibl pair direct cycl',7
+'dm exist two disjoint long cycl graph',7
+'gc independ cycl bipartit graph',7
+'jct maximum number independ cycl bipartit graph',7
+'dm cover vertic graph k disjoint cycl',7
+'dm partit direct bipartit graph two direct cycl',7
+'dm p2p factor complet bipartit graph',7
+'dm vertex disjoint hexagon chord bipartit graph',7
+'dm maximum number independ cycl graph',7
+'dm bipartit graph contain everi possibl pair cycl',7
+'dm tree contain larg induc subgraph degre mod k',7
+'dm vertex disjoint quadrilater graph',7
+'dm triangl claw free graph',7
+'siamdm cover bipartit graph cycl',7
+'arscom quadrilater cycl cover bipartit graph',7
+'dm quadrilater graph',7
+'ejc pack three copi tree complet graph',7
+'jgt disjoint direct quadrilater direct graph',7
+'combinatorica maxim total length k disjoint cycl bipartit graph',7
+'semweb debug owl dl ontolog heurist approach',8
+'www object z web environ project uml',8
+'icfem svg web environ z specif languag',8
+'icecc formal semant verif featur model',8
+'ansoft formal object approach design zml',8
+'icfem z approach semant web',8
+'fm check reason semant web alloi',8
+'www tcoz approach semant web servic design',8
+'seke tcoz approach owl s process model design',8
+'apsec xml xsl approach visual anim tcoz',8
+'fm semant web extend link formal',8
+'icfem xml base static type check dynam visual tcoz',8
+'icfem visual simul semant web servic ontolog',8
+'www combin approach check web ontolog',8
+'waim valid semistructur data us owl',8
+'seke reason support swrl fol us alloi',8
+'jod reason ora ss data model us semant web',8
+'compsac spatial data queri support peer peer system',9
+'dexa distribut continu rang queri process move object',9
+'gi adapt nearest neighbor queri travel time network',9
+'prl markov random field model rang imag segment',10
+'tec evolutionari optim markov random field prior',10
+'icip evolutionari gibb sampler imag segment',10
+'pr constrain nonlinear model fingerprint orient predict',10
+'rti real time 3d motion track known geometr model',10
+'icpr fingerprint index base symmetr measur',10
+'pr effici algorithm obtain algebra invari higher degre implicit polynomi recognit curv object',10
+'prl correct bia motion estim algorithm',10
+'robocup cooper base behavior design',10
+'prl analysi grai level corner detect',10
+'rti fast rel depth comput activ stereo vision system',10
+'icpr featur extract genet algorithm base nonlinear princip compon analysi face recognit',10
+'jci corner detect base find edg point local',10
+'prl corner detect base modifi hough transform',10
+'robocup multi platform soccer robot develop system',10
+'ictai discov gene specif local co regul us progress genet algorithm',11
+'cascon multi dimension histogram select estim fast approxim queri answer',11
+'icdm novel method detect outli subspac high dimension databas us genet algorithm',11
+'sigmetr solut properti converg approxim mean valu analysi algorithm',11
+'cpe experi improv approxim mean valu analysi algorithm',11
+'cascon bisimul analysi sdl express protocol case studi',11
+'vldb ho miner system detect outli subspac high dimension data',11
+'cascon util histogram inform',11
+'kai detect outli subspac high dimension data new task algorithm perform',11
+'dke conceptu construct incomplet survei data',11
+'ci grid odf detect outlier effect effici larg multi dimension databas',11
+'pe experi improv approxim mean valu analysi algorithm',11
+'kai knowledg discoveri self organ map data visual queri process',11
+'hicss collabor multi agent workflow manag',12
+'softwar explor altern requir analysi',12
+'tsmc agent base evolutionari approach interpret rule base knowledg extract',13
+'fss multi object hierarch genet algorithm interpret fuzzi rule base knowledg extract',13
+'gecco optim gaussian mixtur model paramet speaker identif',13
+'icip effect detect zero dct block h 264 optim',13
+'tcsv effici predict algorithm integ dct coeffici h 264 avc optim',13
+'icdm anomali intrus detect us multi object genet fuzzi system agent base evolutionari comput framework',13
+'esor model evalu surviv intrus toler databas system',14
+'dbsec toward databas firewal',14
+'isw evalu impact intrus detect defici cost effect attack recoveri',14
+'digitel idea storm cube game base system support creativ think',15
+'nan vibrant brainstorm agent comput support creativ problem solv',15
+'iwc web base tutor system style match strategi spatial geometr transform',15
+'icalt empir explor us wiki english second languag cours',15
+'icalt adapt present effect web base learn 3d content',15
+'icalt collabor support tool creativ learn idea storm cube',15
+'ijcai hybrid ontolog direct feedback select algorithm support creativ problem solv dialogu',15
+'si3d toward space time light field render',16
+'tog water drop surfac',16
+'tvcg space time light field render',16
+'ismir blind cluster popular music record base singer voic characterist',17
+'iral content base languag model spoken document retriev',17
+'air queri sing techniqu retriev polyphon object popular music',17
+'pcm comparison word subword index techniqu mandarin chines spoken document retriev',17
+'csl mandarin english inform mei investig translingu speech retriev',17
+'prl mandarin spoken document retriev base syllabl lattic match',17
+'icpr prototyp embed genet k mean algorithm',17
+'ijcpol content base languag model spoken document retriev',17
+'jasi spoken access approach chines text speech inform retriev',17
+'air music retriev system base queri sing karaok jukebox',17
+'ismir queri exampl techniqu retriev cover version popular song similar melodi',17
+'taslp automat singer recognit popular music record via estim model solo vocal signal',17
+'ismir toward automat identif sing languag popular music record',17
+'ijprai syllabl base chines text spoken document retriev us text speech queri',17
+'iscslp minimum boundari error framework automat phonet segment',17
+'iscslp extract chines spoken document summar us probabilist rank model',17
+'iscslp novel altern hypothesi character us kernel classifi llr base speaker verif',17
+'speech fluent speech prosodi framework model',17
+'ijcpol brows chines web page us mandarin speech',17
+'jcdl extract vocal relat inform facilit manag popular music collect',17
+'ispa workflow manag mechan peer peer comput platform',18
+'ieeemsp optim shape encod scheme us skeleton decomposit',19
+'icccn hybrid sourc channel code scheme object base wireless video commun',19
+'tip joint sourc channel code wireless object base video commun util data hide',19
+'ism cross layer design multimedia deliveri wireless network',19
+'tip effici rate distort optim shape code approach util skeleton base decomposit',19
+'icip object base video compress scheme optim bit alloc among shape motion textur',19
+'icip rate distort optim skeleton base shape code',19
+'accv histogram featur base fisher linear discrimin face detect',20
+'mirag object track particl filter us color inform',20
+'ibpria probabilist object track base machin learn import sampl',20
+'icapr propos novel histogram featur face detect',20
+'icip novel likelihood estim techniqu base boost detector',20
+'icnp stabl egress rout select interdomain traffic engin model analysi',21
+'infocom optim isp subscript internet multihom algorithm design implic analysi',21
+'icdcsw interdomain rout social choic',21
+'sigcomm cope traffic engin dynam network',21
+'icnp stabil ration heterogen interdomain rout select',21
+'jwsr web servic enabl market access control model',22
+'icw web servic enabl market access control emac',22
+'ecoopw busi object semant commun model distribut environ',23
+'apweb label scheme structur join graph structur xml data',24
+'asian practic index xml document twig queri',24
+'waim subgraph join effici process subgraph queri graph structur xml document',24
+'ic design next gener sampl servic larg scale data analysi applic',25
+'ipp servic orient framework next gener data analysi center',25
+'cn broadcast anti jam system',26
+'icmc constrain textur synthesi scalabl sub patch algorithm',27
+'iccad multi level logic optim fsm network',28
+'iccad input don t care sequenc fsm network',28
+'dac permiss observ relat fsm network',28
+'iciap kernel spectral correspond match us label consist constraint',29
+'icpr probabilist relax us heat equat',29
+'iciar graph spectral approach consist label',29
+'eswa web servic agent base decis support system secur except manag',30
+'hicss dynam suppli chain integr intellig agent',30
+'pricai agent web servic support busi except manag',30
+'kb design intellig workflow monitor agent technolog',30
+'hicss intellig agent support busi process manag',30
+'npc novel intrus detect method',31
+'tsmc pid control design output pdf stochast system us linear matrix inequ',32
+'itcc data hide techniqu print binari imag',33
+'dam binari tree largest number subtre',34
+'eswa web servic agent base famili wealth manag system',35
+'ccr secur multicast protocol copyright protect',36

@@ -1,0 +1,37 @@
+@relation 'Dataset bdbcomp publish-venue lsilva'
+@attribute Text string
+@attribute class-att {138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155}
+@data
+'rede computador',138
+'engenharia softwar',139
+'engenharia softwar',139
+'engenharia softwar',139
+'engenharia requisito',139
+'engenharia requisito',139
+'engenharia softwar',139
+'latin american aspect orient softwar develop',139
+'computacao grafica processamento imagen',140
+'computacao grafica processamento imagen',140
+'computacao grafica processamento imagen',141
+'computacao grafica processamento imagen',141
+'algoritmo mineracao dado',141
+'revista informatica teorica aplicada',141
+'seminario integrado softwar hardwar',142
+'linguagen programacao',143
+'xxxii seminario integrado softwar hardwar',143
+'rede neurai',144
+'encontro nacion inteligencia artifici',145
+'encontro nacion inteligencia artifici',146
+'xxx seminario integrado softwar hardwar',147
+'xxxi seminario integrado softwar hardwar',147
+'qualidad softwar',148
+'banco dado',149
+'informatica publica',149
+'symposium integr circuit system design',150
+'realidad virtual',151
+'engenharia requisito',152
+'informatica publica',152
+'geoinformatica',153
+'informatica publica',154
+'latin american aspect orient softwar develop',155
+'latin american aspect orient softwar develop',155

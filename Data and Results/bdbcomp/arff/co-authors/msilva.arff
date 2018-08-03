@@ -1,0 +1,25 @@
+@relation 'Dataset bdbcomp co-authors msilva'
+@attribute Text string
+@attribute class-att {160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 157, 158, 159}
+@data
+'b correa h thiago',157
+'a monteiro j medeiros',158
+'a monteiro j medeiros',158
+'m samso',159
+'e ferneda h silva',160
+'a coelho c lima f zuben',160
+'m costa',161
+'m chaves b martins',161
+'c silva o costa',162
+'f feitosa g camara a monteiro t koschitzki',163
+'j robin',163
+'m gerken m miranda',164
+'l pimenta a braga',165
+'r kawasaki l oliveira c frances d cardoso m teixeira j costa l augusto',166
+'j camara a abelem m stanton',167
+'j rezende',168
+'s fernandes w silva n rosa p maciel d sadok',169
+'i gimenes a garcia',170
+'j gonzalez l kuhn d griffis p russell',171
+'j gonzalez d griffis t miau p russell',171
+'v silva l dornelles p canazio f santos a mesquita',172

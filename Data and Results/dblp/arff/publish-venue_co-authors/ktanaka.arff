@@ -1,0 +1,284 @@
+@relation 'Dataset dblp publish-venue_co-authors ktanaka'
+@attribute Text string
+@attribute class-att {212, 213, 214, 215, 216, 217, 218, 219, 220, 221}
+@data
+'peer peer comput e shinohara h matsumura h sunaga m takemoto',212
+'lcn ieee local comput network c hong s honda t yoneda y matsushita',212
+'system comput k yoda k tajima',213
+'fodo foundat data organ algorithm m yoshikawa r hull',213
+'english tran ipsj m yoshikawa k ishihara',213
+'world wide web h schek m ozsu y zhang',213
+'proc rd int conf foundat data organ algorithm lectur note comput scienc springer verlag r hull m yoshikawa',213
+'tran ipsj y kambayashi k takeda s yajima',213
+'tran ipsj y kambayashi',213
+'springer verlag y kambayashi s yajima',213
+'tran iec e y kambayashi s yajima',213
+'proc th int conf system scienc u s y kambayashi k takeda s yajima',213
+'proc ieee rd int comput softwar applic conf y kambayashi s yajima',213
+'proc ieee rd int comput softwar applic conf y kambayashi s yajima',213
+'inform scienc elsevi scienc pub inc y kambayashi k takeda',213
+'int j cooper inf syst h kawagishi k koiso t matsumoto t mori',213
+'tran the institut system control inform engin s kitamura',213
+'academ press proc conf consecut retriev properti nan',213
+'proc the th ieee annual int comput softwar applic conf s kitamura s tsuji',213
+'springer verlag s ceri d tsur',213
+'proc int symp next gener databas system their applic nda fukuoka cpp s nishio',213
+'proc the jssst object orient comput workshop appear object orient comput i kindai kagakusha e oomoto',213
+'databas system next gener applic advanc databas research develop seri world scientif publish e oomoto',213
+'proc int symp databas system advanc applic dasfaa databas system advanc applic e oomoto',213
+'tran ipsj e oomoto',213
+'proc int symp advanc databas technolog thier integr adti nara japancpp s pradhan t jozen',213
+'proc int symp advanc databas technolog thier integr adti nara q qiang m tanizaki',213
+'proc th annual int comput softwar applic conf compsac intern comput softwar applic ieee comput societi press n sanada',213
+'system comput y sugiyama y kidawara',213
+'system comput k sumiya r noda',213
+'hypertext k tajima m kitagawa y mizuuchi',213
+'nan s nishio k kagakusha',213
+'inform process ipsj nan',213
+'inform process ipsj select ipsj th anniversari paper nan',213
+'proc int symp comput world nan',213
+'proc int symp interoper inform system intap tokyo nan',213
+'plenum press s ghosh y kambayashi',213
+'proc int symp comput world nan',213
+'int symp databas system advanc applic seoul korea nan',213
+'proc th int conf system scienc s yajima y kambayashi',213
+'dasfaa databas system advanc applic nan',213
+'acm tran databas system s ginsburg',213
+'vldb veri larg data base s yajima y kambayashi',213
+'proc the th ieee int conf data engin m yoshikawa k ishihara',213
+'proc int conf databas theori lectur note comput scienc springer verlag m yoshikawa',213
+'dexa databas expert system applic k zettsu y kidawara',213
+'amcp advanc multimedia content process k zettsu k uehara',213
+'dexa databas expert system applic k zettsu k uehara n kimura',213
+'proc int conf foundat data organ kyoto plenum press s ginsburg',213
+'theor comput sci s ginsburg',213
+'proc th int conf veri larg data base s ginsburg',213
+'dood deduct object orient databas c harris e saberdoti f bancilhon m kifer m brodie y masunaga',213
+'adbi advanc databas inform system dasfaa databas system advanc applic k harumoto k tajima m tsukamoto m arikawa s shimojo s nishio y ariki',213
+'dasfaa databas system advanc applic k hatano r sano y duan',213
+'dasfaa databas system advanc applic k hatano q qian',213
+'dasfaa databas system advanc applic t hirose t hata y nakanishi',213
+'fodo foundat data organ algorithm nan',213
+'er intern conceptu model entiti relationship approach t hirose y nakanishi',213
+'vdb visual databas system t hirose t hata',213
+'icd intern data engin k ishihara m yoshikawa',213
+'proc th int conf veri larg data base cann y kambayashi',213
+'inform system pergamon press y kambayashi s yajima',213
+'c nan',213
+'proc rd int conf veri larg data base tokyo y kambayashi s yajima',213
+'mfc mathemat foundat comput scienc y kambayashi',213
+'digit citi h kawagishi k koiso',213
+'coda second intern symposium cooper databas system advanc applic h kawagishi k koiso t matsumoto',213
+'icsc intern comput scienc confer h kiyomitsu',213
+'proc int conf databas expert system applic dexa springer verlag s kobayashi t sakanoue',213
+'dexa databas expert system applic workshop k koiso k kawakatsu t mori',213
+'dasfaa databas system advanc applic k koiso t matsumoto',213
+'ds discoveri scienc h kondo t matsukura y hirata',213
+'apweb c matsumoto m qiang',213
+'dexa databas expert system applic c matsumoto m qiang',213
+'ieee intern multimedia expo iii a nadamoto h kondo k sumiya m kusahara t hattori',213
+'www world wide web seri a nadamoto',213
+'dexa databas expert system applic a nadamoto k sumiya m shikata',213
+'dasfaa databas system advanc applic a nadamoto h kondo',213
+'dexa databas expert system applic a nadamoto h kondo',213
+'kyoto intern digit librari a nadamoto k koiso',213
+'hicss intern system scienc a nadamoto a iizawa k sumiya t hattori t hashimoto y shirota',213
+'icd intern data engin k nanba n nishikawa s hirayama',213
+'proc the th int conf data engin ieee comput societi n nishikawa s hirayama k nanba',213
+'dasfaa databas system advanc applic e ohmoto',213
+'dasfaa databas system advanc applic h oiso j morishita k ohtsuki q qian s ueshima',213
+'proc int symp databas system advanc applic dasfaa databas system advanc applic t chang',213
+'wwca worldwid comput it applic h oiso k tajima m kamiura',213
+'ieee tran knowledg data engin e oomoto',213
+'handbook multimedia inform manag e oomoto',213
+'futur databas q qian',213
+'proc st int conf deduct object orient databas dood elsevi scienc publish b v north t chang',213
+'dexa databas expert system applic m qiang s miyazaki',213
+'ijcai intern joint artifici intellig y shoham',213
+'wise web inform system engin k sumiya s oyama s nakajima',213
+'dexa databas expert system applic k sumiya r noda',213
+'new gener comput k tajima s pradhan t sogo',213
+'icmc intern multimedia comput system k tajima s pradhan',213
+'icsc intern comput scienc confer a doi k sumiya k uehara t kawaguchi',213
+'ieee tran knowl data eng k tajima s pradhan',213
+'vdb visual databas system k tajima s pradhan t sogo',213
+'dant deliveri advanc network technolog europ k tajima',213
+'coda second intern symposium cooper databas system advanc applic k tajima s pradhan',213
+'saint symposium applic the internet a takeuchi h kiyomitsu',213
+'dexa databas expert system applic k uehara y kidawara',213
+'mathemat studi inform process c viet s yajima y kambayashi',213
+'lectur note comput scienc springer verlag c viet y kambayashi s yajima',213
+'dant deliveri advanc network technolog europ t yabe',213
+'vdb visual databas system c yajima y nakanishi',213
+'data base design techniqu i s yajima y kambayashi',213
+'inf syst s yajima y kambayashi',213
+'dbsec k izaki m takizawa',214
+'icpp intern parallel process workshop h higaki m takizawa',214
+'icpp intern parallel process workshop h higaki m takizawa',214
+'icpp intern parallel process workshop h higaki m takizawa',214
+'icpp intern parallel process workshop h higaki m takizawa m katsumoto',214
+'isad intern symposium autonom decentr system m takizawa',214
+'isorc ieee intern symposium object orient real time distribut comput m takizawa',214
+'isorc ieee intern symposium object orient real time distribut comput m takizawa y timura',214
+'icdc intern distribut comput system workshop group commun comput h higaki m takizawa n nemoto',214
+'icdc intern distribut comput system workshop group commun comput k shimamura m takizawa',214
+'icdc intern distribut comput system workshop group commun comput m takizawa y timura',214
+'dexa databas expert system applic workshop m takizawa',214
+'icpad intern parallel distribut system k izaki m takizawa',214
+'icpad intern parallel distribut system m takizawa',214
+'icpad intern parallel distribut system m takizawa',214
+'icpad intern parallel distribut system m takizawa',214
+'icpad intern parallel distribut system k arai m takizawa',214
+'icpad intern parallel distribut system m takizawa m yokoyama',214
+'icpad intern parallel distribut system m takizawa y timura',214
+'doa intern symposium distribut object applic m takizawa',214
+'doa intern symposium distribut object applic h higaki m takizawa',214
+'doa intern symposium distribut object applic h higaki m takizawa',214
+'dexa databas expert system applic workshop h higaki m takizawa',214
+'inf sci m takizawa n nemoto',214
+'dexa databas expert system applic k izaki m takizawa',214
+'dexa databas expert system applic h higaki m takizawa',214
+'dexa databas expert system applic m takizawa',214
+'dexa databas expert system applic m takizawa',214
+'dexa databas expert system applic m takizawa n nemoto',214
+'dexa databas expert system applic h higaki m takizawa',214
+'icra intern robot autom m mitsuishi t nagao y yokokohji',214
+'dexa databas expert system applic workshop m takizawa m yokoyama',214
+'icoin intern inform network k izaki m takizawa',214
+'icoin intern inform network m takizawa',214
+'icoin intern inform network k arai m takizawa',214
+'icoin intern inform network k shimamura m takizawa',214
+'icoin intern inform network m takizawa y timura',214
+'inform control m mizumoto',215
+'inform control m mizumoto',215
+'j comput syst sci j toyoda t tsuji',215
+'j comput syst sci j toyoda m mizumoto',215
+'vldb veri larg data base m mizumoto m umano',215
+'j comput syst sci j toyoda m mizumoto',215
+'j comput syst sci j toyoda m mizumoto y ezawa',215
+'ann pure appl logic nan',216
+'notr dame journal formal logic m kikuchi',216
+'journal the physic societi t morita',216
+'physica t morita',216
+'journal the korean physic societi supplementari issu proceed workshop statist physic s s korea univers krea t morita',216
+'journal the physic societi t morita',216
+'physic letter t morita',216
+'physic letter see also physic letter p t morita',216
+'molecular physic t morita k hiroike',216
+'physica y murai t morita',216
+'journal the physic societi t horiguchi t morita',216
+'progress theoret physic supplement t horiguchi t morita',216
+'inform scienc postscript compress postscript n hoshi t horiguchi',216
+'proceed confer mareri mechan superconduct high temperatur superconductor iv mm htsc iv h ebisawa t morita',216
+'physic letter t morita',216
+'ieic transact d ii j d ii japanes translat system comput english d furusato t horiguchi',216
+'edit m suzuki n kawashima world scientif publish copor press proceed intern symposium cofer approach fluctuat kyoto t morita',216
+'progress theoret physic t morita k hiroike',216
+'ann pure appl logic nan',216
+'progress theoret physic supplement t morita k hiroike',216
+'physic letter t horiguchi t morita',216
+'physica t horiguchi t morita',216
+'journal the physic societi t morita',216
+'ieic transact j japanes translat electron commun part fundament electron scienc english t horiguchi',216
+'neural network signal process xiii proceed the ieee signal process societi workshop toulous paper postscript present slide powerpoint j inoue d titterington',216
+'ieic transact d ii j d ii japanes nan',216
+'ieic transact inform system e d j inoue',216
+'transact japanes societi artifici intellig nan',216
+'ieic transact j japanes nan',216
+'physic review b y honda t horiguchi',216
+'theori applic the cluster variat path probabl method ed j l mor l opez j m sanchez plenum press new proceed the intern workshop theori applic the cluster variat path probabl method teotihuacan t morita',216
+'journal the physic societi y takane h ebisawa t morita',216
+'journal the korean physic societi supplementari issu proceed workshop statist physic s s korea univers krea t morita',216
+'proceed intern workshop soft comput industri muroran institut technolog press muroran nan',216
+'y suzuki s ovaska t furuhashi r y dote ed soft comput industri applic springer verlag press london proceed th line world soft comput industri applic nan',216
+'journal physic mathemat gener j inoue d titterington',216
+'ieic transact inform system e d nan',216
+'interdisciplinari inform scienc postscript t horiguchi',216
+'physic review e articl postscript t horiguchi',216
+'physica t morita k hiroike',216
+'journal the physic societi t horiguchi t morita',216
+'transact japanes societi artifici intellig nan',216
+'proceed the th intern pattern recognit ii track b pattern recognit signal analysi ieee comput societi press lo alamo carifornia file m ichioka t morita',216
+'proceed intern workshop soft comput industori muroran institut technolog press muroran t morita',216
+'ieic transact j japanes t morita',216
+'ieic transact j japanes m ichioka t morita',216
+'progress theoret physic t morita',216
+'journal the physic societi t morita',216
+'progress theoret physic t morita',216
+'progress thoeret physic t morita',216
+'proceed xx intern low temperatur physic univers y takane h ebisawa t morita',216
+'journal the physic societi t horiguchi t morita',216
+'ieic transact j japanes translat electron commun part fundament electron scienc english nan',216
+'ieic transact d ii j d ii be translat system comput nan',216
+'j symb log t yamazaki',216
+'proceed the ieee signal process societi workshop j inoue',216
+'physic review e articl postscript j inoue',216
+'journal physic mathemat gener j inoue',216
+'pattern recognit letter t morita',216
+'math log q nan',216
+'ann pure appl logic n shioji',216
+'ann pure appl logic s simpson t yamazaki',216
+'new gener comput nan',217
+'nan t nishino',217
+'ieic transact inform system e d t nishino',217
+'ieic transact inform system e d t nishino',217
+'symposium oper research jena m okada m vlach',217
+'ieic transact fundament electron commun comput scienc k omura',217
+'isaac th annual intern symposium algorithm comput kyoto s sung',217
+'dmtc cat discret mathemat theoret comput scienc and th australasian theori symposium page auckland new zealand s sung',217
+'intern symposium mathemat program lausann m vlach',217
+'annal oper research m vlach',217
+'inform system oper research m vlach',217
+'proceed the second intern symposium oper research it applic page guilin m vlach',217
+'proceed the th intern fuzzi system associ world congress volum page pragu czech m vlach',217
+'symposium combinatori optim london m vlach',217
+'intern optim optim control lambrecht m vlach',217
+'ieic transact fundament electron commun comput scienc e m vlach',217
+'proceed the second intern symposium oper research it applic page guilin m vlach',217
+'pkc th intern workshop practic theori public kei cryptographi r hayashi t tatsuaki',217
+'wisict winter intern symposium inform commun technolog cancun t isshiki',217
+'ieic transact fundament electron commun comput scienc t isshiki',217
+'inform process letter t nishino r beals',217
+'stoc acm symposium theori comput t nishino',217
+'advanc cryptolog crypto lectur note comput scienc page santa barbara t okamoto s uchiyama',217
+'erato workshop quantum inform scienc tokyo poster session refere t okamoto s uchiyama',217
+'inf process lett s sung',217
+'proceed the th annual acm symposium theori comput page la vega r beals t nishino',217
+'inform process letter s sung',217
+'crypto intern crytolog s uchiyama t okamoto',217
+'inf process lett r beals t nishino',217
+'siam societi industri appli mathemat journal comput r beals t nishino',217
+'proceed the th intern symposium algorithm comput lectur note comput scienc page osaka m halldorsson',217
+'isaac intern symposium algorithm comput m halldorsson',217
+'ieic tran fundament e e aguirre t sugimura',218
+'proc technolog strategi protect intellectu properti network multimedia environ e matsui',218
+'ieic tran fundament e e takano t sugimura',218
+'ieic tran inform system e d e takano t sugimura',218
+'ieic tran j d ii japanes e tanigaki t sugimura s kondo',218
+'ieic tran fundament e e umemura h aguirre',218
+'ieic tran fundament e e yano',218
+'lectur note comput scienc springer e aguirre',218
+'ip sj journal e aguirre t sugimura',218
+'ieic tran fundament e e aguirre s oshita',218
+'ieic tran fundament e e aguirre t sugimura s oshita',218
+'evoworkshop h aguirre',218
+'emo evolutionari multi criterion optim h aguirre s oshita t sugimura',218
+'ppsn parallel problem solv from natur h aguirre',218
+'gecco genet evolutionari comput k ichikawa k fukami k hiroshima m ichikawa s kondo s tanabe',218
+'gecco genet evolutionari comput e myodo h aguirre',218
+'lectur note comput scienc springer e aguirre t sugimura s oshita',218
+'lectur note comput scienc springer e aguirre',218
+'gecco genet evolutionari comput h aguirre t sugimura',218
+'system comput a yokota h taki n abe y watanabe y kinoshita',219
+'system comput j zheng n abe t ohtsuka',219
+'icra intern robot autom h taki n abe',219
+'ichim intern hypermedia interact museum a yokota h taki n abe y watanabe y kinoshita',219
+'ismi intern syposium methodolog intellig system h taki n abe',219
+'journal chemic inform comput scienc h abe m sasaki s sasaki t yamasaki y kudo',220
+'ecai european artifici intellig k kubota',220
+'ictai intern tool artifici intellig nan',220
+'fuzz ieee h wang t hori',220
+'inf sci d niemann h wang j li',220
+'uist user interfac softwar technolog s hudson',221
+'acm symposium user interfac softwar technolog j heiner s hudson',221
+'acm symposium user interfac softwar technolog j heiner s hudson',221
